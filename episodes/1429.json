@@ -4,6 +4,7 @@
     "name": "Sezon 1",
     "episode_count": 25,
     "air_date": "2013-04-07",
+    "poster_path": "/gC78bsXhdU2PwT3FkLcn8R5YcHb.jpg",
     "episodes": [
       {
         "episode_number": 1,
@@ -212,6 +213,7 @@
     "name": "Sezon 2",
     "episode_count": 12,
     "air_date": "2017-04-01",
+    "poster_path": "/2fhK0wbFixskgRyuq6YvaMn75et.jpg",
     "episodes": [
       {
         "episode_number": 1,
@@ -316,6 +318,7 @@
     "name": "Sezon 3",
     "episode_count": 22,
     "air_date": "2018-07-23",
+    "poster_path": "/2F3sYFneiKcrwboD0bOqb29cGET.jpg",
     "episodes": [
       {
         "episode_number": 1,
@@ -500,6 +503,7 @@
     "name": "Sezon 4",
     "episode_count": 30,
     "air_date": "2020-12-07",
+    "poster_path": "/iUsrnXfubNwhM8FRNEmzXmLfxB2.jpg",
     "episodes": [
       {
         "episode_number": 1,
