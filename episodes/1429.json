@@ -1,0 +1,746 @@
+{
+  "season_1": {
+    "season_number": 1,
+    "name": "Sezon 1",
+    "episode_count": 25,
+    "air_date": "2013-04-07",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "name": "2000 Yılda Sizlere: Shiganshina'nın Düşüşü (1)",
+        "overview": "Yüz yıllık barışın ardından insanlığa birdenbire Titanların insafına kalmanın dehşeti hatırlatılır.",
+        "air_date": "2013-04-07",
+        "still_path": "/4Ucsb3p1dedDCjcFtnY25txxRpA.jpg",
+        "video_url": "4299606"
+      },
+      {
+        "episode_number": 2,
+        "name": "O Gün: Shiganshina'nın Düşüşü (2)",
+        "overview": "Titanlar duvarı kırdıktan sonra Shiganshina vatandaşları canlarını kurtarmak için kaçmak zorunda kalır. Ancak güvenli bir yere varabilenleri zorlu bir hayat beklemektedir.",
+        "air_date": "2013-04-14",
+        "still_path": "/3l0CkbEdnBeYvpEm9nSVIQXs237.jpg",
+        "video_url": "4299613"
+      },
+      {
+        "episode_number": 3,
+        "name": "Umutsuzluğun Ortasında Loş Bir Işık: İnsanlığın Geri Dönüşü (1)",
+        "overview": "Eren, Harbiyeli Birliği'nde eğitimine başlar, ancak acı dolu geçmişiyle ilgili sorular onu bunaltmaktadır. Bir manevra egzersizi yapmakta zorlandığında Bertolt ve Reiner nazik tavsiyelerde bulunur.",
+        "air_date": "2013-04-21",
+        "still_path": "/vcjknjNEJ827dTL9PBebjp49q5Y.jpg",
+        "video_url": "4299419"
+      },
+      {
+        "episode_number": 4,
+        "name": "Kapanış Töreni Gecesi: İnsanlığın Geri Dönüşü (2)",
+        "overview": "İki yıl geçiyor ve acemilerin mezuniyet zamanı yaklaşıyor. Annie, bir idman seansında yeteneğini kanıtlar, Jean, Kral'ın yanında hizmet etmenin hayalini kurar ve mezuniyet günü, eski bir düşmanın aniden ortaya çıkmasının yanı sıra şok edici gerçekleri de beraberinde getirir.",
+        "air_date": "2013-04-28",
+        "still_path": "/jsrRlhhfWbpMgqCHjgGUNamPbnC.jpg",
+        "video_url": "4299421"
+      },
+      {
+        "episode_number": 5,
+        "name": "İlk Savaş: Trost Mücadelesi (1)",
+        "overview": "Duvar'ın yıkılmasının üzerinden beş yıl geçmiştir Maria ve Eren, birdenbire yeniden ortaya çıkan ve Rose Duvarı'nın kapısında stratejik bir delik açan Devasa Titan'la karşı karşıya gelir. Titanlar şehre akın ederken, yeni mezun olan Harbiyeliler kayıpsız olmayacak acımasız bir savaşa çağrılır.",
+        "air_date": "2013-05-05",
+        "still_path": "/o1HKzfQjNqJHKuGuTwA3nbX1leU.jpg",
+        "video_url": "4299622"
+      },
+      {
+        "episode_number": 6,
+        "name": "Kızın Gördüğü Dünya: Trost Mücadelesi (2)",
+        "overview": "Armin, Titanların ekibini katletmesinin ardından dostlarının ve müttefiklerinin kaybıyla baş etmeye çalışır. Şehrin başka yerlerinde Mikasa, birkaç canavarı ortadan kaldırmayı başarır ve bu da geçmişine ve Eren'le ilk tanıştığı zamana dair trajik anıları canlandırır.",
+        "air_date": "2013-05-12",
+        "still_path": "/m7Yzfqhvv3SAwiLwI0iWtj8px9v.jpg",
+        "video_url": "4299424"
+      },
+      {
+        "episode_number": 7,
+        "name": "Küçük Bıçak: Trost Mücadelesi (3)",
+        "overview": "Geri çekilme zili çaldıktan sonra birçok öğrenci kendilerini duvarı tekrar güvenli bir yere ölçeklendirmeye yetecek kadar yakıttan yoksun buluyor. Mikasa, Armin'in ekibindeki ölümleri duyunca umudunu kaybetmeye başlar, ancak yeni bir Titan türünün ortaya çıkması onun savaşma isteğini artırır.",
+        "air_date": "2013-05-19",
+        "still_path": "/z2QHfSCLIO7PuVnI8hcVUAGgaJl.jpg",
+        "video_url": "4299426"
+      },
+      {
+        "episode_number": 8,
+        "name": "Onun Kalp Atışını Duyabiliyorum: Trost Mücadelesi (4)",
+        "overview": "Armin, terk edilmiş öğrenciler karargahlarını geri almaya çalışırken Titan'ı Titan'a karşı karşıya getiren riskli bir plan yapar. Binaya girmek mümkün olabilir, ancak canlı çıkıp yakıt ikmali yapmak daha fazla devle yüzleşmek anlamına gelecektir.",
+        "air_date": "2013-05-26",
+        "still_path": "/poMQWaWoIHm6sbV1kLZhpFWNWsp.jpg",
+        "video_url": "4299428"
+      },
+      {
+        "episode_number": 9,
+        "name": "Sol Kolunun Nerede Olduğu: Trost Mücadelesi (5)",
+        "overview": "Mucizevi bir dönüş öfke ve korkuyla karşılanır. Bir Titan'ın göbeğinde başına neler geldiğini ve nasıl insanlığın düşmanı haline geldiğini hatırlamaya çalışan Eren, topları hedef alıyor. Önemli olan tek soru: Eren insan mı yoksa Titan mı?",
+        "air_date": "2013-06-02",
+        "still_path": "/wnZ2XNmROpeYIdNVnQ7zz1Gsx5M.jpg",
+        "video_url": "4299431"
+      },
+      {
+        "episode_number": 10,
+        "name": "Cevap: Trost Mücadelesi (6)",
+        "overview": "Öğrenciler, Eren'in yaşadığı dehşet verici dönüşümü şüphe ve korkuyla karşılarken, kendisi de bunu anlamaya çalışmaktadır. Armin, komutanı Eren'in yeni keşfettiği güçlerini insanlığın iyiliği için kullanmaya ikna edemezse Titanları durdurma umutları kaybolabilir.",
+        "air_date": "2013-06-09",
+        "still_path": "/iM0ZnpWE0pzZdNh2dDF5f0O6jK1.jpg",
+        "video_url": "4299434"
+      },
+      {
+        "episode_number": 11,
+        "name": "Idol: Trost Mücadelesi (7)",
+        "overview": "Trost'u geri almak amacıyla duvardaki deliği kapatmak için Eren'in Titan güçlerini kullanma planları yapılır. Ancak hükümetin kanlı tarihi ve askeri saflardaki muhalif muhalifler göz önüne alındığında, insanlığa yönelik en büyük tehdit Titanlar olmayabilir.",
+        "air_date": "2013-06-16",
+        "still_path": "/4Y8Xl6JQBUyYWd5hNWbgxlvB2yL.jpg",
+        "video_url": "4299439"
+      },
+      {
+        "episode_number": 12,
+        "name": "Yara: Trost Mücadelesi (8)",
+        "overview": "Trost'u geri alma planı, Eren'in yeni keşfettiği güçlerin onu akılsız bir deve dönüştürmesiyle suya düşer. Titanlar şehri istila etmeye devam ederken, görev sırasında katledilen öğrencilerin boşuna ölmediğinden emin olmak Armin ve Mikasa'ya kalır.",
+        "air_date": "2013-06-23",
+        "still_path": "/cBtdJdd921et4kxndc3neeCjKja.jpg",
+        "video_url": "4299444"
+      },
+      {
+        "episode_number": 13,
+        "name": "İlkel Arzu: Trost İçin Mücadele (9)",
+        "overview": "Jean, kırılan Manevra Donanımını değiştirmek için çaresizce önlemler alır. Bu arada Eren, öğrenci arkadaşlarının yardımıyla duvardaki deliği kapatmayı başarır ancak insanlığın Titanlara karşı kazanacağı ilk zaferin maliyeti çok büyük olacaktır.",
+        "air_date": "2013-06-30",
+        "still_path": "/29704CwCHFPQvbjFJJmhMM6m0uG.jpg",
+        "video_url": "4299628"
+      },
+      {
+        "episode_number": 14,
+        "name": "Henüz Gözlerine Bakamıyorum: Karşı Saldırının Arifesi (1)",
+        "overview": "Eren'in kaderini özel bir askeri mahkeme belirleyecek. Askeri Polis onun idam edilmesi çağrısında bulunurken Keşif Birliği onun insanlık için güçlü bir kaynak olduğunu savunur ve Mikasa, Trost misyonundaki olaylar sorulduğunda olay yerine getirilir.",
+        "air_date": "2013-07-14",
+        "still_path": "/i5LwCRuHRuQxPVJPbOAIIkRKiQo.jpg",
+        "video_url": "4299445"
+      },
+      {
+        "episode_number": 15,
+        "name": "Özel Harekat Ekibi: Karşı Saldırının Arifesi (2)",
+        "overview": "Keşif Birliği, Eren'i eğitimine devam edeceği eski, terk edilmiş bir kaleye götürür. Hange ziyarete gelir ve ele geçirilen iki Titan'ı bir dizi test ve denemeden geçirdiğini açıklar; bu deneylerde Eren'in yardımını ister.",
+        "air_date": "2013-07-21",
+        "still_path": "/zoXVaoSqxlXpUoq5g5opNCTGUSB.jpg",
+        "video_url": "4299447"
+      },
+      {
+        "episode_number": 16,
+        "name": "Şimdi Yapılması Gereken: Karşı Saldırı Arifesi (3)",
+        "overview": "Test konusu iki Titan'ı kimin öldürdüğünü bulmaya yönelik soruşturmada herkes şüphelidir. Bu arada öğrenciler hangi askeri şubeye katılacaklarını seçerler, ancak Trost saldırısındaki üzücü olaylardan sonra çoğu kişi hangi şubeyi seçeceğinden emin değildir.",
+        "air_date": "2013-07-28",
+        "still_path": "/imyHAoRf7yeVMal0UCvmSQulovr.jpg",
+        "video_url": "4299448"
+      },
+      {
+        "episode_number": 17,
+        "name": "Dişi Titan: 57. Dış Keşif Görevi (1)",
+        "overview": "Keşif Birliği Shiganshina'ya doğru ilerlemeye başladığında, daha önce gördüklerine benzemeyen zeki bir Dişi Titan ile karşılaşırlar. Armin, Titan'a dönüşen kişinin gerçekten bir insan olduğunu varsaydığında o, Jean ve Reiner bunu durdurmaya çalışır.",
+        "air_date": "2013-08-04",
+        "still_path": "/hERw24rvwwyIhvBCnmX6VMLSJxq.jpg",
+        "video_url": "4299636"
+      },
+      {
+        "episode_number": 18,
+        "name": "Dev Ağaçlar Ormanı: 57. Dış Keşif Görevi (2)",
+        "overview": "Dişi Titan, Keşif Birliği'ne doğru ilerlemeye devam ederken Levi cesur bir karar vererek safları böler ve Eren ile erzak vagonlarını devasa bir ormana gönderir. Stratejisi dahiyane mi, yoksa izciler için kesin bir ölüm anlamına mı geliyor?",
+        "air_date": "2013-08-11",
+        "still_path": "/qytiWM8NAn3EzdLaoigJTJgLuD5.jpg",
+        "video_url": "4299646"
+      },
+      {
+        "episode_number": 19,
+        "name": "Bite: 57. Dış Keşif Görevi (3)",
+        "overview": "Dişi Titan hâlâ Levi'nin ekibinin peşindeyken Eren, kendisini Titan formuna dönüştürmeyi düşünür, ancak Levi ona ya bir canavar olmayı ya da Keşif Birliği'nin bir üyesi olmayı seçmesini söyler. Eren ekipten öğrendiklerini hatırladıkça, onları bağlayan şeyin paylaştığı tehlike ve fedakarlığın değil, güven olduğunu fark eder. Artık kime güveneceğine karar vermek Eren'e kalmıştır.",
+        "air_date": "2013-08-18",
+        "still_path": "/1Uxxm7lpMdHOQ8ebTdfCGQYBL5d.jpg",
+        "video_url": "4299655"
+      },
+      {
+        "episode_number": 20,
+        "name": "Erwin Smith: 57. Dış Keşif Misyonu (4)",
+        "overview": "Levi's ekibinin yardımıyla Recon Corps, Dişi Titan'ı başarıyla ele geçirdi. Komutan Erwin ve Yüzbaşı Levi, Titan'ın içinde kim varsa onu çıkarmak için hazırlıklara başlarken, Keşif Birliği onun gerçek kimliğini keşfedebilecek mi, yoksa Dişi Titan'ın son bir numarası mı var?",
+        "air_date": "2013-08-25",
+        "still_path": "/k5CjtyUxdfhlzyFhF4isJoY0855.jpg",
+        "video_url": "4299662"
+      },
+      {
+        "episode_number": 21,
+        "name": "Ezici Darbe: 57. Dış Cephe Keşif Görevi (5)",
+        "overview": "Dişi Titan'ın içindeki kişi, son bir çaresizlik eyleminin ardından Keşif Birliği'nden kaçtı ve insan formuna geri döndü. Artık Keşif Birliği'nin bir üyesi kılığına giren ve Manevra Teçhizatı ile donatılmış olan bu ekip, sonunda avları olan Levi's ekibini yakalarlar.",
+        "air_date": "2013-09-01",
+        "still_path": "/eN3cAd2hKITV7ZswnTjqHFMkVnV.jpg",
+        "video_url": "4299668"
+      },
+      {
+        "episode_number": 22,
+        "name": "Yenilenler: 57. Dış Keşif Misyonu (6)",
+        "overview": "Dişi Titan, Eren'i Titan bedeninden çıkardıktan sonra yakalar ama Mikasa ve Kaptan Levi peşine düşer. Başka bir yerde Keşif Birliği, çok sayıda ölüyle birlikte eve, Duvar'a dönüş yolculuğu için hazırlıklara başlıyor.",
+        "air_date": "2013-09-08",
+        "still_path": "/zvgLwsXPh2WMAfIQOyFhNUAhyx0.jpg",
+        "video_url": "4299678"
+      },
+      {
+        "episode_number": 23,
+        "name": "Gülümseme: Stohess'e Saldırı (1)",
+        "overview": "57. Seferin feci sonuçlarının ardından Eren, askeri mahkeme için Kral'ın sarayına getirilecektir. Eren'i kesin bir idamdan kurtarmak için çaresiz kalan Armin, kaçış planına yardımcı olması için eski bir arkadaşından yardım ister.",
+        "air_date": "2013-09-15",
+        "still_path": "/8M1VyncRhIXYn112ietpj3p33cb.jpg",
+        "video_url": "4299452"
+      },
+      {
+        "episode_number": 24,
+        "name": "Mercy: Stohess'e Saldırı (2)",
+        "overview": "Dişi Titan'ın kimliğinin ortaya çıkmasıyla Eren'in onunla savaşma konusunda çekinceleri vardır. Mikasa, Armin ve Keşif Birliği'nin geri kalanı, Eren'e duygularıyla yüzleşmesi için zaman kazandıracak kadar dikkatini dağıtmayı umarak Dişi Titan'la savaşmaya çalışır.",
+        "air_date": "2013-09-22",
+        "still_path": "/36TL36zTiN4GnYuBgqCPfHjsrWE.jpg",
+        "video_url": "4299455"
+      },
+      {
+        "episode_number": 25,
+        "name": "Duvar: Stohess'e Saldırı (3)",
+        "overview": "Her bir Titan'ı öldürme vaadi ile teşvik edilen Eren, Dişi Titan'la olan mücadelesinde Titan formunun tüm gücünü açığa çıkarır. Kanlı savaşları sona yaklaşırken, insanlığın sonunda hayatta kalma şansı olabileceği görülüyor. Ancak pek çok gizem hâlâ çözülmemişken Eren, Mikasa ve Armin'i neler bekleyecek?",
+        "air_date": "2013-09-29",
+        "still_path": "/2euk86Y2huYGUHuuAAczyLydNWE.jpg",
+        "video_url": "4299459"
+      }
+    ]
+  },
+  "season_2": {
+    "season_number": 2,
+    "name": "Sezon 2",
+    "episode_count": 12,
+    "air_date": "2017-04-01",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "name": "Canavar Titanı",
+        "overview": "Ordunun önceki bir olayı örtbas etmesiyle birlikte, Duvarlar'ın içindeki şok edici keşif bir kargaşaya neden olur. Başka bir yerde, yeni İzci acemileri gözlem altında tutulurken, şaşırtıcı bir tehdit ortaya çıkar.",
+        "air_date": "2017-04-01",
+        "still_path": "/2HUVf98JazA7bTmzk2Ngu0wneNd.jpg",
+        "video_url": "4299960"
+      },
+      {
+        "episode_number": 2,
+        "name": "Evdeyim",
+        "overview": "Duvar Rose'da Titanların ortaya çıkmasıyla birlikte, Sasha ve Connie, köylerini yaklaşan tehdit konusunda uyarmak için haberci olarak yola çıkarlar.",
+        "air_date": "2017-04-08",
+        "still_path": "/hnkDhj5YUwqKxWuRviT874dRY0r.jpg",
+        "video_url": "4299938"
+      },
+      {
+        "episode_number": 3,
+        "name": "Güneybatıya doğru",
+        "overview": "İzciler duvarda bir delik ararken Eren ve diğerleri, yakınlarından birinin tüm cevapları sakladığını öğrenir.",
+        "air_date": "2017-04-15",
+        "still_path": "/darYJHQto349CxkYZmLPxWobnhK.jpg",
+        "video_url": "4299941"
+      },
+      {
+        "episode_number": 4,
+        "name": "Asker",
+        "overview": "Kaleye yapılan Titan saldırısı karşısında silahsız ve bunalmış olan İzciler için tek umut bir vaat ve bir sır olabilir.",
+        "air_date": "2017-04-22",
+        "still_path": "/ykAYnzBvVkFlb4uik0jb50HeHh9.jpg",
+        "video_url": "4299943"
+      },
+      {
+        "episode_number": 5,
+        "name": "Tarih",
+        "overview": "Ymir, Titanlarla umutsuzca savaşırken Utgard Kalesi yıkılıyor. Şimdi Christa, uzun zaman önce kış eğitiminde verdikleri sözü yerine getirmek zorunda.",
+        "air_date": "2017-04-29",
+        "still_path": "/ixW3tXUUK4RrEzFhWhLU0NVI0zn.jpg",
+        "video_url": "4299961"
+      },
+      {
+        "episode_number": 6,
+        "name": "Savaşçı",
+        "overview": "Savaşın ardından İzciler duvarın tepesinde yeniden toplandıklarında cevaplardan çok sorularla karşılaşırlar.",
+        "air_date": "2017-05-06",
+        "still_path": "/mGsGFFdkjXeLikNShJfBu81NVlD.jpg",
+        "video_url": "4299946"
+      },
+      {
+        "episode_number": 7,
+        "name": "Yakın dövüş",
+        "overview": "Yeni bir düşmanın ortaya çıkmasıyla Eren ve İzciler, ellerindeki tüm teknikleri kullanarak karşılık verir.",
+        "air_date": "2017-05-13",
+        "still_path": "/6iTiWI5zmMjnHwGQ4iHkL5sWN9T.jpg",
+        "video_url": "4299962"
+      },
+      {
+        "episode_number": 8,
+        "name": "Avcılar",
+        "overview": "Titanları takip etmenin bir yolu olmadığından, İzcilerin takviye beklerken iyileşmekten başka seçeneği yok. Peki hâlâ Eren'e güveniyorlar mı?",
+        "air_date": "2017-05-20",
+        "still_path": "/mmmmxLuvyyApMqEECpjGFcqdxTC.jpg",
+        "video_url": "4299947"
+      },
+      {
+        "episode_number": 9,
+        "name": "Açılış",
+        "overview": "İzciler toplanıp peşine düşer, ancak grup akşam karanlığına kadar dev ormanda sıkışıp kalırken Reiner pek kendinde değildir.",
+        "air_date": "2017-05-27",
+        "still_path": "/nk5iqPfIUXRTRWu5Ty9t7JN5yR.jpg",
+        "video_url": "4299949"
+      },
+      {
+        "episode_number": 10,
+        "name": "Çocuklar",
+        "overview": "Grup nihayet kaçtığında Ymir, değer verdiği kişilerin hayatlarını ve geleceklerini mahvetmek anlamına gelse bile yalan mı söylemesi yoksa kendine sadık mı kalması gerektiğini merak eder.",
+        "air_date": "2017-06-03",
+        "still_path": "/mXvMLRj2rlYdoOSoVe5oHZz7faZ.jpg",
+        "video_url": "4299963"
+      },
+      {
+        "episode_number": 11,
+        "name": "Şarj",
+        "overview": "Takip, Keşif Birliği'nin Eren'e doğru savaşmasıyla başlar. Ancak İzciler çok sayıda kayıp vermeye başlayınca Erwin riskli bir strateji uygulamaya başlar.",
+        "air_date": "2017-06-10",
+        "still_path": "/bjeTC8ZHnb0Fsz4PiaCcIdbSSbn.jpg",
+        "video_url": "4299964"
+      },
+      {
+        "episode_number": 12,
+        "name": "Bağırmak",
+        "overview": "Eren ve İzciler birçok zor kararla karşı karşıya kalırken savaş devam ediyor. Gerçek düşman kim? Savaş gerçekte ne hakkında? Ve insanlık için gelecek ne olacak?",
+        "air_date": "2017-06-17",
+        "still_path": "/3wjYUJLyYK16Qm70IonUAaroCde.jpg",
+        "video_url": "4299965"
+      }
+    ]
+  },
+  "season_3": {
+    "season_number": 3,
+    "name": "Sezon 3",
+    "episode_count": 22,
+    "air_date": "2018-07-23",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "name": "Duman sinyali",
+        "overview": "Eren'in iyileşmesinden zar zor kurtulduktan sonra, gölgelerden yükselen bir tehdit herkesin hayatını tekrar tehlikeye atar.",
+        "air_date": "2018-07-23",
+        "still_path": "/g5gdbz4MUxHYAakgFeHfAOQMIvs.jpg",
+        "video_url": "4300474"
+      },
+      {
+        "episode_number": 2,
+        "name": "Ağrı",
+        "overview": "İzciler yeni bir düşmana karşı tavır alır ama artık savaşacakları yalnızca Titanlar değildir.",
+        "air_date": "2018-07-30",
+        "still_path": "/5qFlHCtb82MWuMf72NgXltjnq96.jpg",
+        "video_url": "4300478"
+      },
+      {
+        "episode_number": 3,
+        "name": "Eski hikaye",
+        "overview": "Historia ve Erwin geçmişlerine dönüp baktıklarında, gizli bir gündemi ve bir ayaklanma ilhamı olan şaibeli bir hükümeti ortaya çıkarırlar.",
+        "air_date": "2018-08-06",
+        "still_path": "/w6dI9fRyRXtvpvLSjGGGJ8VRaSt.jpg",
+        "video_url": "4300480"
+      },
+      {
+        "episode_number": 4,
+        "name": "Güven",
+        "overview": "Kaçan ve zamanları tükenen İzciler, hayatta kalmayı planlıyorlarsa hayatlarını başkalarına emanet etmek zorundadır.",
+        "air_date": "2018-08-13",
+        "still_path": "/lfC5qqu0X1UwqbpCC8bql0y9xem.jpg",
+        "video_url": "4300487"
+      },
+      {
+        "episode_number": 5,
+        "name": "Cevap vermek",
+        "overview": "Erwin, İzcilerin bağışlanması için davasını savunur, ancak öngörülemeyen bir duyuru, insanlığın kaderini riske atar.",
+        "air_date": "2018-08-20",
+        "still_path": "/eE4eWhCOs6ADgqF2q7oStg7i50Q.jpg",
+        "video_url": "4300492"
+      },
+      {
+        "episode_number": 6,
+        "name": "Günah",
+        "overview": "Geçmişteki günahlar yeni gerçekleri ortaya çıkarırken, her iki taraf da süreleri dolmadan yaklaşan hesaplaşmaya hazırlanıyor.",
+        "air_date": "2018-08-27",
+        "still_path": "/hvpRsObceOJgbCXhcnK8rf0HVk.jpg",
+        "video_url": "4300494"
+      },
+      {
+        "episode_number": 7,
+        "name": "Dilek",
+        "overview": "Ritüeli engellemek için savaş patlak verirken Historia, felakete yol açacak şok edici bir karar verir.",
+        "air_date": "2018-09-03",
+        "still_path": "/yzRT9uzwBRO5Npio8yaAaZeClI1.jpg",
+        "video_url": "4300542"
+      },
+      {
+        "episode_number": 8,
+        "name": "Orvud Bölgesi Surlarının Dışında",
+        "overview": "Her şey altüst olduğunda Eren, arkadaşlarını kurtarmak için kendine inanmak zorundadır. Ancak Eren tek başına yaklaşan kıyameti durdurmaya yetmeyebilir.",
+        "air_date": "2018-09-10",
+        "still_path": "/8Gm8GDMPsviXQJRzunQTTWlXnw1.jpg",
+        "video_url": "4300543"
+      },
+      {
+        "episode_number": 9,
+        "name": "Duvarların Hükümdarı",
+        "overview": "Araştırma ekibi ve duvar garnizonu, Orvud Bölgesi'ni Rod Reiss'in titanının yaklaşan saldırısından korumalıdır.",
+        "air_date": "2018-09-17",
+        "still_path": "/a5HryZioGnROWRyona6uSjZQyq5.jpg",
+        "video_url": "4300545"
+      },
+      {
+        "episode_number": 10,
+        "name": "Arkadaşlar",
+        "overview": "Kenny, kendisini ölümün eşiğine getiren hayatı hatırlıyor ancak yaşayıp yaşamayacağına karar vermesi gerekiyor.",
+        "air_date": "2018-09-24",
+        "still_path": "/oIqiOCiui0wBkGImdxma4XfWsnJ.jpg",
+        "video_url": "4300498"
+      },
+      {
+        "episode_number": 11,
+        "name": "Seyirci",
+        "overview": "Babasının anılarına göz atan Eren, babasının sırlarına ışık tutabileceklerini umarak bir adamın izini sürmeye çalışır.",
+        "air_date": "2018-10-08",
+        "still_path": "/qeISjI2nxqaaUvf4LcW9rlExGcY.jpg",
+        "video_url": "4300503"
+      },
+      {
+        "episode_number": 12,
+        "name": "Duvarı Geri Almak İçin Savaş Gecesi",
+        "overview": "İzciler, bodrumda saklı olanı kesin olarak ortaya çıkarmak için Duvar Maria'yı geri almak üzere yola çıkmadan önce enerjik bir ziyafet için bir araya gelir.",
+        "air_date": "2018-10-15",
+        "still_path": "/88MIIgipuAsNL9jLKk9sK8YrqxS.jpg",
+        "video_url": "4300507"
+      },
+      {
+        "episode_number": 13,
+        "name": "Her Şeyin Başladığı Kasaba",
+        "overview": "Her şeyin başladığı kasaba olan Shiganshina'da Wall Maria'yı geri alma operasyonu başlıyor. Ancak İzciler geldiğinde bir şeyler çok ters gidiyor gibi görünüyor.",
+        "air_date": "2019-04-29",
+        "still_path": "/n5IBwDe5auoOFw0B0Lw3iwxec5.jpg",
+        "video_url": "4300973"
+      },
+      {
+        "episode_number": 14,
+        "name": "Gök Gürültüsü Mızrakları",
+        "overview": "İzciler, akın eden düşmanlara karşı atlarını savunmaya çalışır. Ancak tuzağa düşmelerine rağmen Zırhlı Titan'a bir sürprizleri vardır.",
+        "air_date": "2019-05-06",
+        "still_path": "/2XX3Oq8VLE2khmISIvOtJgCOL19.jpg",
+        "video_url": "4300982"
+      },
+      {
+        "episode_number": 15,
+        "name": "İniş",
+        "overview": "Thunder Spears'ın etkili olduğu kanıtlansa da, Shiganshina'nın üzerine felaket çöktüğü için İzcilerin kutlamaları kısa ömürlü olur.",
+        "air_date": "2019-05-13",
+        "still_path": "/9SLwCEPccFQaQabdoxDmjSIdDWU.jpg",
+        "video_url": "4300987"
+      },
+      {
+        "episode_number": 16,
+        "name": "Mükemmel Oyun",
+        "overview": "Çatışmanın bir cephesi alevlerle kaplanırken, diğer cephesi kayalarla darp ediliyor. Çıkış yolu olmadığından İzciler savaşmak ya da bunu yaparken ölmek zorunda kalıyor.",
+        "air_date": "2019-05-20",
+        "still_path": "/7ZrwZho2ovVaNpXp8Q4zz43eZuQ.jpg",
+        "video_url": "4300994"
+      },
+      {
+        "episode_number": 17,
+        "name": "Kahraman",
+        "overview": "Erwin'in kahramanca hamlesi Levi'ye Canavar Titan'la yüzleşmek için zaman kazandırırken, Armin her şeyi ortaya koyan kendi planını yapar.",
+        "air_date": "2019-05-27",
+        "still_path": "/osjtJwgfHr66m65Hnmb9qVqVn5s.jpg",
+        "video_url": "4301002"
+      },
+      {
+        "episode_number": 18,
+        "name": "Gece yarısı güneşi",
+        "overview": "Pahalı savaşın parçalarını toplarken, yaralı İzcilerden hangisinin tek şırıngayı kullanacağına karar verirken gerilim artıyor.",
+        "air_date": "2019-06-03",
+        "still_path": "/1IofclJNwYSb0hmDuv46s9XYdhZ.jpg",
+        "video_url": "4300956"
+      },
+      {
+        "episode_number": 19,
+        "name": "Bodrum",
+        "overview": "İzciler görevlerinde kazandıkları ve kaybettikleri her şeyi düşünürler. Düşmanları gittikten sonra Eren ve İzciler, her şeyi değiştirecek gerçeği ortaya çıkarmak için nihayet bodruma girerler.",
+        "air_date": "2019-06-10",
+        "still_path": "/6JT83J6bV4W4Yi9B1v1lrYsfMHy.jpg",
+        "video_url": "4300958"
+      },
+      {
+        "episode_number": 20,
+        "name": "O gün",
+        "overview": "Grisha'nın anılarına bakıldığında Eren'e, annesinin ölümüne yol açan sır da dahil olmak üzere babasının sakladığı pek çok sır gösterilir.",
+        "air_date": "2019-06-17",
+        "still_path": "/xEA1HweL2Qmnm2D0hVZMHSxZ8my.jpg",
+        "video_url": "4300960"
+      },
+      {
+        "episode_number": 21,
+        "name": "Saldırı Titanı",
+        "overview": "Eren, Titan güçleri, babası ve kendisi hakkındaki gerçeği öğrenir. Survey Corps, Eldia'nın geleceğini tüm yeni bilgilerle tartışan bir toplantı düzenliyor.",
+        "air_date": "2019-06-24",
+        "still_path": "/s35qsjN0VzQCectjnG5f4SJEdtP.jpg",
+        "video_url": "4300961"
+      },
+      {
+        "episode_number": 22,
+        "name": "Duvarın Diğer Tarafı",
+        "overview": "Umut ve umutsuzlukla karşılansa da gerçekler kamuoyuna açıklanıyor. İzciler daha sonra hayal ettikleri şeyin bu olup olmadığını görmek için duvarların ötesine geçerler.",
+        "air_date": "2019-07-01",
+        "still_path": "/yZpVxNd54ZhssthJ1b6Wp8eKGtg.jpg",
+        "video_url": "4301008"
+      }
+    ]
+  },
+  "season_4": {
+    "season_number": 4,
+    "name": "Sezon 4",
+    "episode_count": 30,
+    "air_date": "2020-12-07",
+    "episodes": [
+      {
+        "episode_number": 1,
+        "name": "Denizin Diğer Yakası",
+        "overview": "Marley, dört yıllık bir savaşı sona erdirmek için Orta Doğu İttifakı'yla savaşırken, ön saflardaki bir grup Savaşçı adayı Zırhlı Titan'ın halefi olmak için yarışıyor.",
+        "air_date": "2020-12-07",
+        "still_path": "/nZJKdntlDRrlUkneD5CHbbOzLnh.jpg",
+        "video_url": "4772524"
+      },
+      {
+        "episode_number": 2,
+        "name": "Gece yarısı treni",
+        "overview": "Savaşın bittiğine sevinmelerine rağmen hem Eldian Warriors hem de Marley üst düzey yöneticileri, Kurucu Titan'ı geri alma işini bitirmedikçe ikisinin de bir geleceği olmayacağının farkındadır.",
+        "air_date": "2020-12-14",
+        "still_path": "/aV2M59hZVguSbVTj7WkVx1icFxl.jpg",
+        "video_url": "4583093"
+      },
+      {
+        "episode_number": 3,
+        "name": "Umut Kapısı",
+        "overview": "Reiner geçmişi üzerine düşünüyor ve onu bir Savaşçı olmaya iten şeyin ne olduğunu hatırlıyor ve tüm umutları kaybolduğunda ilerlemeye devam ediyor.",
+        "air_date": "2020-12-21",
+        "still_path": "/bvpdW7h2pqpYZ4IisPq082TGdhe.jpg",
+        "video_url": "4182754"
+      },
+      {
+        "episode_number": 4,
+        "name": "Bir Elden Diğerine",
+        "overview": "Tybur ailesinin ani ziyareti Marleyan ordusunu sarsar. Bu sırada Falco, bir arkadaşına mektupları kaçırır ve iki eski yoldaşın yeniden bir araya gelmesine yardım eder.",
+        "air_date": "2020-12-28",
+        "still_path": "/9S4W9H69wM3YQv6ebH9iSFVqrmF.jpg",
+        "video_url": "4196066"
+      },
+      {
+        "episode_number": 5,
+        "name": "Savaş ilanı",
+        "overview": "Willy Tybur tüm dünyaya şok edici bir konuşma yaparak gerçekleri açıklarken, Eren ve Reiner'ın karşı karşıya gelmesiyle sahne arkasında gerilim yükselir.",
+        "air_date": "2021-01-11",
+        "still_path": "/3NvjAokXE2GPJjTCU4LQBQLCtgJ.jpg",
+        "video_url": "4769525"
+      },
+      {
+        "episode_number": 6,
+        "name": "Savaş Çekici Titan",
+        "overview": "Eren'in öfkesi, azmi onu şaşkına çeviren Savaş Çekici Titan tarafından engellenir. Marley'nin ordusunun savaşa katılmasıyla tek başına hayatta kalmakta zorlanacak.",
+        "air_date": "2021-01-18",
+        "still_path": "/fYwa43vhmIEhTrrrNUJ13LA8YsG.jpg",
+        "video_url": "4769589"
+      },
+      {
+        "episode_number": 7,
+        "name": "Saldırı",
+        "overview": "Paradis güçleri saldırıya başlar, ancak Savaşçılar yerlerini korurlar. Marley birlikleri etraflarını sararken, Eren Savaş Çekici'nin savunmasını kırmak için mücadele eder.",
+        "air_date": "2021-01-25",
+        "still_path": "/lOpfkdvM9resozZWLczbHeldRFu.jpg",
+        "video_url": "4219821"
+      },
+      {
+        "episode_number": 8,
+        "name": "Suikastçının Mermisi",
+        "overview": "Kaçmalarını tehdit edecek Titan kalmadığından İzciler zeplinle geri çekilir. Evini ayaklar altına almanın bedelini onlara ödetmeye kararlı olan Gabi, elinde silahla peşine düşer.",
+        "air_date": "2021-02-01",
+        "still_path": "/2vpDtLZnQLSiwBko8xbAMDTqvDX.jpg",
+        "video_url": "4223599"
+      },
+      {
+        "episode_number": 9,
+        "name": "Cesur Gönüllüler",
+        "overview": "Paradis, Liberio'ya yapılan baskının ardından yaşananlarla uğraşırken Armin, geçmişe dönüp dünyalarını yeniden şekillendiren gönüllü askerlerle tanışmayı düşünür.",
+        "air_date": "2021-02-08",
+        "still_path": "/aq8oMwYb3zewlbeb1uh53pf6IOy.jpg",
+        "video_url": "4227890"
+      },
+      {
+        "episode_number": 10,
+        "name": "Sağlam Bir Argüman",
+        "overview": "İki yıl önce Paradis, kendilerinden birini gördüğüne şaşıran ilk ziyaretçisini karşıladı. Paradis'i korumaya yönelik üç bölümlü bir planda onların yardımını almak kritik öneme sahip olacak.",
+        "air_date": "2021-02-15",
+        "still_path": "/so6rHSKqbB4epZ8gH2fchb3J4hP.jpg",
+        "video_url": "4233256"
+      },
+      {
+        "episode_number": 11,
+        "name": "Aldatıcı",
+        "overview": "Dünyanın en tehlikeli adasında mahsur kalan Falco ve Gabi hayatta kalmak için her şeyi yapar. Başka yerlerde halk, Paradis'in kurtarıcısının tutuklandığını öğrenince yanıt ister.",
+        "air_date": "2021-02-22",
+        "still_path": "/jNEVJnPbVhyEbj6qhrhrs7ET5to.jpg",
+        "video_url": "4242268"
+      },
+      {
+        "episode_number": 12,
+        "name": "Kılavuzlar",
+        "overview": "Hange ve Pixis, Zeke'nin gerçek niyetini bir araya getirirken Armin ve Mikasa, Eren'le konuşmak için izin isterken Karargah'ın dışında gerilim yükselir.",
+        "air_date": "2021-03-01",
+        "still_path": "/nWvTq9rmoJZpzXes9c7n5CO8MDB.jpg",
+        "video_url": "4249311"
+      },
+      {
+        "episode_number": 13,
+        "name": "Ormanın Çocukları",
+        "overview": "Gabi ve Falco, Savaşçı adaylarını görünce şaşıran bir Marleyan arkadaşını arar. Ragako'da yaşananların gerçeği Zeke'nin gizli planlarına ışık tutabilir.",
+        "air_date": "2021-03-08",
+        "still_path": "/jf9CWoPAFpqyWIyrP3hUSvh2Nwt.jpg",
+        "video_url": "4257522"
+      },
+      {
+        "episode_number": 14,
+        "name": "Vahşet",
+        "overview": "Armin ve Mikasa, Eren'le konuşur ama söyledikleri karşısında şaşkına dönerler. Levi, ormanda Canavar Titan'ı yeni birine beslemeyi düşünür ancak Zeke'in aklında başka planlar vardır.",
+        "air_date": "2021-03-22",
+        "still_path": "/ynZdYzOR8bEvL3l6l21mHIxOH1Z.jpg",
+        "video_url": "4266454"
+      },
+      {
+        "episode_number": 15,
+        "name": "Tek Kurtuluş",
+        "overview": "Zeke'nin geçmişine bakıldığında onun Savaşçı olma mücadelesi görülür. Tüm Eldialıların acılarına son verme planları, gençliğinde tesadüfen kurduğu bir dostluktan kaynaklanıyor.",
+        "air_date": "2021-03-22",
+        "still_path": "/4NKaIWiO8y5M33cKIOe70qxjpKV.jpg",
+        "video_url": "4267045"
+      },
+      {
+        "episode_number": 16,
+        "name": "Üstte ve Altta",
+        "overview": "Artık Yeageristlerin iş başında olmasıyla Zeke'nin büyük planı ortaya çıkar. Ancak harekete geçmeden önce Eren, aralarındaki işgalcileri temizlemeye yardım ediyor.",
+        "air_date": "2021-03-29",
+        "still_path": "/gQVZn0xNidTHT09I52guW0ycidb.jpg",
+        "video_url": "4282659"
+      },
+      {
+        "episode_number": 17,
+        "name": "Yargı",
+        "overview": "Marley'nin sürpriz saldırısına hazırlıksız yakalanan Eren, Titanlarını tek başına savuşturur. Yukarıda savaş tüm hızıyla devam ederken İzciler, Eren'in yeraltı zindanlarındaki amaçlarını düşünür.",
+        "air_date": "2022-01-10",
+        "still_path": "/y1VwSzUJGCmzfWURHZStOIgcFAM.jpg",
+        "video_url": "4571096"
+      },
+      {
+        "episode_number": 18,
+        "name": "Yılan saldırısı",
+        "overview": "Canavar Titan mücadeleye katılır ancak General Magath onu alt etmeye kararlıdır. Bu sırada şehir alevler içindeyken Colt ve Gabi, Yeageristler tarafından esir tutulan Falco'yu kurtarmak için acele eder.",
+        "air_date": "2022-01-17",
+        "still_path": "/8qkQjcBcOtoIYMJbVzVEhRHtl6z.jpg",
+        "video_url": "4579262"
+      },
+      {
+        "episode_number": 19,
+        "name": "İki erkek kardeş",
+        "overview": "Colt, Zeke'e çığlığını kullanmaması ve Falco'yu bir Titan'a dönüştürmemesi için yalvarır. Eren, kardeşiyle iletişim kurmaya çalışırken askerler ve Titanlar savaş halindedir.",
+        "air_date": "2022-01-24",
+        "still_path": "/ekhIMVPtO6odrrqvHm4v70VNtLm.jpg",
+        "video_url": "4586350"
+      },
+      {
+        "episode_number": 20,
+        "name": "Geleceğin Anıları",
+        "overview": "Zeke, Eren'e Grisha'nın anılarını gezdirerek beyninin nasıl yıkandığını ona gösterir. Ancak bunu yaparken Zeke, Eren hakkında hiç bilmediği bir şeyi keşfeder.",
+        "air_date": "2022-01-31",
+        "still_path": "/ik9o9quol2hWCLwOkylTn7maPxq.jpg",
+        "video_url": "4592884"
+      },
+      {
+        "episode_number": 21,
+        "name": "Senden, 2000 Yıl Önce",
+        "overview": "Kurucu Ymir 2000 yıldır kraliyet kanı taşıyanların kölesi olarak bekliyordu. Ancak Eren'in özgürlük özlemi ona işleri sarsabilecek bir seçenek sunar.",
+        "air_date": "2022-02-07",
+        "still_path": "/wx9cXG2vvP5uby7mIZfdy1KelKj.jpg",
+        "video_url": "4598267"
+      },
+      {
+        "episode_number": 22,
+        "name": "Çözülme",
+        "overview": "Adada hiçbir duvar kalmamış ve Shiganshina Titanlarla dolu olduğundan, İzciler eski yoldaşlarıyla savaşmak zorundadır. Bütün bunların ortasında Gabi, ne pahasına olursa olsun Falco'yu bulup kurtarmaya kararlıdır.",
+        "air_date": "2022-02-14",
+        "still_path": "/aD0tJhJ4EGMGianyzuuiQz2nZY0.jpg",
+        "video_url": "4605405"
+      },
+      {
+        "episode_number": 23,
+        "name": "Gün batımı",
+        "overview": "Bütün sertleşme sona erdiğinde gurultu harekete geçer ama bu aynı zamanda Annie'yi de özgür kılar. Jaegeristler adanın kontrolünü ele geçirirken Conny, Falco'yu Titan annesine yedirmek için Ragako'ya doğru koşar.",
+        "air_date": "2022-02-21",
+        "still_path": "/28kjpqi1IqlmaDbouHTLwfzVL2h.jpg",
+        "video_url": "4612484"
+      },
+      {
+        "episode_number": 24,
+        "name": "Gurur",
+        "overview": "Ragako'ya ulaşan Conny, Falco'yu annesi tarafından yenmesi için kandırmak için bir plan yapar. Başka bir yerde Eldian İmparatorluğu'nun kahramanı Jean, Yelena ve Onyankopon'u insanlığa karşı işledikleri suçlardan dolayı idam edecek.",
+        "air_date": "2022-02-27",
+        "still_path": "/atKHPrLW5RRG1dUrahRrTXjJVAr.jpg",
+        "video_url": "4620840"
+      },
+      {
+        "episode_number": 25,
+        "name": "Sonun Gecesi",
+        "overview": "Ormanın derinliklerinde, başıboş Marley'lilerden ve ada kaçaklarından oluşan beklenmedik bir güruh, nefretlerini bir kenara bırakıp birbirlerini öldürmeden kamp ateşi etrafında konuşmaya çalışır.",
+        "air_date": "2022-03-07",
+        "still_path": "/sWZ592AiNnXTDaw8uIxz7ya7MOp.jpg",
+        "video_url": "4632412"
+      },
+      {
+        "episode_number": 26,
+        "name": "Hain",
+        "overview": "Azumabito'nun uçan teknesi Jaegeristlerle dolu bir liman tarafından korunmaktadır, ancak İzciler eski arkadaşlarını öldürmek konusunda isteksizdir. Kan dökülmesini önlemek istiyorlarsa, planlarının ters gitmesine izin veremezler.",
+        "air_date": "2022-03-14",
+        "still_path": "/xUcJ93Tt5RHjdFPeXBKDEH3J7U1.jpg",
+        "video_url": "4636672"
+      },
+      {
+        "episode_number": 27,
+        "name": "Retrospektif",
+        "overview": "Uçan teknenin havalanması için tamircilerin yarım güne ihtiyacı var. Jaegerist takviye kuvvetleri yoldayken asla bu kadar uzun süre dayanamayacaklarını bilen mürettebat, planlarını değiştirmek zorunda kalır.",
+        "air_date": "2022-03-21",
+        "still_path": "/z1ymXAlYjYeTfsFvOAveVdSBeqQ.jpg",
+        "video_url": "4727380"
+      },
+      {
+        "episode_number": 28,
+        "name": "İnsanlığın Şafağı",
+        "overview": "Her şeyin nerede başladığına bakılmaksızın Eren, Scout'ların Marleyan anakarasına ilk ziyareti sırasında kendi yıkım yoluna girer ve Mikasa'yı her şeyin farklı olup olamayacağını merak etmeye bırakır.",
+        "air_date": "2022-04-04",
+        "still_path": "/eu8TEJlYFWIWpPHyYw61JMMyPAB.jpg",
+        "video_url": "4659914"
+      },
+      {
+        "episode_number": 29,
+        "name": "The Final Chapters Special (1)",
+        "overview": "Gürleme ilerledikçe, İzci Alayı'nın geri kalan üyeleri, Marleyan ve Azumabito müttefikleriyle birlikte Eren'e yetişmek ve dünyanın geri kalanı Duvar Titanlarının ayakları altında ezilmeden önce gürlemeyi durdurmak için zamana karşı yarışır.",
+        "air_date": "2023-03-04",
+        "still_path": "/hRZSovr3ncFrWx2R6IoB7odjwF2.jpg",
+        "video_url": "5193397"
+      },
+      {
+        "episode_number": 30,
+        "name": "The Final Chapters Special (2)",
+        "overview": "Eren, Kurucu Titan olarak sayısız diğer Titanlarla birlikte Salta Kalesi'ne doğru ilerliyor. Umutsuzluğun eşiğinde olan mültecilerin karşısına Mikasa, Armin, Jean, Conny, Reiner, Pieck ve gürültüden kıl payı kurtulan Levi çıkar. Eski yoldaşlar ve çocukluk arkadaşlarının Eren'le olan mücadelesi burada sona erer.",
+        "air_date": "2023-11-05",
+        "still_path": "/2xCuZJR97k6HKBKsCgfKdH2WCRs.jpg",
+        "video_url": "5410486"
+      }
+    ]
+  }
+}
