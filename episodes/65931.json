@@ -1,0 +1,491 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 60,
+        "air_date": "2016-04-07",
+        "poster_path": "/6AQmGhkYwAqW2OevjXbsh7tZnNO.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Şans Tahmin Edilemez ve Değişkendir",
+                "overview": "Yetimhanesinden kovulan Nakajima Atsushi, açlık tehlikesiyle Yokohama sokaklarında dolaşıyor. Yaşamaya kararlı olan, boğulmakta olan bir yabancıyla tesadüfen karşılaşması kaderini değiştirir...",
+                "air_date": "2016-04-07",
+                "still_path": "/eCpIa4RJErtQ5xFtFXo9OwpA6ww.jpg",
+                "video_url": "4514446"
+            },
+            {
+                "episode_number": 2,
+                "name": "Belli Bir Bomba",
+                "overview": "Silahlı Dedektiflik Bürosu'na katılmasına rağmen Nakajima'nın herhangi bir işe yarayacağına dair inancı yoktur. Tam ajansa veda etmek üzereyken, bir bombacı ajans çalışanlarından birini rehin alarak ajansı ele geçirir...!",
+                "air_date": "2016-04-14",
+                "still_path": "/6MQLk38FtAkqqJYG4U1QzWFLFK9.jpg",
+                "video_url": "4514447"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yokohama Gangster Cenneti",
+                "overview": "Giriş sınavını geçtikten sonra artık Ajansın resmi bir üyesi olan Atsushi, Tanizaki ve Naomi ile birlikte hemen ilk davasına atanır. Yüzeyde aldatıcı derecede basit görünse de, görünenden daha fazlası vardır...",
+                "air_date": "2016-04-21",
+                "still_path": "/q6OswAXgWvnKULmtYowtYPyzNsr.jpg",
+                "video_url": "4514448"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kadercinin Trajedisi",
+                "overview": "Atsushi, Dazai'nin müdahalesiyle Liman Mafyası'ndan kurtarılmış olmasına rağmen, Teşkilat'ın kapısına bela getirmenin sorumluluğunu hissediyor. Atsushi, kendisi yüzünden başka bir saldırı riskine girmek yerine Teşkilat'tan ayrılmaya karar verir ve Liman Mafyası'na bir çağrı yapar...",
+                "air_date": "2016-04-28",
+                "still_path": "/fh2tXncKcwTn9Ea94GXV8Jh3klI.jpg",
+                "video_url": "4514449"
+            },
+            {
+                "episode_number": 5,
+                "name": "D Caddesi'nde Cinayet",
+                "overview": "Liman Mafyası'nın Kara Kertenkelelerini yanıltıcı bir kolaylıkla geri püskürten Atsushi, bir davada Rampo'ya eşlik etmekle görevlendirilir. Kendi deyimiyle büyük dedektif olarak anılan ve sağduyudan yoksun görünen Atsushi, Rampo'nun yeteneğine ilk elden tanık olmak üzeredir...",
+                "air_date": "2016-05-05",
+                "still_path": "/3aasmHqxNJaMWeLhzjMmuyNn0hj.jpg",
+                "video_url": "4514453"
+            },
+            {
+                "episode_number": 6,
+                "name": "Azure Messenger",
+                "overview": "Teşkilat, Yokohama'daki bir dizi kaybolma olayını araştırıyor. Kunikida, Taguchi Rokuzou adlı bir bilgisayar korsanının yardımına başvurur, ancak buldukları tek şey kurbanların fotoğrafları ve Azure Messenger adlı gizemli bir şahsın bahsidir. Terk edilmiş bir hastaneye giden ipuçlarının izini sürüyorlar...",
+                "air_date": "2016-05-12",
+                "still_path": "/oiYxxYegy6txf8sSvZlgSNWFYHe.jpg",
+                "video_url": "4514455"
+            },
+            {
+                "episode_number": 7,
+                "name": "İdealler Denilen Hastalığa Sevgi",
+                "overview": "Azure Messenger'ın bomba tehdidinin ardından Silahlı Dedektiflik Bürosu, Teşkilat'ı sonsuza kadar lekeleyecek yüzlerce kişinin ölümünü önlemek için yarışmak zorundadır. Ancak Dazai'nin dikkati, terk edilmiş hastaneye yapılan baskından hayatta kalan tek kişi olan Sasaki Nobuko tarafından dağılmış gibi görünüyor...",
+                "air_date": "2016-05-19",
+                "still_path": "/uytVblGUp9ZDX7HkGW1tYioUjlt.jpg",
+                "video_url": "4514456"
+            },
+            {
+                "episode_number": 8,
+                "name": "Onlara Öldürmeyi, Sonra Ölmeyi Öğretiyoruz",
+                "overview": "Dazai kaybolur ancak Teşkilat görevlileri bunun her zamanki gibi bir iş olduğunu düşünür. Bu sırada Atsushi, bir alışveriş gezisinde Yosano Akiko'ya eşlik eder ve kendilerini birdenbire Liman Mafyası'ndan birinin terör bombası tehdidinin ortasında bulurlar...",
+                "air_date": "2016-05-26",
+                "still_path": "/2zfHBtuh00oi1eAqFWb3PbS6Zpy.jpg",
+                "video_url": "4514458"
+            },
+            {
+                "episode_number": 9,
+                "name": "Güzellik Taş Heykel Gibi Sessizdir",
+                "overview": "Kyouka, yeteneğini kötüye kullananlar tarafından bir suikastçıya dönüştürüldü ve Atsushi, ona karşı sempati duymadan edemiyor. Onu askeri polise teslim edemeyen Atsushi, onu bir randevuya çıkarır. Bu sırada Akutagawa eski amiri Dazai'yi azarlamakla meşguldür.",
+                "air_date": "2016-06-02",
+                "still_path": "/rxpHpcBCOlleVkPjn4Aw6jYBX1Z.jpg",
+                "video_url": "4514459"
+            },
+            {
+                "episode_number": 10,
+                "name": "Rashomon ve Kaplan",
+                "overview": "Dazai, eski ortağı Chuuya ile karşı karşıya gelirken Chuuya, Dazai'nin kendisinin yakalanmasına izin verme yönündeki gerçek niyetini ortaya çıkarmaya çalışır. Bu sırada Atsuhi, Akutagawa'nın ona karşı duyduğu yoğun ve açıklanamaz nefretle karşı karşıya kalırken gemi, başına konan ödül karşılığında teslim edileceği buluşma yerine doğru yoluna devam eder...",
+                "air_date": "2016-06-09",
+                "still_path": "/s5crR2D0zxuvzTRMfx6PoMrQO6E.jpg",
+                "video_url": "4514460"
+            },
+            {
+                "episode_number": 11,
+                "name": "Birincisi, Ona Uygun Olmayan Bir Meslek. İkincisi, Kendinden Geçmiş Bir Dedektiflik Bürosu",
+                "overview": "Atsushi ve Dazai'nin kaçırılmasının ardından Teşkilat, yarım kalan Kyouka ile ne yapacağına karar vermelidir. Bu arada Liman Mafyası, düşmanları intikam peşinde koşarken şu anda komada olan Akutagawa ile ne yapacağını tartışıyor...",
+                "air_date": "2016-06-16",
+                "still_path": "/qxP1380qiPt1XSWBhXA7Bd7szfh.jpg",
+                "video_url": "4514464"
+            },
+            {
+                "episode_number": 12,
+                "name": "Durmaksızın Geçmişe Döndüm",
+                "overview": "Kuzey Amerika'daki yetenekli üyelerden oluşan bir örgüt olan The Guild'in lideri Francis, Atsushi'nin başına konulan ödülden sorumlu kişidir. Fukuzawa, Francis'in Ajans'ı satın alma teklifini reddeder, ancak ajanları ortadan kaybolmaya başlar...",
+                "air_date": "2016-06-23",
+                "still_path": "/8vB4Fm56j3UQqOqAo73JdRLiAS7.jpg",
+                "video_url": "4514465"
+            },
+            {
+                "episode_number": 13,
+                "name": "Karanlık Çağ",
+                "overview": "Sisli bir gecede Oda Sakunosuke, Dazai Osamu ve Sakaguchi Ango her zamanki gibi barda buluşur. Port Mafia üyelerinden oluşan üçlü için bu, diğer geceler gibi dostluk içinde geçirilen bir gecedir, ancak Ango tam o gece ortadan kaybolur. Oda'ya, Liman Mafyası patronundan Ango'yu bulması için doğrudan bir emir verilir, ancak...",
+                "air_date": "2016-10-06",
+                "still_path": "/kuPWHAkPH4P47MLqWrkpNxnlIcv.jpg",
+                "video_url": "4514480"
+            },
+            {
+                "episode_number": 14,
+                "name": "Geri Dönülecek Yer Yok",
+                "overview": "Odasaku'nun Batı tarzı bir restorana gitmesinin nedeni sadece köri değildi. Sahibine, iki yıl önce savaşta ebeveynlerini kaybetmiş bir grup küçük çocuğa göz kulak olmasını sağlıyor. Odasaku, Ango'nun izini sürmeye çalışıyor ve ilk tanıştıkları zamanı hatırlıyor. Bu sırada Dazai, kurduğu tuzakta Mimic askerlerinden birini canlı yakalamayı başarır. Ancak oraya vardığında onu bekleyen tek şey bir cesettir. Başka bir figür de onu bekliyordu, astı Akutagawa Ryuunosuke.",
+                "air_date": "2016-10-07",
+                "still_path": "/o0B9OroOFBuwAvmwF7tKselfM6s.jpg",
+                "video_url": "4514481"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bir Gün Okyanusu Görebileceğimiz Bir Oda",
+                "overview": "Port Mafia'nın beş üst düzey yöneticiden oluşan konseyi, Mimic'in yok edilmesi gerektiğine karar verdi. Ardından gelen savaşta Odasaku, şifreli bir kehanet yapan Mimic'in lideri Gide ile önemli bir karşılaşma yaşar. Gece çöküyor ve her zamanki bar artık Dazai, Odasaku ve Ango'yu bekliyor...",
+                "air_date": "2016-10-14",
+                "still_path": "/yGGCmXcX9FI1hT4oGxYS6t0eiup.jpg",
+                "video_url": "4514485"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bungo Sokak Köpekleri",
+                "overview": "Liman Mafyası ve yetenekli özel operasyonlar bölümünün liderleri Ango aracılığıyla buluşurken Dazai, üç grup arasındaki çatışmanın gerçek önemini keşfetmeye yakındır. Ancak çaresizlik içinde Odasaku, Dazai'nin Gide'in beklediği Mimic'in karargâhına yalnız gitmemesi yönündeki ricalarına karşı sağırdır...",
+                "air_date": "2016-10-21",
+                "still_path": "/iU5Gsfjg7M7ddZ7AsZvoj9L6g0N.jpg",
+                "video_url": "4514491"
+            },
+            {
+                "episode_number": 17,
+                "name": "Üç Şirket Çatışması",
+                "overview": "Öldürmesini gerektirmeyen bir hayata güvenen Kyouka, ilk işinde Silahlı Dedektiflik Bürosu'nda çalışır ancak iş küçük bir felaketle sonuçlanır. Atsushi onu neşelendirmeye çalışırken, düşünülemez bir şey olur: Kyouka'nın aktif olmayan cep telefonu çalar ve bir ses, Şeytan Kar'a Atsushi'ye saldırmasını emreder.",
+                "air_date": "2016-10-28",
+                "still_path": "/g30hdPtg2kVgTgevF9RN7MmKBai.jpg",
+                "video_url": "4514494"
+            },
+            {
+                "episode_number": 18,
+                "name": "Strateji Çatışması",
+                "overview": "Liman Mafyası'nın lideri Mori, Margaret M. ve Nathaniel H.'ye bir mektup göndererek onları ve korudukları gemiyi yok etmekle tehdit eder.",
+                "air_date": "2016-11-04",
+                "still_path": "/hZWy1Gs0aLcz7snabbLPLEglXY1.jpg",
+                "video_url": "4514499"
+            },
+            {
+                "episode_number": 19,
+                "name": "Tycoon'un İradesi",
+                "overview": "John S. ve Lovecraft, kasabadan kaçan Naomi ve Haruno'nun peşine düşer. Atsushi ve Dazai tren istasyonuna gelmelerini beklerken Dazai, şüpheli bir figürün onu takip ettiğini fark eder.",
+                "air_date": "2016-11-11",
+                "still_path": "/gba6pemyZldssklaCcRy1PmXl0M.jpg",
+                "video_url": "4514502"
+            },
+            {
+                "episode_number": 20,
+                "name": "Zihin Yanlış Olsa Da",
+                "overview": "Atsushi, Moby Dick'e kaçırılır. Bu arada Lovecraft, Q. Francis F.'yi yakalamayı başarır ve Lonca, \"acil durum planı\" adını verdikleri şeyi uygulamaya hazırlanır.",
+                "air_date": "2016-11-18",
+                "still_path": "/eZA5TiOUA6VSZnagtSa49ymgGHw.jpg",
+                "video_url": "4514508"
+            },
+            {
+                "episode_number": 21,
+                "name": "Çift Siyah",
+                "overview": "Teşkilatın liderleri ve Liman Mafyası bir ittifak için pazarlık yapıyor. Bu sırada Dazai ve Chuuya, Lovecraft'la karşı karşıya gelir.",
+                "air_date": "2016-11-25",
+                "still_path": "/rq76mSFNV7eJDphMVisyyhMVme8.jpg",
+                "video_url": "4514511"
+            },
+            {
+                "episode_number": 22,
+                "name": "Poe ve Rampo",
+                "overview": "Rampo, bir dedektiflik oyununa daveti yalnızca E. A. Poe'dan alır. Poe kazanması durumunda ödülün ne olacağını açıklayana kadar ilk başta kayıtsızdı.",
+                "air_date": "2016-12-02",
+                "still_path": "/zx7a6r7L50RQwBmxXufpMRZWG7e.jpg",
+                "video_url": "4514514"
+            },
+            {
+                "episode_number": 23,
+                "name": "Rashoumon, Kaplan ve Son İmparator",
+                "overview": "Atsushi, Moby Dick'in Yokohama'ya çarpmasını engellemek için ihtiyaç duyacağı kontrol terminalini çaresizce arar. Her ikisinin de aklında başka planlar olan Akutagawa ve Francis onu karşıladı.",
+                "air_date": "2016-12-09",
+                "still_path": "/mrQO7RoKWNY37Rrc75zjPKrDWp4.jpg",
+                "video_url": "4514516"
+            },
+            {
+                "episode_number": 24,
+                "name": "Artık Yükümden Kurtulabilirsem",
+                "overview": "Atsushi ve Akutagawa, Moby Dick'in inişini iptal etmekte başarısız olur. Yokohama'yı korumanın başka yollarını umutsuzca arıyorlar.",
+                "air_date": "2016-12-16",
+                "still_path": "/7VgEAV9l6vrtThi47rNLjyC930B.jpg",
+                "video_url": "4514521"
+            },
+            {
+                "episode_number": 25,
+                "name": "Dazai, Chuuya, On Beş Yaşında",
+                "overview": "Liman Mafyası lideri Mori Ougai, on beş yaşındaki Dazai Osamu'ya Yokohama Yerleşim bölgesindeki belirli bir kişinin görünüşünü araştırmasını emreder.",
+                "air_date": "2019-04-12",
+                "still_path": "/fUCJglZbnJDTQS9PdfXVxjkOVdf.jpg",
+                "video_url": "4514466"
+            },
+            {
+                "episode_number": 26,
+                "name": "Ateş Tanrısı",
+                "overview": "Dazai Osamu ve Nakahara Chuuya, Arahabaki'nin yıllar önce neden olduğu bir patlamayı araştırırken GSS askerleri tarafından saldırıya uğrar.",
+                "air_date": "2019-04-19",
+                "still_path": "/5blq9ZZE6XwkGEl16XrDSRSPCP3.jpg",
+                "video_url": "4514479"
+            },
+            {
+                "episode_number": 27,
+                "name": "Sadece Bir Elmas Bir Elması Parlatabilir",
+                "overview": "Nakahara Chuuya ve Dazai Osamu, Arahabaki, eski Liman Mafyası patronu Randou ve Chuuya'nın arkasındaki gerçeği ortaya koyuyor.",
+                "air_date": "2019-04-26",
+                "still_path": "/li2B5rFwvQBKN72ZDZzFTymm5x5.jpg",
+                "video_url": "4514467"
+            },
+            {
+                "episode_number": 28,
+                "name": "Kötü İşlerim Tanrının İşidir",
+                "overview": "Port Mafia yöneticisi Ace, Moby Dick'in yok edilmesinin arkasında olan Fyodor'u yakalar. Onu yakalanmış halde tutmak daha zor olabilir.",
+                "air_date": "2019-05-03",
+                "still_path": "/5inQPUeUeYJbRagNxRcDbnW0g1j.jpg",
+                "video_url": "4514468"
+            },
+            {
+                "episode_number": 29,
+                "name": "Çubuğu ve Bağımlıyı Tokatla",
+                "overview": "Dedektiflik Bürosu üyelerinin sık sık gittiği kafe, Lonca'nın mülkünün peşinde olan Park'ın saldırısına uğrar.",
+                "air_date": "2019-05-10",
+                "still_path": "/kkikXuvIEGdmF3IPcWoduO27Wk0.jpg",
+                "video_url": "4514472"
+            },
+            {
+                "episode_number": 30,
+                "name": "Herurisu / Bir Babanın Portresi",
+                "overview": "Teşkilatın görevi önemli bir belgeyi bulmak ve teslim etmektir. Bir adam kamyonun çarpması sonucu hayatını kaybetti. Kimliği Atsushi'yi şok eder.",
+                "air_date": "2019-05-17",
+                "still_path": "/222zX3mEqcI8rGkbKYpfw9ZitAi.jpg",
+                "video_url": "4514474"
+            },
+            {
+                "episode_number": 31,
+                "name": "Fitzgerald Yükseliyor",
+                "overview": "Louisa, Fitzgerald'la yeniden bir araya gelir; ancak Fitzgerald artık eskisi gibi bir adam değildir.",
+                "air_date": "2019-05-24",
+                "still_path": "/7wKyMa09D76l4i9I0Zxjj1CXWqk.jpg",
+                "video_url": "4514526"
+            },
+            {
+                "episode_number": 32,
+                "name": "Maskeli Suikastçı",
+                "overview": "Liman Mafyası ve Dedektiflik Bürosu'nun liderleri, maskeli bir suikastçının saldırısına uğrar ve ikisi de hastalanır.",
+                "air_date": "2019-05-31",
+                "still_path": "/qvPaAhhZ47ufEkExCKzq1Nj0CeY.jpg",
+                "video_url": "4514529"
+            },
+            {
+                "episode_number": 33,
+                "name": "Yamyamlık (1)",
+                "overview": "Dedektiflik Bürosu ile Liman Mafyası arasındaki gerilim, her ikisi de topyekün bir savaştan kaçınırken kendi liderlerini kurtarmaya çalışırken yükseliyor.",
+                "air_date": "2019-06-07",
+                "still_path": "/bR70EtHFaiXz13WHJ2Rm7H2d5BT.jpg",
+                "video_url": "4514532"
+            },
+            {
+                "episode_number": 34,
+                "name": "Yamyamlık (2)",
+                "overview": "Dedektiflik Bürosu başkanı şimdilik emin ellerde ama kendisi veya Port Mafyası patronu ölmediği sürece iki örgüt arasında büyük çaplı bir savaş kaçınılmaz.",
+                "air_date": "2019-06-14",
+                "still_path": "/tQ6eR0ZaOkk23mixTwqcaFKqHkf.jpg",
+                "video_url": "4514477"
+            },
+            {
+                "episode_number": 35,
+                "name": "Yamyamlık (3)",
+                "overview": "Mori Ougai ve Fukuzawa Yukichi, liderlik ettikleri örgütleri yıkıcı bir savaşa düşmekten kurtarmak için umutsuz bir çabayla ölümüne savaşıyor.",
+                "air_date": "2019-06-21",
+                "still_path": "/9fILvM9aDyJvK6Zgnvx7rMb7xsS.jpg",
+                "video_url": "4514540"
+            },
+            {
+                "episode_number": 36,
+                "name": "Eko",
+                "overview": "Nakagawa Atsushi ve Akutagawa Ryunosuke onun peşine düşerken, virüsün yetenekli sorumlusu kaçmaktadır. Bu arada Dedektiflik Bürosu, Fyodor Dostoyevski'yi yakalamaya çalışmak için Farelerin saklandığı yerin etrafını sarar.",
+                "air_date": "2019-06-28",
+                "still_path": "/iemHuDOx3AxmdctIwsoI1tthV73.jpg",
+                "video_url": "4514542"
+            },
+            {
+                "episode_number": 37,
+                "name": "Yalnız Kılıç Ustası ve Ünlü Dedektif",
+                "overview": "Güvenlik polisi memuru Fukuzawa Yukichi, müvekkilinin suikasta kurban gittiğini keşfetmek için işyerine gelir. Suikastçı geldiğinde çoktan yakalanmıştır ama yolunda gitmeyen bir şeyler vardır.",
+                "air_date": "2023-01-04",
+                "still_path": "/2wrRZMoNHxLh0feRyNLXmirwfoC.jpg",
+                "video_url": "4998513"
+            },
+            {
+                "episode_number": 38,
+                "name": "Gün Bir Rüya, Gece Gerçek",
+                "overview": "Fukuzawa, Rampo'ya bir çift gözlük veriyor ve gözlük takmanın herhangi bir durumun gerçekliğini anında belirleme yeteneğini harekete geçireceğini, gözlükleri çıkarmanın da ona sıradan insanın aptallığına tahammül etme yeteneği vereceğini iddia ediyor.",
+                "air_date": "2023-01-11",
+                "still_path": "/aupV9P0vLDLwlcCZjozxJm8VyzR.jpg",
+                "video_url": "5006830"
+            },
+            {
+                "episode_number": 39,
+                "name": "Dedektiflik Ajansının Gizli Kuruluşu",
+                "overview": "Rampo polis karakoluna gider ancak polis memuru söylediği kişi gibi görünmemektedir.",
+                "air_date": "2023-01-18",
+                "still_path": "/qalkE4WX3vGgjDcpiumjwEh7Dd6.jpg",
+                "video_url": "5013295"
+            },
+            {
+                "episode_number": 40,
+                "name": "Kusursuz Bir Cinayet ve Katil (1)",
+                "overview": "Kunikida, Rampo'nun işlemediğinden emin olduğu bir cinayetten dolayı tutuluyor. Bu arada Poe, polisi şaşkına çeviren bir cinayet gizemini çözmeye kararlıdır. Rampo'nun da bu durumla ilgili bazı düşünceleri var.",
+                "air_date": "2023-01-25",
+                "still_path": "/4ZquGm4TuLwYgKqCgogdYJSByPt.jpg",
+                "video_url": "5022001"
+            },
+            {
+                "episode_number": 41,
+                "name": "Mükemmel Bir Cinayet ve Katil (2)",
+                "overview": "Poe'nun eline geçen taslağın son sayfasının fotokopi olduğu anlaşılıyor. Rampo nedenini biliyor gibi görünüyor, ancak yazarın ölümüyle ilgili hâlâ daha fazla gizem var.",
+                "air_date": "2023-02-01",
+                "still_path": "/s6RzlcfahMmng1OylasvOSVLwdJ.jpg",
+                "video_url": "5028564"
+            },
+            {
+                "episode_number": 42,
+                "name": "Trajik Pazar",
+                "overview": "Dedektiflik Bürosu, aynı suçlu tarafından işlenen bir dizi cinayetin soruşturulması için hükümetten acil bir talep alır.",
+                "air_date": "2023-02-08",
+                "still_path": "/hlQKJP1bDiTj7Qyjue3P9Cvc5Ef.jpg",
+                "video_url": "5057737"
+            },
+            {
+                "episode_number": 43,
+                "name": "Köpekler Köpekleri Avlar",
+                "overview": "Dedektiflik Bürosu, birçok hükümet yetkilisinin vahşice öldürülmesiyle suçlanıyor. Üyeleri Askeri Polisten kaçıyor.",
+                "air_date": "2023-02-15",
+                "still_path": "/uqCqSYEIKIkfm4bSctucS4Gze07.jpg",
+                "video_url": "5057741"
+            },
+            {
+                "episode_number": 44,
+                "name": "Sen, Günahın Çocuğu; Ben, Günahın Çocuğu",
+                "overview": "Dedektiflik Bürosu'nun başkanı tutuklandı ve kendini el bombasıyla havaya uçuran Kunikida kayıp. Bu sırada Atsushi ve Kyouka kaçmaktadır ve gerçek deha olan Fyodor'u yenmenin bir yolunu aramaktadır.",
+                "air_date": "2023-02-22",
+                "still_path": "/yIs2J0zyZfAomCvwHo6jWj6FnHH.jpg",
+                "video_url": "5060459"
+            },
+            {
+                "episode_number": 45,
+                "name": "Kelebeklerin Rüyası",
+                "overview": "Liman Mafyası patronu Mori, Dedektiflik Ajansı'na kriz sırasında yardım etmesi karşılığında Yosano'nun onlara katılmasını ister. Yosano neden katılmamayı tercih ettiğini açıklar.",
+                "air_date": "2023-03-01",
+                "still_path": "/jYiznpo8wwuUBc9MwkAyCyva9PJ.jpg",
+                "video_url": "5067857"
+            },
+            {
+                "episode_number": 46,
+                "name": "Kanatsız Bedenimin Ağıdı İçinde",
+                "overview": "Tanizaki, Miyazawa ve Yosano, Yosano'nun Liman Mafyası'na teslim edilmesinin planlandığı bölgeye gider.",
+                "air_date": "2023-03-08",
+                "still_path": "/8uhUxvbaenQuoMnyZ9uic52FQBm.jpg",
+                "video_url": "5072212"
+            },
+            {
+                "episode_number": 47,
+                "name": "Firar",
+                "overview": "Atsushi ve Kyoka, Mushitaro'nun kaçmasına yardım eder. Ancak Ango Sakaguchi liderliğindeki Büro tarafından kuşatılırlar.",
+                "air_date": "2023-03-15",
+                "still_path": "/qes3Re6PBQtpOfhJNCtLP9uPn27.jpg",
+                "video_url": "5078811"
+            },
+            {
+                "episode_number": 48,
+                "name": "Bungo Tazı Köpekleri",
+                "overview": "Lucy'nin Silahlı Dedektiflik Ajansı olarak bilinen terör örgütüyle işbirliği yaptığından şüphelenen Jouno ve Tetchou, Atsushi ve Kyouka'yı takip etmek umuduyla Lucy'nin çalıştığı kafeye giderler.",
+                "air_date": "2023-03-22",
+                "still_path": "/b8TrlrIuwD24UaoCXGYZw4nME6l.jpg",
+                "video_url": "5204700"
+            },
+            {
+                "episode_number": 49,
+                "name": "Sağanak",
+                "overview": "Teruko, Sigma ile karşı karşıya gelir. Tachihara, Liman Mafyası'na yeniden sızdıktan sonra Teşkilat'ın masumiyetini yeniden düşünür.",
+                "air_date": "2023-03-29",
+                "still_path": "/bqxXWJlSCHxeVPj4IoTq3MFtro.jpg",
+                "video_url": "5204706"
+            },
+            {
+                "episode_number": 50,
+                "name": "En Güçlü Adam",
+                "overview": "Teşkilat'ın izole edilmiş ve birbirleriyle iletişim kuramayan üyeleri, gizemli bir koruyucu melek tarafından son derece engellenen suikast girişimlerinin ardı ardına kurbanlarıdır.  Bu kim ?",
+                "air_date": "2023-07-12",
+                "still_path": "/apQVAEmUliaxmMplh9s78ecyQ7C.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 51,
+                "name": "Herşeyin Cevabı",
+                "overview": "Fukuchi, Gifted'ı hedef alan uluslararası bir terörle mücadele örgütü kurma planlarıyla ittifak kurarken, Atsushi ve Rampo ondan yardım ister. Rampo, Kamui'nin kimliği sorusuna muazzam dedektif yeteneklerini yöneltir ve gerçek her şeyi değiştirecektir.",
+                "air_date": "2023-07-19",
+                "still_path": "/6d548fqukgVsdlPyHZvjtEjJFOQ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 52,
+                "name": "Kahraman Vs. Adli̇",
+                "overview": "Atsushi ve Akutagawa kendilerini köşeye sıkışmış halde bulurlar ve Fukuchi ve onun aşılmaz gibi görünen güçleriyle savaşmaktan başka çareleri kalmaz. Güçlerini birleştirerek ve birbirlerine güvenerek, en kudretli Av Köpeğini yenmek için gerekenlere sahipler mi?",
+                "air_date": "2023-07-26",
+                "still_path": "/qIrHrNHhMzYmXg7HITGbayTqthC.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 53,
+                "name": "Kahraman Savaşi, Çete Savaşi",
+                "overview": "Decay of the Angel'ın son üyesi belli oldu. Kamui kaos yaymaya devam ediyor. Tachihara, Sky Casino'da elde edilen kanıtları içeren bilgi cihazını Fukuchi'ye emanet eder, ancak bunun yıkıcı sonuçlarıyla karşı karşıya kalır.",
+                "air_date": "2023-08-02",
+                "still_path": "/w7XXDkLNkLThp9sR0ojyGMc7gg5.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 54,
+                "name": "Gökyüzündeki Limanda (1)",
+                "overview": "Dedektiflik Bürosu, Fukuchi'nin dünya hakimiyeti planlarını durdurulamaz hale getirecek yıkıcı bir zihin kontrol silahı olan Tek Düzen'i almasını engellemek için yarışır.",
+                "air_date": "2023-08-09",
+                "still_path": "/dqKJ2TGK1aiH1pmPX1vWMyAomco.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 55,
+                "name": "Gökyüzündeki Limanda (2)",
+                "overview": "Fukuchi'nin planları ve Teşkilat'ın onu engelleme çabaları yoğunlaşır. Aya, Kont Bram ile karşı karşıya gelir. Bu arada Nikolai ve Sigma, Dazai ve Fyodor'u hapishaneden kurtarmak için harekete geçer, ancak Nikolai'nin aklında kurtarmaktan fazlası vardır...",
+                "air_date": "2023-08-16",
+                "still_path": "/oHnRnaXMaFPU9QxIP3FfCMFzaBI.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 56,
+                "name": "Gökyüzündeki Limanda (3)",
+                "overview": "Atsushi, Teruko'yu bulmaya çalışırken Kenji, Aya ve Bram'in havaalanından kaçmasına yardım etmek için gelir.",
+                "air_date": "2023-08-23",
+                "still_path": "/nSAoKeBVqmGojoUHLYhDZ1pDeA0.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 57,
+                "name": "İnsanlık Dışı Şeytanlar Ülkesi (1)",
+                "overview": "Kenji, Atsushi'ye yardım etmek için savaşarak onun neden en tehlikeli Teşkilat üyelerinden biri olduğunu gösterir. Bu sırada Dazai'nin hapishanedeki entrikaları daha da netleşir.",
+                "air_date": "2023-08-30",
+                "still_path": "/eepDSRnPjaLB44xVUhkqCBlKBVR.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 58,
+                "name": "İnsanlık Dışı Şeytanlar Ülkesi (2)",
+                "overview": "Dedektiflik Bürosu için süre dolarken Fukuzawa ve Fukuchi ortak geçmişleriyle yüzleşir.",
+                "air_date": "2023-09-06",
+                "still_path": "/8nruofPbnanbJ7y01HalfRjfZfN.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 59,
+                "name": "İnsanlık Dışı Şeytanlar Ülkesi (3)",
+                "overview": "Dazai ve Sigma su basmış bir odada sıkışıp kalırlar. Atsushi, Aya'ya yardım etmeye çalıştığında Akutagawa tarafından saldırıya uğrar. Kavgaları sırasında Aya, Bram'den kutsal kılıcı çıkarmak için çaresizce çabalar.",
+                "air_date": "2023-09-13",
+                "still_path": "/1w77uturnnwKHxRLhrZPOCSioOu.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 60,
+                "name": "Alacakaranlığa Elveda",
+                "overview": "Fukuchi'nin planının son parçaları yerine oturur ve Fukuzawa'yı Rampo'nun bile tahmin edemeyeceği bir şekilde tuzağa düşürür. Aynı zamanda Fyodor ve Dazai'nin ölümcül oyunu da sona yaklaşmaktadır.",
+                "air_date": "2023-09-20",
+                "still_path": "/801r0TUiP2HcEILVIOo9FqOtrxn.jpg",
+                "video_url": ""
+            }
+        ]
+    }
+}

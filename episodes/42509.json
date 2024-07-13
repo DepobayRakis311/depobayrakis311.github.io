@@ -1,0 +1,203 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2011-04-06",
+        "poster_path": "/xZrGB8kDQpqq6Ad74uInNvIUMGj.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Dönüm Noktası",
+                "overview": "Kendini deli olarak tanımlayan bir bilim adamı, zaman yolculuğuyla ilgili bir konferansa katılır, tanıdık olmayan bir kadının cesediyle karşılaşır ve mesajlarının artık uzay ve zaman kurallarına bağlı olmadığını keşfeder.",
+                "air_date": "2011-04-06",
+                "still_path": "/gPZXNWR7WuUgMZ9x6hwIZPRLbna.jpg",
+                "video_url": "4406988"
+            },
+            {
+                "episode_number": 2,
+                "name": "Zaman Yolculuğu Paranoyası",
+                "overview": "Okabe, Makise'yi öldürüldükten sonra ayakta görünce şaşırır.",
+                "air_date": "2011-04-13",
+                "still_path": "/mIRuPZNEoGt0oyE9bL4BqEcmquq.jpg",
+                "video_url": "4406991"
+            },
+            {
+                "episode_number": 3,
+                "name": "Paralel Dünya Paranoyası",
+                "overview": "Okabe, son zamanlarda yaşanan olağandışı olayların arkasında mikrodalga fırınının olduğundan şüpheleniyor.",
+                "air_date": "2011-04-20",
+                "still_path": "/p78yoSbi7wXww1rEGYGbYSUm3wl.jpg",
+                "video_url": "4406993"
+            },
+            {
+                "episode_number": 4,
+                "name": "Tercüman Randevusu",
+                "overview": "Okabe'nin çok yeni bir teknolojiyi hackleyebilmesi için çok eski bir bilgisayar bulması gerekiyor.",
+                "air_date": "2011-04-27",
+                "still_path": "/jOvUzKQUbqdkNAtIAzQpL7GuUx.jpg",
+                "video_url": "4406998"
+            },
+            {
+                "episode_number": 5,
+                "name": "Starmine Buluşması",
+                "overview": "Başarılı bir hack, SERN'in büyük sırrını ortaya çıkarır.",
+                "air_date": "2011-05-04",
+                "still_path": "/92SFTY8Z4jj7AykgKlF5v4EMBxj.jpg",
+                "video_url": "4407001"
+            },
+            {
+                "episode_number": 6,
+                "name": "Kelebek Etkisinin Uzaklaşması",
+                "overview": "Okabe'nin küçük çaplı deneyi kısmen başarılı oldu.",
+                "air_date": "2011-05-11",
+                "still_path": "/suWPFexRgjwhJTy1E7yTtTrXpyt.jpg",
+                "video_url": "4407004"
+            },
+            {
+                "episode_number": 7,
+                "name": "Diverjans Tekilliği",
+                "overview": "Okabe, kazanan loto numaralarını geçmişe mesaj atarak deneyini bir üst seviyeye taşır; ancak eylemlerinin bugünü veya geleceği nasıl değiştirebileceğini hesaba katmaz.",
+                "air_date": "2011-05-18",
+                "still_path": "/8AXyRwdJhDmfESjlLbJzBWtYvfO.jpg",
+                "video_url": "4407007"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kaos Teorisi Homeostazis I",
+                "overview": "Okabe ve laboratuvar arkadaşları için yapılan son deney, içlerinden birinin ortadan kaybolmasına yol açar. Daha sonra genç bir çocuğun hayalini gerçeğe dönüştürmek için zamanda yolculuk teknolojilerini kullanmaya çalışacaklar.",
+                "air_date": "2011-05-25",
+                "still_path": "/l6fhgZvTOEMosDnzo5a9TNc9xyj.jpg",
+                "video_url": "4407012"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kaos Teorisi Homeostazis Ii",
+                "overview": "Okabe, deneyinin neden olduğu köklü değişikliklerden endişe duymaya başlar ve IBN-5100 laboratuvardan kaybolur. Bir yedek bulmanın tek umudu, kedi kız Feyris'in narin omuzlarındadır.",
+                "air_date": "2011-06-01",
+                "still_path": "/nlVR9hXGFfpfk8YmK116Co400QQ.jpg",
+                "video_url": "4407014"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kaos Teorisi Homeostazis Iii",
+                "overview": "Alt kattaki yarı zamanlı savaşçı, Okabe'ye kayıp babasını aramaktan bahseder. Bu arada, hevesli çılgın bilim adamı gizemli bir kısa mesajla rahatsız olur.",
+                "air_date": "2011-06-08",
+                "still_path": "/vrNGd6OZnXnaadq5GRcmLraLPJX.jpg",
+                "video_url": "4407018"
+            },
+            {
+                "episode_number": 11,
+                "name": "Olay Ufkunda Dogma",
+                "overview": "Laboratuvar üyeleri Zaman Atlaması yoluyla insan anılarını aktarmaya hazırlanırken Okabe son derece rahatsız edici bir haber alır: Makise bir SERN casusu olabilir!",
+                "air_date": "2011-06-15",
+                "still_path": "/22ocRiKS7UWHnB6lNOZM5e96Dxm.jpg",
+                "video_url": "4407023"
+            },
+            {
+                "episode_number": 12,
+                "name": "Ergosferde Dogma",
+                "overview": "Makise ve Suzuha'nın partiye gelmesiyle Laboratuvarda gerginlik artar ama bu sadece başlangıçtır. Gece sona ererken, tanıdık bir yüzün önderlik ettiği silahlı haydutlar zaman makinesini aramaya gelir.",
+                "air_date": "2011-06-22",
+                "still_path": "/6fZmIsYfKPOEthp8Yvb9n0eqcs5.jpg",
+                "video_url": "4407027"
+            },
+            {
+                "episode_number": 13,
+                "name": "Metafizik Nekrozu",
+                "overview": "Daha önce yaşadığı trajediyi önlemek için çaresiz kalan Okabe, cesur bir Zaman Atlaması için cesaretini toplar. En eski ve en sevdiği arkadaşının hayatını kurtarabilecek mi?",
+                "air_date": "2011-06-29",
+                "still_path": "/gfzkT5cRRUWIa4KZBDDiTKthWsi.jpg",
+                "video_url": "4407029"
+            },
+            {
+                "episode_number": 14,
+                "name": "Fiziksel Nekroz",
+                "overview": "Okabe, tüm girişimlerine rağmen Mayuri'nin ölümünü engelleyemediğinden zaman yolculuğu bilmecesini çözmek için Makise'den yardım ister. Daha sonra Suzuha'nın gerçek kimliği ortaya çıkar",
+                "air_date": "2011-07-06",
+                "still_path": "/lyHw1A0hJQqZEoxmJeDHZR6YOb9.jpg",
+                "video_url": "4407033"
+            },
+            {
+                "episode_number": 15,
+                "name": "Eksik Bağlantı Nekrozu",
+                "overview": "Suzuha, SERN'in gelecekteki totalitarizminin kökenlerini ortaya çıkarır. O, örgütü yok etme çalışmalarına devam ederken, Okabe ve Mayuri, Suzuha'nın babasını aramaya devam eder.",
+                "air_date": "2011-07-13",
+                "still_path": "/suTIlaYwdYs86bArm1uIbydqDXP.jpg",
+                "video_url": "4407036"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kurban Nekrozu",
+                "overview": "Suzuha'nın babası hakkındaki gerçek nihayet ortaya çıkar. Okabe, parti gecesinden ayrılmasını engellemenin yıkıcı sonuçlarının farkına varır.",
+                "air_date": "2011-07-20",
+                "still_path": "/jdzioz7bLWM5RDdaiH51R2GiRYa.jpg",
+                "video_url": "4407039"
+            },
+            {
+                "episode_number": 17,
+                "name": "Komplekste Yapılmıştır",
+                "overview": "Farklılıktaki değişimin kalıcı bir etki yaratmaması üzerine Okabe ve Kurisu, IBN 5100 kazanma umuduyla zamanı daha fazla manipüle etmeye koyuldu.",
+                "air_date": "2011-07-27",
+                "still_path": "/aw1cw6w5QipglLN1kCGyWaJAQuH.jpg",
+                "video_url": "4407040"
+            },
+            {
+                "episode_number": 18,
+                "name": "Fraktal Androjen",
+                "overview": "Mayuri'yi kaderinden kurtarmak için bir girişimde daha bulunan Okabe, ona Ruka'nın geçmişini açıklar. Ruka tüm hayatını değiştirebilecek zor bir karar vermek zorundadır.",
+                "air_date": "2011-08-03",
+                "still_path": "/szXig1xFqHU7JUNUlewNa3Y8nuy.jpg",
+                "video_url": "4407043"
+            },
+            {
+                "episode_number": 19,
+                "name": "Sonsuz Apoptoz",
+                "overview": "Okabe, Moeka'yı kendisinden kurtarmak için zaman sıçraması yapmak zorundadır. Moeka'nın şüpheli davranışları onu IBN 5100'e yaklaştırırken hiçbir şeyin göründüğü gibi olmadığını fark eder.",
+                "air_date": "2011-08-10",
+                "still_path": "/6ueX65TiBKLcfHHEb0BnYz0NXLc.jpg",
+                "video_url": "4407044"
+            },
+            {
+                "episode_number": 20,
+                "name": "Apoptozu Sonlandırın",
+                "overview": "Okabe, Kurisu ve Moeka'nın yardımıyla IBN 5100'e ve gizemli FB'ye yaklaşmaya çalışır. SERN'in ağına yaklaşırken zafere giden yolun ek fedakarlıklar olmadan olmayacağının farkına varır.",
+                "air_date": "2011-08-17",
+                "still_path": "/f5WwsY3RDq7Adrz3bjuNpnTv4gX.jpg",
+                "video_url": "4407045"
+            },
+            {
+                "episode_number": 21,
+                "name": "Paradoks Erimesi",
+                "overview": "Okabe, yeni keşfini aklında tutarak Mayuri'yi koruma girişimlerine devam ederken bir yandan da Kurisu'nun yaklaşmakta olan potansiyel kaderinden kaçınmaya çalışır.",
+                "air_date": "2011-08-24",
+                "still_path": "/ivAupaMSHkqrJhdz2dCkylorAS9.jpg",
+                "video_url": "4407046"
+            },
+            {
+                "episode_number": 22,
+                "name": "Erime Olmak",
+                "overview": "Okabe, SERN'e karşı çalışmalarına devam edebilmek için sonunda Kurisu'yu veya Mayuri'yi kurtarmak arasında bir seçim yapmak zorundadır.",
+                "air_date": "2011-08-31",
+                "still_path": "/p447zo2INlfczdI3Va1HSW4sUDI.jpg",
+                "video_url": "4407047"
+            },
+            {
+                "episode_number": 23,
+                "name": "Steins Kapısını Açın",
+                "overview": "Alternatif bir Suzuha tarafından yaklaşan Üçüncü Dünya Savaşı'nı önlemekle görevlendirilen Okabe, kendisini Kurisu'nun ölümünde aktif bir rol oynarken bulur.",
+                "air_date": "2011-09-07",
+                "still_path": "/mwwX38MhYVzPRgk8kySqdHRGNzR.jpg",
+                "video_url": "4407048"
+            },
+            {
+                "episode_number": 24,
+                "name": "Başarı Puanı",
+                "overview": "Okabe'nin zamanda geriye yolculuk yapmak, her şeyi yoluna koymak ve hiç sevemediği kızı kurtarmak için son bir şansı vardır. Görevi hayati önem taşıyor ancak bu çılgın bilim adamının sonu anlamına gelebilir.",
+                "air_date": "2011-09-14",
+                "still_path": "/3q6vkkZn8uTaGiN6ViHEzyVV1eU.jpg",
+                "video_url": "4407050"
+            }
+        ]
+    }
+}

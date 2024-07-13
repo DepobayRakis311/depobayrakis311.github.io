@@ -1,0 +1,132 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2023-04-01",
+        "poster_path": "/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ölüm Cezası Mahkûmu ve Cellat",
+                "overview": "Bir suikastçı klanının ninja üyesi olan Gabimaru ölüm cezasına çarptırılır. Kendisini hayata bağlayacak hiçbir şeyin olmadığını iddia ediyor ama hiçbir infaz yöntemi onun hayatına son vermeyi başaramıyor. Kendisini araştırıyor gibi görünen Sagiri Yamada Asaemon ile tanışması her şeyi değiştirecektir.",
+                "air_date": "2023-04-01",
+                "still_path": "/cBYGS8slT5GnBfJylLrimTKPRQG.jpg",
+                "video_url": "5093828"
+            },
+            {
+                "episode_number": 2,
+                "name": "Tarama ve Seçim",
+                "overview": "Mahkum edilen suçlular, Shinsenkyo'ya yapılacak sefere hazırlanmak için sahilde toplanır, ancak önce sayılarını azaltmaları gerekir.",
+                "air_date": "2023-04-08",
+                "still_path": "/huhB21i6IKWnGBQLd6JRRIHRSgL.jpg",
+                "video_url": "5100089"
+            },
+            {
+                "episode_number": 3,
+                "name": "Zayıflık ve Güçlülük",
+                "overview": "Gabimaru, Sagiri ve diğerleri Shinsenkyo'ya varırlar ve hayatta kalma mücadeleleri başlar.",
+                "air_date": "2023-04-15",
+                "still_path": "/9yZfCDYjgUvqwJj4cR1vaxSq9dQ.jpg",
+                "video_url": "5108854"
+            },
+            {
+                "episode_number": 4,
+                "name": "Cehennem ve Cennet",
+                "overview": "Gabimaru ve Sagiri, adanın gizemli yaratıklarına karşı ilk mücadelelerinde başları belaya girer. Gabimaru'nun bu canavarlıklardan haberi yok ve bu da onu savaşta dezavantajlı duruma sokuyor. Kadın ninja Yuzuriha'nın aniden gelişi durumu değiştirecektir ancak Gabimaru oyununda net bir şey görememektedir.",
+                "air_date": "2023-04-22",
+                "still_path": "/czrHtpVCRGSQSLeDH0pgnOkiB6y.jpg",
+                "video_url": "5114352"
+            },
+            {
+                "episode_number": 5,
+                "name": "Samuray ve Kadın",
+                "overview": "Gabimaru ve Sagiri'nin grubu, Sagiri'nin mevcut meseleye dahil olmasına olumsuz bakan bir diğer Yamada Asaemon olan Genji ile karşılaşır. Bu arada, Yamada Asaemon Tenza, sorumluluğundaki Nurugai ile birlikte adadan kaçmanın bir yolunu bulmaya çalışır.",
+                "air_date": "2023-04-29",
+                "still_path": "/fA4rb9YFSgq1xzlZEDpBEiRARb6.jpg",
+                "video_url": "5122442"
+            },
+            {
+                "episode_number": 6,
+                "name": "Kalp ve Akıl",
+                "overview": "Rokurota, Sagiri ve Gabimaru için ciddi sorunlar yaratmaya başlar ve şimdi onu yenmek için bir strateji düşünmeleri gerekir!",
+                "air_date": "2023-05-06",
+                "still_path": "/1Is8K5zejhwAkGovdmKeIM6TEME.jpg",
+                "video_url": "5128983"
+            },
+            {
+                "episode_number": 7,
+                "name": "Çiçekler ve Teklifler",
+                "overview": "Chobe ve Toma daha önce karşılaşmadıkları insanlarla karşılaşırlar. Gabimaru ve Sagiri'nin partisi sonunda adada yaşayan insanlarla tanışır.",
+                "air_date": "2023-05-13",
+                "still_path": "/uO1jm9qnpZaQivdhIL1aqwRxjJD.jpg",
+                "video_url": "5141080"
+            },
+            {
+                "episode_number": 8,
+                "name": "Öğrenci ve Usta",
+                "overview": "Tenza ve Nurugai ayrıca adanın akıl almaz güce sahip tuhaf sakinlerinden biriyle de karşılaşır. Başka bir Yamada Asaemon'la karşılaşmadan önce her şey kaybolmuş gibi görünüyor...",
+                "air_date": "2023-05-20",
+                "still_path": "/3CF2Q6AZM1tHSovv1AwlrRlozJ3.jpg",
+                "video_url": "5159695"
+            },
+            {
+                "episode_number": 9,
+                "name": "Tanrılar ve İnsanlar",
+                "overview": "Sagiri'nin grubu Horai'yi aramak için yola çıkar. Gabimaru devam eder ve Tenza'nın karşısına çıkan aynı güçlü varlıkla karşılaşır...",
+                "air_date": "2023-06-03",
+                "still_path": "/jfPvi2HkRrJGaNXngejJ96hwEzz.jpg",
+                "video_url": "5166992"
+            },
+            {
+                "episode_number": 10,
+                "name": "Yin ve Yang",
+                "overview": "Mei, Sagiri'nin ormandaki partisi için çok önemli bir şeyi açıklamaya çalışır. Shion, dünyayla nasıl etkileşime girdiğini Nurugai'ye açıklamaya çalışır. Tensen'in gizemli bir hizmetkarı, Aza Chobe ve Toma'nın neden kaçmaması gerektiğini açıklamaya çalışır.",
+                "air_date": "2023-06-10",
+                "still_path": "/ApVsykHWYMpwJnx2Qrk9pfT8g7C.jpg",
+                "video_url": "5167557"
+            },
+            {
+                "episode_number": 11,
+                "name": "Zayıf ve Güçlü",
+                "overview": "Chobe, Tensen'in hizmetkarlarıyla yüzleşirken kullanabileceği yeni yetenekler getiriyor. Mei'nin bir sırrı Gabimaru'ya açıklanır, savaşma kararlılığı artar ve ona yeni bir dünya algısı açılır.",
+                "air_date": "2023-06-17",
+                "still_path": "/3Uf9vLl7gjIMUe0xEuXKaJQaPWP.jpg",
+                "video_url": "5177139"
+            },
+            {
+                "episode_number": 12,
+                "name": "Şemsiye ve Mürekkep",
+                "overview": "Mu Dan, Sagiri'nin partisiyle yüzleşir ve adanın gerçek doğası hakkındaki şok edici gerçekleri ortaya çıkarır.",
+                "air_date": "2023-06-24",
+                "still_path": "/iZE9vDF33ZKhKllFAFEUEuDt5B7.jpg",
+                "video_url": "5193877"
+            },
+            {
+                "episode_number": 13,
+                "name": "Hayaller ve Gerçekler",
+                "overview": "Sagiri'nin partisi, Mu Dan'in durdurulamaz gibi görünen gerçek formuyla karşı karşıya kalır. Shion, dalgalardaki ustalığıyla zorlukların üstesinden gelmek için elinden geleni yapıyor.",
+                "air_date": "2023-07-01",
+                "still_path": "/tddzRELfd45ZWGEu6komcGBg1Zp.jpg",
+                "video_url": "5198944"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 1,
+        "air_date": null,
+        "poster_path": "/yyRQOkdM9m7NQW3uCdNBj5xerv3.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bölüm 1",
+                "overview": "",
+                "air_date": null,
+                "still_path": null,
+                "video_url": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2019-01-12",
+        "poster_path": "/kdaHx20oZ0vRfVjON53qNMLKkSc.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Beni Bir Filme Davet Ettireceğim / Kaguya Durdurulmak İstiyor / Kaguya Bunu İstiyor",
+                "overview": "Shuchiin Akademisi, önlerinde parlak bir geleceği olan yetenekli öğrenciler için bir yol göstericidir. Öğrenci Konseyi başkan yardımcısı Kaguya Shinomiya ve başkan Miyuki Shirogane birbirlerinden hoşlanırlar, ancak ikisi de duyguları konusunda dürüst olamayacak kadar gururludurlar, bu yüzden tek yaptıkları diğer kişiyi nasıl elde edeceklerini düşünmektir. aşklarını itiraf etmek. Aralarında hiçbir şey olmadan altı ay geçer, ancak bir gün sekreter Chika Fujiwara, bir filmi izlemek için nasıl bir çift bedava bilet kazandığına dair bir haberle gelir; sözüm ona, onu birlikte izleyen erkekleri ve kadınları dönüştüren bir film. romantik çiftlere dönüştü. Bu, romantik zeka oyununu başlatan tetikleyicidir...",
+                "air_date": "2019-01-12",
+                "still_path": "/1tcnck8JUDtljCT8f621R00DXRz.jpg",
+                "video_url": "4628518"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kaguya Ticaret Yapmak İstiyor / Chika Bir Yere Gitmek İstiyor / Miyuki Cehaletini Gizlemek İstiyor",
+                "overview": "Shuchiin Akademisi'ndeki öğrenciler, konu romantik ilişkiler olduğunda Shirogane'nin deneyimli bir kişi olduğu izlenimine kapılmışlardır ve bu nedenle Shirogane'nin aslında hiçbir romantik deneyimi olmamasına rağmen, bir erkek öğrenci bir konuda tavsiye almak için ona gelir. kalp. Ancak Shirogane'nin deneyimsizliği hakkındaki gerçek ortaya çıkarsa, öğrenci konseyi başkanı olarak saygınlığını kaybedebilir. Bu yüzden öğrencinin isteğini gergin bir şekilde sahte bir kabadayılıkla karşılıyor: \"Eğer konu aşksa, onu bana bırakın!\" Kaguya kendini gizlice kulak misafiri olacak bir konumda bulur ve bunu Shirogane'nin aşk hakkındaki görüşlerini duymak için bir şans olarak yapar, ancak onun tavsiyesini duvarın dışında bulur...",
+                "air_date": "2019-01-19",
+                "still_path": "/8UalRaM1N38WUabAgZ82KjxPGTV.jpg",
+                "video_url": "4628519"
+            },
+            {
+                "episode_number": 3,
+                "name": "Miyuki Shirogane Hala Yapmadı / Kaguya Anlaşılmak İstiyor / Kaguya Yürümek İstiyor",
+                "overview": "Fujiwara, müdürün el koyduğu sağlıksız bir dergiye baktığında, \"'İlk seferin' ne zamandı?\" sorusunun yer aldığı bir anketi fark eder ve dehşete düşer. Dergi, lise öğrencilerinin %34'ünün bu deneyimi yaşadığını iddia ediyor. Fujiwara, rakamın doğruluğundan şüphe ederek ve çok yüksek olduğuna inanarak şaşkın Shirogane'yi sakinleştirirken Kaguya, \"Bu yüzde bana doğru görünüyor\" diyor ve bu deneyimi yaşadığını özgürce itiraf ediyor.  Hiçbir zaman romantik bir durumda olmayan Shirogane, Kaguya'nın itirafı karşısında şok olur ama onun tepkisini görünce bunu, \"Kız arkadaşın yok mu?\" diye sorarak onu heyecanlandırmak için bir fırsat olarak kullanır.",
+                "air_date": "2019-01-26",
+                "still_path": "/zQQxttrevh1NOWkwC29TbKI9vPb.jpg",
+                "video_url": "4628520"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kaguya Sevgi İstiyor / Öğrenci Konseyi Söylenmesini İstiyor / Kaguya Göndermesini İstiyor / Miyuki Shirogane Konuşmak İstiyor",
+                "overview": "Bazı nedenlerden dolayı Kaguya ve Shirogane, Fujiwara'nın Paris'teki kardeş okullarının öğrencileriyle yapılacak olan toplantı için cosplay yapma fikrine kapılırlar. Kaguya içten içe bunun aptalca olduğunu düşünüyor ama kedi kulaklarını taktığında ağzından bastırılmış bir \"miyav\" sesi çıkıyor. Dahası, bu küçük cosplay, kedi aşığı olduğunu açıkça belirten Shirogane için beklenmedik bir büyük hit oldu. Onun tatlılığı karşısında o kadar şaşkına döndü ki, her zamanki soğukkanlılığını sürdüremiyor. Shirogane de aynı şeyi yapıp kedi kulakları taktığında durum daha da karmaşık hale gelir ve bu da Kaguya'yı gizlice heyecanlandırır. Birbirlerinin sevimli göründüğüne dair düşüncelerini gizleyemeyen ikili, giderek daha tuhaf davranıyor...",
+                "air_date": "2019-02-02",
+                "still_path": "/xWuhC8r0h9yhQAF6V8NZKbOYnQo.jpg",
+                "video_url": "4628521"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kaguya Üstesinden Gelmek İstiyor / Miyuki Shirogane Gösteriş Yapmak İstiyor / Kaguya Örtülmek İstiyor",
+                "overview": "Çalışkanlık söz konusu olduğunda, Shirogane rakipsizdir, ancak atletizm konusunda umutsuzdur, bu yüzden okuldan sonra spor salonunda voleybol için sıkı antrenman yapıyor. Ancak ne yaparsa yapsın Shirogane herhangi bir ilerleme belirtisi göstermiyor. P.E. için voleybol oynuyorum. sadece bir hafta kaldı ve bu gidişle Öğrenci Konseyi'nin mükemmel başkanı imajı yerle bir olacak. Tam Shirogane umutsuzluğa yenik düşerken Fujiwara ortaya çıkar. Gururunu bir kenara bırakarak ona koçluk yapması için yalvarır ve böylece Shirogane'nin Fujiwara'nın coşkulu vesayeti altında eğitim günleri başlar. Zamanında ortalama bir servis sunabilecek mi?",
+                "air_date": "2019-02-09",
+                "still_path": "/bZmXdOVdVGGn5XkeJPBFLay1s2v.jpg",
+                "video_url": "4628522"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yu Ishigami Yaşamak İstiyor / Chika Fujiwara Seni Test Etmek İstiyor / Kaguya Fark Edilmek İstiyor",
+                "overview": "Yu Ishigami öğrenci konseyinin dördüncü üyesidir. Birinci sınıf öğrencisi olmasına rağmen sayılar konusundaki yeteneği nedeniyle Shirogane tarafından keşfedildi ve konseyin saymanı olarak atandı. Yu'nun içe dönük kişiliği nedeniyle normalde pek fazla göze çarpmıyor ama onsuz konsey dağılırdı. Ancak bir gün Yu, Shirogane'ye gider ve gruptan ayrılma arzusunu itiraf eder. Aslında Shirogane umutsuzca onu kalmaya ikna etmeye çalışsa da kararını vermiştir. Görünüşe göre durum Yu'nun kontrolünün dışındadır, ancak gözünde bir yaşla başkana cinayetin hedefi olduğunu düşündüğünü açıklar...",
+                "air_date": "2019-02-16",
+                "still_path": "/ntPT6eX0q3dy1RjiLy0njG5ofsq.jpg",
+                "video_url": "4628523"
+            },
+            {
+                "episode_number": 7,
+                "name": "Miyuki Shirogane Çalışmak İstiyor / Kaguya Onun Katılmasını İstiyor / Kaguya Kontrol Etmek İstiyor",
+                "overview": "Kaguya tekrar kulak misafiri olurken Kashiwagi'nin erkek arkadaşı daha romantik tavsiyeler almak için Shirogane'ye döner. Shirogane'nin ilk seferindeki tavsiyesi sayesinde çocuk Kashiwagi ile çıkıyor, ancak bir ay geçti ve ikisi henüz el ele bile tutuşmadı. Kaguya'ya göre el ele tutuşmak için ne yapılması gerektiği sorusu o kadar basit ki bundan tiksiniyor, ancak romantik ilişkiler konusunda aslında hiçbir deneyimi olmayan Shirogane için bu, kendini bu konuda yetenekli hissettiği için bir rahatlama. sorunu ele almak. Ancak önceki olayda olduğu gibi Shirogane'nin tavsiyesi beklenmedik bir yöne gidiyor gibi görünüyor...",
+                "air_date": "2019-02-23",
+                "still_path": "/3iZOk8UqApftXkQm8gShyoH56R2.jpg",
+                "video_url": "4628525"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kaguya Onun Söylemesini İstiyor / Miyuki Shirogane Kaybedemez / Yu Ishigami Gözlerini Kapatıyor",
+                "overview": "Dönem sonu sınavları yaklaşırken, öğrenci konseyi odasında Kaguya ve Shirogane arasındaki psikolojik savaş kızışıyor. Kaguya her açıdan bir dahi, ancak akademik açıdan henüz Shirogane'i yenemediği için gururu incinmiş durumda. Bu arada, çaba gösterme konusunda Shirogane kimseden aşağı kalmıyor ve öğrenci konseyi başkanı olarak, sınıfın başındaki konumunu başka kimsenin gasp etmesine izin vermiyor. İkisi de yalan söylüyor ve diğerinin önüne geçmek için Machiavelli'ye yakışır hilelere başvuruyor. Sonunda final günü geliyor, ancak zafer tanrıçası hangisine gülümseyecek?",
+                "air_date": "2019-03-02",
+                "still_path": "/mcLkDQq4Kvn6tMoDIPwv10RpuHd.jpg",
+                "video_url": "4628526"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kaguya Hediye Vermek İstiyor / Chika Fujiwara Ziyaret Etmek İstiyor / Kaguya Shinomiya Hakkında, Bölüm 1",
+                "overview": "Kaguya soğuk algınlığı nedeniyle okuldan evde kalınca Shirogane, diğer konsey üyelerine yardımlarını onun evine bırakacağını söyler. Bu duyuru, onun yerine gitmeye gönüllü olan Fujiwara'yı heyecanlandırır. Fujiwara'ya göre Kaguya üşüttüğünde bebek gibi davranıyor. Shirogane'nin kalbi hızlı atıyor ve ne istediğini açıkça söyleyen sevimli bir Kaguya hayal ediyor, ancak tüm öğrenci konseyi üyelerinin Kaguya hastalandığında ona saldırması fikrini reddediyor. Fujiwara, Kaguya'yı kimin ziyaret edeceğine karar vermek için bir Konsantrasyon oyunu oynamayı önerir. Ishigami bile ciddi bir savaşın içine sürükleniyor!",
+                "air_date": "2019-03-09",
+                "still_path": "/404snQhXnRVX6V53n47dKZYJcX2.jpg",
+                "video_url": "4628527"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kaguya Affetmeyecek / Kaguya Affetmek İstiyor / Miyuki Shirogane Bir Yere Gitmek İstiyor",
+                "overview": "Kaguya ve Shirogane \"ev ziyareti olayı\" konusunda tartışırlar ve ikisi de duyguları konusunda dürüst olamadıkları için öğrenci konseyi odasında düşmanca bir ruh hali hakimdir. Kashiwagi'nin bir erkek arkadaşı olduğu için Kaguya \"romantik tavsiye\" almak için ona gider, ancak Kashiwagi \"bir arkadaş istediğini\" söyleyerek yalan söyler. Bu arada Shirogane, romantik komedi hayranı Ishigami'ye kavga ettiği \"karşı cinsten kişi\" ile nasıl barışabileceğini sorduğunda sınıf saymanı hararetli bir şekilde bağırmaya başlar... Kulak dolusu çeşitli tavsiyeler aldıktan sonra Kaguya ve Shirogane, birbirleri hakkında gerçekte ne hissettiklerini anlamaya başlar.",
+                "air_date": "2019-03-16",
+                "still_path": "/5UajteOBwCobGfYKskOW1nlBdX0.jpg",
+                "video_url": "4628528"
+            },
+            {
+                "episode_number": 11,
+                "name": "Ai Hayasaka Sırılsıklam Olmak İstiyor / Chika Fujiwara Gerçekten Yemek İstiyor / Miyuki Shirogane Seni Görmek İstiyor / Havai Fişekleri Duyamıyorum, Bölüm 1",
+                "overview": "Yaz tatillerine yarım ay kala Kaguya, günlerini ortalıkta dolanarak geçiriyor, onları bir araya getirecek öğrenci konseyi olmadan Shirogane'yi göremiyor. Ancak tatilin sonuna doğru öğrenci konseyinin diğer üyeleriyle birlikte bir havai fişek gösterisi izlemeyi planlıyor. Kaguya, bir mali holdingin başkanının kızı olarak katı bir şekilde yetiştirilmesinden dolayı hiçbir zaman yaz anıları yapamadı, bu yüzden herkesle eğlenebileceği günü sabırsızlıkla bekliyor. Ancak olaydan bir gün önce Kaguya'nın babası aniden onu Kyoto'daki evine çağırır...",
+                "air_date": "2019-03-23",
+                "still_path": "/5VnnvaeTXp73ILbcWYxbPPzf7UZ.jpg",
+                "video_url": "4628530"
+            },
+            {
+                "episode_number": 12,
+                "name": "Havai Fişekleri Duyamıyorum, Bölüm 2 / Kaguya Ondan Kaçmak İstemiyor",
+                "overview": "Kaguya, öğrenci konseyi üyeleriyle birlikte havai fişekleri görünce kendini kurtarmak zorunda kaldıktan sonra kendini karanlık yatak odasına kapatır. Kaguya'nın hizmetçisi Hayasaka, metresinin depresif durumundan endişe duymaktadır. Kaguya'yı neşelendirmeye çalışır ve bu işe yaramayınca aile malikanesinden gizlice çıkmak için bir plan yapar. Kaguya, bir çift dikkatli uşağın yanından geçip mekana ulaşmayı başarır, ancak havai fişek gösterisi çoktan bitmiştir. Kaguya gerçekten havai fişekleri diğerleriyle birlikte görmek istediğinden gözyaşları içindedir ama sonra tanıdık bir ses duyar: \"O zaman onları sana göstereceğim.\"",
+                "air_date": "2019-03-30",
+                "still_path": "/daGZCCl6AB8fxNug1Mxzq2VywYI.jpg",
+                "video_url": "4628531"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2020-04-11",
+        "poster_path": "/d8jw8L8pAKVLRUU5hMUEVxIZmIe.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ai Hayasaka Onları Durdurmak İstiyor / Öğrenci Konseyi Nirvana'ya Ulaşamadı / Kaguya Evlenmek İstiyor / Kaguya Kutlamak İstiyor",
+                "overview": "Shirogane'nin yardımı sayesinde Kashiwagi ile çıkan çocuk, Shirogane'den daha fazla ilişki tavsiyesi almak için tekrar geri döner. Ancak onda farklı bir şeyler vardır. Yaz tatilinden dönmesiyle birlikte, tamamen bir oyuncuya dönüşmüştür. Tavsiye almak, Shirogane ve Ishigami'ye kız arkadaşıyla övünmek için bir bahaneydi ve ikisi onun \"nirvanaya ulaştığından\" şüphelenir. İki sevgili romantik bir ruh haline girmeye başladığında çifti yalnız bırakmaya ve onları uzaktan izlemeye karar verirler...",
+                "air_date": "2020-04-11",
+                "still_path": "/yP0oI0VMQoiFKdIUHFKyLoqMy2k.jpg",
+                "video_url": "4785617"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kaguya Bilmek İstiyor / Kaguya Bir Hediye Vermek İstiyor / Chika Fujiwara Bunu Onaylamak İstiyor",
+                "overview": "Kaguya sonunda vitrinlere bakmaya gider ve Shirogane'nin kız kardeşi Kei ile arkadaş olma şansını dikkatle izler. Fujiwara kardeşler yoluna çıkarken, o sonunda Kei'nin yanında yer almayı başarır. Ancak daha sonra Kei'nin profilinde yalnızca Shirogane'nin benzerliğini görebiliyor ve kalbinin çılgınca kontrolden çıkmasına neden oluyor. Kei, kardeşine pek yakın olmadığını mırıldandığında Kaguya hâlâ Shirogane'ye doğum günü için ne vermesi gerektiğine karar verme fırsatını değerlendirmeye karar verir. Kei, Shirogane hakkında hangi sırları açıklayacak?",
+                "air_date": "2020-04-18",
+                "still_path": "/4xXdLTveM0VOXVGQZwKVMYATZcK.jpg",
+                "video_url": "4635172"
+            },
+            {
+                "episode_number": 3,
+                "name": "Miyuki Shirogane Aya Bakmak İstiyor / 67. Öğrenci Konseyi / Kaguya Söylemek İstemiyor",
+                "overview": "Dört üye, Shuchiin Akademisi'ndeki 67. Öğrenci Konseyi olarak son günlerinde, birçok unutulmaz eşyayı buldukları Öğrenci Konseyi Odasını birbiri ardına temizler. Fransız değişim öğrencisi hoş geldin partisinde kullanılan pankarttan, Konsantrasyon sırasında hile yapmak için kullanılan kart destesine, yasak kelime oyunundan kartlara, cosplay kedi kulaklarına, bir öğrenciden el konulan uygunsuz dergiye ve filme kadar. Birdville'li Bay Birdson'a biletler, bu eşyaların her biri güzel anıları canlandırıyor ve birlikte geçirdikleri zamanlar hakkında konuşmayı bırakamıyorlar. Ve böylece dörtlü, boş Öğrenci Konseyi Odası'nı geride bırakır...",
+                "air_date": "2020-04-25",
+                "still_path": "/wV0V5jJ58SpdQAeX7rR0kcKJwsQ.jpg",
+                "video_url": "4635177"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ai Hayasaka Onun Kendisine Aşık Olmasını İstiyor / Kaguya İtiraf Edilmesini İstiyor / Miko Iino Her Şeyi Düzeltmek İstiyor",
+                "overview": "Son tahminlere göre Shirogane, öğrenci konseyi seçimleri yarışının zirvesinde yer alıyor ancak yarışta hemen arkasından gelen birinci sınıf öğrencisi Miko Iino için endişeleniyor. Seçim kampanyası sırasında Miko ile sohbet ettiğinde onun rekabetçi yanı alevlenir ve onun sınıfının en iyisi ve etkili bir konuşmacı olduğunu öğrenir. Fujiwara, iki rakip arasında gerilim tırmanırken barışçıl rolünü oynuyor, ancak Miko \"Öğrenci konseyi başkanı olarak seçilirsem başkan yardımcım olur musun?\" diye sorduğunda hazırlıksız yakalanır.",
+                "air_date": "2020-05-02",
+                "still_path": "/pi4D7Mkw6lGArw9GYVMPVt3ti5t.jpg",
+                "video_url": "4635180"
+            },
+            {
+                "episode_number": 5,
+                "name": "Miyuki Shirogane Kızların Kendisine Aşık Olmasını İstiyor / Nagisa Kashiwagi Teselli Etmek İstiyor / Miyuki Shirogane Şarkı Söylemek İstiyor / Kaguya Onları Tekmelemek İstiyor",
+                "overview": "Akademik açıdan Shirogane'den daha iyisi yok ama müzik yeteneklerine hiç güvenmedi ve okul marşını söylemek zorunda kaldıklarında dudak senkronizasyonu yaparak bunu hep taklit etti. Shirogane'nin sırrı Fujiwara tarafından kısa sürede keşfedilse de, diğer öğrenciler onun bir melodiyi taşıyamadığını öğrenirse, mükemmel eski öğrenci konseyi başkanı olarak ünü mahvolurdu. Fujiwara, geçmişte Shirogane'nin atletik beceri eksikliğinin üstesinden gelmesine yardımcı olabildiği için, ona şarkı derslerinde yardım etmeyi kabul eder... Ancak, Shirogane'nin sağır olma seviyesinin umutsuz olabileceğini pek bilmez!",
+                "air_date": "2020-05-09",
+                "still_path": "/qbdlALH4qaUTYKBYLZK3u4NdkP7.jpg",
+                "video_url": "4635185"
+            },
+            {
+                "episode_number": 6,
+                "name": "Miko Iino'yu Gülümsetmek İstemiyorum / Miko Iino'yu Gülümsetmek İstiyorum / Kaguya Aranmıyor",
+                "overview": "Öğrenci konseyi seçimlerinin kaçınılmaz günü nihayet gelir, ancak Miko'nun çabaları boşunadır ve görünen o ki Shirogane'nin başkan olarak geçmişteki deneyimi ona beklenen kazanan olma avantajını sağlamıştır. Kaguya, Shirogane ve ekibinin Miko'nun liginin çok üstünde olduğunu gösteren mükemmel bir destek konuşması yapıyor. Ancak bazı nedenlerden dolayı Ishigami sorunlu görünüyor. Sahne korkusu yaşayan Miko'nun konuşmasını yapamayıp tüm okulun alay konusu olmasından endişe duymaktadır. Ishigami bu olasılık karşısında gözle görülür bir şekilde hayal kırıklığına uğrarken, Shirogane şunları söylüyor: \"Miko Iino'nun diğer öğrenciler tarafından alay edilmemesi için bir şekilde kazanmam gerekiyor, değil mi?\" sahneye doğru giderken…",
+                "air_date": "2020-05-16",
+                "still_path": "/x5JE6ARZAQwdOq6qvlOBxVDuOjh.jpg",
+                "video_url": "4635189"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kaguya Onu Soymak İstiyor / Kaguya Onu Bırakmak İstiyor / Miyuki Shirogane Onu Okumak İstiyor / Kaguya ♡ Akvaryum",
+                "overview": "Ishigami'nin \"Boxer giyen erkeklerin hepsi erkek fahişedir\" şeklinde önyargılı bir görüşü var. Kaguya sözlerini ciddiye alıyor ve Shirogane'nin ne tür bir iç çamaşırı giydiğini öğrenmek için can atıyor. İç çamaşırına tuhaf görünmeden bir göz atabilmek için farklı stratejiler bulmaya çalışır, ancak tüm fikirleri çok yaramazdır. Ona doğrudan ne tür iç çamaşırlarından hoşlandığını sormaya karar verir, ancak Shirogane soruyu yanlış anlar ve ona ne tür iç çamaşırlarından hoşlandığını sorduğunu düşünür. Shirogane, Kaguya'nın giymesini istediği iç çamaşırını hayal etmeye başlar.",
+                "air_date": "2020-05-23",
+                "still_path": "/2Kjfus0iNzCdS4G10aD6OL6Nj4M.jpg",
+                "video_url": "4635194"
+            },
+            {
+                "episode_number": 8,
+                "name": "Miko Iino Kendini Kontrol Etmek İstiyor / Kaguya Kolayca Korkmuyor / Kaguya Muayene Olmak İstiyor",
+                "overview": "Yeni kurulan öğrenci konseyi, Miko'yu denetçi olarak kabul eder, ancak öğrenci konseyi odası bir nedenden dolayı gerilimle doludur. Miko kurallara o kadar bağlı ki, uzaktan uygunsuz görünen herhangi bir şey gördüğünde sık sık onları sert bir şekilde azarlıyor.",
+                "air_date": "2020-05-30",
+                "still_path": "/xSt3eOjypl6wbuMwDB091Y4Y17N.jpg",
+                "video_url": "4635196"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yu Ishigami Gözlerini Kapatıyor, Bölüm 2 / Kaguya Dokunmak İstiyor / Kaguya Hayır Demiyor",
+                "overview": "Kabuğundan çıkıp normal biri olma çabasıyla Ishigami, okul sporları festivalinin amigo takımına katılmaya karar verir, ancak takımın aslında \"Yay Kabilesi!\" Ishigami tereddüt ederken takım toplantısı coşku ve şevkle yoğunlaşır ve tezahürat yaparken tüm erkeklerin kız okul üniforması giymesine karar verilir. Ancak yalnız yaşayan Ishigami'nin aklına, ona rastgele bir üniforma ödünç verecek bir kadın arkadaş gelmiyor. Takımdan ayrılmayı düşünmeye başladığında Kaguya ortaya çıkar...",
+                "air_date": "2020-06-06",
+                "still_path": "/cVgGQGMxV9ybDu7IZplGc5rAqYf.jpg",
+                "video_url": "4635204"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kei Shirogane Konuşamıyor / Miyuki Shirogane Dans Etmek İstiyor / Kobachi Osaragi Çökmek İstiyor / Miyuki Shirogane'nin Babası Öğrenmek İstiyor",
+                "overview": "Akademisyenler söz konusu olduğunda hiç kimse Shirogane'i geçemese de dans becerilerindeki eksiklik onu okul sporları festivaline hazırlık amacıyla Fujiwara ile yaptığı üçüncü yoğun antrenmanda bulur. Ancak Shirogane o kadar umutsuz bir dansçı ki Fujiwara'nın sabrı tükeniyor ve odadan dışarı fırlıyor. Shirogane kendi başına özenle pratik yapmaya devam ederken Kaguya ortaya çıkar ve ona dans dersleri vermeye başlar. Shirogane'yi kontrol etmek için geri dönen Fujiwara, ona öğretmenin en iyi yolu konusunda Kaguya ile tartışmaya başlar ve böylece bir savaş başlar! Daha iyi bir dans öğretmeni olarak kim galip gelecek?",
+                "air_date": "2020-06-13",
+                "still_path": "/1UwUHzEdUF2eHgYCIemrKlC2mCP.jpg",
+                "video_url": "4635205"
+            },
+            {
+                "episode_number": 11,
+                "name": "Yu Ishigami Closes His Eyes, Part 3 / Miyuki Shirogane And Yu Ishigami / Kyoko Otomo Doesn't Realize",
+                "overview": "Spor festivali tüm hızıyla devam ederken, amigo takımının performansı büyük bir başarıdır ve Ishigami, daha önce hiç yaşamadığı bir tatmin duygusuna kapılır. Ancak ortaokuldan sınıf arkadaşı Kyoko Otomo, Ishigami'ye yaklaştığında yüz ifadesi tamamen değişir. Hâlâ gözle görülür bir şekilde sarsılmış olsa da, bayrak yarışının dayanağı olarak amigo kız takımının yaralı liderinin yerine seçilir. Soluk yüzlü Ishigami piste çıkarken, geçmişte okulda sebep olduğu bir olayı düşünmeye başlar...",
+                "air_date": "2020-06-20",
+                "still_path": "/2LhtGGYFcTKuw5MG1gMy5bjN3Yl.jpg",
+                "video_url": "4635211"
+            },
+            {
+                "episode_number": 12,
+                "name": "Öğrenci Konseyi Bir Grup Fotoğrafı İstiyor / Öğrenci Konseyi O Grup Fotoğrafını Çektirecek / Chika Fujiwara Şişirmek İstiyor",
+                "overview": "Öğrenci konseyinden Shuchiin Akademisi broşürü için modellik yapması isteniyor. Ancak Kaguya'nın ailesinin, onun herhangi bir tanıtım amacıyla fotoğrafının çekilmesini yasaklayan katı bir politikası var ve sonuç olarak Kaguya, katılamıyor. Kaguya çatıdaki fotoğraf çekimini özlemle izlerken, öğrenci konseyi üyeleri cep telefonlarıyla yalnızca özel kullanım için son bir grup fotoğrafı çekmeyi teklif ediyor ve bu da Kaguya'yı çok mutlu ediyor. Tam o sırada çatıda sert bir rüzgar esiyor ve telefonunu düşürüp aşağı, okul bahçesine göndermesine neden oluyor. Kaguya, parçalanmış cep telefonunu yerden alır ve kaybettiği herkesle olan tüm fotoğrafları düşünmeye başlar ve üzüntüye boğulur.",
+                "air_date": "2020-06-27",
+                "still_path": "/4TFSIQb1iGfSlfuiwt7Dz2Umlij.jpg",
+                "video_url": "4704758"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 13,
+        "air_date": "2022-04-09",
+        "poster_path": "/eO9HZHNhncJbMGxAEZlWdGLNeFC.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Miko Iino Sakinleşmek İstiyor / Kaguya Farkında Değil / Chika Fujiwara Savaşmak İstiyor",
+                "overview": "Kaguya, uzun zamandır beklenen akıllı telefon çıkışını nihayet gerçekleştirdikten sonra, Shirogane'nin LINE mesajına nasıl yanıt vereceği konusunda huzursuzca düşünüyor. Hayasaka ona göz kulak olurken Kaguya'nın \"okundu bilgisi\" işlevinden haberdar olmadığını fark eder. Kaguya, mesajı yeni okuduğunu söyleyerek yalan söylerse, Shirogane'nin mesajına takıntılı bir şekilde neşeyle baktığı gerçeğini açığa çıkarma riskiyle karşı karşıya kalır. Hanımına en iyi şekilde hizmet etmek için seçeneklerini değerlendiren Hayasaka, aniden yeni bir sorun ortaya çıkınca LINE'ın işlevlerini açıklamaya karar verir.",
+                "air_date": "2022-04-09",
+                "still_path": "/swcM3cL0U2tzAWXz4VX2ZAIOrJR.jpg",
+                "video_url": "4679763"
+            },
+            {
+                "episode_number": 2,
+                "name": "Miyuki Shirogane Arabuluculuk Yapmak İstiyor / Kaguya Dikkatini Dağıtmak İstiyor / Kaguya Önleyici Saldırı Yapıyor",
+                "overview": "Kaguya, Shirogane'nin bir karaoke grubu randevusuna davet edildiğini öğrendiğinde büyük bir yaygara koparır ve Hayasaka'ya onu mekandan çıkarmasını emreder. Böyle bir muameleden memnun olmayan ancak metresinin talimatlarını reddedemeyen Hayasaka, Shirogane'nin tanıdığı Smithee A. Herthaka olarak partiye katılır ve Shirogane'nin onu bir zamanlar terk ettiğini ortaya çıkararak atmosferi bozmayı planlar. Ve Shirogane'yi dışarı çıkarmayı başarsa da, Kaguya'ya karşı asi bir ruh büyümeye başlamıştır...",
+                "air_date": "2022-04-16",
+                "still_path": "/sEz3eqrrAYsxYbMwGfXFM4aK7lG.jpg",
+                "video_url": "4706118"
+            },
+            {
+                "episode_number": 3,
+                "name": "Nagisa Kashiwagi Öldürmek İstiyor / Maki Shijo Harekete Geçmek İstiyor / Miyuki Shirogane İnanılmak İstiyor",
+                "overview": "Shirogane yanlışlıkla kampüste yere yığılan kız öğrenci Maki Shijo'nun üzerine basar ve öğrenci konseyi odasında onunla ilgilenir. Görünüşe göre aşk acılarından acı çekmiş. Maki durumunu onunla tartıştığında ifadesi neşeliden endişeliye, patlayıcı derecede kızgına ve ağlamaklıya dönüşüyor. Bu kadar yoğun bir insani duygu yelpazesine tanık olduktan sonra Shirogane, bir nedenden dolayı güçlü bir deja vu duygusuna kapıldı. Bu duygu neydi Allah aşkına?",
+                "air_date": "2022-04-23",
+                "still_path": "/dRJr7LU32h1ANCLa6zogGrAi4n8.jpg",
+                "video_url": "4684322"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kaguya Shinomiya'nın İmkansız Talebi: \"bir Kırlangıç ​​doğurmuş Bir Cowrie\" (1) / Yu Ishigami Kendine Layık Olduğunu Kanıtlamak İstiyor / Chika Fujiwara Burada Kalmak İstiyor",
+                "overview": "İkinci dönem final sınavları bittikten sonra Kaguya'nın evinde yatıya kalma planları vardır. Ancak Shirogane ve diğerleri gelemezler ve katılabilecek tek kişi Fujiwara'dır. Arpa, üzgün Kaguya'ya bakarken Fujiwara, onun erkek gibi giyinmiş Hayasaka olduğunu fark etmeden, tamamen ateşli uşak Bay Herthaka için heyecanlanır. O gece, pijama partisinde kız konuşması başlarken uykusuz kalan Kaguya, kimsenin farkına varmadan tuhaf bir ruh haline bürünür. Bu enerjiyle Shirogane'yi arar ve sonunda çirkin sorular sorar.",
+                "air_date": "2022-04-30",
+                "still_path": "/cDzDVxRFTM3x9kBvoVch71kds0s.jpg",
+                "video_url": "4706121"
+            },
+            {
+                "episode_number": 5,
+                "name": "Chika Fujiwara Ritim Atmak İstiyor / Ai Hayasaka Konuşmak İstiyor / Maki Shijo Biraz Yardım İstiyor",
+                "overview": "Shirogane, Bayan Herthaka'ya bazen insanların zayıflıklarını ortaya çıkarmaları gerektiğini ve bunu aktarabilecek şekilde rap yapmaya çalıştıklarını söyleyemedi. Ancak rap yetenekleri felakettir. Daha önce ona şarkı söylemeyi ve dans etmeyi öğreten Fujiwara, pratik yapmak için ona eşlik ediyor. Ama iş rap'e gelince tam bir amatör ve bunların hepsinin basit kelime oyunları olduğuna inanacak seviyede. Böylece Fujiwara özel eğitime başlıyor. Rap müziği konusunda zengin bir bilgi birikimine sahip olan Shirogane'nin tavsiyesi ile hızla gelişir... Ama hâlâ bir şeyler eksiktir!",
+                "air_date": "2022-05-07",
+                "still_path": "/5ZaCSHwKGBuqK9Tm7XU32gVbyZJ.jpg",
+                "video_url": "4709093"
+            },
+            {
+                "episode_number": 6,
+                "name": "Öğrenci Konseyi İlerlemek İstiyor / Miyuki Shirogane İtiraf Etmek İstiyor (2) / Miyuki Shirogane İtiraf Etmek İstiyor (3)",
+                "overview": "Her öğrencinin geleceğini belirlemek için Veli-Öğretmen Toplantıları Shuchiin Akademisi'nde başlıyor. Biri akademinin üniversitesinde devam etmek istiyor, biri farklı bir üniversitenin sınavlarına girmeyi düşünüyor; ikisi de gelecek planlarını açıklayacak. Babasının da eşlik ettiği Fujiwara şakalaşıyor ve akademi dışında bir üniversiteye gitme arzusunu dile getiriyor. Bu arada Kaguya'nın babası gelmedi, ancak tıpkı ebeveynlerinin söylediği gibi onlara Shuchiin'in üniversitesine devam edeceğini bildirdi. Maki, Hayasaka ve diğerleri hayallerini tartışırken sonuncu ama bir o kadar da önemlisi sınava giren Shirogane'dir. Açık ve kendinden emin bir ses tonuyla ilerlemesi gereken yolu ilan ediyor. Ve bu cevap...!",
+                "air_date": "2022-05-14",
+                "still_path": "/z36yMBpJFVlZmHr4eOk83DIwg0Y.jpg",
+                "video_url": "4712387"
+            },
+            {
+                "episode_number": 7,
+                "name": "Miko Iino Sevilemez (1) / Öğrenciler Kültür Festivalini Tartışmak İstiyor / Miyuki Shirogane Olayı Havaya Uçurmak İstiyor",
+                "overview": "Shuchiin Akademisi'nin Hoshin Kültür Festivali'ne hazırlık için tüm dersler tüketilirken, Shirogane ve 2-B Sınıfı öğrencileri balon sanatı yapmak için çok çalışıyorlardı. Fujiwara sevimli bir balon ayıya özenle son rötuşları yaparken, beceriksiz Shirogane ne kadar denerse denesin balonları patlatmaya devam ediyor. Patlayan balonların sesi sınıfta hüzünlü bir şekilde yankılanıyor. Ancak şimdiye kadar birçok kez Shirogane'nin özel eğitimine katılan Fujiwara, kalbini katılaştırır ve bu sefer yardım etmemeye karar verir. Shirogane, başkalarının yardımı olmadan bunun üstesinden gelmek için pratik yapmak üzere öğrenci konseyi odasına gider. Ancak Kaguya odada...",
+                "air_date": "2022-05-21",
+                "still_path": "/6sotc5WKho0aTCiRCrVRilNo8Jj.jpg",
+                "video_url": "4721974"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kei Shirogane Gösteriş Yapmak İstiyor / Kaguya Shinomiya Hakkında (2) / Kaguya İtiraf Etmek İstiyor",
+                "overview": "Kaguya, Kültür Festivali'nde kalp şeklinde bir hediye vermenin sonsuz aşk getirdiğine dair romantik efsaneyi öğrenir. Shirogane'ye yakalanmadan kalp şeklinde bir hediye vermenin bir yolu olup olmadığını merak ediyor. Ancak planları hatalarla doludur ve paniğe kapılır. Yalnızca olumsuz fikirler üretebilen korkak bir insan olarak kendisinden sıkılır. Orada, Kültür Festivaline hazırlanmaktan yorulmuş olan Shirogane ortaya çıkar. Kaguya, Shirogane'nin öğrenci konseyi başkanı olarak herkes için elinden gelenin en iyisini yaptığını görünce...",
+                "air_date": "2022-05-28",
+                "still_path": "/r2Bqe5tDrs29DATXwxmSyWilnKg.jpg",
+                "video_url": "4730929"
+            },
+            {
+                "episode_number": 9,
+                "name": "Birinci Yılın Baharı / Kaguya'nın Kültür Festivali / Yu Ishigami'nin Kültür Festivali",
+                "overview": "Shuchiin Akademisi'ne özel burslu öğrenci olarak kaydolduktan bir hafta sonra Shirogane, gelmemesi gereken bir okula geldiği için çoktan pişman olmuştu. Etrafındaki öğrenciler ünlü ailelerin çocuğu olarak doğmuş seçkinlerdi. Mütevazı bir aileden gelen ve Shuchiin'in pisti dışındaki bir okula kayıtlı olan Shirogane, birlikte yemek yiyecek bir arkadaş bile bulamadı, bu yüzden kafeteryadan uzakta sessizce zaman öldürüyor. Tam Shirogane'nin sefil duyguları patlayacakken, önünde öğrenci şapkası takan üst sınıftan bir adam belirir. Öğrenci konseyi başkanının kanıtı olarak göğsünün üzerinde parlak altın rengi bir fourragere duruyor. Ve Shirogane'yi öğrenci konseyine almaya geldiğini söylüyor.",
+                "air_date": "2022-06-04",
+                "still_path": "/As5p7tb3rKwATgZl6LVHVZuGc0H.jpg",
+                "video_url": "4739384"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kozue Makihara Wants To Have Fun / Chika Fujiwara Wants To Unmask / Miyuki Shirogane's Culture Festival",
+                "overview": "Tsubame'yi Kültür Festivali tarihine davet etmeyi başaran Ishigami, ikisi arasındaki mesafeyi kısaltmak amacıyla kampüs sergilerini dolaşıyor. Sonunda işler umduğu gibi gitmedi. Ancak borçlu hissettiği üst sınıf öğrencisine günlük minnettarlık duygularını ifade etmeye çalıştığında, bu beklenmedik bir kargaşaya neden oldu. Shirogane beklenmedik olaya tanık olduktan sonra şaşkına döndü. Gizlice planladığı \"Shinomiya'yı İtiraf Ettir Planı\"nın mahvolacağı korkusuyla her ayrıntıyı çok fazla düşündükten sonra umutsuzluğa kapılır.",
+                "air_date": "2022-06-11",
+                "still_path": "/2FaEY1QlT0DFU55dPnRDgnZWomK.jpg",
+                "video_url": "4748267"
+            },
+            {
+                "episode_number": 11,
+                "name": "Miyuki Shirogane İtiraf Etmek İstiyor (4) / Tsubame Koyasu Hayır Demek İstiyor / Miyuki Shirogane İtiraf Etmek İstiyor (5)",
+                "overview": "Shirogane tarafından birlikte kültür festivalinde dolaşmaya davet edilen Kaguya, olay örgüsünün bu ani değişimi karşısında şaşkınlığını gizleyemez. Belki festivalin atmosferinden etkilenmiştir diye hafifçe şaka yaptı ama Shirogane ciddi ifadesini asla düşürmedi. Bu yoğunluğun zorladığı Kaguya, okulda birlikte dolaşmaya karar verdi. Kaguya kızarırken çevrelerindeki herkes randevuda olduklarının dedikodusunu yapar. Ancak onlar bir aşk falcısını, yiyecek dükkanlarını ve canlı müziği ziyaret etmenin tadını çıkarırken Kaguya gerçek mutluluğu hissediyor. Kalbinin derinliklerinden her günün böyle devam etmesini diliyor.",
+                "air_date": "2022-06-18",
+                "still_path": "/1Srx8y91w67zFGnoTjRBXfOZA5c.jpg",
+                "video_url": "4757067"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kaguya İtiraf Etmek İstiyor (2) / Kaguya İtiraf Etmek İstiyor (3) / İkili İtiraf (1)",
+                "overview": "Kültür festivalinin finaline ulaştığı anda Shirogane'nin yaptığı mücevher nesnesi, kendisine Arsène diyen hayalet bir hırsız tarafından çalındı. Kaguya ve diğerleri hayalet hırsızın sürekli ortaya çıktığı çatıya yöneldiler ama orada kimse yoktu. Dahi bir dedektife dönüşen Fujiwara, arama kartının ardındaki gizemi çözmeye ve hırsızın gerçek kimliğini ortaya çıkarmaya çabalıyor. Ancak suç mahallinde geride bırakılan Kaguya, suçluyu bulmaya başlamıştı. Sorun konumdur. Kaguya hayalet hırsızın düşünce tarzını takip etti ve şu anda bulunduğu yere doğru yola çıktı...",
+                "air_date": "2022-06-25",
+                "still_path": "/koyIueswQEOY6DiTHpCwgYfs1Ct.jpg",
+                "video_url": "4878824"
+            },
+            {
+                "episode_number": 13,
+                "name": "İkili İtiraf (2) / Shuchiin Afterparty",
+                "overview": "Bir pelerinle örtülen ve hayalet hırsız Arsène kılığına giren Shirogane, Shuchiin'e bakan saat kulesinin çatısında Kaguya'nın gelişini bekledi. Neden böyle bir şey yaptığı sorulduğunda Shirogane, Kaguya'ya göstermek istediği bir şey olduğunu söyledi. Güneş okulun üzerinde batarken festivalin parti sonrası partisi çoktan başladı ve öğrenciler şenlik ateşinin etrafını sararak keyif alırken görülebiliyordu. Shirogane ve Kaguya'nın kalpleri arasında kelimelerle ifade edilemeyen duygular birbirine karışırken... Shirogane ultra romantik operasyonunu gerçekleştirdi!!",
+                "air_date": "2022-06-25",
+                "still_path": "/azd17Ynf1PUfpJtVc3GdBONSrSq.jpg",
+                "video_url": "4878827"
+            }
+        ]
+    }
+}

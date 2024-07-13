@@ -1,0 +1,276 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 20,
+        "air_date": "2022-10-05",
+        "poster_path": "/lIk4c6nxlPtAlsWmOVPT9vanfYg.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Nefret Edilen Sınıf Arkadaşı",
+                "overview": "Akane travmasıyla popüler olarak ve insanların onu sevmesi için çok çalışarak başa çıkıyor ancak sınıfındaki bir erkek çocuk onunla hiç ilgilenmiyor. Bu onu sonuna kadar rahatsız ediyor.",
+                "air_date": "2022-10-05",
+                "still_path": "/8pvDj5Z7pcZIk3KczQVhPYCsBbY.jpg",
+                "video_url": "4981902"
+            },
+            {
+                "episode_number": 2,
+                "name": "Gölge Bahçesi Doğuyor",
+                "overview": "Baron Kagenou'nun oğlu olarak reenkarne olan Cid, sonunda Gölgelerin Üstünü olabileceği güne hazırlanırken Arka Plan Karakteri A olarak zamanını geçiriyor!",
+                "air_date": "2022-10-12",
+                "still_path": "/b4jf83UsgDglZaWTOo9vQbd7eaE.jpg",
+                "video_url": "4981910"
+            },
+            {
+                "episode_number": 3,
+                "name": "Eskrimci Sıralaması",
+                "overview": "Prensesin arka plandaki karakterin itirafını kabul etmesi değil, reddetmesi gerekiyor - Cid ne zamandan beri romantik komedi kahramanı oldu?",
+                "air_date": "2022-10-19",
+                "still_path": "/ysArSHE1FIzqAYIiuXBzEv3qx5w.jpg",
+                "video_url": "4981973"
+            },
+            {
+                "episode_number": 4,
+                "name": "Sadizmin Ödülleri",
+                "overview": "Gücü elinde bulunduranların her zaman yaptığı hata, kontrolün kendilerinde olduğuna inanmaktır.",
+                "air_date": "2022-10-26",
+                "still_path": "/eVkqQDMCmuC4bEdyfNkKYH2xXWu.jpg",
+                "video_url": "4984401"
+            },
+            {
+                "episode_number": 5,
+                "name": "Ben...",
+                "overview": "Cid bir minyonla değil, bir Şövalye adayıyla karşı karşıyadır. Normalde bu endişe vericidir, ancak bir atom bombasının, aşağılık bir haşerenin dişlerini gıcırdatmasından korkması için hiçbir nedeni yoktur.",
+                "air_date": "2022-11-02",
+                "still_path": "/rWLaaAsbol1oxlXu5k7zs1adeLz.jpg",
+                "video_url": "4987903"
+            },
+            {
+                "episode_number": 6,
+                "name": "Taklitçiler",
+                "overview": "Iris bir eseri incelemek için parlak bir zihin ararken, Cid popüler bir mağazayı ziyaret eder. Bu arada, şehrin karanlık köşelerinde, biri Shadow Garden adına cinayetler işler!",
+                "air_date": "2022-11-09",
+                "still_path": "/op8r4shHpzzBrbLk6Rt5pFp7phd.jpg",
+                "video_url": "4990074"
+            },
+            {
+                "episode_number": 7,
+                "name": "Entrika ve Kan Dökülmesiyle Dolu Bir Eskrim Turnuvası",
+                "overview": "Cid, Nu'dan Kraliyet Başkenti'nde gizlenen güçlü tarikat üyeleri hakkında bir rapor alır. Yaklaşan eskrim turnuvasından dolayı dikkatinin farkına varamayacak kadar dalgın olması çok kötü.",
+                "air_date": "2022-11-16",
+                "still_path": "/qZRbGR50WPICFbPugMHM5Wk15hH.jpg",
+                "video_url": "4993073"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kara Şövalye Akademisi Saldırı Altında",
+                "overview": "Cid, Rose'u kurtarmak için hayatını feda etti. En azından herkes öyle düşünüyor. Başka kimsenin bilmediği bir şekilde, Cid tam olarak planlandığı gibi hayatta kaldı ve şimdi karşı saldırısı başlayabilir.",
+                "air_date": "2022-11-23",
+                "still_path": "/bZnKpqD9xpa7EQ2gYvDGviWp6Fa.jpg",
+                "video_url": "4994084"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bir Yalanın Sonu",
+                "overview": "Öğrenciler karşılık verdiğinde Gölge Bahçesi takviye olarak mücadeleye katılır. Kaosun ortasında Cid, Sıska Şövalye ile yüzleşir.",
+                "air_date": "2022-11-30",
+                "still_path": "/mP0CChoVHqYuious4MLL6dHIuRi.jpg",
+                "video_url": "4994097"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kutsal Topraklar, Aldatma Şehri",
+                "overview": "Cid, Alpha'nın çağrısına yanıt olarak Lindwurm'a gider, ancak oraya seyahat eden tek kişi o değildir; yıllık Tanrıça Duruşması hızla yaklaşıyor.",
+                "air_date": "2022-12-07",
+                "still_path": "/ieog04twIx3llt3s4n0oXrJ69aT.jpg",
+                "video_url": "4996864"
+            },
+            {
+                "episode_number": 11,
+                "name": "Tanrıçanın Yargılanması",
+                "overview": "Tanrıçanın Davası'nda perde açılıyor. Cid farkında olmadan arenaya çağrıldığında Gölge'ye dönüşür ve Felaket Cadısı Aurora'dan başkasıyla karşı karşıya kalmaz.",
+                "air_date": "2022-12-14",
+                "still_path": "/g8qRNYyYYWHUQ9xkJt6UftCneeO.jpg",
+                "video_url": "4999010"
+            },
+            {
+                "episode_number": 12,
+                "name": "Anılardaki Gerçek",
+                "overview": "Sığınağın kapısı açılır ve Alpha, Tarikatın ciddi sırlarını açığa çıkarmak amacıyla kapıdan içeri girer. Bu sırada Cid de Sığınağa girer ve... Aurora ile yeniden bir araya gelir?",
+                "air_date": "2022-12-21",
+                "still_path": "/6NpbpLi2mAcEN4cyLicIxicUoXr.jpg",
+                "video_url": "4999011"
+            },
+            {
+                "episode_number": 13,
+                "name": "İmhaya Bir Adak Olarak Kanlı Hesaplaşma",
+                "overview": "Alpha, acımasız bir savaşta güçlendirilmiş Nelson'la karşı karşıya gelir. Başka bir yerde Cid ve Aurora, Sığınak'ın merkezine ulaşır ancak yalnızca bir kahramanın açabileceği bir kapı onların yolunu tıkar.",
+                "air_date": "2022-12-28",
+                "still_path": "/91ngOa9nh4rRXmIuBRYox5MER0S.jpg",
+                "video_url": "5000998"
+            },
+            {
+                "episode_number": 14,
+                "name": "Senin Yalanın, Senin Dileğin",
+                "overview": "Nelson yeni büyüsüyle karşılık verince Cid'in zaferi kısa ömürlü olur. Bu sırada Alexia, Rose ve Natsume'u kendi dünyalarındaki gerçeği ortaya çıkarmak için bir ittifak kurmaya ikna eder.",
+                "air_date": "2023-01-04",
+                "still_path": "/rLJk63wrpN2TyodCVtQSAjWfGWw.jpg",
+                "video_url": "5001626"
+            },
+            {
+                "episode_number": 15,
+                "name": "En Güçlü En Zayıf Adam",
+                "overview": "Prestijli Bushin Festivali'nde yalnızca en güçlü savaşçılar yükselebilir, ancak yarışmacılardan biri kendisinin zayıf ve sıradan, hiçbir yeteneği olmayan bir adam olduğunu kanıtlar. Neden yarışıyor?",
+                "air_date": "2023-01-11",
+                "still_path": "/52VKQLGGI7BIqmq9W4hIdSPdrCw.jpg",
+                "video_url": "5009564"
+            },
+            {
+                "episode_number": 16,
+                "name": "Görünmeyen Niyetler",
+                "overview": "Prenses Rose, Kraliyet Başkenti'nin kuzeyine kaçar. Oriana Krallığı bu konuyu \"tamamen ülke içi\" bir mesele olarak kendi içinde ele almak istiyor.",
+                "air_date": "2023-01-18",
+                "still_path": "/gmRkrX9i1ISka705wfJDrb32GGp.jpg",
+                "video_url": "5013924"
+            },
+            {
+                "episode_number": 17,
+                "name": "Karanlığı Delen Ay Işığı",
+                "overview": "Cid geçmiş yaşamındaki piyano derslerini hatırlıyor; bunun şimdiki zamanı üzerinde nasıl bir etkisi var? Bu arada Epsilon'un performansı başka bir şeyin müziğini belirliyor...",
+                "air_date": "2023-01-25",
+                "still_path": "/j8eYUYpWVucJjDV4bajmCmrcMBp.jpg",
+                "video_url": "5022710"
+            },
+            {
+                "episode_number": 18,
+                "name": "Bir An İçin Bahis Yapmak",
+                "overview": "Cid ve Claire bir turnuvaya davet edilir. Festivallerde Cid, arka plandaki bir karakterin arzu ettiğinden daha fazla ilgi görüyor.",
+                "air_date": "2023-02-01",
+                "still_path": "/hOMciHCdCGDW5GMKrT2MvFCeKyD.jpg",
+                "video_url": "5029994"
+            },
+            {
+                "episode_number": 19,
+                "name": "Dans Eden Kukla",
+                "overview": "Doem, Midgar'la savaşmaya çalışır. Bu sırada Jimina ile Iris arasındaki maç başlar.",
+                "air_date": "2023-02-08",
+                "still_path": "/jcOd47NoCPkCDCGr2wzdMuUqJw5.jpg",
+                "video_url": "5037355"
+            },
+            {
+                "episode_number": 20,
+                "name": "Şeytanın Gelişi",
+                "overview": "Shadow ve Beatrix arasındaki kavganın kışkırttığı Iris, mücadeleye katılır. Kraliyet Başkenti'nde yoğun bir savaş sürüyor. Bu sırada Rose, Alpha'yla karşılaşır...",
+                "air_date": "2023-02-15",
+                "still_path": "/wdYOmpLaHeRHVsNFXHYztBymtMY.jpg",
+                "video_url": "5047037"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2023-10-04",
+        "poster_path": "/79d7F8z5ToV3H1UZl8KLKv5vVwr.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kanunsuz Şehir",
+                "overview": "Cid ve kız kardeşi Claire, \"Kanunsuz Şehir\" olarak bilinen devasa gecekondu mahallesine doğru yola çıkarlar. Orada Cid, Kızıl Ay'ın neden olduğu kargaşanın ortasında kalır.",
+                "air_date": "2023-10-04",
+                "still_path": "/fLDAfyZUhfa81PH1GB8Jymfu6wy.jpg",
+                "video_url": "5277611"
+            },
+            {
+                "episode_number": 2,
+                "name": "Cennet",
+                "overview": "Ay kırmızıdır. Çılgınlık başladı. Shadow, Lawless City'deki güçlü oyuncularla tanıştırılıyor. Bu sırada Mary ve Claire, Juggernaut'la karşılaşır.",
+                "air_date": "2023-10-11",
+                "still_path": "/3KwLWJaL2jojk5SxGvwB9gPvPsb.jpg",
+                "video_url": "5286499"
+            },
+            {
+                "episode_number": 3,
+                "name": "Uyanış Saati",
+                "overview": "Kızıl ayın doğduğu gece, Kan Kraliçesi Elisabeth geri döner.",
+                "air_date": "2023-10-18",
+                "still_path": "/2itk1cMs1oAT8ojfAzQ2bTnleCb.jpg",
+                "video_url": "5286746"
+            },
+            {
+                "episode_number": 4,
+                "name": "Yalan Maskesi",
+                "overview": "Mitsugoshi Şirketi Gamma sayesinde harika işler çıkarıyor! Ancak akla gelebilecek en büyük kriz çirkin yüzünü gösteriyor.",
+                "air_date": "2023-10-25",
+                "still_path": "/3h4tIvNIyjerjU1YWMGwoyWxkhV.jpg",
+                "video_url": "5311240"
+            },
+            {
+                "episode_number": 5,
+                "name": "İpleri Çeken O",
+                "overview": "Alpha ve Gamma, Mitsugoshi'nin Gölge Bahçesi ile bağlantısını ima edecek herhangi bir eylemde bulunmamak için dikkatli bir şekilde plan yapar. Bu arada John Smith'in de kendine ait bir planı vardır.",
+                "air_date": "2023-11-01",
+                "still_path": "/iei9E3xNF1YyTttB6fyhWHSIrZF.jpg",
+                "video_url": "5324691"
+            },
+            {
+                "episode_number": 6,
+                "name": "John Smith",
+                "overview": "John Smith'in becerisi en yetenekli dövüşçülerden bile fersah fersah üstündür! Kim bu gizemli kişi?",
+                "air_date": "2023-11-08",
+                "still_path": "/1xhzcF43bC2Tpf4pk3exqMjRQso.jpg",
+                "video_url": "5336851"
+            },
+            {
+                "episode_number": 7,
+                "name": "Değerli Bir Şey",
+                "overview": "Büyük Kurumsal İttifak tüm mağazalarının vitrinlerini kapatmaya zorlayarak vatandaşların huzursuzluğunu doruğa çıkardı. Peki Gölge Bahçe fırtınayı atlatabilecek mi?",
+                "air_date": "2023-11-15",
+                "still_path": "/vfS9HnD61mI2quFSHVd6So1TeNB.jpg",
+                "video_url": "5341127"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ejderhanın Gözyaşları",
+                "overview": "Cid'in kaybolmasıyla ve işler kızışmaya başlayınca Gölge Bahçesi harekete geçer. Mitsugoshi Kaplıcaları Bölgesi'nde yani!",
+                "air_date": "2023-11-22",
+                "still_path": "/e1D0gbZPXoEFHjUFi3Vsqjb9OHz.jpg",
+                "video_url": "5348284"
+            },
+            {
+                "episode_number": 9,
+                "name": "Anahtar",
+                "overview": "Oriana Krallığı'na giden yolda Cid aynı zamanda kendini keşfetme ve derinlemesine düşünme yolculuğuna da çıkıyor. Bir şeylerin eksik olduğunu hissediyor. Hayal mi görüyor?",
+                "air_date": "2023-11-29",
+                "still_path": "/ksu8VTrV6blxg7KEwk9fCw8ncBx.jpg",
+                "video_url": "5353630"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kafesteki Kuş",
+                "overview": "Prenses Rose Oriana düşmana katılmayı kendine görev edindi mi? Artık Yedi Gölge'nin bile bu konuda yetkisi yok.",
+                "air_date": "2023-12-06",
+                "still_path": "/uDdMHkABUTVLqLj6IJal3PcQwKV.jpg",
+                "video_url": "5355664"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kararlılık",
+                "overview": "Perv annesini rehin alırken Prenses Rose'un elleri bağlı olan Gölgedeki Eminence, tutsağı kurtarmak için harekete geçmelidir.",
+                "air_date": "2023-12-13",
+                "still_path": "/sCoaSKF5v3TpAsoNGkS8IeIMYTH.jpg",
+                "video_url": "5364319"
+            },
+            {
+                "episode_number": 12,
+                "name": "En Yüksek",
+                "overview": "Sezon finalinde katliam ziyafeti başlasın.",
+                "air_date": "2023-12-20",
+                "still_path": "/emiF9ABUfbrE5BxVWvtbouYBRrv.jpg",
+                "video_url": "5372387"
+            }
+        ]
+    }
+}

@@ -1,0 +1,806 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 25,
+        "air_date": "2012-07-08",
+        "poster_path": "/xMybvQFv4XOwqRTgkmvIrclPhD4.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kılıçların Dünyası",
+                "overview": "Tüm zamanların en çok beklenen video oyunlarından birinin lansman günü. Sword Art Online'ın sanal dünyasında yolculuğuna başlayan \"Kirito\" karakterine katılın.",
+                "air_date": "2012-07-08",
+                "still_path": "/lRnsUV4U0ljSzKrO8t38mrS284K.jpg",
+                "video_url": "4297249"
+            },
+            {
+                "episode_number": 2,
+                "name": "Çırpıcı",
+                "overview": "Oyuncuların oyuna kilitlenmesinin üzerinden bir ay geçti.  2000 kişi öldü; Birinci kat henüz temizlenmedi.",
+                "air_date": "2012-07-15",
+                "still_path": "/hiBynS5SFi0ltxFsaYtq39C9k76.jpg",
+                "video_url": "4297257"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kırmızı Burunlu Ren Geyiği",
+                "overview": "Kirito nihayet gerçekte yakın arkadaşlarından oluşan bir loncaya katıldı.  Trajik bir kaza Kirito'yu tamamen değiştirene kadar her şey yolunda gidiyor.",
+                "air_date": "2012-07-22",
+                "still_path": "/kxBO1gp72V4uBWLSACzL3RvEjQ9.jpg",
+                "video_url": "4297261"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kara Kılıç Ustası",
+                "overview": "Silca, Ejderha Terbiyecisi Silca olarak bilinir ancak grubundan ayrıldıktan sonra yakalanır ve evcil hayvanı Pina bunun bedelini öder.  Kirito öldürülmeden önce onu kurtarır ve ona bir seçenek sunar.",
+                "air_date": "2012-07-29",
+                "still_path": "/xg8AqSOPUaEJvaG8GcdPsCIT2MI.jpg",
+                "video_url": "4297262"
+            },
+            {
+                "episode_number": 5,
+                "name": "Güvenli Bölgede Cinayet",
+                "overview": "Bir oyuncu bilinen yöntemlerle değil, güvenli bir bölgede öldürüldü.  Asuna ve Krito bunun nasıl ve neden olduğunu bulmayı üstlenirler.",
+                "air_date": "2012-08-05",
+                "still_path": "/4r89kn8VYl2NahtGAOS1V552w71.jpg",
+                "video_url": "4297264"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hayali İntikamcı",
+                "overview": "Kirito bunun nasıl olduğunu çözdü ve şimdi nedenini bulması gerekiyor.",
+                "air_date": "2012-08-12",
+                "still_path": "/zz9Zw04cvobbS5Bf9MYKxptk9aQ.jpg",
+                "video_url": "4297265"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kalbin Sıcaklığı",
+                "overview": "Yeni bir kılıç almak için yapılan gezi, Kirito'nun ejderhayla ve korkularıyla mücadele etmesine neden olur.",
+                "air_date": "2012-08-19",
+                "still_path": "/iWGUPY39gmNrMmKAfkP8dalEVyz.jpg",
+                "video_url": "4297267"
+            },
+            {
+                "episode_number": 8,
+                "name": "Siyah ve Beyazın Kılıç Dansı",
+                "overview": "2 yıl sonra insanlar SAO'da yaşamaya alıştı, cephe hattının giderek azaldığı bir ortamda hücuma devam etmek Kirito ve Asuna'ya kalmış olabilir.",
+                "air_date": "2012-08-26",
+                "still_path": "/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg",
+                "video_url": "4297268"
+            },
+            {
+                "episode_number": 9,
+                "name": "Mavi Gözlü Şeytan",
+                "overview": "Bir grup oyuncuyu ve Asuna'yı bir Boss karakterinden kurtarmak için Kirito, kozunu oynamak zorunda kalır.",
+                "air_date": "2012-09-02",
+                "still_path": "/t2GBif2MdqYhZvQx755Y9xunQkF.jpg",
+                "video_url": "4297269"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kızıl Öldürme Niyeti",
+                "overview": "Kirito, Kan İttifakı Şövalyeleri'nin başıyla düello yapmayı kabul etti.  Kirito kazanırsa Asuna Şövalyelerden ayrılmakta özgür olacak ve eğer kaybederse...",
+                "air_date": "2012-09-09",
+                "still_path": "/2A6GRQT5uDJhq9vc46fISn0CNzm.jpg",
+                "video_url": "4297270"
+            },
+            {
+                "episode_number": 11,
+                "name": "Sabah Çiy Kızı",
+                "overview": "Yeni evli çift ön saflardan uzakta keyifli vakit geçiriyor.  Ancak yeni bir misafir onları en eskiye götürecektir.",
+                "air_date": "2012-09-16",
+                "still_path": "/tULdNWI4qoToSyO5PUEiwRWncAh.jpg",
+                "video_url": "4297272"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yui'nin Kalbi",
+                "overview": "Kurtuluş Ordusu'nun ikinci komutanı Yulier, arkadaşını ve loncasını kurtarmak için Kirito ve Asuna'ya başvurdu.",
+                "air_date": "2012-09-23",
+                "still_path": "/k8rzVr0A4jtsskjRMLEM5NNlqfr.jpg",
+                "video_url": "4297274"
+            },
+            {
+                "episode_number": 13,
+                "name": "Cehennem Uçurumun Kenarı",
+                "overview": "Kirito, balık tutma turnuvasının tadını çıkarırken lonca liderinden geri dönmelerini isteyen acil bir e-posta alır.",
+                "air_date": "2012-09-30",
+                "still_path": "/ooI4fJvu4eUZgvRTQx1v3uzUTLU.jpg",
+                "video_url": "4297276"
+            },
+            {
+                "episode_number": 14,
+                "name": "Dünyanın Sonu",
+                "overview": "Oyun bitti.",
+                "air_date": "2012-10-07",
+                "still_path": "/fcnSuM0WQyKODZ6BD1yUGJpDbIf.jpg",
+                "video_url": "4297277"
+            },
+            {
+                "episode_number": 15,
+                "name": "Geri Dönmek",
+                "overview": "Kirigaya oyun dışındaki hayatına uyum sağlıyor, ancak Asuna'yı unutmadı. Hastanede onu yakın zamanda ziyaret ettiğinde Sugou Nobuyuki ile tanışır.",
+                "air_date": "2012-10-14",
+                "still_path": "/sMmzH8KpSNV9dGEQ3LP1Xzeokfo.jpg",
+                "video_url": "4297278"
+            },
+            {
+                "episode_number": 16,
+                "name": "Periler Ülkesi",
+                "overview": "Yeni bir MMO, kullanıcıların uçmasına olanak tanıyor ve oyuncuların öldürülmesini teşvik ediyor. Kirito, Asuna'yı aramak için bu yeni oyuna katıldı ve buldukları karşısında hoş bir sürpriz yaşadı.",
+                "air_date": "2012-10-21",
+                "still_path": "/grHJC5Gk7fuk8jywVhs7UYXLiLG.jpg",
+                "video_url": "4297280"
+            },
+            {
+                "episode_number": 17,
+                "name": "Esir Kraliçe",
+                "overview": "Kirito, oyunu ve ırklar arasındaki nefreti Leafa'dan öğrenirken Asuna, Peri Kral'dan rolüyle ilgili gerçeği öğrenir.",
+                "air_date": "2012-10-28",
+                "still_path": "/b702zYjB82kk0APiyCCYBn7fGJU.jpg",
+                "video_url": "4297281"
+            },
+            {
+                "episode_number": 18,
+                "name": "Dünya Ağacına",
+                "overview": "Leafa düşman ediniyor ve Kirito ile takım olmak için bölgesini ve grubunu terk ediyor. Tarafsız Bölge'ye doğru giderken, ALO'nun kuralları ve bölgeleri hakkında daha fazla konuşuyorlar.",
+                "air_date": "2012-11-04",
+                "still_path": "/kP5JiBHMtIuiTcntCZUe9ERzAYj.jpg",
+                "video_url": "4297283"
+            },
+            {
+                "episode_number": 19,
+                "name": "Lugru Koridoru",
+                "overview": "Bir şeyler doğru değil; Recon, Leafa'ya bir mesaj gönderdi: \"Haklıydım. Dikkat olmak. S.\" Ne demek istiyor ve Leafa ile Kirito'nun bunu çözecek zamanları olacak mı?",
+                "air_date": "2012-11-11",
+                "still_path": "/eMcIqPhChoBMpzqXG4CIUuEjKR3.jpg",
+                "video_url": "4297284"
+            },
+            {
+                "episode_number": 20,
+                "name": "Alevli Alevin Generali",
+                "overview": "Kirito ve Leafa toplantıya geldiler ve Kirito'nun büyükelçi olarak blöfü ortaya çıktı.  Semenderler Generali Eugene'e karşı verdiği mücadelede hayatta kalmayı başarabilirse savaşı önleme planı işe yarayabilir.",
+                "air_date": "2012-11-18",
+                "still_path": "/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg",
+                "video_url": "4297285"
+            },
+            {
+                "episode_number": 21,
+                "name": "Alfheim Hakkındaki Gerçek",
+                "overview": "Asuna kaçma çabasını sürdürürken Kirito'nun hayatındaki başka bir kadın da onun duygularını anlamlandırmaya çalışır.",
+                "air_date": "2012-11-25",
+                "still_path": "/9AZUXEji3uy6yu7rtnb2iRuapYm.jpg",
+                "video_url": "4297288"
+            },
+            {
+                "episode_number": 22,
+                "name": "Büyük Görev",
+                "overview": "Kirito'nun Asuna'nın sınırlarını delilerden kurtarma kararlılığı.  Leafa aniden oturumu kapattığında pervasızlığı durdurulur.",
+                "air_date": "2012-12-02",
+                "still_path": "/d3Bl4GEYdM6rLO2BYoNz2esIAD7.jpg",
+                "video_url": "4297290"
+            },
+            {
+                "episode_number": 23,
+                "name": "Tahviller",
+                "overview": "Kirito ile Sugu arasına duvar örülmüş olsa da Asuna'yı kurtarmak zorundadır.  Bir dahaki sefere son zindana meydan okuduğunda yalnız olmayacak.",
+                "air_date": "2012-12-09",
+                "still_path": "/2OrvGXAS28CGhEs96FCAjkHDAUJ.jpg",
+                "video_url": "4297297"
+            },
+            {
+                "episode_number": 24,
+                "name": "Yaldızlı Kahraman",
+                "overview": "Kirito, Asuna ve Yui nihayet yeniden bir araya gelirler ancak Asuna'ya yerleştirilen kilitler kırılamaz.  Bir plan yapmalarına fırsat kalmadan peri kralı görkemli girişini yapar.",
+                "air_date": "2012-12-16",
+                "still_path": "/3hdDhZFnQ524Tjs5ehiyrDzXJjA.jpg",
+                "video_url": "4297304"
+            },
+            {
+                "episode_number": 25,
+                "name": "Dünya Tohumu",
+                "overview": "Kirigaya Kazuto ölümü iki kez yendi ama yapması gereken bir şey daha var.",
+                "air_date": "2012-12-23",
+                "still_path": "/oPuUnWxMttvfVXv99aVgXO3qxpV.jpg",
+                "video_url": "4297314"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 24,
+        "air_date": "2014-07-05",
+        "poster_path": "/l4XMBIIeqTMNENUHzFXPW1bWPXM.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Silahların Dünyası",
+                "overview": "SAO'nun aklanmasının üzerinden bir yıl geçti. İçişleri ve İletişim Bakanlığı Sanal Bölümü'nden Kikuoka tarafından çağrılan Kazuto, Japonya'da profesyoneller tarafından oynanan tek oyun olan popüler VR oyunu Gun Gale Online (GGO) ile bağlantılı bir dizi tuhaf cinayeti öğrenir.",
+                "air_date": "2014-07-05",
+                "still_path": "/7OUSXOcIs9nzdLmLz0Bwdfhrm85.jpg",
+                "video_url": "1506403"
+            },
+            {
+                "episode_number": 2,
+                "name": "Soğuk Kalpli Keskin Nişancı",
+                "overview": "Büyük bir keskin nişancı tüfeği olan Hecate II'yi kuşanan genç kız Sinon, GGO'nun 1 numaralı keskin nişancısı olarak adından söz ettiriyor. Filosu başka bir filoyu pusuya düşürdüğünde ilk hedefini ortadan kaldırmayı başarır. Ancak ikinci hedefi olan cübbeli \"Behemoth\"u hedef aldığında kurşundan kaçar.",
+                "air_date": "2014-07-12",
+                "still_path": "/1sCbBCi1nxPqVhowB4PvH9SJPZr.jpg",
+                "video_url": "1506404"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kan Anıları",
+                "overview": "Gerçek hayatta oyuncu Sinon, Shino Asada adında bir lise öğrencisidir. Okuldan eve dönerken suçlu kızlar tarafından bir ara sokağa sürüklenir. Liderleri Endo, Shino'dan zorla para almaya çalışır, ancak Shino bunu cesurca reddeder.",
+                "air_date": "2014-07-19",
+                "still_path": "/uYykJcutnYPW8O7LAs0T7MvjXS7.jpg",
+                "video_url": "1506405"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ggo (silah Fırtınası Çevrimiçi)",
+                "overview": "Kikuoka, Kirito'yu GGO'yu araştırması için görevlendirdi ve o da oturum açtı. Death Gun'ı kendisini hedef almaya ikna etmek için, GGO'daki en güçlü silahlı adamın belirleneceği bir turnuva olan Bullet of Bullets'a (BoB) katılmayı umuyor. Ancak ilk kez gelen biri olarak bu oyunda yolunu bilmiyor ve çok geçmeden Sinon'u görüp ona yaklaştığında yolunu kaybediyor.",
+                "air_date": "2014-07-26",
+                "still_path": "/eJjflgwMR7kcUTOrolwqAlppb4f.jpg",
+                "video_url": "1582341"
+            },
+            {
+                "episode_number": 5,
+                "name": "Silahlar ve Kılıçlar",
+                "overview": "Kirito, BoB'ye kaydolmak için gerekli bilgileri bir terminale girmeye başlar, ancak formun gerçek dünyadaki adı ve adresi için sütunlar içerdiğini görünce hayrete düşer. Bu bilgi olmadan büyük ödülleri almaya hak kazanamayacağını anlayınca geçici olarak yıkılır...",
+                "air_date": "2014-08-02",
+                "still_path": "/oJ9RjaDYoyky1neZvAWQRZLPA9E.jpg",
+                "video_url": "1582357"
+            },
+            {
+                "episode_number": 6,
+                "name": "Vahşi Doğada Hesaplaşma",
+                "overview": "Yıpranmış pelerinli bir adam, Kirito'nun ilk savaşını izliyor ve onun \"gerçek\" olup olmadığını öğrenmek istiyor.  Adamda, SAO içinde var olan bir katiller loncası olan Gülen Tabut'un dövmesi var.  Kirito'ya bir gün onu öldüreceğini söyler ve ortadan kaybolur.",
+                "air_date": "2014-08-09",
+                "still_path": "/5Q0KetmCeYoWSimDuRp5aQ1jWEJ.jpg",
+                "video_url": "1582372"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kızıl Anılar",
+                "overview": "Yırtık pırtık pelerinli adam SAO'dan sağ kurtulanlardan biri ve aynı zamanda Kirito'nun ölümüne savaştığı bir oyuncu da olabilir... Bu düşünce Kirito'yu tüketir ve acısı Suguha'yı endişelendirecek kadar elle tutulurdur.",
+                "air_date": "2014-08-16",
+                "still_path": "/4Woe1gkRDZtZztJu1Spai6dUqDU.jpg",
+                "video_url": "1582381"
+            },
+            {
+                "episode_number": 8,
+                "name": "Mermi Mermisi",
+                "overview": "Kirito, Ölüm Silahı ve pelerinli adamın BoB'da görünmesine karar verir.  Kalan zamanı Sinon'la bilgi alışverişinde bulunmak ve yarışmacılar hakkında daha fazla bilgi edinmek için kullanıyor.  Sinon elemelerde ne kadar tuhaf davrandığını görür ve ona ne olduğunu sorar.  Kendisinin SAO'dan sağ kurtulan biri olduğunu öğrenir.  Ana BoB turnuvası başlıyor ve 10 km genişliğindeki bir alana 30 oyuncu düşüyor.",
+                "air_date": "2014-08-23",
+                "still_path": "/3htNh1oP2IZjXTf2ej2H4ZynxKW.jpg",
+                "video_url": "1582387"
+            },
+            {
+                "episode_number": 9,
+                "name": "Ölüm Silahı",
+                "overview": "Pelerinli adam Pale Rider'ı vurur ve HP'si kalmasına rağmen elenir.  Adam kendisinin Ölüm Silahı olduğunu söylüyor ve gerçek ölümü getireceğini ilan ediyor.  Asuna ve arkadaşları BoB'un canlı yayınını izliyorlar ve Death Gun'ın Laughing Coffin'in liderlerinden biri olduğunu fark ediyorlar.",
+                "air_date": "2014-08-30",
+                "still_path": "/ueDp5eL3maMX8ZzTcHUcOeccnbv.jpg",
+                "video_url": "1582394"
+            },
+            {
+                "episode_number": 10,
+                "name": "Ölüm Kovalayıcısı",
+                "overview": "Sinon, Ölüm Silahı tarafından arkadan saldırıya uğrar ve felç olur. İronik bir şekilde Sinon'un soyguncuyu vururken kullandığı silahın aynısı olan Black Star Type-54'ü kullanıyor. Olayla ilgili anıları canlanır ve Sinon kontrolü kaybeder. Ölüm Silahı, Kirito'yu kızdırmak için onu öldürmeye çalışır. Ancak onu öldürmeden hemen önce Kirito onu son anda kurtarır. Sinon savaşın dışındadır ve Kirito onunla birlikte kaçmaya çalışır ancak Ölüm Silahı tarafından takip edilir.",
+                "air_date": "2014-09-06",
+                "still_path": "/vs3DpifrmbTGuEEzLDSXAqlhAtS.jpg",
+                "video_url": "1582408"
+            },
+            {
+                "episode_number": 11,
+                "name": "Güçlü Olmanın Anlamı Nedir",
+                "overview": "Ölüm Silahı'ndan kaçtıktan sonra Kirito ve Sinon, bir çöl mağarasında gizlendiler. Orada Kirito, Death Gun'ın diğer oyuncuları nasıl öldürdüğüne dair spekülasyon yapıyor. Bunu yaparken belirli bir korkunç olasılığa rastlar.",
+                "air_date": "2014-09-13",
+                "still_path": "/chqwmSxOydZpXiad2BMCsYrtUK0.jpg",
+                "video_url": "5004473"
+            },
+            {
+                "episode_number": 12,
+                "name": "Bir Hayaletin Mermisi",
+                "overview": "BoB sona yaklaşıyor ve hayatta kalan tek oyuncular Kirito, Sinon ve son turnuvanın ikinci kazananı Dark Wind.  Death Gun'ın birden fazla ortağı olabileceği ve Dark Wind'in de tehlikede olabileceği için Kirito önce onu yenmeye karar verir.  Sinon düşmanı hedef alırken o bir tuzak görevi görüyor.  Kirito'nun ona olan güveni, kurşununun isabet etmesiyle meyvesini verir ve sonunda Ölüm Silahı ile karşı karşıya gelir.",
+                "air_date": "2014-09-20",
+                "still_path": "/fH9uKZtzgbsTcIUcjlSOuNCVIoM.jpg",
+                "video_url": "5004481"
+            },
+            {
+                "episode_number": 13,
+                "name": "Hayalet Mermi",
+                "overview": "Death Gun'ın saldırısı, GGO'da bulunmayan bir SAO becerisi olan Star Splash'tan modellenmiştir.  Ölüm Silahı yalnızca silah değil aynı zamanda bıçak kullanma konusunda da yeteneklidir ve yavaş yavaş Kirito'nun sağlığını yıpratır.  Bu arada Sinon'un dürbünü Ölüm Silahı tarafından yok edildi ve Sinon saldıramıyor, bu yüzden sadece dövüşü izlemek zorunda kalıyor.  Dişlerini gıcırdatıyor ve yapabileceği başka bir şey olup olmadığını merak ediyor.",
+                "air_date": "2014-09-27",
+                "still_path": "/rZCPOKK3iWsROkGe66IideIFYSl.jpg",
+                "video_url": "5004490"
+            },
+            {
+                "episode_number": 14,
+                "name": "Küçük Bir Adım",
+                "overview": "Kyouji, Shino öldükten sonra kendini öldüreceğini söyleyerek ona saldırır. Kazuto son saniyede Kyouji'nin üzerinden atlayarak onu kurtarır.  Dövüş sırasında Kazuto, Kyouji'nin zehir şırıngasıyla vurulur, ancak mucizevi bir şekilde işe yaramaz ve Kirito kurtarılır.  Ertesi gün Kazuto ve Shino, Kikuoka ile buluşmaya gider ve olayı tartışır.  Kikuoka'nın ele geçirilen Ölüm Silahlarından birinden bir mesajı var...",
+                "air_date": "2014-10-04",
+                "still_path": "/tMF65VcMIJiUBaJnb0Flq6CZroz.jpg",
+                "video_url": "1582414"
+            },
+            {
+                "episode_number": 15,
+                "name": "Gölün Kraliçesi",
+                "overview": "Kutsal Kılıç Excalibur'un ALO'nun içinde keşfedildiği bildirildi. Haberi duyan Kirito ve Leafa, diğer oyuncular ona ulaşmadan önce Excalibur'u ele geçirmeye karar verir.",
+                "air_date": "2014-10-18",
+                "still_path": "/2e9oCP375GrV99oioySGjl5CVz0.jpg",
+                "video_url": "5004522"
+            },
+            {
+                "episode_number": 16,
+                "name": "Devlerin Kralı",
+                "overview": "Kirito ve diğerleri, Buz Kralı Thrymr'a boyun eğdirmek ve Excalibur'u kurtarmakla görevlendirilir. Yui'nin tahminine göre bu, oyun yöneticileri tarafından planlanan bir görev değil, sistem tarafından otomatik olarak oluşturulan bir şey. Ve eğer durum buysa…",
+                "air_date": "2014-10-25",
+                "still_path": "/mYSSD9v7EGqPYOapdbIuNSUkcoA.jpg",
+                "video_url": "5004545"
+            },
+            {
+                "episode_number": 17,
+                "name": "Excalibur",
+                "overview": "Kirito ve diğerleri, zindanın alt katında gizlenen Patron Thrymr'ı ele geçiriyor. Ancak Thrymr'ın HP'sinde pek bir değişiklik yapamadıklarından kendilerini çok geçmeden büyük bir tehlikenin içinde bulurlar. Tam o sırada yeni müttefikleri Freyja sesini yükseltir…",
+                "air_date": "2014-11-01",
+                "still_path": "/vIqsyFzN4IPJF0xTbmfB3hIYK7d.jpg",
+                "video_url": "5004574"
+            },
+            {
+                "episode_number": 18,
+                "name": "Orman Evi",
+                "overview": "ALO'nun gelecek güncellemesinde Yeni Aincrad'ın 21-30. Katlarının kilidi açılacak. Asuna, Kirito ve Yui, 22. Kattaki ahşap kulübelerinde bir kez daha birlikte yaşama hayallerini yeniden yaşıyor.",
+                "air_date": "2014-11-08",
+                "still_path": "/9AVzrSS0syPcLXakRPROGF2REOA.jpg",
+                "video_url": "4624111"
+            },
+            {
+                "episode_number": 19,
+                "name": "Zekken",
+                "overview": "Zekken olarak bilinen muhteşem bir oyuncu hakkında söylentiler duyan Asuna, bir meydan okumaya karar verir. Ancak Asuna oturumu kapattığında annesi ona akademik odaklı bir liseye geçmek için sınava girmesini söyler.",
+                "air_date": "2014-11-15",
+                "still_path": "/hQZ4OVlfnc1tp1EZrysc7XiA29r.jpg",
+                "video_url": "5004602"
+            },
+            {
+                "episode_number": 20,
+                "name": "Uyuyan Şövalyeler",
+                "overview": "Asuna'dan, üyelerin durumu nedeniyle yakında dağılma kararı alan \"Uyuyan Şövalyeler\" loncasına yardım etmesi istenir. Bunu yapmadan önce, sadece kendi gruplarıyla bir Kat Bossunu yenmek istiyorlar.",
+                "air_date": "2014-11-22",
+                "still_path": "/1qwzt6MCPEDZxBbY1DIG8rcOqyp.jpg",
+                "video_url": "1618259"
+            },
+            {
+                "episode_number": 21,
+                "name": "Kılıçlılar Anıtı",
+                "overview": "Asuna ve Uyuyan Şövalyelerin 27. Kattaki bossu yenme girişimi, boss baskınlarında uzmanlaşmış bir lonca tarafından gözlemlendi. Şimdi 20 üyesi boss odasını kapatıyor.  Kirito loncanın geri kalanını oyalarken Asuna ve diğerleri loncayı geçebilecek mi?",
+                "air_date": "2014-11-29",
+                "still_path": "/ifdlJmiQmUelFhTDvl56ur4QpyP.jpg",
+                "video_url": "5004608"
+            },
+            {
+                "episode_number": 22,
+                "name": "Yolculuğun Sonu",
+                "overview": "Yuuki'nin Asuna'nın önünde aniden ortadan kaybolmasının üzerinden birkaç gün geçti ve o hala ALO'ya giriş yapmadı. Daha sonra Asuna, Kazuto ile okulun çatısında buluşur ve ona bir not verir ve ona Yuuki'nin üzerinde yazılı yerde olabileceğini söyler.",
+                "air_date": "2014-12-06",
+                "still_path": "/lwKmF4mpen4czxhWoUDEfJCrbSm.jpg",
+                "video_url": "1629541"
+            },
+            {
+                "episode_number": 23,
+                "name": "Rüya Başlar",
+                "overview": "Dünyanın ilk tıbbi kullanımlı Tam Dalış cihazının test cihazı olan Yuuki, hastaneden sanal dünyalara dalıyor. Hastane odasından çıkamadığı için tekrar okula gitmeyi arzuluyor. Bu dileği gerçekleştirmek için Asuna, Kazuto'dan yardım ister...",
+                "air_date": "2014-12-13",
+                "still_path": "/elqZmxx3KnUFRvzeXJ1Z1iMeABE.jpg",
+                "video_url": "1632698"
+            },
+            {
+                "episode_number": 24,
+                "name": "Annenin Rosario'su",
+                "overview": "Dış dünyayı deneyimlemeye başlayan Yuuki'nin günleri her zamankinden daha tatmin edicidir. ALO'da oyuncular bir barbekü yapar ve bir göreve çıkarlar. Gerçek dünyada Asuna ve kızlar Kyoto'ya bir gezi yaparlar. Bir gün Asuna bir e-posta alır...",
+                "air_date": "2014-12-20",
+                "still_path": "/gt2yB4qmF96FQHSwbBEuYwTUon1.jpg",
+                "video_url": "1637085"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 24,
+        "air_date": "2018-10-07",
+        "poster_path": "/f7w1F8GEoo6naXM53FJq4qHIOt.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yeraltı Dünyası",
+                "overview": "Kirito, çocukluk arkadaşı Eugeo ile birlikte Gigas Sediri adı verilen devasa bir ağacı kesmekle görevlendirilir. Arkadaşları Alice öğle yemeğiyle geldiğinde baltalarını sallıyorlar. Üç arkadaş yemek yerken efsanevi bir mağaraya gitmeye karar verir.",
+                "air_date": "2018-10-07",
+                "still_path": "/4FpuWImV6U6SuYT8QY0SQ4LZWGa.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 2,
+                "name": "Şeytan Ağacı",
+                "overview": "Kirito uyanır ve kendisini fantastik bir oyunu çağrıştıran gizemli bir dünyanın içinde bulur. Hafızası bulanıktır, oturumu kapatmaya çalışır ancak gerçek dünyaya dönemez. Amaçsızca dolaştıktan sonra kendini devasa bir ağacın altında bulur.",
+                "air_date": "2018-10-14",
+                "still_path": "/vklSxL0fGZsZeMf2JSnlE5CWHZS.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 3,
+                "name": "Son Dağlar",
+                "overview": "Kirito, Centtoria'ya gitmeye karar verir. Eugeo'nun yardımına ihtiyacı olacağı için Gigas Sedirini de devirmeye karar verir. Bu sırada Alice'in küçük kız kardeşi Selka, Eugeo için endişelenir ve endişelerini Kirito'ya açar.",
+                "air_date": "2018-10-21",
+                "still_path": "/yubH2VEg4HfRBfxL38uPc0elJv4.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 4,
+                "name": "Kalkış",
+                "overview": "Kirito ve Eugeo, Selka'nın End Dağları'na tek başına gittiğini fark eder ve onun peşinden koşmaya karar verir. Mağaraya girdiklerinde muhtemelen Karanlık Bölge'den gelen goblinlerle karşılaşırlar ve bir savaşa girmek zorunda kalırlar.",
+                "air_date": "2018-10-28",
+                "still_path": "/oGEAEJX0UOf00N37rP04iApymsR.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 5,
+                "name": "Okyanus Kaplumbağası",
+                "overview": "Gerçek dünyada Kazuto Kirigaya bilinçsizce yatıyor. Kikuoka'nın isteği üzerine Kazuto iyi donanımlı bir hastaneye nakledilir, ancak Asuna ve Suguha ziyaret etmeye çalıştıklarında geri çevrilirler. Şüphelenen Asuna ve diğerleri, Rath hakkında daha fazla bilgi edinmek için ayrılırlar.",
+                "air_date": "2018-11-04",
+                "still_path": "/jq0Q41YWgV3ZcOzG17N2mHVuLkA.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 6,
+                "name": "Proje Alicizasyonu",
+                "overview": "Asuna, Okyanus Kaplumbağası'ndaki araştırma laboratuvarı Rath'a sızar ve burada Kikuoka'yı Kazuto'nun nerede olduğu konusunda aralıksız sorguya çeker. Kikuoka, Soul Translator'ın geliştirilmesinin arkasında destansı ölçekte akıllara durgunluk veren bir hedef olduğunu ortaya koyuyor.",
+                "air_date": "2018-11-11",
+                "still_path": "/xXZahtMZSkjhBvu5NrIY2KEA2bN.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 7,
+                "name": "Kılıç Sanatları Akademisi",
+                "overview": "Kirito ve Eugeo'nun Rulid Köyü'nden ayrılmasının üzerinden iki yıl geçti. Başkent Centoria'da her iki oğlan da Kuzey Centoria İmparatorluk Kılıç Sanatları Akademisi'ne kabul edilme hedefine ulaştı.",
+                "air_date": "2018-11-18",
+                "still_path": "/mXyRnt3o7BBIb3esUrbiW1ZZ5cy.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 8,
+                "name": "Kılıç Ustasının Gururu",
+                "overview": "Kirito kendini Elit Mürit Volo Levantein'e karşı gerçek kılıçlar kullanarak bir düelloda bulur. Meraklı kalabalığın bakışları arasında Kirito, Sortiliena tarafından cesaretlendirilir ve düello başlar.",
+                "air_date": "2018-11-25",
+                "still_path": "/cDMMjmPqU3Bx6CdQLkobJMT1tCJ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 9,
+                "name": "Asilzadenin Sorumlulukları",
+                "overview": "Artık Kirito ile birlikte Elit Mürit olan Eugeo, daha güçlü olabilmek için kılıcına ne katması gerektiği sorusuyla boğuşuyor. Birinci Koltuk Elit Mürit Raios ve İkinci Koltuk Humbert tarafından alay edilen Eugeo, Humbert'in düello talebini kabul etmeye karar verir.",
+                "air_date": "2018-12-02",
+                "still_path": "/mVSRK03EZQVDkg6lpwDcFOSp4bp.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Tabu Dizini",
+                "overview": "Ronie ve Tiese yurda geç kaldılar. Kirito onları aramak için dışarı çıkar ama o gider gitmez Frenica ortaya çıkar. Eugeo'ya Humbert'in elinde nasıl acı çektiğini ve Tiese ile Ronie'nin bu konuda onunla yüzleşmeye gittiklerini anlatır.",
+                "air_date": "2018-12-09",
+                "still_path": "/UB7mydlawxbobIxqWnV8lh1TcB.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Merkez Katedral",
+                "overview": "Kirito ve Eugeo artık Tabu Endeksi'ni ihlal ettikleri için suçlu olarak görülüyor ve Merkez Katedral'deki yer altı hapishanesine atılıyor. Bu sırada gerçek dünyada Okyanus Kaplumbağası'nda Asuna, tedavi gören Kazuto'ya göz kulak olmaktadır.",
+                "air_date": "2018-12-16",
+                "still_path": "/4ER3PIe7IZbHxXi1jAjcvEoGVaI.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Kütüphane Bilgesi",
+                "overview": "Kirito ve Eugeo hücrelerinden kaçarlar, ancak Alice'in onları pusuda tutması emriyle yollarının Eldrie Sentezi Otuz Bir tarafından kesildiğini görürler. Kirito ve Eugeo, Eugeo Eldrie'yi daha önce bir yerde gördüğünü anlayana kadar ona karşı mücadele eder.",
+                "air_date": "2018-12-23",
+                "still_path": "/hR3N6Kwr8zlAZgEq3d6OBSgh1L1.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 13,
+                "name": "Hükümdar ve Arabulucu",
+                "overview": "Kirito ve Eugeo, kendisini Merkez Katedral'in Büyük Kütüphanesi'ne kapatan genç kız Kardinal tarafından kurtarıldı. Kardinal, Kirito'ya Yöneticinin geçmişinden başlayarak Axiom Kilisesi ve Tabu Endeksi'nin nasıl ortaya çıktığını açıklıyor.",
+                "air_date": "2019-01-06",
+                "still_path": "/coCo7uFYVrbpwi1hcuO1ZTgL6aQ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 14,
+                "name": "Kızıl Şövalye",
+                "overview": "Kardinal tarafından dünyanın kaderi emanet edildikten sonra Kirito ve Eugeo, Merkez Katedrali'nin en üst katına doğru yola çıkarlar. Yolda, el konulan kılıçlarını bir cephanelikteki geniş bir silah yığınının arasında bulurlar ve sadece Dürüstlük Şövalyesi Deusolbert Synthesis Seven tarafından bir ok yağmuruyla karşılanırlar.",
+                "air_date": "2019-01-13",
+                "still_path": "/9SRBdXwI7kWxCqnjmivCRXbUSgT.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 15,
+                "name": "Amansız Şövalye",
+                "overview": "Kirito ve Eugeo, Merkez Katedrali'nin merdivenlerinden yukarı çıkarken Linel ve Fizel adında iki kızla karşılaşırlar. Orada iki çocuğun ne yaptığını merak ederek dururken, dikkatlerini dağıtırlar ve...",
+                "air_date": "2019-01-20",
+                "still_path": "/gmHLaLAz9GyxSk3c6meRtHVZy3N.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 16,
+                "name": "Osmanthus Şövalyesi",
+                "overview": "Yaralarla dolu olmasına rağmen Kirito, Mükemmel Silah Kontrolü sanatını etkinleştirmeyi başarır. Merkez Katedralin en üst katına doğru yollarına devam eden Kirito ve Eugeo, kendilerini tuhaf görünümlü yüzen bir platformun önünde dururken bulurlar.",
+                "air_date": "2019-01-27",
+                "still_path": "/bjpJIJCdQE5KPUqntpQMaqUWzJ5.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 17,
+                "name": "Ateşkes",
+                "overview": "Kirito ve Alice, Bulut Tepesi Bahçesi'nde Mükemmel Silah Kontrolü sanatını serbest bıraktığında, darbe, görünüşte zaptedilemez görünen Merkezi Katedral duvarında bir delik açar ve bu da ikisinin de dışarıya uçmasına neden olur.",
+                "air_date": "2019-02-03",
+                "still_path": "/j2F6KagBjK81YW5zPeG83phCWzJ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 18,
+                "name": "Efsanevi Kahraman",
+                "overview": "Eugeo, Merkez Katedralin doksanıncı katına ulaşır ve burasının geniş bir banyo alanı olduğu ortaya çıkar. Şaşkın Eugeo, banyoda sırılsıklam olan Bercouli Sentezi Bir ile karşılaşır. Bu arada Kirito ve Alice hâlâ Merkez Katedral duvarına tırmanıyorlar.",
+                "air_date": "2019-02-10",
+                "still_path": "/gveaJc1HRJAIB0abGsOfoFN4doj.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 19,
+                "name": "Sağ Gözün Mührü",
+                "overview": "Alice'in Selka isminden bahsettiğinde verdiği tepkiyi gören Kirito, ona Dürüstlük Şövalyeleri hakkındaki gerçeği anlatmaya karar verir. Bu sırada Bercouli ile yaptığı savaş sırasında bilincini kaybeden Eugeo, katedralin en üst katında uyanır.",
+                "air_date": "2019-02-24",
+                "still_path": "/xbSBljqM4loFC7ZbKnItGFZSXD8.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 20,
+                "name": "Sentez",
+                "overview": "Kirito ve Alice doksanıncı kattaki ortak banyoya ulaşırlar. Orada, Chudelkin tarafından taşa çevrilen Dürüstlük Şövalyesi Komutanı Bercouli'yi bulurlar. Alice, akıl hocasının trajik durumunu görünce gözyaşlarına boğulur ama sonra...",
+                "air_date": "2019-03-03",
+                "still_path": "/2PyE8uOVgjBvdp89fbamah6RFIs.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 21,
+                "name": "32. Şövalye",
+                "overview": "Kirito ve Alice'in yolunda Sentez Ritüeli'nden geçen ve Dürüstlük Şövalyesi olan Eugeo duruyor. Kirito şaşkına döner, ta ki Alice ona Eugeo'ya sahip olduğu her şeyle savaşmaya karar vermesi konusunda uyarıda bulununcaya kadar.",
+                "air_date": "2019-03-10",
+                "still_path": "/hGFKKtPvmhA9AcPjCF2gsrlj2HV.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 22,
+                "name": "Kılıcın Titanı",
+                "overview": "Merkez Katedralin en üst katında Kirito, Eugeo ve Alice sonunda Yönetici ile karşı karşıya gelir. Ancak Chudelkin, kendisini dev bir palyaçoya dönüştürmek için kutsal sanatları kullanır ve saldırır.",
+                "air_date": "2019-03-17",
+                "still_path": "/xTT4kEnlAjEPtep3i1ngPRp7adf.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 23,
+                "name": "Yönetici",
+                "overview": "Kardinal, son iki yüz yılın amansız düşmanıyla hesaplaşmak için Merkez Katedralin en üst katında belirir. Yöneticiyi silme hedefine ulaşmak için harekete geçer, ancak düşmüş kılıç goleminin yeniden ayağa kalktığını görür.",
+                "air_date": "2019-03-24",
+                "still_path": "/i1umIkndL7ofm6eSMtO0oHJD51u.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 24,
+                "name": "Benim Kahramanım",
+                "overview": "Kalbinde Kardinal, Eugeo ve Alice'in umutlarını taşıyan Kirito, bir kez daha ayağa kalkıyor ve SAO'yu temize çıkaran en iyi oyuncu olan Kara Kılıç Ustasını gözünde canlandırıyor. Kirito, bu dünyada karşılaştığı herkesin iyiliği için Yönetici ile karşı karşıya gelir.",
+                "air_date": "2019-03-31",
+                "still_path": "/3na4mgCr70jClF70lGEaG9xcYZz.jpg",
+                "video_url": ""
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 23,
+        "air_date": "2019-10-13",
+        "poster_path": "/aaa62CnA8wJLkGu0KHhg8TKxSPq.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Uzak Kuzey'de",
+                "overview": "Yöneticiye karşı verilen şiddetli savaşın üzerinden altı ay geçti. Alice, Kirito'yu huzur içinde yaşadıkları çocukluk evi Rulid Köyü'ne getirdi. Kirito'yla birlikte kurtardığı dünyaya bakan Alice, olup bitenleri düşünüyor.",
+                "air_date": "2019-10-13",
+                "still_path": "/z8cL9agh1EQ91AF03afc1O73zmv.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 2,
+                "name": "Baskınlar",
+                "overview": "Karanlık Bölge'den bir güç Rulid Köyü'ne saldırıyor. Savaşta amacını kaybetmiş olsa da ailesi ve Kirito ile Eugeo'nun korumaya çalıştığı insanlar adına savaşmak için Alice, Osmanthus Kılıcı'nı bir kez daha eline alıyor!",
+                "air_date": "2019-10-20",
+                "still_path": "/oBgJg14AIUxX16x57fnxs0py6cq.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 3,
+                "name": "Son Yük Testi",
+                "overview": "Okyanus Kaplumbağası'na saldıran gizemli grubun, ABD Ulusal Güvenlik Ajansı'nın emri altındaki gizli bir birlik olduğu ortaya çıkar. Lideri Gabriel ise daha önce Kirito ve Sinon'la savaşmıştı.",
+                "air_date": "2019-10-27",
+                "still_path": "/ps9zaKiZOSBYi5l3gWUnh2UGGuc.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 4,
+                "name": "Karanlık Bölge",
+                "overview": "Karanlık Bölge'nin kara şövalyelerinin komutanı Shasta, Yöneticinin ölümünü İnsan İmparatorluğu ile barış şansı olarak kullanmayı planlamıştı. Ancak planları İmparator Vecta'nın karanlıklar diyarına dönüşüyle ​​bozulur.",
+                "air_date": "2019-11-03",
+                "still_path": "/3uewQSR2HLDr9WsuMWGNlwnzhDG.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 5,
+                "name": "Savaştan Önceki Gece",
+                "overview": "İnsanlık için savaşmaya kararlı olan Alice, Kirito'yu da yanında getirerek İnsan İmparatorluğunun güçlerine katılır. Ancak karanlığın güçleri ezici sayılarla övünürken, İnsan İmparatorluğu adına savaşmak için yalnızca on üç Dürüstlük Şövalyesi mevcut.",
+                "air_date": "2019-11-10",
+                "still_path": "/qjQmvuTg2xkpeeWJiBHmIcpvTDa.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 6,
+                "name": "Şövalyelerin Savaşı",
+                "overview": "Son Yük Testi başladı ve Doğu Kapısı çöktü. Artık İmparator Vecta olan Gabriel'in kışkırtmasıyla, karanlıklar diyarının devasa ordusu İnsan İmparatorluğu'na doğru ilerliyor.",
+                "air_date": "2019-11-17",
+                "still_path": "/9Ab7KV9JsbBKmAG9WZ6QQQTnNSx.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 7,
+                "name": "Diskalifiye Edilenlerin Damgalanması",
+                "overview": "Dürüstlük Şövalyesi Renly Sentezi Yirmi Yedi, ilk kez savaşta pozisyonundan kaçarak karanlığın güçlerindeki goblinlerin Kirito'nun bulunduğu çadıra sızmasına izin verir.",
+                "air_date": "2019-11-24",
+                "still_path": "/7lUTCntkCiZmfI46FXtNi4TM7UA.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 8,
+                "name": "Kan ve Yaşam",
+                "overview": "Dürüstlük Şövalyesi Alice'in serbest bıraktığı güçlü resmi sanat, karanlığın güçlerine ağır kayıplar verir. Alice, hayatta kalan bir düşmanla karşılaşır ve İmparator Vecta'nın amacının \"Işığın Rahibesi\"ni bulmak olduğunu öğrenir.",
+                "air_date": "2019-12-01",
+                "still_path": "/aac9GQl1szARGPUH0e5dFUmu0y7.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 9,
+                "name": "Kılıç ve Yumruk",
+                "overview": "Alice'i gören Gabriel, tüm ordusuna onu yakalamasını emreder. Boksörler loncası ana gücün önünde yarışır. Alice ve Bercouli onlara karşı koymak için bir strateji bulmaya çalışırken sessiz Dürüstlük Şövalyesi Sheyta Sentez On İki öne çıkar.",
+                "air_date": "2019-12-08",
+                "still_path": "/ngJJORUALoKW7OaoSaFlBg0Pr37.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Yaratılış Tanrıçası Stacia",
+                "overview": "Asuna, Yaratılış Tanrıçası Stacia'nın süper kullanıcı hesabını kullanarak Yeraltı Dünyasına giriş yaptı. İndikten sonra Ronie ve Tiese sayesinde Kirito ile yeniden bir araya gelir. Ancak çok geçmeden Alice'in gelmesi tehlikeli bir duruma yol açar!",
+                "air_date": "2019-12-15",
+                "still_path": "/9is6M5wHgBtftPHks9sLJ7ASoZx.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Kalpsiz Seçim",
+                "overview": "Asuna dipsiz bir uçurum yarattı. Kara şövalyeler ve boksörler, İnsan İmparatorluğu Ordusu'nun beklediği diğer tarafa geçmeye çalışır. Bu arada Critter, tuhaf yeni bir VRMMO için sınırlı süreli beta testi hakkında bir duyuru yayınlar.",
+                "air_date": "2019-12-22",
+                "still_path": "/ojEuCltZ3ZQIMYLYGhABH6AopnS.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Işık Işını",
+                "overview": "Gabriel'in planı nedeniyle, ABD'li oyunculara kara şövalye hesapları verildi ve şimdi sürekli olarak Underworld'e giriş yapıyorlar. Hem Human Empire Army'den hem de Dark Territory Army'den askerleri acımasızca katletmeye başlıyorlar.",
+                "air_date": "2019-12-29",
+                "still_path": "/Agyt1VH7zVHwklzlb9IwVMSynjf.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 13,
+                "name": "Yeraltı Savaşı",
+                "overview": "Sinon, Güneş Tanrıçası Solus'un süper hesabıyla giriş yapar ve son anda Asuna ile diğerlerini kurtarır. Bu arada Leafa, Dünya Tanrıçası Terraria'nın süper hesabıyla giriş yapar ve Yeraltı Dünyasına iner.",
+                "air_date": "2020-07-12",
+                "still_path": "/pefmd7agmQ2xA2ZvLJqxHQMlEg6.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 14,
+                "name": "Sonsuzluğun Sonu",
+                "overview": "Mütevazı boyutlarına rağmen İnsan İmparatorluğu Ordusu ve Asuna, kendilerine doğru gelen Amerikalı oyuncu dalgasıyla cesurca savaşıyor. Ancak sayıca umutsuzca üstünler ve İnsan İmparatorluğu askerleri birbiri ardına düşmeye başlıyor.",
+                "air_date": "2020-07-19",
+                "still_path": "/bN9TqIETmwNO0wXeZM2Y4p33vw.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 15,
+                "name": "Kışkırtma",
+                "overview": "Bercouli, Alice'i kaçıran Vecta'nın peşine düşer. Uzun ve acımasız bir savaşın ardından Bercouli, gizli kılıç becerisi Uragiri'yi açığa çıkarır ve kendisi de ağır yaralanmalara maruz kalmasına rağmen sonunda Vecta'yı yener.",
+                "air_date": "2020-07-26",
+                "still_path": "/vdStwtLGjoZsWfVEyV0fLOUgl4l.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 16,
+                "name": "Kod 871",
+                "overview": "Rath'in içindeki hainin Yanai adında bir araştırmacı olduğu ortaya çıkar. Higa, Kirito'yu geri getirmeye çalıştığında Yanai, onu silah zoruyla tutarak operasyonu engellemeye çalışır. Bu arada Yeraltı Dünyasında Sinon, tekrar giriş yapan Gabriel'le yüzleşir.",
+                "air_date": "2020-08-02",
+                "still_path": "/q6baJ9R5GwEnLLxoX1dC7pITrFC.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 17,
+                "name": "Cehennem Prensi",
+                "overview": "Asuna ve diğerleri, Vassago ve Çinli/Koreli oyunculara yenik düşer. Katatonik Kirito'yu keşfeden Vassago tekerlekli sandalyesini tekmeledi. Öfkelenen Klein, Vassago'ya saldırır ancak düşman oyuncular tarafından sıkıştırılır. Tam o sırada beklenmedik biri belirir.",
+                "air_date": "2020-08-09",
+                "still_path": "/5xhOYfgLATDxfqnjYZYHg49CQ2w.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 18,
+                "name": "Hatıralar",
+                "overview": "Sinon, Gabriel'e ciddi şekilde zarar vermeyi başarır, ancak gücü tükenmiştir. Leafa, Amerikalı oyuncuları ortadan kaldırdıktan sonra yere yığılır. Ve durumu artık umutsuz olan Asuna, Kirito'ya bakıyor. Ancak Kara Kılıç Ustası rüyalarında dolaşmaya devam ediyor.",
+                "air_date": "2020-08-16",
+                "still_path": "/ahW4m6CEBXXHPhC6qejIKrgr39.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 19,
+                "name": "Uyanış",
+                "overview": "Kabuslarından kaçan Kirito sonunda bilincini yeniden kazanır. Sağ elinde Gece-Gökyüzü Bıçağı ve sol elinde kırık Mavi Gül Kılıcı ile, artık devasa boyutta olan Mate-Chopper ile silahlanmış Vassago ile karşı karşıya gelir.",
+                "air_date": "2020-08-23",
+                "still_path": "/yGU5BwtNM1tMLMwZQNStubq5mN0.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 20,
+                "name": "Gece-gökyüzü Bıçağı",
+                "overview": "Kirito, Gabriel'le yüzleşirken Alice ve Asuna Dünyanın Sonu Sunağı'na doğru yola çıkar. Gabriel'i yenemezse ve maksimum hızlanma aşaması başlamadan gerçek dünyaya dönemezse, Kirito önümüzdeki 200 yılını Yeraltı Dünyasında geçirmek zorunda kalacak.",
+                "air_date": "2020-08-30",
+                "still_path": "/fLiy5OO1Bq6ykose7z4QiNIK1g6.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 21,
+                "name": "Zamanın Ötesi",
+                "overview": "Maksimum hızlanma aşaması başladı. Alice Yeraltı Dünyası'ndan başarıyla çıkış yapar ancak Kirito bunu zamanında başaramaz. Gerçek dünyada Higa ve Kikuoka, maksimum hızlanma aşamasını devre dışı bırakmak için STL'yi kapatmak için acele ederler, ancak…",
+                "air_date": "2020-09-06",
+                "still_path": "/pOsw4FEifCe4sywwv59a9qJpmSr.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 22,
+                "name": "Alice",
+                "overview": "Amerikan Ulusal Güvenlik Teşkilatının planladığı “Rath Saldırısı Olayı” sona erdi. Artık yeni kurulan Okyanus Kaynakları Araştırma ve Araştırma Enstitüsü'nün başkanı olan Rinko, Alice'i gerçek bir yapay genel zeka olarak dünyaya tanıtıyor.",
+                "air_date": "2020-09-13",
+                "still_path": "/7lCpkD21iDINQX17Wd22MSjN28I.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 23,
+                "name": "Yeni Dünya",
+                "overview": "Rinko, Kazuto'ya Alice'in kayıp olduğunu söyler. Kapı zili çaldığında aceleyle Rath Roppongi şubesine gitmek üzeredir. Panik içinde Kazuto kapıyı açar, ancak orada kocaman bir karton kutu taşıyan bir teslimatçı bulur.",
+                "air_date": "2020-09-20",
+                "still_path": "/w0u1bSp9EWatole6ZoRKxGWhqpf.jpg",
+                "video_url": ""
+            }
+        ]
+    }
+}

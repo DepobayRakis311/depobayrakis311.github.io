@@ -1,0 +1,203 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2013-10-04",
+        "poster_path": "/qKIdLvvNCU1BOFlaO6ra2pTl2AY.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Keşke Devedikeni Gibi Dikenlerim Olsaydı",
+                "overview": "Ryuko Matoi, babasının ölümünün ardındaki gerçeğe - \"makaslı kadına\" dair ipuçları bulmak için bir yerden bir yere seyahat eden başıboş bir okullu kızdır. Yolculuk Ryuko'yu Honnouji Akademisi'ne götürür.",
+                "air_date": "2013-10-04",
+                "still_path": "/v9VacJaRuXb2ZJgZE3uLfVKnvXC.jpg",
+                "video_url": "1780994"
+            },
+            {
+                "episode_number": 2,
+                "name": "O Kadar Seksi Ki Bayılabilir",
+                "overview": "Mücadelesinden zayıf düşen Ryuko, sokakta yere yığılmadan önce Honnouji Akademisi'nden kaçar. Kurtarıldıktan sonra, gece için yiyecek ve barınak verilir ve Akademi'ye döndüğünde, iyiliğini ödemek için Kızlar Tenis Kulübü Kaptanı Omiko Hakodate ile karşı karşıya gelir.",
+                "air_date": "2013-10-11",
+                "still_path": "/9YrS9ANy3Z7oIpQ1N5tK4u7YC4g.jpg",
+                "video_url": "1307589"
+            },
+            {
+                "episode_number": 3,
+                "name": "Junketsu",
+                "overview": "Pazarlığın kendisine düşen kısmını yerine getiren Ryuko, sınıf öğretmeni Aikuro Mikisugi'den cevaplar ister ve Senketsu ile Goku Üniformaları'nın gücünün ardındaki sırrı öğrenir. Bu sırada Satsuki Kiryuin, kendi gücüne sahip olmak için eve döner.",
+                "air_date": "2013-10-18",
+                "still_path": "/kDjjNJKzbQjDEYsEViJWaF4TkVI.jpg",
+                "video_url": "1295483"
+            },
+            {
+                "episode_number": 4,
+                "name": "Mutsuz Bir Sabahın Şafağı",
+                "overview": "Sirenler, Yıldızsız öğrencileri \"Geç Olmayan Gün\"ün başlangıcı için uyandırır; burada geç kalmanız Honnouji Akademisi'nden atılmanıza neden olur. Senketsu'nun başı dertteyken Ryuko, Disiplin Komitesi'nin tuzaklarını aşıp zamanında varmak için kendi başına mücadele etmek zorundadır.",
+                "air_date": "2013-10-25",
+                "still_path": "/vNlfRJXGeAwXX4zUKou6r8PSAtp.jpg",
+                "video_url": "1781004"
+            },
+            {
+                "episode_number": 5,
+                "name": "Tetiklemek",
+                "overview": "Honnouji Akademisi'ne gizemli bir adam gelir ve İki Yıldızlı Goku Üniforması'na karşı savaşabilecek kadar yetenekli olduğunu hemen kanıtlar. Ancak Ryuko'ya göz koyduğunda, kim ayakta kalacak?",
+                "air_date": "2013-11-01",
+                "still_path": "/7fulxQ32wQcGXyywaODx6ysbWmz.jpg",
+                "video_url": "1781007"
+            },
+            {
+                "episode_number": 6,
+                "name": "Bir Hevesle Benimle Oynama",
+                "overview": "Son olaylardan bunalan Ryuko, sınıf öğretmeni Aikuro Mikisugi'den cevaplar ister. Bu arada, Honnouji Akademisi Atletik Komite Başkanı ve Elit Dörtlü'den Uzu Sanageyama, Ryuko'yu düelloya davet etmek için kendi başına bir talepte bulunur!",
+                "air_date": "2013-11-08",
+                "still_path": "/3KFhi1E2KVWFJfwFzgoeQVwGAIO.jpg",
+                "video_url": "1781012"
+            },
+            {
+                "episode_number": 7,
+                "name": "Nefret Edemediğim Bir Kaybeden",
+                "overview": "Mako'ya yoksulluktan uzak, daha iyi bir yaşam teklif edilir. Bunu yapmak için bir takım elbise giymeli ve savaşta Ryuko ile yüzleşmelidir.",
+                "air_date": "2013-11-15",
+                "still_path": "/hXmBcu6LO0N2X3OsJReX4cCrmEf.jpg",
+                "video_url": "1321873"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kendi Gözyaşlarımı Sileceğim",
+                "overview": "Satsuki Kiryuin, hayatta kalanların Goku Üniformaları'nı geri alabilecekleri Honnouji Akademisi düzenini yeniden inşa etme planını açıklıyor. Ortaya çıkan kaosa rağmen Ryuko ve Mako bir yolculuğa çıkarlar ama beklenmedik bir durumla karşılaşırlar!",
+                "air_date": "2013-11-22",
+                "still_path": "/3FmUNKOIxyjEwlkZQG3uaRrjRt3.jpg",
+                "video_url": "1781020"
+            },
+            {
+                "episode_number": 9,
+                "name": "Hayatta Bir Kez Karşılaşılabilecek Bir Şans",
+                "overview": "Honnouji Akademisi Doğal Seçimlerinin son turu başlamak üzere ve Elit Dörtlü, Ryuko ile ilk dövüşen kişi olmak istiyor. Sınıf öğretmeni Aikuro Mikisugi, bırakın dördünü, tek bir dövüşü bile atlatıp başaramayacağından endişeli!",
+                "air_date": "2013-11-29",
+                "still_path": "/4ZPN3hKT6zLvqtvprrjHtFtBZDM.jpg",
+                "video_url": "1781024"
+            },
+            {
+                "episode_number": 10,
+                "name": "Senin Hakkında Daha Fazla Şey Bilmek Istiyorum",
+                "overview": "Elit Dörtlü'ye karşı ikinci savaş başlıyor! Ryuko, topladığı verileri her hareketini tahmin etmek için kullanan Houka Inumuta'yı nasıl yenecek? Aksiyonu izleyen Mako ve ailesi de kendilerine ait birkaç sürprizle karşılaşır!",
+                "air_date": "2013-12-06",
+                "still_path": "/yHzTBsDtKr0S5PO0AFdkYWKexTy.jpg",
+                "video_url": "4022905"
+            },
+            {
+                "episode_number": 11,
+                "name": "Ben Senin Sevimli Kadının Değilim",
+                "overview": "Ryuko'nun Elit Dörtlü'ye karşı savaşı göklere çıkıyor! Bu arada Honnouji Akademisi'nde daha fazla seyirci bir araya geliyor. Peki kasabada dolaşan gizemli kız kim ve hangi sırları saklıyor?",
+                "air_date": "2013-12-13",
+                "still_path": "/uLnSd20qxlVVa3cYRXOjKe8KmMy.jpg",
+                "video_url": "1344932"
+            },
+            {
+                "episode_number": 12,
+                "name": "Hüznünüzü Uzaklaştırın",
+                "overview": "Ryuko babasının katiliyle yüz yüze gelir ama öfkesini kontrol altına alabilecek midir? Mako ve Elit Dörtlü, onun saldırıp ölüme giderek yaklaşmasını izliyor. Satsuki ya da başka biri onu durdurabilecek mi?",
+                "air_date": "2013-12-20",
+                "still_path": "/8SSd4Dis69FqO5eZfWyFha9iWri.jpg",
+                "video_url": "1349223"
+            },
+            {
+                "episode_number": 13,
+                "name": "Senin İçin Çılgın",
+                "overview": "Honnouji Akademisi, Üç Şehir Okulları Baskın Gezisi için harekete geçiyor! Ancak son öfkesinden sonra Ryuko, kavga etmek istemeyen bir şekilde yatakta üzgündür. Ancak eskiden Gazete Kulübü'nde olan Shinjiro Nagita, onu tekrar üniformaya sokmaya kararlı!",
+                "air_date": "2014-01-10",
+                "still_path": "/qFNOM0KT9m9EUQlkUruYlAXIaRL.jpg",
+                "video_url": "1781041"
+            },
+            {
+                "episode_number": 14,
+                "name": "Rüzgar gibi Sür",
+                "overview": "Üç Şehir Okullarına Baskın Gezisi başladı! Kansai bölgesine yönelik üç yönlü saldırı, aşılması gereken alışılmadık savunmalarla birlikte ilginç bir başlangıç ​​yapıyor. Peki Senketsu düşmanın elindeyken Ryuko hangi rolü oynayabilecek?",
+                "air_date": "2014-01-17",
+                "still_path": "/2t3YxoPWAeEn4hhVLArGVXzFiss.jpg",
+                "video_url": "1365549"
+            },
+            {
+                "episode_number": 15,
+                "name": "Beni Şimdi Durdurma",
+                "overview": "Satsuki Kiryuin, Takarada Holding'in varisi Kaneo Takarada ile savaşmak için Osaka'nın ön saflarına katılır. Takarada, paranın etkisini kullanarak yerel halkı savaşmaya çağırır, ancak Satsuki şehrin savunmasının arkasında başka bir gücün olduğundan şüphelenir.",
+                "air_date": "2014-01-24",
+                "still_path": "/fEN1vr3bt4KRMMIEcqJ9oJktKKF.jpg",
+                "video_url": "1781047"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kız Yardım Edemiyor",
+                "overview": "Tri-City Okulları Baskın Gezisi, Satsuki Kiryuin'in beklenmedik bir şekilde eve çağrılmasıyla Honnouji Akademisi'ne geri dönüyor. Bu arada, Ryuko, onu ve Senketsu'yu bir araya getiren olaylar dizisinin ardındaki gerçeği öğrenmeye başlıyor.",
+                "air_date": "2014-01-31",
+                "still_path": "/nHWZNYdVm3d8u7uGx6nSpscgqZa.jpg",
+                "video_url": "1781048"
+            },
+            {
+                "episode_number": 17,
+                "name": "Nedenini Söyle",
+                "overview": "Honnouji Akademisi Kültür ve Spor Büyük Festivali için hazırlıklar sürüyor! Ragyo Kiryuin'in katılacağı için okul heyecan içindedir ama onun ve Satsuki'nin etkinlikle ilgili gerçek niyeti nedir?",
+                "air_date": "2014-02-07",
+                "still_path": "/oAH12VKHk32yVAJ7oWlwRg0brZb.jpg",
+                "video_url": "1381189"
+            },
+            {
+                "episode_number": 18,
+                "name": "Geceye Doğru",
+                "overview": "Honnouji Akademisi Kültür ve Spor Büyük Festivali ani ve hiç beklenmedik bir şekilde sona eriyor! Savaş hatları çizilir ve Ryuko'nun kimin dost kimin düşman olduğuna karar vermesi gerekir. Peki Hayat Elyafının gücüne direnebilecek güce sahip olacak mı?",
+                "air_date": "2014-02-14",
+                "still_path": "/4RQU6C7EfXYJ0dM5JJ3yzGPH1Eh.jpg",
+                "video_url": "1384749"
+            },
+            {
+                "episode_number": 19,
+                "name": "Yağmur Damlaları Kafama Düşmeye Devam Ediyor",
+                "overview": "Şaşırtıcı bir açıklama Ryuko'nun dünyasını altüst eder! Ancak kargaşa içinde olan tek kişi o değil; çünkü Satsuki, Elit Dörtlü ve Çıplaklar Plajı üyeleri, Honnouji Akademisi Kültür ve Spor Büyük Festivali'nin ardından birbirleriyle mücadele halinde kalıyor!",
+                "air_date": "2014-02-21",
+                "still_path": "/gLlozpqBIqUH18meXh0SJ32impu.jpg",
+                "video_url": "1781056"
+            },
+            {
+                "episode_number": 20,
+                "name": "Çılgın Kalabalıktan Uzak",
+                "overview": "Ryuko uyanıktır ve mutlu değildir. Ragyo ve Nui'yi öldürme niyetiyle müttefiklerini geride bırakarak yola çıkar. Onun gücü olmadan, Nudist Beach bir sonraki adımının ne olacağına karar vermek zorundadır, ancak yeni bir bilgi onları harekete geçirir!",
+                "air_date": "2014-02-28",
+                "still_path": "/l2blY1Zh2zQF0UYaJaJ5N5w1eH0.jpg",
+                "video_url": "1402140"
+            },
+            {
+                "episode_number": 21,
+                "name": "Tamamlanmamış",
+                "overview": "Ryuko'nun saldırısı devam eder ve Ragyo ile Nui sayesinde beklenmedik yeni bir müttefiki olur. Satsuki'nin hedef alınmasıyla Elit Dörtlü ve Çıplaklar Plajı bu saldırıya dayanabilecek mi?",
+                "air_date": "2014-03-07",
+                "still_path": "/q8M9fVNjK237SmMiitjSo8Kiyhu.jpg",
+                "video_url": "1415698"
+            },
+            {
+                "episode_number": 22,
+                "name": "Bana Nasıl Hissettiğini Söyle",
+                "overview": "Şaşırtıcı olaylar Nui Harime'yi hazırlıksız yakalar ve Çıplaklar Plajı'na yeniden toplanıp Ragyo'ya karşı mücadelede bir sonraki adımlarını planlama şansı verir. Peki Ryuko ve Satsuki son zamanlardaki anlaşmazlıklarını çözebilecekler mi?",
+                "air_date": "2014-03-14",
+                "still_path": "/xsVgwIR5kfSZk8ncUtiJLbMLPJZ.jpg",
+                "video_url": "1781073"
+            },
+            {
+                "episode_number": 23,
+                "name": "İmitasyon Altın",
+                "overview": "Devam eden savaş Honnouji Akademisi'ne doğru ilerliyor ancak Ragyo ve Original Life Fiber buna engel oluyor. Ryuko ve Satsuki onlarla yüzleşmek için yola çıktılar ve Çıplaklar Plajı'nın savunmasını... Mako'ya mı bıraktılar?! Bu arada çılgın Nui hararetle çalışmaya devam ediyor...",
+                "air_date": "2014-03-21",
+                "still_path": "/ohrnLJsWsYTtFe7vW1MD8NZYbAp.jpg",
+                "video_url": "1424553"
+            },
+            {
+                "episode_number": 24,
+                "name": "Sonsuz Karanlığın Ötesinde",
+                "overview": "Son yüzleşme kapıda! Ragyo ve Nui dünyanın sonunu mu getirecek yoksa Ryuko ve diğerleri onları durdurabilecek mi?",
+                "air_date": "2014-03-28",
+                "still_path": "/dSIkxbsuHYfWMEaImOj3J4ufeaR.jpg",
+                "video_url": "1432128"
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2022-07-02",
+        "poster_path": "/stMIRqxrBXJsuCAvF6UjrQe9bSM.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kolayca Yap",
+                "overview": "Japonya'nın güvenliğini koruyan \"Lycoris\" adlı gizli ajan Takina Inoue'ye, yaşanan bir olay sonucunda LycoReco kafeye nakledilmesi emredilir. Takina, süper elit 1 No'lu Lycoris (?) Chisato ile arkadaş olduğu için savcıya dönme konusunda oldukça heyecanlı, ancak LycoReco'daki işi birbiri ardına tuhaf şeyler oluyor!?",
+                "air_date": "2022-07-02",
+                "still_path": "/iauquKZXghgLhPBL2zESoNWhsqN.jpg",
+                "video_url": "4792693"
+            },
+            {
+                "episode_number": 2,
+                "name": "Ne Kadar Çok O Kadar Neşeli",
+                "overview": "LycoReco, en iyi bilgisayar korsanı Walnut'tan bir istek aldı. Aynı işte çalışan ve kafasının peşinde olan diğer bilgisayar korsanlarından ülkeden kaçmak için yardım istiyor. LycoReco üyeleri Walnut'un kaçmasına yardım etmek için birlikte çalışır, ancak şiddetli bir grup silahlı saldırgan Chisato ve diğerlerine saldırır…!?",
+                "air_date": "2022-07-09",
+                "still_path": "/rEeiYfRuUZCcfxIGdokF4Itzpjg.jpg",
+                "video_url": "4792697"
+            },
+            {
+                "episode_number": 3,
+                "name": "Acele Işe Şeytan Karışır",
+                "overview": "Chisato isteksizce sağlık kontrolü ve fiziksel uygunluk testi için Savcı Merkezine gitti. Takina bunu duyunca savcılığa geri alınması için doğrudan talepte bulunmak üzere ona katılmaya karar verdi. Takina, Chisato ile pazarlık yapar, ancak komutanları bunların hiçbirini duymaz. Üstelik eski ortağı Fuki, yeni bir arkadaşla iş birliği yapıyor.",
+                "air_date": "2022-07-16",
+                "still_path": "/lkRbBRT6FFMPMTDtE8eRrb2DYvQ.jpg",
+                "video_url": "4794576"
+            },
+            {
+                "episode_number": 4,
+                "name": "Hiçbir Şey Aramıyor, Hiçbir Şey Bulamıyor",
+                "overview": "Bölge Savcısı Genel Merkezindeki olaydan sonra Chisato ve Takina, LycoReco'da sorunsuz ve kolay bir hayat yaşarlar. Belirli bir günde Chisato, Takina'nın iç çamaşırının ■■■■■…! Takina'nın kendisine karşı mutlak kayıtsızlığından bıkan Chisato, onu alışverişe götürmeye karar verir!",
+                "air_date": "2022-07-23",
+                "still_path": "/7ic4g6NQoiawBVzTFXusGLl0XuY.jpg",
+                "video_url": "4799833"
+            },
+            {
+                "episode_number": 5,
+                "name": "Şimdiye Kadar, Çok Iyi",
+                "overview": "Bu seferki müşteri, vücudu bir makineye bağlı olan Matsushita'dır. Zamanının kısıtlı olduğunu bilen Matsushita, biraz gezi için memleketi Japonya'ya döner. Koruma ve rehber olarak görevlendirilen Chisato ve Takina, Matsushita'nın Tokyo gezi turunu desteklemek için ellerinden geleni yapıyorlar! Bu sırada Takina, Chisato hakkında ilginç bir gerçeği öğrenir!?",
+                "air_date": "2022-07-30",
+                "still_path": "/oUdCd4rqNsRObv45FNvA6bsil6M.jpg",
+                "video_url": "4807066"
+            },
+            {
+                "episode_number": 6,
+                "name": "Karşıtların Çekimi",
+                "overview": "Lycoris'e karşı seri saldırılar meydana geldi. Takina, gruplar halinde kalabilmek için Chisato'nun evinde kalmaya karar verir. Ama bu ikisi için ilk kez biriyle yaşamak öngörülemeyen durumlarla dolu!? Bu sırada Kurumi, savcının elindeki bilgileri gizlice araştırır ve Lycoris'e yapılan saldırılarla ilgili şaşırtıcı gerçeklere yaklaşır.",
+                "air_date": "2022-08-06",
+                "still_path": "/mFOT8g8xVsDB0IzDb19qKdt06ao.jpg",
+                "video_url": "4816899"
+            },
+            {
+                "episode_number": 7,
+                "name": "Zaman Gösterecek",
+                "overview": "Mika bir mesaj aldı. Chisato o mesaja göz attı ve Kusunoki'nin onu DA'ya geri getirmeye çalıştığından şüphelendiğinde büyük bir yaygara kopardı! Planlarını engellemek için LycoReco'nun dört üyesi, Mika'nın gizli bir buluşmasının olduğu bara baskın yapmak için güçlerini birleştirdi!",
+                "air_date": "2022-08-13",
+                "still_path": "/cVyWZHaKQQ4Ex0Z4q5EoKzkK2EV.jpg",
+                "video_url": "4825138"
+            },
+            {
+                "episode_number": 8,
+                "name": "Başka Bir Gün Başka Bir Dolar",
+                "overview": "Café LycoReco'nun zarar ettiğini öğrendikten sonra, Takina muhasebeyi kendi başına üstlenmeye karar verir. Takina, Chisato'nun kurşunları boşa harcamasını ayrım gözetmeksizin engellemekten, kafenin üyelerini takip etmeye kadar her şeyi kusursuz bir şekilde parçalara ayırır. Hatta yeni bir menü öğesi bile planlar. Ancak menü öğesinin şekli kelimelerle ifade edilemeyecek kadar korkunçtur!?",
+                "air_date": "2022-08-20",
+                "still_path": "/x5pvnNkF1y7yUEBdq7N0kyddN2.jpg",
+                "video_url": "4837064"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yapılan Şey Yapıldı",
+                "overview": "Chisato'nun yapay kalbi hedef alındı. Artık pil şarj edilemediği için Chisato'nun geri kalan günleri ayarlandı. Yeri doldurulamaz yapay kalbe dair ipuçlarının peşine düşen Kurumi, Mika'ya o dönemde neler olduğunu sorar. Bu arada Savcı, Majima'yı bastırmak için büyük çaplı bir operasyona hazırlanırken Chisato, Karargah'a çağrılır.",
+                "air_date": "2022-08-27",
+                "still_path": "/8ElzWAOVcHOG81yzEY75BkU7rnb.jpg",
+                "video_url": "4848066"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kötülüğe Kötülükle Karşılık Verin",
+                "overview": "Chisato, Mizuki ve Kurumi'nin kişisel işlerine kapılmaması için Café LycoReco'yu kapatacağı haberini verir. Aynı sıralarda Savcıya dönen Takina, Chisato'nun hayatını kurtarmak amacıyla Yoshimatsu'nun izini sürmek için Majima'yı bir basamak olarak kullanır. Sonunda Majima'nın müşterisini yakalayıp saklandıkları yere sızdılar…!?",
+                "air_date": "2022-09-03",
+                "still_path": "/hexq93q1fSacTRI6VrjXdRSbIYo.jpg",
+                "video_url": "4858473"
+            },
+            {
+                "episode_number": 11,
+                "name": "Elmas Kesim Pırlanta",
+                "overview": "Bölge Savcısı Lycoris, Majima'yı durdurmak için Enkuboku'ya saldırdı. Operasyondan hemen önce Kusunoki, Chisato ile iletişime geçemeyeceklerini söyleyince Takina, Café LycoReco'ya koşar. Ancak Robota'dan tehditler alan Chisato ve Mika, rehin tutulan Yoshimatsu'yu kurtarmak için yola çıkar...",
+                "air_date": "2022-09-10",
+                "still_path": "/3K3eoIbOvU7Yeads7mFH4NU90xx.jpg",
+                "video_url": "4866623"
+            },
+            {
+                "episode_number": 12,
+                "name": "Doğa ve Yetiştirme",
+                "overview": "Chisato, eski radyo kulesinde Majima'ya karşı zorlu bir mücadeleye sürüklenir, ancak Takina tam zamanında yetişir. Bu arada Lycoris'in varlığı Majima'nın hilesi nedeniyle kamuoyuna açıklanır. Karargahta Kusunoki'nin komutanlığı elinden alınır ve Lycoris'in Enkuboku'nun içinde imha edilmesine karar verilir!?",
+                "air_date": "2022-09-17",
+                "still_path": "/6mqulquTDkeWhSzsNf3hRvPj18B.jpg",
+                "video_url": "4877635"
+            },
+            {
+                "episode_number": 13,
+                "name": "Lycoris'in Geri Tepmesi",
+                "overview": "Enkuboku'daki olayla birlikte her şey çözülmüştür; ta ki eski Radyo Kulesi'nde mağlup edilmesi gereken Majima, Chisato'nun huzuruna çıkana kadar öyle görünmektedir. Majima, Chisato'yu bire bir dövüşe davet ederken patlamaya bahse girerek Enkuboku'ya bir bomba yerleştirdi. Chisato'nun kendi zaman sınırı yaklaşırken son savaş başlıyor!",
+                "air_date": "2022-09-24",
+                "still_path": "/n19LJPswIzi8d1aAktw9ai4Vyh0.jpg",
+                "video_url": "4884633"
+            }
+        ]
+    }
+}

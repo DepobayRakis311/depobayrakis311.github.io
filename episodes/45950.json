@@ -1,0 +1,422 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2012-01-06",
+        "poster_path": "/dJA4r9xf2LfDbIYtP2kNqTb9k55.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bir Kız Arkadaşım Var!",
+                "overview": "Issei Hyodo'nun yeni kız arkadaşıyla ilk randevusu, kız bir canavara dönüşüp onu karnından bıçakladığında kötü biter. Şans eseri, okulunun Gizli Araştırma Kulübü'nün dolgun başkanı Rias tarafından kurtarıldı. Ve sonra işler gerçekten tuhaflaşmaya başlıyor...",
+                "air_date": "2012-01-06",
+                "still_path": "/n6PE7WDBKP4AA1o3NXpGdiIWW90.jpg",
+                "video_url": "1061448"
+            },
+            {
+                "episode_number": 2,
+                "name": "İnsan Olmaktan Bıktım!",
+                "overview": "Sürpriz! Okült Araştırma Kulübü'nün tüm üyeleri şeytandır; bunlara yeni katılan Issei de dahildir ve tüm bu \"şeytani güç\" olayını anlamakta zorluk çekmektedir. Belki Düşmüş Melekler ortaya çıkıp onu öldürmeye çalışmayı bırakırsa şansı daha iyi olurdu.",
+                "air_date": "2012-01-13",
+                "still_path": "/y7LiMwl4GqyRQyNR7vFLf1gonAu.jpg",
+                "video_url": "1061449"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bir Arkadaş Edindim!",
+                "overview": "Issei, kasabanın kilisesine hizmet etmek için gelen bir Rahibe olan Asia Argento adında bir kızla tanışır ve arkadaş olur. Issei, parçası olduğu satranç oyunu ve kendisinin ve arkadaşlarının bu oyunda oynadığı roller hakkında daha fazla şey öğreniyor.",
+                "air_date": "2012-01-20",
+                "still_path": "/mQs4o0Lls5zaZMVGzhcUc06IeL.jpg",
+                "video_url": "1061451"
+            },
+            {
+                "episode_number": 4,
+                "name": "Arkadaşımı Kurtarıyorum!",
+                "overview": "Issei güçlenmeye kararlı. Asya'yla biraz daha zaman geçiriyor ama koşulları bir kez daha onları ayrı tutuyor. Issei, piyonların çok güçlü olmasa da diğer satranç taşları gibi hareket etmelerini sağlayan bir güce sahip olduklarını öğrenir.",
+                "air_date": "2012-01-27",
+                "still_path": "/icmGQ1i72QsiOvQQ4wXEBuDkmiL.jpg",
+                "video_url": "1061452"
+            },
+            {
+                "episode_number": 5,
+                "name": "Eski Sevgilimi Yeneceğim!",
+                "overview": "Kiba ve Koneko ona destek olurken Issei, ciddi şekilde yaralanan Asya'yı kurtarmak için harekete geçer. Diğerlerini geride bırakan Raynare ve Issei, ölümüne bir düelloya girişir! Başka yerlerde Rias ve Akeno'nun işleri Raynare'nin düşmüş melekleriyle dolu.",
+                "air_date": "2012-02-03",
+                "still_path": "/kW5dbfBU5c7jhQkS1s0TE6kfOnm.jpg",
+                "video_url": "1061453"
+            },
+            {
+                "episode_number": 6,
+                "name": "Şeytan Gibi Çalışıyorum!",
+                "overview": "Kulübün odasında yaşayan Asya için yeni yaşam düzenlemeleri yapılıyor. Bu arada Issei, fiziksel kondisyonunu geliştirmek için Rias ile yeni bir eğitim rejimine başlar. Asya, Issei'nin sınıfına yerleştirildiği okula gitmeye başlar.",
+                "air_date": "2012-02-10",
+                "still_path": "/2VE70GSq5yrz4HvzAbapvvZZDMf.jpg",
+                "video_url": "1061454"
+            },
+            {
+                "episode_number": 7,
+                "name": "Bir Tanıdık Ediniyorum!",
+                "overview": "Rias, Issei ve Asia'nın hizmetkar yardımcılara sahip olma zamanının geldiğine karar verir. Okulun öğrenci konseyi kulüp odasını ziyaret eder ve Issei, onların şeytanların başka bir grubu olduğunu öğrenir. İki grup, yeni yardımcıları ilk kimin seçeceğini görmek için yarışır.",
+                "air_date": "2012-02-17",
+                "still_path": "/apUUUMyHJEQUuv27lThX1bDIJau.jpg",
+                "video_url": "1061455"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Dövüş Seçiyorum!",
+                "overview": "Issei, Rias'la evlendiğini hayal eder ve bu da onu içindeki ejderhayla temasa geçmeye yönlendirir. Asya, Issei ile daha derin bir ilişkiye sahip olma arzusunu itiraf ediyor.",
+                "air_date": "2012-02-24",
+                "still_path": "/pOqwhBlydJpV6kUkg5qOFkkiV8e.jpg",
+                "video_url": "1061456"
+            },
+            {
+                "episode_number": 9,
+                "name": "Eğitimime Başladım!",
+                "overview": "Issei ve Asya, yaklaşan Reyting Oyununa hazırlanmak için diğer hane halkı üyeleriyle birlikte özel bir eğitim kampından geçiyor. Issei, kendine özgü özelliğinin ne olduğunu anlamaya çabalıyor. Rias, şeytanlar ve Gremory ailesi hakkında daha fazla bilgi veriyor.",
+                "air_date": "2012-03-02",
+                "still_path": "/wkUfTENeQnZsOOhYPPEIOQdZxd7.jpg",
+                "video_url": "1061458"
+            },
+            {
+                "episode_number": 10,
+                "name": "Hesaplaşma Başlıyor!",
+                "overview": "Reyting Oyununun başlama zamanı gelir ve yarışmacılar alternatif bir boyuttaki savaş alanına taşınır. Asya ve Rias üslerinde kalırken Issei ve Koneko muhalefetle karşı karşıya kalır ve Issei yeni imza hamlesini açıklar.",
+                "air_date": "2012-03-09",
+                "still_path": "/vUzZJY3r4jTPK8gyrYGsyILCdoS.jpg",
+                "video_url": "1061459"
+            },
+            {
+                "episode_number": 11,
+                "name": "Alkışlanan Mücadele Devam Ediyor!",
+                "overview": "Kiba, Riser'ın şövalyelerinden biri olan Karlamin'e karşı savaşta sağlamlaşırken Akeno, kraliçesi Yubelluna ile savaşır. Bu sırada Issei, Ravel'i ve kalan diğer parçaları ele geçirir. Rias, Riser'a ya hep ya hiç şeklinde sinsi bir saldırı başlatır.",
+                "air_date": "2012-03-16",
+                "still_path": "/6vedP1bi7UvHAM9lRsjfKmYu7tY.jpg",
+                "video_url": "1061460"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sözümü Tutmak İçin Buradayım!",
+                "overview": "Issei uyandığında savaşın bittiğini ve kaybettiğini görür. Rias ve diğerleri Riser'la nişanının şerefine düzenlenen bir partidedirler, ancak Grayfia ve Asia'nın yardımıyla Issei partiye katılmaya, Rias'ı kurtarmaya ve onu eve getirmeye karar verir!",
+                "air_date": "2012-03-23",
+                "still_path": "/9wamgE5hRoBYqC0kMCKqvlmle0w.jpg",
+                "video_url": "1061462"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2013-07-07",
+        "poster_path": "/bREf39mTiN5pQzNGnwUuVlqn7M3.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Rahatsız Edici Bir Önsezi Daha!",
+                "overview": "Issei, Rias ve Asia'nın evinde yaşamasıyla geri döner ve Kiba, Issei'nin evinde kutsal bir kılıcın resmini görünce tuhaf davranmaya başlar.",
+                "air_date": "2013-07-07",
+                "still_path": "/mrFC2SVhGp92wCPeRfwqzedYzLY.jpg",
+                "video_url": "1195875"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kutsal Kılıç Burada!",
+                "overview": "Issei, beyaz ejderha hakkında bir uyarı daha alır ve Kutsal Kılıçları taşıyan kilise takipçileri şeytanları ziyaret eder.",
+                "air_date": "2013-07-14",
+                "still_path": "/reQrIKSEuLCrbqVFwyDlwddYkox.jpg",
+                "video_url": "1202880"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kutsal Kılıcı Parçalayacağım!",
+                "overview": "Issei ve Kiba, Xenovia ve Irina ile savaşır ve Issei, kavgalarının sonuçlarıyla baş etmeye çalışır.",
+                "air_date": "2013-07-21",
+                "still_path": "/iduWJsUDGrfGLTPJTfHA8RDi7f8.jpg",
+                "video_url": "1210916"
+            },
+            {
+                "episode_number": 4,
+                "name": "Güçlü Bir Düşman Ortaya Çıktı!",
+                "overview": "Issei ve diğerleri, Freed'e karşı savaşmak için kiliseyle iş birliği yapar, ancak daha da büyük bir düşman ortaya çıkar.",
+                "air_date": "2013-07-28",
+                "still_path": "/yxgKRNOuhaKHkBtdbAJ0x6Vxx9H.jpg",
+                "video_url": "1218635"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kuoh Akademisi'nde Kararlı Savaş!",
+                "overview": "Kuoh Akademisi öğrencileri, okullarını ve kasabalarını savunmak için Kokabiel ve yardakçılarıyla savaşır.",
+                "air_date": "2013-08-04",
+                "still_path": "/15TDQov8V541wFlaIhnuDRU8GRx.jpg",
+                "video_url": "1231627"
+            },
+            {
+                "episode_number": 6,
+                "name": "Gitmek! Okült Araştırma Kulübü!",
+                "overview": "Okült Araştırma Kulübü, Kokabiel ile savaşır ve melekler, düşmüş melekler ve şeytanlar arasındaki güç mücadelesi hakkında bazı şok edici gerçekleri öğrenir.",
+                "air_date": "2013-08-11",
+                "still_path": "/iSV5REYxrylTo51z2RW873GFYdk.jpg",
+                "video_url": "1231408"
+            },
+            {
+                "episode_number": 7,
+                "name": "Yaz! Mayo! Başım Belada!",
+                "overview": "Okült Araştırma Kulübü, Kokabiel konusunda yardımlarından dolayı öğrenci konseyine teşekkür etmek için havuzun temizliğini devralır ve Issei'nin başı pek çok belayla karşılaşır.",
+                "air_date": "2013-08-18",
+                "still_path": "/t5PZWacd7aYYeT35D3sj75pRfKD.jpg",
+                "video_url": "1238416"
+            },
+            {
+                "episode_number": 8,
+                "name": "Açık Toplantı Başlıyor!",
+                "overview": "Issei, Twin Sky Dragons ile Rias ve Sona'nın Açık Ev'de sorunlu aile üyeleriyle uğraşmak zorunda kaldıkları arasındaki çekişme hakkında daha fazla şey öğrenir.",
+                "air_date": "2013-08-25",
+                "still_path": "/6J3NqJ7RKl5c7Zm6qF6bXUUGKPg.jpg",
+                "video_url": "1787732"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bir Junior'ım Var!",
+                "overview": "Gremory Hanesi'nin diğer Piskoposu serbest bırakılır ve Akeno, Issei'yi yeni bir tanıdıkla tanıştırmaya götürür.",
+                "air_date": "2013-09-01",
+                "still_path": "/sQJlI9PqHCy836OPzPhmBcQdHOC.jpg",
+                "video_url": "1251563"
+            },
+            {
+                "episode_number": 10,
+                "name": "Çeşitli Üç Yollu Kilitlenmeler!",
+                "overview": "Issei, Meleklerin Şefi Michael ile tanışır ve Liderler Zirvesi öncesindeki günlerde Gasper'ı eğitmeye devam eder.",
+                "air_date": "2013-09-08",
+                "still_path": "/91PRKotW1cCyw9nrPoN8oUcn8l1.jpg",
+                "video_url": "1260417"
+            },
+            {
+                "episode_number": 11,
+                "name": "Liderler Zirvesi Başlıyor!",
+                "overview": "Liderler Zirvesi sırasında zaman durur ve Issei ve diğerleri yeni bir düşmanla karşılaşır.",
+                "air_date": "2013-09-15",
+                "still_path": "/mMXWM5cp06zOQ7TsMNs4K0vGQbj.jpg",
+                "video_url": "1264544"
+            },
+            {
+                "episode_number": 12,
+                "name": "İkiz Gökyüzü Ejderhalarının Çatışması!",
+                "overview": "Issei, Vali ile savaşır ve Twin Sky Dragons karşı karşıya gelirken gücünün gizli derinliklerini keşfeder.",
+                "air_date": "2013-09-22",
+                "still_path": "/owM0EM9QLEJqsIMM8E6KX00CZrz.jpg",
+                "video_url": "1787753"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 12,
+        "air_date": "2015-04-04",
+        "poster_path": "/4l1WsjP90fvqQzkdWArrXxET0Im.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yaz Tatili! Yeraltı Dünyasına Doğru!",
+                "overview": "Hyodo Issei için yaz tatili hızla yaklaşıyor, ancak Rias'ın yeraltı dünyasına yaptığı ziyarete eşlik edeceğini öğrendiğinde tüm planları askıya alınıyor! Yeni bir macera başlamak üzere ve bu arada Koneko kendisi gibi davranmıyor.",
+                "air_date": "2015-04-04",
+                "still_path": "/u3AdEaYh1aNrGkWWbYIhFNbSJvt.jpg",
+                "video_url": "3072982"
+            },
+            {
+                "episode_number": 2,
+                "name": "Genç Şeytanlar Buluşuyor",
+                "overview": "Issei ve diğerleri, her birinin becerilerini geliştirmek için eğitimlerine başlar. Güçlü insanlar Kaos Tugayı'na karşı savaşmak için bir araya gelirken etraflarında olaylar oluyor. Bütün genç şeytanlar tek bir yerde toplanıyor.",
+                "air_date": "2015-04-11",
+                "still_path": "/nEUDwZu5eLvzxbDtMceG6GLQSO5.jpg",
+                "video_url": "3072987"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kedi ve Ejderha",
+                "overview": "Koneko'nun kız kardeşi Kuroka, kız kardeşini Rias Gremory'den uzaklaştırıyor gibi görünüyor. Issei ve Rias, bunun olmasını engellemek için onun peşine düşer. Aynı zamanda mitolojiler arasındaki bu ittifaklara karşı çıkan bir isim de büyük buluşmada karşımıza çıkıyor.",
+                "air_date": "2015-04-18",
+                "still_path": "/wz1bwfAo0yZLeyXOR6TClWFg4HJ.jpg",
+                "video_url": "3072988"
+            },
+            {
+                "episode_number": 4,
+                "name": "Durdurma, Başlayın!",
+                "overview": "Loki mühürlendi ama yalnızca geçici olarak. Rias ve ailesi, onu geride tutmaya çalışan gönüllüler arasında yer alırken Odin, güçlü çekiç Mjolnir'i almak için Kuzey'e döner. Herkes ayağa kalkıp bir tanrıya karşı savaşabilecek mi?",
+                "air_date": "2015-04-25",
+                "still_path": "/vssG6A1I9t1UyXHBAdAxPn6jpHa.jpg",
+                "video_url": "3072993"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yaz Tatilinin Son Günü!",
+                "overview": "Loki'nin mağlup edilmesiyle Rias ve ailesi, yazın son günlerini tamamlamak için insan dünyasına geri döner. Issei'yi bir yığın ödev beklemektedir ama o bunun yerine Akeno'yla randevuya çıkar! Akeno, korkunç geçmişini unutmayı umarak kendini Issei'ye atar.",
+                "air_date": "2015-05-02",
+                "still_path": "/pPF2rjJCxOOSvcCiswmgbPDO3DY.jpg",
+                "video_url": "3072996"
+            },
+            {
+                "episode_number": 6,
+                "name": "İkinci Trimester Başladı!",
+                "overview": "Issei ve diğerleri okula ve günlük hayatlarına geri döndüler. Irina ve Rossweisse, Issei'nin evinde yaşamaya başlar ve spor festivali hızla yaklaşır. Tüm bunlar sırasında Diodora Astaroth Asya'nın huzuruna çıkıyor ve ona evlenme teklif mi ediyor?!",
+                "air_date": "2015-05-09",
+                "still_path": "/i8E9Dj15xp3Vtsshl9buVwlJNGx.jpg",
+                "video_url": "3073002"
+            },
+            {
+                "episode_number": 7,
+                "name": "Savaştan Önceki Gece!",
+                "overview": "Reyting Oyunu yaklaşırken Diodora tatlı Asya'yı rahatsız etmeye devam ediyor. Arka planda karanlık şeyler ortaya çıkarken Issei ve diğerleri savaşa hazırlanır. Gremory ailesi sahaya çıktığında kendilerini beklenmedik bir savaşın içinde bulurlar!",
+                "air_date": "2015-05-16",
+                "still_path": "/jHjnzqIffQrQVCenZo7GC5tkQnM.jpg",
+                "video_url": "3073010"
+            },
+            {
+                "episode_number": 8,
+                "name": "Asya'yı Kurtaracağız!",
+                "overview": "Rias ve ailesi, Asya'yı kurtarmak için tapınağa doğru koşarken Kaos Tugayı'nın savaşını yetişkinlere bırakır. Orada, Diodora Derecelendirme Oyununu kendi küçük oyunuyla değiştirir. Asya'yı geri almak için onun güçlerine karşı savaşmaları gerekir!",
+                "air_date": "2015-05-23",
+                "still_path": "/bUA2IkMEMxPCX2spsQx7yayFpfF.jpg",
+                "video_url": "3073020"
+            },
+            {
+                "episode_number": 9,
+                "name": "Ejderha Ejderhası",
+                "overview": "Asya'nın ani ölümü Issei'yi şaşırtır ve Juggernaut Drive'ı tetiklemesine neden olur. Rias ve ailesi onu kurtarmaya çalışırken Azazel ve Sör Zechs, Kaos Tugayı'nın lideriyle tanışır! Organizasyonu yaratma konusundaki gerçek niyeti nedir?",
+                "air_date": "2015-05-30",
+                "still_path": "/AvK3tmHluN6c31QWxG6W8s0373H.jpg",
+                "video_url": "3073032"
+            },
+            {
+                "episode_number": 10,
+                "name": "Okült Kulüp Ortadan Mı Kayboluyor?!",
+                "overview": "Asya, eksik dönüşümünün ardından Issei'yi içindeki ejderhayı iyileştirerek kurtarır. Sonunda hepsi evlerine döner ve huzurlu günlerinin tadını çıkarırlar. Loki, Issei konusunda başarısız olduktan sonra şeytani kavrayışını Rias'a çevirir.",
+                "air_date": "2015-06-06",
+                "still_path": "/AhUyMGAOaq40heDG1aJWNAto2mB.jpg",
+                "video_url": "3073037"
+            },
+            {
+                "episode_number": 11,
+                "name": "Dövüşeceğim!",
+                "overview": "Issei yardım için Vali'yi görmeye gider ve bu başlı başına yeraltı dünyasına karşı bir eylemdir. Arthur ve Kutsal Kraliyet Kılıcı Collbrande'nin yardımıyla Rias ailesi Boyut Boşluğuna gider. Orada Rias'la tanışırlar ve onu geri getirmeye çalışırlar.",
+                "air_date": "2015-06-13",
+                "still_path": "/muOFOhASjqg2QwVrp6kj2XMcxw4.jpg",
+                "video_url": "3073045"
+            },
+            {
+                "episode_number": 12,
+                "name": "Her Zaman, Her Zaman!",
+                "overview": "Issei, Rias'ı ona karşı savaşarak durdurmak zorundadır. Rias ona saldırılarla saldırırken, Issei onunla paylaştığı çeşitli anıları hatırlar. Rias'ı böyle bir durumda bırakamaz, hatırladığı görkemli ve onurlu Rias'ı geri getirmek için öne koşar.",
+                "air_date": "2015-06-20",
+                "still_path": "/jjLg5jBpw8hVzm8PrLMWkQ72L.jpg",
+                "video_url": "3073049"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 12,
+        "air_date": "2018-04-10",
+        "poster_path": "/AwFLnL5PoHNmXZOW1fFfxw5OXgL.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Spor Salonunun Arkasındaki Kutsallık",
+                "overview": "High School DxD BorN'un son dört bölümünün alternatif versiyonu.",
+                "air_date": "2018-04-10",
+                "still_path": "/xhhWtaH6IokbAkmFX0K2nuaxapP.jpg",
+                "video_url": "3284617"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bu Doğru, Haydi Kyoto'ya Gidelim",
+                "overview": "Issei, Kyoto'ya yapacağı okul gezisine hazırlanır, ancak ayrılmadan önce Rias ve diğerleriyle birlikte Gremory ailesine gitmesi gerekir, böylece Rias, ailesinin tamamlandığını bildirebilir. Orada, Issei ile biraz göğüs göğüse görüşmek isteyen Sairaorg ile tanışırlar.",
+                "air_date": "2018-04-17",
+                "still_path": "/irIfCXr9NooEmNsBu0B9VHQNZq.jpg",
+                "video_url": "4882005"
+            },
+            {
+                "episode_number": 3,
+                "name": "Okul Gezisi, Ani Saldırı",
+                "overview": "Issei ve sınıf arkadaşları Kyoto'ya gelir. Issei, Kyoto'nun tadını sonuna kadar çıkarmaya hazır olsa da, güçlenmek her zaman aklındadır. Ancak görünen o ki Kyoto'da endişelenecek tek şey eğitim değil. Güçlü gruplar harekete geçmeye başladı.",
+                "air_date": "2018-04-24",
+                "still_path": "/etQj5HUd6wy0qbWMlOet9FSmdm8.jpg",
+                "video_url": "4882011"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kahramanlar Partisi",
+                "overview": "Issei ve diğerleri, Kyoto'da eğlenirken bile eğitimlerine devam ediyorlar. Issei'nin grubu gizemli dokuz kuyruklu tilkiyle bir kez daha tanışır ve bu kez onlara, youkai'nin annesini Kaos Tugayı'ndan kurtarmasına yardım etmeleri için yalvarır.",
+                "air_date": "2018-05-01",
+                "still_path": "/y5s8tlcsFIdyLA1R9ZIRl2vVrsQ.jpg",
+                "video_url": "3299837"
+            },
+            {
+                "episode_number": 5,
+                "name": "Hesaplaşma! Gremory Ailesi, Kyoto'daki Kahraman Grubuna Karşı",
+                "overview": "Kahraman Grubu geldi ve Cao Cao, Azazel ve Kızıl Ejderha İmparatoru ile kılıçları çaprazlamak istiyor. Böylesine vahim bir durumda, Issei'nin hızlı bir şekilde tepki vermesi gerekiyor ki tüm arkadaşları bu durumdan canlı çıksın. Acaba \"potansiyelini\" bulup serbest bırakabilecek mi?",
+                "air_date": "2018-05-08",
+                "still_path": "/lmvJ2L3yp538ljz2aWhJntcj4XU.jpg",
+                "video_url": "4518630"
+            },
+            {
+                "episode_number": 6,
+                "name": "Potansiyelim Ortaya Çıktı!",
+                "overview": "Issei ve ekibi Nijo Kalesi'nde Cao Cao ile buluşur ve orada Kunou'nun annesini bulur. İki grup arasında bir hesaplaşma başlar. Köşeye sıkışan Issei sonunda iç potansiyelini açığa çıkarma ve kendisine ait olanı çağırma gücünü kendi içinde bulur.",
+                "air_date": "2018-05-15",
+                "still_path": "/gNQS2b2Pbjes1P4htn8v24Gprvr.jpg",
+                "video_url": "3309428"
+            },
+            {
+                "episode_number": 7,
+                "name": "Okul Gezisi Pandemoniumda",
+                "overview": "Issei, sevgili Başkanını Kyoto'daki savaşın kızışmasına çağırır. Elsha onun önünde süzülürken kulağına göğüslerini dürtmesini fısıldıyor. Düğmeye basıldığında potansiyel gücü açığa çıkar ve Issei, Cao Cao'ya bir kez daha meydan okur.",
+                "air_date": "2018-05-22",
+                "still_path": "/qZVVo1fVCoBpGRJZDuLbbw8zwIn.jpg",
+                "video_url": "4518633"
+            },
+            {
+                "episode_number": 8,
+                "name": "Okul Şenliğine Hazırlanıyoruz!",
+                "overview": "Kaos Tugayı, Kyoto'daki gösterilerinden bu yana sakinleşti, bu yüzden Issei ve diğerlerinin artık başka konulara odaklanması gerekiyor. Sonuçta, oynanacak kahramanlık gösterileri, hazırlanmanız gereken bir okul festivali ve Sairaorg ile giderek yaklaşan Reyting Oyunu var...",
+                "air_date": "2018-05-29",
+                "still_path": "/69JbwP1H9ZFFPWIKlPO2JQHoqu8.jpg",
+                "video_url": "3355217"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bir Kızın Kalbi Karmaşıktır",
+                "overview": "Gremory ailesi artık yaklaşan Reyting Oyunu için tam eğitim modunda. Ancak Issei'nin aklında pek çok başka şey var. Hazırlanmanız gereken bir okul festivali ve üstesinden gelmeniz gereken bir basın toplantısı var. Üstelik Rias tuhaf mı davranıyor?!",
+                "air_date": "2018-06-05",
+                "still_path": "/17WMIzASMpYbqbvMta8XMoc579o.jpg",
+                "video_url": "4490592"
+            },
+            {
+                "episode_number": 10,
+                "name": "En Güçlü Gençliğin Belirleyici Savaşı Başlıyor!",
+                "overview": "Reyting Oyunu başlamak üzeredir ancak Issei'nin çözmesi gereken şeyler vardır. Rias'ın neden böyle davrandığına dair bir tahminde bulundu ama buna inanmaya cesaret edebilecek mi? Kızları ona cesaret veriyor. Ve sonunda ekipleri savaş alanına çıkıyor.",
+                "air_date": "2018-06-12",
+                "still_path": "/hnTY2uKv7ObCuZjTjqWoY3Z6Y7e.jpg",
+                "video_url": "3355279"
+            },
+            {
+                "episode_number": 11,
+                "name": "Rias Gremory'nin Aile Üyesi Olarak",
+                "overview": "Reyting Oyunundaki rekabet kızışıyor. Gremory Takımı soğukkanlılığını koruyup galip gelebilecek mi, yoksa Issei bir striptiz gösterisiyle mahvolacak mı?",
+                "air_date": "2018-06-19",
+                "still_path": "/zNcuohStf1fzIT4nLqS40buFmXV.jpg",
+                "video_url": "4490600"
+            },
+            {
+                "episode_number": 12,
+                "name": "Adam Adama Karşı",
+                "overview": "Sairaorg sonunda sahneye çıktı ve Kiba, Xenovia ve Rossweisse ona karşı birlik oldu. Savaş hızlı ve acımasız ve Issei sonunda patlama noktasına geliyor. Duygularını yönlendirebilecek mi? Yoksa kızgınlık mı galip gelecek?",
+                "air_date": "2018-06-26",
+                "still_path": "/k5fXZOJE4NgFs3ZVn63muIaiVib.jpg",
+                "video_url": "3387712"
+            }
+        ]
+    }
+}

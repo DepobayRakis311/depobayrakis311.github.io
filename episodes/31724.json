@@ -1,0 +1,420 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 25,
+        "air_date": "2006-10-05",
+        "poster_path": "/up5U9C0leEStyrgP7H317CGyYco.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yeni Bir İblisin Doğduğu Gün",
+                "overview": "10 Ağustos 2010'da Japonya, Kutsal Britannia İmparatorluğu tarafından fethedildi. Yedi yıl sonra, genç öğrenci Lelouch Lamperouge, kendisini Shinjuku Gettosu'nda hükümet karşıtı teröristler ile Britanya Ordusu arasındaki bir savaşın ortasında bulur. Çatışmanın ortasında gizemli, yeşil saçlı bir kız, ona başkalarını kendi emirlerini yerine getirmeye zorlama olanağı tanıyan \"kralın gücünü\" vererek onu ölümden kurtarır.",
+                "air_date": "2006-10-05",
+                "still_path": "/7743zcmvllIdjT9xP3eGCJrkwpb.jpg",
+                "video_url": "2184978"
+            },
+            {
+                "episode_number": 2,
+                "name": "Beyaz Şövalye Uyanıyor",
+                "overview": "Lelouch, yeni keşfettiği gücünü kullanarak düşman Sutherland'i kaçırır ve isyancılara Britanya ordusuna karşı bir karşı saldırıda liderlik eder ve Genel Vali Clovis la Britannia'yı, pilotu Suzaku Kururugi olan deneysel bir Knightmare Frame olan Lancelot'un piyasaya sürülmesi için çağrı yapmaya zorlar. Lancelot'un önceki Knightmare Frame modellerinden çok daha üstün olduğu kanıtlanır ve Lelouch planlarını değiştirmek zorunda kalır. Tam Britanya Ordusu teröristleri köşeye sıkıştırırken Prens Clovis, Lelouch tarafından silah zoruyla tutulduğu için derhal ateşkes emri verir.",
+                "air_date": "2006-10-12",
+                "still_path": "/tppkbPYE3YeOWLSOL38K63JYOp9.jpg",
+                "video_url": "2184979"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sahte Sınıf Arkadaşı",
+                "overview": "Lelouch, Clovis'i öldürmeden önce annesi Marianne vi Britannia'nın öldürülmesi konusunda yüzleşir. Ashford Akademisi'ne döndüğünde Shinjuku'da yardım ettiği teröristlerden Kallen Kōzuki'nin de aynı okula gittiğini keşfeder. Yeni keşfettiği gücün sınırlamaları, onu sorgulamaya ve hafızasını silmeye çalıştığında da ortaya çıkıyor, bu yüzden onun kimliğine dair şüphelerini hafifletmek için kurnaz bir aldatmaca yaratıyor. Prens Clovis'in ölümü medyada duyurulduğunda cinayetle suçlanan kişi Suzaku Kururugi'dir.",
+                "air_date": "2006-10-19",
+                "still_path": "/wSMHRlWK43oZpyAuxDujxW0TH0b.jpg",
+                "video_url": "2184980"
+            },
+            {
+                "episode_number": 4,
+                "name": "Onun Adı Sıfır",
+                "overview": "Britanya Ordusu içindeki Pürist grup, Clovis'in ölümü için Suzaku'yu günah keçisi ilan ediyor ve onu, orduyu Onursal Britanyalılardan kurtarmak için bir bahane olarak kullanmayı planlıyor. Lelouch, Kallen ve Kallen'ın direniş grubunun lideri Kaname Ohgi'nin yardımıyla çocukluk arkadaşını kurtarmak için bir plan yapar. Kendisini halka Zero olarak ilan eden Lelouch, Clovis'i öldürenin kendisi olduğunu açıklar ve Jeremiah Gottwald üzerindeki gücünü onu Suzaku'nun kurtarılmasına yardım etmeye zorlamak için kullanır. Lelouch, özel olarak Suzaku'ya kendisini haksız yere suçladığı için Britannia'ya karşı dönme fırsatı sunar, ancak Suzaku İmparatorluğu içeriden değiştirmek isteyerek bunu reddeder.",
+                "air_date": "2006-10-26",
+                "still_path": "/prpVRPjVMEiexM0pLWhafQwnDqU.jpg",
+                "video_url": "2184981"
+            },
+            {
+                "episode_number": 5,
+                "name": "Prenses ve Cadı",
+                "overview": "Lelouch'u şaşırtacak şekilde, ona gücünü veren kız C.C. hayattadır ve artık onun evinde yaşamaktadır. Tüm suçlamalardan beraat eden Suzaku, yanlışlıkla Üçüncü Prenses Euphemia li Britannia ile tanışır ve sonunda bir Pürist hizip mücadelesine müdahale eder. Bu arada, İkinci Prenses Cornelia li Britannia, Genel Vali olarak Bölge 11'in sorumluluğunu üstlenmeye ve artık İmparatorluğun bir numaralı düşmanı ve en çok aranan adamı olan Zero'yu adalete teslim etmeye çalışıyor.",
+                "air_date": "2006-11-02",
+                "still_path": "/igLeYzOTAujrYOcOdW3ut6y8TrL.jpg",
+                "video_url": "2184982"
+            },
+            {
+                "episode_number": 6,
+                "name": "Çalınan Maske",
+                "overview": "Suzaku, Ashford Akademisi'ne transfer olur ve Britanyalı öğrencilerin küçümsemesiyle karşı karşıya kalır. Cornelia, birkaç isyancı kalesini yok ederek Zero'yu avlamaya devam ediyor, ancak onun nerede olduğuna dair hiçbir ipucu bulamıyor. Başıboş bir kedi, kampüsteki Lamperouge yurduna sızar ve Lelouch'un Zero maskesini alıp tüm öğrenci topluluğunun dahil olduğu devasa, komik bir kovalamacayla havalanır. Britannia İmparatoru, Prens Clovis'in cenazesi sırasında eşitsizliğin erdemleri ve evrim ve iyileştirme için toplumsal mücadele üzerine bir konuşma yapıyor.",
+                "air_date": "2006-11-09",
+                "still_path": "/hwEwE1lYHJdmuyDdo4L5CHFMgSd.jpg",
+                "video_url": "2184983"
+            },
+            {
+                "episode_number": 7,
+                "name": "Cornelia'ya Saldırı",
+                "overview": "Cornelia, başka bir direniş hücresini temizlemeye çalışırken Saitama Gettosu'nda Zero'ya bir tuzak kurar. C.C.'ye rağmen. Onu durdurmaya çalışan Lelouch, yemi yutar ve Saitama direnişinin yardımına gider. Planı, Cornelia'nın üstün taktikleri ve direniş hücresinin farklı motivasyonlarının birleşiminden ayrılıyor. Lelouch köşeye sıkıştı ve neredeyse keşfedildi, ancak C.C. Sıfır kostümünü giyer ve Britanya Ordusu'nun dikkatini dağıtarak Lelouch'un kaçmasına izin verir. Lelouch, yenilgisinin sorumlusu olarak disiplinsiz isyancıları suçluyor ve basit bir direniş biriminden daha iyi bir şey inşa etmeye karar veriyor.",
+                "air_date": "2006-11-16",
+                "still_path": "/q0oKVMegrokZ4B5sJYAv5aMy00q.jpg",
+                "video_url": "2184984"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kara Şövalyeler",
+                "overview": "Japonya Kurtuluş Cephesi'nden bir grup, Ashford Öğrenci konseyinin çoğu ve kılık değiştirmiş Prenses Euphemia da dahil olmak üzere bir oteli ve otel sakinlerini rehin alır. Hal böyle olunca Prenses Cornelia, Lelouch'un farkına vardığı ve faydalandığı rehinecilere karşı bir hamle yapamaz. Ohgi'nin direnişiyle bir kurtarma operasyonu başlatır ve Euphemia hakkındaki bilgisini Cornelia'nın ablukasını aşmak için kullanır. Lelouch rehinecilerle konuşurken Suzaku, Lancelot'u kullanarak yüzen oteli batırır. Direniş savaşçılarının hazırladığı patlayıcıları kullanan Lelouch, ordunun kurtarma çabalarını raydan çıkararak onların kurtarılmasından pay alır. Halka açık bir şekilde ulusa yayın yaparak, dünyayı yargılayacak ve zayıfları \"güç sahibi olanlardan\" koruyacak \"adaletin müttefikleri\" olan Kara Şövalyeler Tarikatı'nın yaratılışını ve amacını duyuruyor.",
+                "air_date": "2006-11-23",
+                "still_path": "/gJvtDMkWNFJs3AFd37bCeJdquuC.jpg",
+                "video_url": "2184985"
+            },
+            {
+                "episode_number": 9,
+                "name": "Alıkoy",
+                "overview": "Çoğunlukla Kallen'ın bakış açısından anlatılan, onun biyolojik annesiyle olan sert ilişkisi ortaya çıkıyor. Kara Şövalyeler, \"Refrain\" uyuşturucusunu ortadan kaldırmak ve kendilerini Onbirler arasında popüler bulmak için bir göreve gönderilir. Kallen'ın annesi Refrain kullanıcıları arasında bulunur ve Kara Şövalyelerin uyuşturucu stoklarını yok etmesinin ardından tutuklanır. Kallen, serbest bırakıldığında dünyayı değiştireceğine söz veriyor.",
+                "air_date": "2006-12-07",
+                "still_path": "/y9z5vZ0WrvnqXnz4oIJmALfEIf5.jpg",
+                "video_url": "2184986"
+            },
+            {
+                "episode_number": 10,
+                "name": "Guren Dansları",
+                "overview": "Cornelia ve Britanya Ordusu, Japonya Kurtuluş Cephesi'nin kalıntılarını yok etme umuduyla Narita'ya doğru yola çıkar. Lelouch, annesinin ölümü hakkında onu sorgulayabilmek için onu canlı yakalama umuduyla Şövalyelerinin onu takip etmesini ister. Britannian güçleri Cephe karargahına yaklaşırken Kallen, Britannian kuvvetlerinin çoğunu ortadan kaldıracak devasa bir toprak kaymasına neden olmak için yeni Knightmare Çerçevesi Guren Mk-II'yi kullanıyor.",
+                "air_date": "2006-12-14",
+                "still_path": "/2kPhvqW1JErGYN6UFJ0o512MhCJ.jpg",
+                "video_url": "2184987"
+            },
+            {
+                "episode_number": 11,
+                "name": "Narita için Savaş",
+                "overview": "Kara Şövalyelerin Narita'da Britanya Ordusu'na saldırısı başarılı olur ve Cornelia, Kallen ve Lelouch tarafından köşeye sıkıştırılır. Ordu, ona yardım etmeye çalışırken Japonya Kurtuluş Cephesi tarafından sıkıştırılır. Euphemia'nın isteği üzerine Suzaku, Cornelia'yı kurtarmak için Lancelot'taki savaş alanına koşar. Cornelia'yı kurtarır ve Lelouch'u köşeye sıkıştırmayı başarır. CC Suzaku'yu zihinsel olarak travmatize ederek Lelouch'u kurtarmaya gelir, ancak Suzaku çılgınca ateş etmeye başlayınca yaralanır. Lelouch, onunla ilgilenirken yanlışlıkla onun gerçek adını öğrenir. Kara Şövalyeler çatışmadan zaferle çekilerek Japonya Kurtuluş Cephesi ve Britanya Ordusu'nu kendi aralarında savaşmaya bıraktı.",
+                "air_date": "2006-12-21",
+                "still_path": "/iIzWLVfs1uiJcaYqHvIW7YqP5zl.jpg",
+                "video_url": "2184988"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kyoto'dan Gelen Haberci",
+                "overview": "Zero ve Kara Şövalyelerin çekirdek üyeleri, Japon yeraltı dünyasının en güçlü kişilerinden biri olan ve Lelouch'un Kururugi Tapınağı'ndaki gençlik günlerinden tanıdığı Taizō Kirihara ile tanışır. Lelouch, taktiksel becerisini ve zekasını Taizō'nun önünde ustaca sergiliyor ve onun güvenini ve desteğini kazanmak için adama gerçek kimliğini açıklıyor. Lelouch Tokyo'ya döndüğünde Shirley ona babasının Narita Savaşı sırasında dolaylı olarak Zero'nun neden olduğu ölümünü bildirir.",
+                "air_date": "2007-01-04",
+                "still_path": "/iuqCiPkYbF0RuwGUvNTnWudfzRM.jpg",
+                "video_url": "2184989"
+            },
+            {
+                "episode_number": 13,
+                "name": "Shirley Silah Zoruyla",
+                "overview": "Kallen ve Lelouch, Narita kampanyasında masumların ölümleri üzerine ayrı ayrı düşünüyor. Shirley, Lelouch'u gizlice takip eder ve Japonya Kurtuluş Cephesi ile Britanya Ordusu arasındaki savaşa tanık olur; Lelouch, Britanya Şövalyeleri gemiye binmeye başlarken Japonya Kurtuluş Cephesi yük gemisini patlatarak gemideki tüm personeli öldürür ve Kara Şövalyelere güç unsuru verir. sürpriz. Suzaku, Lelouch'a saldırır ve daha zayıf olan Burai'yi Lancelot ile kolayca alt eder ve onu atmaya zorlar. Shirley yakınına zorunlu iniş yapar ve bayılır. Shirley, babasının intikamını almak için onu öldürmeye hazırlanır, ancak maskesi düştüğünde tereddüt eder ve ona Zero'nun Lelouch olduğunu açıklar.",
+                "air_date": "2007-01-11",
+                "still_path": "/tERQajxArxzP9Lifi6LaE891gnw.jpg",
+                "video_url": "2184990"
+            },
+            {
+                "episode_number": 14,
+                "name": "Geass, Geass'a Karşı",
+                "overview": "Lelouch, Shirley'nin Zero kimliğini keşfettiğine inanıyor, bu yüzden o ve C.C. onu Narita'ya kadar takip et. Ohgi, önceki gecenin savaş alanını araştırır ve yaralı Villetta Nu'nun gözden kaybolarak ölüme terk edildiğini keşfeder. Lelouch, Geass gücüne de sahip olan genç Mao ile karşılaşır. Mao, Shirley'nin güvensizlikleriyle oynamak için zihin okuma gücünü kullanır ve onu Lelouch'u vurması için yönlendirir, ancak Shirley son anda bocalar ve C.C. Mao'yu geçici olarak uzaklaştırır. Shirley keder ve suçluluk duygusuyla paramparça olduğundan Lelouch, onunla ilgili anılarını silmek için Geass'ını kullanır.",
+                "air_date": "2007-01-18",
+                "still_path": "/m3Q7UYVBqbmyz4RtFWtdGGApnrX.jpg",
+                "video_url": "2184991"
+            },
+            {
+                "episode_number": 15,
+                "name": "Tezahürat Mao",
+                "overview": "CC Mao'yla olan geçmişini ve Geass'ını kapatamamasının onu nasıl delirttiğini anlatıyor. Yaralı Villetta, Ohgi'nin dairesinde uyanır ve onun seçici hafıza kaybı yaşadığını keşfeder. CC Lelouch'u Mao'ya kendisi bakması için bırakır, ancak Mao onu etkisiz hale getirince üstünlük kazanır. Lelouch, Mao'yu kandırmak ve C.C.'yi kurtarmak için zekasını kullanır. Mao'yu kuşatıp vurmak için Britanya Polisini kullanıyor. Olay yerinden uzakta bir çatı katında güvende olan Lelouch, Mao'nun yaptığı gibi gücünün kurbanı olmayacağına söz vererek onunla olan sözleşmesini onaylar.",
+                "air_date": "2007-01-25",
+                "still_path": "/kyOIpCSlgtVaYDZPYK40SDZtte.jpg",
+                "video_url": "2184992"
+            },
+            {
+                "episode_number": 16,
+                "name": "Nunnally Rehin Tutuluyor",
+                "overview": "CC Çin Federasyonu'na haberci olarak yola çıkar ve Milly, Lancelot'un yaratıcısı Lloyd Asplund ile evlilik görüşmesi yapar. Mao, Lelouch'un kız kardeşi Nunnally'yi kaçırmak için geri döner ve onu Ashford Akademisi kanalizasyonunda rehin tutar. Lelouch ve Suzaku onu kurtarmak için birlikte çalışırlar; Suzaku'nun fiziksel becerisi ve Lelouch'un Geass'ını akıllıca kullanması Mao'nun planının ötesinde olduğunu kanıtlar. Tutuklanmadan önce Mao, Suzaku'nun kendi babasını öldürdüğünü açıklar ve karşılığında Lelouch, gücüyle onu susturur. CC kampüse geri döner ve Suzaku, yıllar süren gizliliğin ardından yaptıklarıyla yüzleşip yere yığılırken sonunda Mao'nun hayatına son verir.",
+                "air_date": "2007-02-01",
+                "still_path": "/gJtGiEA0lxU8rnwgq0yfJPKlz0a.jpg",
+                "video_url": "2184993"
+            },
+            {
+                "episode_number": 17,
+                "name": "Şövalye",
+                "overview": "Euphemia'nın sanat eserlerini değerlendirdiği Clovis'in anıtsal sanat müzesinin açılış töreni yapılıyor. Lelouch, Kyoshiro Tohdoh'un yoldaşlarının liderlerini kurtarmasına yardım etmeyi kabul eder ve Shirley, Zero'nun kimliğine ilişkin önceki bilgilerinin ayrıntılarını içeren eski, buruşuk bir mektup bulur. Kurtarma görevi sırasında Lelouch, Tohdoh'u Kara Şövalyelere katılmaya ikna eder. Lancelot belirir ve onları durdurmaya çalışır, ancak Lelouch onun hareketlerini tahmin edebilir ve bir karşı saldırı planlayabilir. Tohdoh kokpiti keserek içerideki Suzaku'yu ortaya çıkardığında, başlangıçta Suzaku'nun Nunnally'nin şövalyesi olmasını planlayan Lelouch şok olur. Takviye kuvvetleri geldiğinde derhal geri çekilme emrini verir. Suzaku'nun cesaretini ve inancını gören Euphemia, kendisinin şövalyesi olacağını medyaya duyurur.",
+                "air_date": "2007-02-08",
+                "still_path": "/nCU7ws87qjN3OG5wz0L5o6qgmvP.jpg",
+                "video_url": "2184994"
+            },
+            {
+                "episode_number": 18,
+                "name": "I Order You, Suzaku Kururugi",
+                "overview": "Euphemia, Suzaku'yu şövalye ilan ederken, Lelouch Kara Şövalyeler hiyerarşisini kurar. Diethard Reid, Suzaku'yu öldürmeyi önerir, ancak Lelouch'un onun için başka planları vardır. Shikinejima'daki bir Britannia askeri üssünde Suzaku'yu ve Lancelot'u etkisiz hale getirmek ve ele geçirmek için bir plan başlatır. Plan neredeyse başarılı olur, ancak İkinci Prens Schneizel el Britannia belirir ve yüzen savaş gemisi Avalon'a adayı bombalamasını emreder.",
+                "air_date": "2007-02-22",
+                "still_path": "/5vbsP0rpFehymMxHQxPcCjsBqoT.jpg",
+                "video_url": "2184995"
+            },
+            {
+                "episode_number": 19,
+                "name": "Tanrıların Adası",
+                "overview": "Avalon'un gelişinin ardından açıklanamaz bir şekilde Lelouch, Euphemia, Kallen ve Suzaku Kaminejima adasında kalır. Suzaku, Kallen'la karşılaşırken Euphemia Zero tarafından bulunur. Suzaku, Kallen'ın bir Kara Şövalye ve Guren Mk-II pilotu olduğunu öğrenir ve ona babasını nasıl öldürdüğünü anlatır. Euphemia, Lelouch'un Sıfır olduğuna dair şüphelerini doğrular. Schneizel, Lloyd ve Cécile Croomy adanın antik kalıntılarını araştırıyor. Lelouch, Kallen, Suzaku ve Euphemia aniden harabeye düştüğünde Lelouch ve Kallen kaçmak için Knightmare Frame Gawain prototipini çalar. Başka yerlerde, yedi yıl önce sürgüne gönderilen Japon hükümeti, Çin Federasyonu'nun yardımıyla Kyūshū'ya geniş çaplı bir saldırı başlatır.",
+                "air_date": "2007-03-01",
+                "still_path": "/fyN5WXvHAqVMWF23pANVDkaBzSn.jpg",
+                "video_url": "2184996"
+            },
+            {
+                "episode_number": 20,
+                "name": "Kyushu için Savaş",
+                "overview": "Britanya Ordusu, Lancelot'la birlikte Kyūshū işgalcilerine karşı savaşır. Bu sırada Nina, Prenses Euphemia ile tanışır ve yanlışlıkla Euphemia'ya Suzaku'ya olan hisleri konusunda gönül rahatlığı verir. Lancelot'unun pili bittiğinde Suzaku köşeye sıkışırken Euphemia, Suzaku'yu savaşmaya ve yaşamaya teşvik eder. Sıfır ve C.C. Lancelot'u yeniden şarj etmek için Gawain'deki savaş alanına uçarlar ve iki Şövalye Kyūshū kampanyasını birlikte bitirir.",
+                "air_date": "2007-03-08",
+                "still_path": "/ze2EsEYBYAeLrHhwD4BNMiukgL5.jpg",
+                "video_url": "2184997"
+            },
+            {
+                "episode_number": 21,
+                "name": "Okul Şenliği Bildirgesi",
+                "overview": "Ashford Akademisi yıllık okul festivalini düzenliyor. Ohgi, Villeta, Euphemia ve Kallen etkinliğe ayrı ayrı gidiyorlar. Bir dizi yakın karşılaşma, gizli kimliklerin açığa çıkması riskini taşır ancak olaya karışan herkes kaçar. Suzaku, festivalin ana etkinliği için Ganymede'ye pilotluk yapıyor: dünyanın en büyüğü olması planlanan dev bir pizza yapmak. Euphemia'nın varlığı ortaya çıktığında kitlesel panik başlar. Canlı televizyonda Fuji Dağı bölgesinin \"Japonya'nın Özel Yönetim Bölgesi\" olduğunu ve burada Onbirlerin yeniden \"Japon\" olarak anılabileceğini ilan etti. Bunun Lelouch ve Nunnally ile geçirdiği mutlu günleri geri getireceğine inanıyor, ancak Lelouch saflık yaptığını bilerek aksini düşünüyor.",
+                "air_date": "2007-03-15",
+                "still_path": "/8HO4Ek3VURJGJGeEzr4fFWBg8yG.jpg",
+                "video_url": "2184998"
+            },
+            {
+                "episode_number": 22,
+                "name": "Kan Lekeli Euphy",
+                "overview": "Özel Yönetim Bölgesi'nin anma töreni sırasında Lelouch ve Euphemia özel olarak Japonya'nın geleceğini tartışır. Onu ikna eder ve Lelouch, şaka yollu bir şekilde ona tüm Japonları öldürmesini söylerken aniden Geass'ının kontrolünü kaybedene kadar isyanını kısaca durdurur. Geass'tan etkilenen Euphemia, törene katılan insanların kanlı bir şekilde katledilmesini emreder. Kendini suçlayan kararlı Lelouch, Euphemia'nın Özel Yönetim Bölgesini Kara Şövalyeleri cezbetmek için bir tuzak ilan ederek durumu kurtarmaya karar verir ve birliklerine Britanya güçlerini yenmelerini, Japonları korumalarını ve Euphemia'yı durdurmalarını emreder.",
+                "air_date": "2007-03-22",
+                "still_path": "/72PdUuA7KqZnhoRRCLvfY9z7p1Y.jpg",
+                "video_url": "2184999"
+            },
+            {
+                "episode_number": 23,
+                "name": "En Azından Acıyla",
+                "overview": "Başka seçeneği kalmayan Lelouch, Suzaku'nun önünde Euphemia'yı vurup ölümcül şekilde yaralar. Kara Şövalyeler şiddeti kontrol altına almaya devam ederken Suzaku, hırpalanmış vücuduyla Avalon'a geri döner. Lelouch, Japonya Birleşik Devleti'ni kurma planını açıklarken aldığı yaralara yenik düşer. Lelouch, C.C. olarak yaptıklarından dolayı tek başına üzülüyor. sözleşmeleri gereği yanında kalacağını hatırlatarak onu rahatlatır. Kısa süre sonra 11. Bölgenin tamamı Britanya İmparatorluğu'na karşı ayaklanır. Muazzam ordusuyla ilerleyen Lelouch, Tokyo Yerleşimi'nin çöküşünü başlatarak çatışmayı alevlendirir.",
+                "air_date": "2007-03-29",
+                "still_path": "/1ti9Z4BCVpjkFtY9MzmqOFNQSM2.jpg",
+                "video_url": "2185000"
+            },
+            {
+                "episode_number": 24,
+                "name": "Çöken Aşama",
+                "overview": "Lelouch'un stratejileri Kara Şövalyelere ve müttefiklerine Britanya Ordusu'na karşı savaşta üstünlük sağlıyor. Ülkede isyanlar patlak verirken Kara Şövalyeler Ashford Akademisi'ni karargah olarak ele geçirir ve öğrenciler Lelouch'un emriyle kurtulur. Öfkeli Suzaku, Zero'nun kimliği hakkında V.V. adlı gizemli bir genç çocuk tarafından bilgilendirilir ve Cornelia'nın da imrendiği intikam için Lelouch'un peşine düşer.",
+                "air_date": "2007-07-28",
+                "still_path": "/b4sNMo2SRkK2FcKWpXBVB6XboD4.jpg",
+                "video_url": "2185001"
+            },
+            {
+                "episode_number": 25,
+                "name": "Sıfır",
+                "overview": "Cornelia'yı yakalamayı başaran Lelouch, onu Marianne'in cinayeti hakkında bildiği azıcık bilgiyi açıklamaya zorlar ama cevaplar onu zerre kadar memnun etmez. V.V. Nunnally'yi Kaminejima'ya götürür ve Lelouch, kız kardeşini kurtarmak için Kara Şövalyeleri terk eder. Lelouch olmadan Kara Şövalyeler Britanya Ordusu karşısında topraklarını kaybetmeye başlar. Suzaku, Lelouch'u takip ederek eski arkadaşlar arasında son bir yüzleşmeye yol açar.",
+                "air_date": "2007-07-28",
+                "still_path": "/pU2NtL2sDdmlrEwYgtXVl2ynBcB.jpg",
+                "video_url": "2185002"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 25,
+        "air_date": "2008-04-06",
+        "poster_path": "/uEvFo6Y2NW5ovFV9BaS0gWCns7n.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bir Şeytanın Uyandığı Gün",
+                "overview": "Kara İsyan'dan bir yıl sonra Lelouch Lamperouge, önceki yıla dair hiçbir anı olmadan normal okul hayatına devam etti. İyileştirici beden eğitimi dersini atladıktan sonra küçük kardeşi Rolo ile Babel Kulesi'nde kumar oynamak için yola çıkar. C.C. liderliğindeki Kara Şövalyeler Birliği, Lelouch'u geri almak için komplekse bir saldırı başlatır. CC Lelouch'un anılarını yeniden uyandırır ve Zero kimliğini sürdürür. Suzaku Kururugi, İmparator'a Zero'yu bizzat öldüreceğini ilan eder.",
+                "air_date": "2008-04-06",
+                "still_path": "/uXgJMmux25CrTLOQ4PObkD2uszM.jpg",
+                "video_url": "2185003"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bağımsız Japonya Planı",
+                "overview": "Lelouch, Kara Şövalyeleri Britanya güçlerine karşı bir karşı saldırıda yönetir ve geçmişini nasıl unuttuğunu hatırlar: Bir yıl önce Suzaku onu tutuklayıp Britanya'ya geri getirdikten sonra İmparator, Lelouch'un zihnine sahte anılar yerleştirmek için Geass'ını kullandı. Yeni Knightmare Frame prototipi Vincent gelir ve Kara Şövalyeleri kasıp kavurur. Geri çekilmek için Babil Kulesi'ni yıkıyorlar, aynı anda onu Genel Vali Carares'in üzerine bırakıyorlar ve doğrudan Kara Şövalyelerin kaçacağı Çin Federasyonu Konsolosluğuna giden bir yol oluşturuyorlar. Zero, Japonya Birleşik Devleti'ni yeniden yaratma planını yayınlıyor. Britanya ordusu geri çekilir ama Vincent'ın pilotu Rolo o kadar kolay etkilenmez. Konsolosluk alanına vardıktan sonra Li Xingke ile yüzleşir ve kendisinin de Geass gücüne sahip olduğunu ortaya çıkarır.",
+                "air_date": "2008-04-13",
+                "still_path": "/wuAngVVMPf1lEj54NmlWJxydbuD.jpg",
+                "video_url": "2185004"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kampüste Tutuklu",
+                "overview": "Lelouch yayın sırasında Ashford Akademisi'ne geri döner ve bu durum Villeta Nu'nun Özel Bölümü'nün kendisinin televizyondaki Sıfır olduğundan şüphe duymasına neden olur. Kız kardeşinin nerede olduğuna dair bilgiye ihtiyaç duyan Lelouch, Rolo'yu piyonuna dönüştürmek için bir tuzak kurar. Gilbert GP Cornelia li Britannia'nın şövalyesi ve Bölge 11'in Genel Valisi Guilford, Zero'ya bir ültimatom sunuyor: kendini açığa çıkar ya da hapsedilen Kara Şövalyelerin idamla karşı karşıya kalmasına izin ver. Başka yerlerde Suzaku, Avrupa Evrenine karşı savaşta Lancelot'ta Britanya'nın ön saflarına liderlik ediyor. Lelouch, Rolo'yla yüzleşir, ancak Rolo'nun benzersiz yetenekleri ona üstünlük sağlar.",
+                "air_date": "2008-04-20",
+                "still_path": "/xKbSdA7J5NfLZJ7bIgSPEAkRUWQ.jpg",
+                "video_url": "2185005"
+            },
+            {
+                "episode_number": 4,
+                "name": "Darağacında Karşı Saldırı",
+                "overview": "Lelouch, Rolo'nun Geass'ının doğasını çıkarır ve Rolo'yu onu kurtarmaya ikna eder; karşılığında C.C.'yi teslim edecek. Li Xingke, Hadım Gao Hai ile yüzleşir ve konsolosluğun komutasını almak için onu öldürür. Son teslim tarihi yaklaşırken Guilford, Zero ortaya çıkana kadar yakalanan Kara Şövalyeleri idam etmeye hazırlanır ve onu düelloya davet eder. Kara İsyan'daki stratejinin aynısını kullanarak, yerleşimin üzerinde durdukları kısmını çökerterek, Çin topraklarına atılan Britanya ordusu arasında kafa karışıklığına neden oldu. Kallen ve Kara Şövalyeler mahkumları kurtarırken Rolo, ihaneti nedeniyle Lelouch'u öldürmek üzere Vincent'ta görünür. Ancak Lelouch, Rolo'ya yönelik bir kurşunu alarak gençlerin duraklamasına neden olur. Lelouch, geleceği ve kardeş ilişkisi hakkındaki güvensizliklerini kullanarak onu davasına katılmaya ikna eder.",
+                "air_date": "2008-04-27",
+                "still_path": "/bxe9Mt88oolLHfP9C6LlDECqw0W.jpg",
+                "video_url": "2185006"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yuvarlak Şövalyeler",
+                "overview": "Suzaku, Lelouch'u araştırmak için Ashford Akademisi'ne döner. Kara Şövalyelerin yeniden bir araya gelmesiyle Lelouch, öğrenci imajını korurken direnişe liderlik etmeyi planlıyor. Akademide Suzaku için bir karşılama partisi düzenlenir ve C.C.'nin pizza aşkı, Lelouch'un sırrını açığa çıkarmakla tehdit eder; Kallen onu almak için gelir ama Villeta tarafından görülür. Lelouch'a geçen yıl Kaname Ohgi ile nasıl geldiğini anlatır ve Lelouch bu bilgiyi ona şantaj yapmak için kullanır. Tek başına Suzaku, Lelouch'a Bir'in Şövalyesi olma hedefini açıklar, bu da ona 11. Bölge üzerinde tam yönetim otoritesi sağlayacak. Lelouch'u test etmek için, 11. Bölgenin yeni Genel Valisi Nunnally vi Britannia ile konuşmasına izin verir.",
+                "air_date": "2008-05-04",
+                "still_path": "/zJwoX4n3Yo4XhQgAZ9kvtzcPfqq.jpg",
+                "video_url": "2185007"
+            },
+            {
+                "episode_number": 6,
+                "name": "Pasifik'te Sürpriz Saldırı",
+                "overview": "Rolo, yeniden uyanan anılarını Suzaku'ya açıklamadan Nunnally'ye uyarı sözleri söylemek için Lelouch'a zaman kazanmak için Geass'ını kullanır. Nunnally'ye karşı savaşmak istemeyen Lelouch, zeplinle Bölge 11'e nakledilirken Kara Şövalyelere onu yakalamalarını emreder. Gemiye başarılı bir şekilde binen Zero, onunla buluşur ve Britannia'nın onu kullandığına ikna etmeye çalışır. Nunnally, pozisyon için gönüllü olduğunu açıklar ve Euphemia'nın Japonya Özel Yönetim Bölgesine devam etmek istediğini belirterek şaşkın bir Sıfır'ın kendisine katılmasını talep eder. Britanya'nın takviye kuvvetleri Kara Şövalyelerin saldırısını engeller ve zeplin denize düşerken Suzaku, Nunnally'yi kurtarmayı başarır ve onu ikinci kez Lelouch'tan uzaklaştırır.",
+                "air_date": "2008-05-11",
+                "still_path": "/kdiBCxDc8w1ku9bLeCRFa64dnH1.jpg",
+                "video_url": "2185008"
+            },
+            {
+                "episode_number": 7,
+                "name": "Terkedilmiş Maske",
+                "overview": "Nunnally, Bölge 11'in yeni Genel Valisi olarak yemin etti ve Japonya'nın Özel Yönetim Bölgesini yeniden kurma niyetini açıkladı. Kız kardeşinin isteklerine karşı gelemeyeceğini bilen Lelouch, depresyona girer. Kendini Refrain'e bırakmadan önce Kallen devreye girerek ona Zero olarak Japonlara verdiği hayali gerçekleştirme görevini hatırlatıyor. Kulak misafiri olan bir Rolo ortaya çıkar ve Lelouch'u Zero kimliğini bırakıp lise öğrencisi olmaya geri dönmeye ikna etmeye çalışır. Bu arada Kara Şövalyeler, Suzaku liderliğindeki Britanya deniz filosunun saldırısı altındadır. Ashford Akademisi'nde havai fişeklerin patladığını gören Lelouch'a bir umut ışığı düşer. Savaş alanına koşarak, Kara Şövalyelerin tüm deniz filosunu yenmesine başarıyla liderlik eder ve Sıfır gibi görünerek Suzaku'yu şaşırtarak Nunnally'nin Japonya'nın Özel Yönetim Bölgesine katılma teklifini kabul etme niyetini ilan eder.",
+                "air_date": "2008-05-18",
+                "still_path": "/jCbzcYwKgJc7cCGZdaGT37bZBJq.jpg",
+                "video_url": "2185009"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Milyon Mucize",
+                "overview": "Kara Şövalyeler, Lelouch'un kararını sorguluyor ve Britanya Ordusu onun niyetleri konusunda ihtiyatlı olmaya devam ediyor. Suzaku, Gino Weinberg, Anya Alstreim, Lloyd Apslund, Cécile Croomy ve Miss Romeyer ile yaptığı özel görüşmede Zero, bir milyon katılımcı teslim etmesi karşılığında Bölge 11'den sürülmesini talep ediyor. Britanyalılar onun kendi güvenliğini sağlamak için onları terk ettiğini düşünüyor ve kabul ediyor. Açılış töreninde Zero, Suzaku'ya Japon olmanın ne anlama geldiğini sorar ve Yedi Şövalyesi bunun ortak bir kalp olduğu yanıtını verir. Katılan her Eleven, istek üzerine Sıfır gibi giyindiğinde, barışçıl direnişleri karşısında başka bir katliam başlatmak istemeyen Suzaku'nun bir milyon \"Sıfır\"ın tamamını sürgüne göndermekten başka seçeneği kalmaz.",
+                "air_date": "2008-05-25",
+                "still_path": "/trqTwRS82mNKP7GIfTytREssm51.jpg",
+                "video_url": "2185010"
+            },
+            {
+                "episode_number": 9,
+                "name": "Vermillion Yasak Şehir'de Bir Gelin",
+                "overview": "Lelouch, Çin İmparatoriçesi Tianzi'nin Birinci Prens Odysseus u Britannia ile siyasi evliliğe zorlandığını öğrenir. Düğün, topraklarının yarısını İkinci Prens Schneizel el Britannia'ya devretme karşılığında Britanya'da soylu olacak olan Yüksek Hadımlar tarafından düzenleniyor. Düğün başlarken Li Xingke, Hadımları devirmek için bir darbe başlatır, ancak İmparatoriçe'yi serbest bırakamadan Lelouch ortaya çıkar ve onu rehin alır. Başka bir yerde V.V. Jeremiah Gottwald'ı Lelouch ve C.C.'ye karşı serbest bırakmaya hazırlanıyor.",
+                "air_date": "2008-06-08",
+                "still_path": "/xUgR4wUWXRnsjgJAZqxM43CWjU2.jpg",
+                "video_url": "2185011"
+            },
+            {
+                "episode_number": 10,
+                "name": "Shen Hu Zaferi Kazandığında",
+                "overview": "Lelouch, İmparatoriçe Tianzi ile başarılı bir şekilde kaçar ve Kara Şövalyeler Hintli müttefikleriyle birleşme girişiminde bulunur. İmparatoriçe'yi kurtarmak için çaresiz kalan Hadımlar, Li Xingke'yi kurtarırsa onu affetmeyi kabul eder. Bu amaçla kendisine güçlü Shenhu'yu kullanma izni verildi. Kallen, Guren'in Uçuş Özellikli Versiyonu ile onu durdurur, ancak gücü biter ve kadın rehin alınır. Lelouch, Diethard Reid'in geri çekilme önerisine rağmen onu kurtaracağına yemin eder. Xingke, Kara Şövalyeleri eski Tianzi'nin mezarı olarak inşa edilen dağ yamacındaki anıta çekilmeye zorlayarak, Federasyonun saldırmaktan çekineceğini umarak bir strateji uzmanı olarak becerisini gösterir. Hadımlar, Britanya güçlerinin yardımını alarak Xingke ve birliklerine saldırır. Bu arada Ashford Akademisi'nde başka bir Lelouch var.",
+                "air_date": "2008-06-15",
+                "still_path": "/vkwb0RjSF0jCR4deCLndBKPQorJ.jpg",
+                "video_url": "2185012"
+            },
+            {
+                "episode_number": 11,
+                "name": "Tutkunun Gücü",
+                "overview": "Ashford Akademisi'nde Sayoko Shinozaki, Lelouch olarak poz veriyor. Hadımların Tianzi'yi kurtarmakla ilgilenmediğini fark eden Li Xingke isyancıları. Kara Şövalyeler, Çin Federasyonu ve Britanya güçlerine karşı konumlarını korurken Zero, ihanetlerini açıkça kabul eden Hadımlarla mantık yürütmeye çalışır. Xingke, Tianzi'yi çatışmadan korumaya çalıştığında Zero, yeni Shinkirō Şövalye Çerçevesi ile bizzat sahaya girer. Diethard, Çin medya ağına sızar ve hadımların aldatmacasını tekrarlayarak Çin genelinde isyanları ateşler. Açık bir isyanla karşı karşıya kalan Schneizel, Britanya'nın geri çekilmesini emreder ve Xingke, hadımları ortadan kaldırır ve yoldaşlarını kurtarır. Ancak Kallen ve Guren Britanya'ya teslim edildi. Hadımların ölmesiyle Zero, Xingke ve Tianzi ile ittifak kurar. Lelouch, Ashford Akademisi'ne geri döner ve Anya ile Gino'nun öğrenci olarak kayıtlı olduğunu görünce şaşırır.",
+                "air_date": "2008-06-22",
+                "still_path": "/1Dt9TYEiqDO95byxuH7hPHvbC2G.jpg",
+                "video_url": "2185013"
+            },
+            {
+                "episode_number": 12,
+                "name": "Aşk Saldırısı!",
+                "overview": "Lelouch, Sayoko'nun onu playboy yapmasına şaşırır. Milly, zararı telafi etmenin bir yolunu bulmaya çalışırken, herhangi bir kızın şapkasını çalarak bir erkeğin kız arkadaşı olabileceği Aşk Tanrısı Günü'nü ilan eder. Rolo ve Sayoko, Lelouch'un kendisini yakalamaya çalışan kız öğrencilerden kaçınmasına yardım eder. Lelouch ve Shirley tek başlarına son olayları ve şapka alışverişini tartışıyorlar. Başka bir yerde, Tek Şövalye Bismark Waldstein, İmparator'a prensler ve prensesler arasında Çin Federasyonu'na karşı savaş açma konusunda bir toplantı hakkında bilgi verir; burada Schneizel, tehditlerin ve müzakerelerin açık savaştan daha iyi sonuç vereceğine karar verir. Euphemia'nın adını temize çıkarmak için Geass'ın varlığını ortaya çıkarmaya kararlı olan Cornelia, İmparator'un son eylemlerinin dünyayı yok edebileceğini söyleyerek ona yardım etmesi için yalvaran General Bartley ile yüzleşir. Suzaku ve Lloyd, Guren hakkında tartışırken Nunnally, Kallen'ı hapishanede ziyaret eder. Jeremiah, Bölge 11'e gelir ve yeni edindiği Geass Canceller'ı Shirley üzerinde kullanarak Zero'nun kimliğine dair anılarını geri yükler.",
+                "air_date": "2008-06-29",
+                "still_path": "/tGVnrRLFWKfbhkColYxnUmfQykG.jpg",
+                "video_url": "2185014"
+            },
+            {
+                "episode_number": 13,
+                "name": "Geçmişten Gelen Suikastçı",
+                "overview": "Anılarını geri kazanan Shirley, gerçeklik algısını sorgular. Lelouch, aktif hale geldiğinde tüm Tokyo'yu karartacak olan Gefjun Disturber donanımlı trenlerden oluşan bir ağ olan G Train'in teslimatını kontrol etmek için tren istasyonuna gidiyor. Bu arada Jeremiah, Lelouch'u ararken Sayoko ve Rolo'yu alt ederek Ashford Akademisi'ne doğru harekete geçer. Villetta, Lelouch'un yerini isteyerek açıklar ve Jeremiah onu köşeye sıkıştırır, ancak G Treni tarafından felç olur. Mücadele eden Jeremiah, Lelouch'un neden İmparator'a ihanet ettiğini sorar ve eski prens, annesinin intikamını alma motivasyonunu ona açıklar. Marianne'e büyük hayranlık duyan Jeremiah, Lelouch'un davasına katılır. Shirley nihayet geri gelen anılarını uzlaştırır ve Suzaku'dan Lelouch'u olduğu gibi affetmesini ister. Lelouch'a ulaşamadan, Nunnally hakkındaki bilgiyi açıkladığında Geass'ını kullanan Rolo ile karşılaşır. Lelouch ayrılırken, Shirley'nin ölümcül şekilde yaralandığını keşfeder ve Shirley, umutsuzca ona yaşamasını emrederken ona olan hislerini itiraf eder.",
+                "air_date": "2008-07-06",
+                "still_path": "/aSX7QuHm4UnyGNtBse9lr0I1Mva.jpg",
+                "video_url": "2185016"
+            },
+            {
+                "episode_number": 14,
+                "name": "Geass Avı",
+                "overview": "Rolo, Shirley'nin ölümüne neden olduğunu itiraf ediyor; Lelouch, Rolo'yu suçlamak yerine Geass'ın varlığını suçluyor. Misilleme olarak Geass Müdürlüğü'ne bir saldırı düzenleyerek kaledeki her erkeği, kadını ve çocuğu katleder. V.V. Kara Şövalyeleri durdurmak için Siegfried'e pilotluk yapar, ancak hem Lelouch hem de Cornelia tarafından mağlup edilir. Charles'ın beklediği Düşünce Asansörüne kaçar ve Lelouch onu takip ettiğinde Akasha'nın Kılıcı'na nakledilir. Bu sırada Kallen ve Nunnally, Lelouch'u tartışır. Shirley'nin ölümünün intihar olduğu söylenmesine rağmen, Lelouch'un yeniden Sıfır haline geldiğine dair şüphesini doğrulamak için Kallen'ı Refrain kullanarak sorgulamaya karar veren Suzaku tarafından yarıda kesilirler.",
+                "air_date": "2008-07-13",
+                "still_path": "/e3NYT0g07P57vTbGbfEp5ovsDYg.jpg",
+                "video_url": "2185017"
+            },
+            {
+                "episode_number": 15,
+                "name": "C'nin Dünyası",
+                "overview": "Suzaku, hedeflerine ulaşmak için Lelouch'un seviyesine inemeyeceğini anlar ve Kallen üzerinde Refrain'i kullanmamaya karar verir. Bunun yerine Ashford'a gider ve burada İstihbarat Teşkilatı'nın Lelouch'un kontrolü altında olduğunu keşfeder. Ohgi ve Villetta, Villetta'nın onu öldürmeyi planladığı ormanda buluşur, ancak Ohgi ona aşık olduğunu itiraf eder. Sayoko araya girer ve Villetta'yı göndermeye çalışır. Mücadele sırasında Ohgi yaralanır. Bir uçurumdan yuvarlanır ve Villetta onun peşinden atlar. Nina ve In Vogue ekibi ilk başarılı nükleer bomba testini yapıyor. Lelouch, Akasha Kılıcı'nın üzerinde İmparator'la yüzleşir. İmparator'un V.V.'nin kendisini ölümsüz kılan \"Şifresini\" aldığını öğrenir. CC ortaya çıkar ve Lelouch'a ölmek istediğini söyler, ardından güvenliğini sağlamak için onu \"C'nin Dünyası\"na götürür ve orada Lelouch'un geçmişine tanık olur. Gerçek dileğinin farkına varan Lelouch, gerçeğe döner ve onun dileğini yerine getirecek tek kişinin kendisi olacağını ilan eder. Shinkirō ile Akasha Kılıcı'na saldırır ve C.C.'yi kurtarır, ancak onun Geass'ın gücünü almadan önceki anılar dışında tüm anılarını kaybettiğini görür.",
+                "air_date": "2008-07-20",
+                "still_path": "/a5RfPHEhuFtBZuq7UcfOQvigwW6.jpg",
+                "video_url": "2185018"
+            },
+            {
+                "episode_number": 16,
+                "name": "Birleşmiş Milletler Federasyonu'nun Bir Numaralı Kararı",
+                "overview": "Kırk yedi ülke yeni Birleşik Milletler Federasyonu'nun bayrağı altında toplanıyor ve ilk beyanları Japonya'yı kurtarmak için Britanya'ya savaş ilan etmek oluyor. Beklenti olarak, Rounds Şövalyeleri ve Britannia'nın askeri gücünün büyük kısmı Japonya'ya transfer edildi. Nina ayrıca Lancelot'un yeni geliştirilen F.L.E.I.J.A. ile donatılmasını da ister. (Alan Sınırlı Etkili Patlama Silahı) bombası. İmparator, Federasyonun Zero'yu dünya için bir savaşa davet etme duyurusunu yarıda keser, çünkü onlar dünyada kalan tek güçlerdir. Nunnally'nin güvenliğinden korkan Lelouch, Suzaku'yu arar ve Zero olduğunu kabul eder, ardından Suzaku'ya onu kurtarması için yalvarır. Suzaku da aynı fikirde, ancak yalnızca Lelouch'un Kururugi Tapınağı'nda onunla yalnız buluşması şartıyla.",
+                "air_date": "2008-07-27",
+                "still_path": "/li61P7pSwf2gZhVcvAqzmBzBlBi.jpg",
+                "video_url": "2185020"
+            },
+            {
+                "episode_number": 17,
+                "name": "Aşağılanmanın Tadı",
+                "overview": "Japonya savaşı başlıyor ve Kara Şövalyeler için işler pek iyi başlamadı. Luciano ve Bismark, onları uzakta tutacak tek kişi Li Xingke ile saflarını yok ediyor. Suzaku ve Lelouch, Nunnally'yi tartışmak için buluşur. Başlangıçtaki bazı düşmanlıkların ardından Lelouch, Suzaku'yu kazanmayı başarır. Ancak Schneizel, kişisel muhafızı Lelouch'u tutuklatarak Lelouch'u Suzaku'nun kendisine ihanet ettiğine inandırır. Schneizel ve Lelouch özel bir sohbet yapar ve Lelouch, kendisini Cornelia olduğuna inandırmak için önceden Guilford'da Geass'ını kullanan Guilford'dan başkası tarafından kurtarılmaz. Lelouch, Gefjun Disturber tren ağını kullanarak Tokyo Yerleşimini kapatır. Aynı zamanda, fırsattan yararlanmaya hazır olan takviye kuvvetleri okyanustan çıkar. Bu arada İmparator Ragnarök'e hazırlanıyor.",
+                "air_date": "2008-08-03",
+                "still_path": "/pyrh6SuKuxIrkWifxkMslMOC0Ow.jpg",
+                "video_url": "2185021"
+            },
+            {
+                "episode_number": 18,
+                "name": "Son Savaş Tokyo Ii",
+                "overview": "Gücün kesilmesiyle Kara Şövalyeler, Tokyo Yerleşimi'ne saldırmaya başlar. Suzaku, F.L.E.I.J.A.'yı kullanmakla tehdit ediyor. bomba, ancak Suzaku'ya olan güvenini tamamen kaybetmiş olan Lelouch blöfünü görüyor. Jeremiah ve Guilford, Suzaku ile çatışmaya girer, ancak Gino ve Anya, şansı eşitlemek için mücadeleye katılır. Sayoko, Kallen'ı serbest bırakırken Rolo, gizlice onu öldürmek niyetiyle Nunnally'yi bulmaya çalışır. Kallen yükseltilmiş Guren Seiten Sekiz Element-Tipi ile gelene kadar Lelouch neredeyse Luciano ve Valkyrie Filosu tarafından öldürülüyordu. Bu sırada İmparator Bölge 11'e girer ve Cornelia hapisten kaçar. Yeni Knightmare'in ezici hızını ve gücünü kullanan Kallen, Luciano'yu öldürür ve Lancelot'u ciddi şekilde sakat bırakır. Ölümün eşiğinde, Suzaku'nun Geass komutu devreye girer ve onu F.L.E.I.J.A.'yı kovmaya zorlar. Maalesef bomba hükümet kompleksinin üzerinde patlayarak yerleşimin büyük bir bölümünü yok eder. Rolo ona Nunnally'nin patlamada öldüğünü söyleyince Lelouch sinir krizi geçirir.",
+                "air_date": "2008-08-10",
+                "still_path": "/rEGGsiJj8lTdnMLV6yIuPu8o3Qu.jpg",
+                "video_url": "2185022"
+            },
+            {
+                "episode_number": 19,
+                "name": "İhanet",
+                "overview": "Schneizel'in Kara Şövalyelerin liderleriyle buluşabilmesi için ateşkes ilan edilir, ancak Lelouch katılamayacak kadar perişandır. Schenizel, Lelouch ve Geass'ının yanı sıra bunu kullandığı birçok insan hakkındaki gerçeği ortaya koyuyor; Lelouch'un Suzaku ile yaptığı görüşmenin kaydı kanıtları güçlendiriyor. Japonya'nın bağımsızlığı karşılığında Kara Şövalyeler Lelouch'a ihanet etmeyi kabul eder. Kaçamayan Lelouch, Kallen'a başından beri onu kaderini paylaşmaktan alıkoymak için kullandığını söyler ama onun işitme mesafesinde yaşaması gerektiğini fısıldar. Lelouch, Shinkirō'ya pilotluk yapan Rolo, Lelouch'u kurtarana ve Kara Şövalyeler ile Britanyalıların birleşik güçlerinden kaçana kadar ölümü kabul etmeye hazırdır. Ancak Geass'ının bunu yapmak için gereken aşırı kullanımı kalbini aşırı yorar ve Lelouch'u güvenli bir yere uçurduktan sonra ölür. Lelouch, İmparatoru kendi eliyle öldüreceğini ilan ederek Rolo'nun kendisine verdiği hayatı boşa harcamamaya karar verir.",
+                "air_date": "2008-08-17",
+                "still_path": "/2X7Joc9U7aQwm9GuzMpkpuTYLDh.jpg",
+                "video_url": "2185023"
+            },
+            {
+                "episode_number": 20,
+                "name": "İmparator Görevden Alındı",
+                "overview": "İmparator Ragnarok'a başlamaya hazırlanırken Lelouch ve Suzaku onunla yüzleşmek için Kaminejima'ya gider. Artık yanlış yöntemlerin anlamsız olduğu düşüncesiyle kısıtlanmayan Suzaku, İmparator'a suikast düzenlemesi karşılığında Schneizel ile Bir'in Şövalyesi olmak için bir anlaşma yapar. Geass'ını tüm potansiyeliyle kullanan Lelouch, adadaki Britanya ordusunun çoğunu onun emirlerine uymaya zorluyor. Bu arada Kara Şövalyelerin liderleri, gerçeği yutmak çok daha zor olacağından Zero'nun öldüğünü ilan etmeye karar verir, ancak hikayeleri başkaları tarafından şüpheyle karşılanır. Anya'nın zihni, C.C.'nin anılarını geri getiren Marianne tarafından ele geçirilir. İkili kendi planlarını uygulamaya başlar. Kaminejima'da Suzaku, Bismarck tarafından uzakta tutulurken Lelouch, hiçbir rakiple karşılaşmadan Düşünce Asansörü aracılığıyla Akasha'nın Kılıcı'na doğru yürür. Babasını öldüremeyeceğini bilen Lelouch, girişi yok eder ve ikisini de sonsuza kadar içeride kapatmayı planlar.",
+                "air_date": "2008-08-24",
+                "still_path": "/uAYFpdMVt91qyRL3ct71Ke5ouMx.jpg",
+                "video_url": "2185024"
+            },
+            {
+                "episode_number": 21,
+                "name": "Ragnarök Bağlantısı",
+                "overview": "Akasha'nın Kılıcı'nda Lelouch, annesinin ölümü hakkındaki gerçeği İmparator'dan ve Marianne'den öğrenir. İkili, yalanların olmadığı yumuşak bir dünya yaratma niyetlerini ortaya koyuyor ve Ragnarok'a başlıyor. Lelouch neredeyse onlarla barışır ama İmparator'un arzuladığı dünyanın bir geleceği olmadığını anlayınca fikrini değiştirir. Geass'ını bir sonraki seviyeye geliştiren Lelouch, her insanın kolektif bilinçdışı zihninin, İmparator'un yenmeye çalıştığı \"tanrıların\" kişileştirilmesinin yardımıyla İmparatoru yener ve hem onu ​​hem de Marianne'i toza çevirir. Ragnarok'un sona ermesiyle Lelouch, mahkemedeki tüm muhaliflerin onu bu şekilde kabul etmesini sağlamak için Geass'ını kullanarak yeni İmparator olarak tahta geçer. Suzaku, yeni \"Sıfır Şövalyesi\" olarak atanırken, C.C. gölgelerden bakıyor.",
+                "air_date": "2008-08-31",
+                "still_path": "/zibaj8v6DdINA2SkYqstuobGud5.jpg",
+                "video_url": "2185025"
+            },
+            {
+                "episode_number": 22,
+                "name": "İmparator Lelouch",
+                "overview": "Lelouch, aristokrasiyi ve Bölge sistemini ortadan kaldırarak Britannia'da reform yapmaya başlar. Rounds Şövalyeleri, Lelouch'u iktidardan uzaklaştırmaya çalışır, ancak Lancelot Albion'a pilotluk yapan Suzaku, saflarını kolayca yok ederek Bismarck Waldstein'ı ve diğer iki Rounds üyesini öldürürken yalnızca Gino'nun Knightmare'ini devre dışı bırakır. Konumu güvence altına alınan Lelouch, U.F.N.'ye katılma niyetini açıkladı. Toplantıya giderken, o ve Kallen onu öptükten sonra birbirlerine veda ettiler, Kallen, Lelouch'un hiçbir sorusunu yanıtlamasını sağlayamadı. UFN, Britannia'nın otomatik çoğunluğa ulaşmasını önlemek için oy kullanma yetkisine bir sınır getirilmesini talep ettiğinde Lelouch, Suzaku'nun U.F.N.'yi almasını sağlayarak elini zorlar. liderler rehin alınır ve Britannia'nın ordusu Japonya'yı kuşatır. Kargaşa sırasında Britanya'nın başkenti, yeni uçan kalesi Damocles'te bulunan Schenizel tarafından yok edilir. Lelouch'a Nunnally'nin hayatta olduğunu açıklar ve Lelouch ile Suzaku'nun düşmanı olduğunu ilan eder.",
+                "air_date": "2008-09-07",
+                "still_path": "/rP0klayWmbfRBPSZs4xQCOclPu0.jpg",
+                "video_url": "2185026"
+            },
+            {
+                "episode_number": 23,
+                "name": "Schneizel'in Kılığı",
+                "overview": "Schneizel, Demokles'i dünyadaki savaşan her ulusa saldıracak ve böylece yok etme tehdidiyle barışı güçlendirecek şekilde konumlandırma planını açıklıyor. Cornelia itiraz eder ama vurularak öldürülür. Lelouch, konuşmaları sırasında Nunnally'yi düşmanı ilan eder, ancak baş başayken onunla savaşma düşüncesiyle ilgili sorunlar yaşar. Suzaku ve C.C.'nin teselli ettiği bazı sert sözlerle Lelouch'un aklı başına gelir ve asıl görevine odaklanır. Kimseyle savaşamayacağı veya kimseyi koruyamayacağı için hayal kırıklığına uğrayan Nunnally, F.L.E.I.J.A.'yı başlatma günahını omuzlamaya karar verir. kendini. Kara Şövalyeler ve geri kalan Tur Şövalyeleri tarafından desteklenen Schneizel, Fuji Dağı'nın üzerindeki gökyüzünde Lelouch ile çatışır. Lelouch, Fuji Dağı'ndaki sakuradit mayınlarını patlatarak Kara Şövalyelerin büyük bir kısmını yok edebilse de, Damocles'e karşı saldırı mümkün değil ve F.L.E.I.J.A. savaş başlıkları hala onun üzerinde duruyor.",
+                "air_date": "2008-09-14",
+                "still_path": "/cjLhxrnc1dQLOL4YUmKAV7hx2LX.jpg",
+                "video_url": "2185027"
+            },
+            {
+                "episode_number": 24,
+                "name": "Demokles'in Tutulması",
+                "overview": "Kara Şövalyeler Avalon'a çıkmayı başarır. Lelouch, Shinkirō'da kaçarken C.C. Kallen'ı Lelouch'un kaçmasına yetecek kadar uzakta tutuyor. Nina'nın F.L.E.I.J.A.'sını kullanmak. Eliminator, Lelouch ve Suzaku, Damocles'e başarıyla girdi. Lelouch'un tuzağa düştüğüne inanan Schneizel, Damocles'in kendi kendini yok etme dizisini başlatır ve ayrılmaya çalışır. Ancak Lelouch, Geass'ını kullanarak onu itaat etmeye zorlayarak Schneizel'i alt etmeyi başarır. Suzaku ve Gino kalenin dışında savaşırken Gino, Suzaku'ya karşı koyamaz. Gino, son saldırısını kullanarak Damokles'in kalkanlarını ortadan kaldırarak Kallen'ın yönetimi ele geçirmesine olanak tanır. Bu sırada Lelouch, yeniden görme yetisine kavuşan Nunnally ile yüzleşmeye gider.",
+                "air_date": "2008-09-21",
+                "still_path": "/vXYzgfqifP6yxdR3EOygPrTNt8F.jpg",
+                "video_url": "2185028"
+            },
+            {
+                "episode_number": 25,
+                "name": "Tekrar;",
+                "overview": "Lelouch ve Suzaku, verdikleri söz olan Zero Requiem uğruna savaşır. Suzaku, Kallen'la savaşırken Lelouch, en büyük ve en yakın düşmanı Nunnally ile yüzleşir.",
+                "air_date": "2008-09-28",
+                "still_path": "/u3u1J6k3gHoAuDtpenrKLYqKmDY.jpg",
+                "video_url": "2185029"
+            }
+        ]
+    }
+}

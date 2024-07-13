@@ -1,0 +1,115 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2021-01-10",
+        "poster_path": "/917VL7zHTaltnEBDrKWVITTsvLy.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Küçük Bir Tesadüf",
+                "overview": "Hori-san ikili bir hayat yaşamaktadır: okulda modaya uygun, popüler bir kız, evde ise basit, iradeli bir bakıcı. Sınıf arkadaşı Miyamura ile tesadüfen karşılaştıktan sonra gerçek kimliğini gizleyenin tek kişinin kendisi olmadığını anlar.",
+                "air_date": "2021-01-10",
+                "still_path": "/cQj59g8z7qsRHGNgRXCQgPj75eu.jpg",
+                "video_url": "4265090"
+            },
+            {
+                "episode_number": 2,
+                "name": "Birden Fazla Yüz Giyiyorsunuz",
+                "overview": "Annesi Miyamura'yı sorduğunda Hori korkutucu bir gerçeği fark eder. Daha sonra Öğrenci Konseyi, Hori'yi fazladan çalışmaya yönlendirir, ancak anlaşmazlık ortaya çıktığında işleri düzeltmek Miyamura'ya düşer.",
+                "air_date": "2021-01-17",
+                "still_path": "/tDQeg0d0LLx25wa9maO0E8ACTmB.jpg",
+                "video_url": "4768291"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bu Yüzden Sorun Yok",
+                "overview": "Miyamura geçmişi ve bugünü üzerine düşünür. Hori, Remi'nin bencil talebine yanıt verir. Ishikawa ve Miyamura arasındaki hararetli konuşma yumruk yumruğa kavgayla sona erer.",
+                "air_date": "2021-01-24",
+                "still_path": "/7pPxMUZ2QekyXXzlok9sjUA1YL2.jpg",
+                "video_url": "4268813"
+            },
+            {
+                "episode_number": 4,
+                "name": "Herkes Birini Sever",
+                "overview": "Öğrenci konseyi odası harika bir buluşma mekanına dönüşüyor. Hori, Miyamura'yı telaşlandırmaya çalışır. Eski bir arkadaş, Miyamura'nın yeni bir yönünü ortaya çıkarır. Daha sonra Hori hastalanınca Miyamura onu kurtarmaya gelir.",
+                "air_date": "2021-01-31",
+                "still_path": "/j6cAQmR2rXkzKWFMVi5rnI994cT.jpg",
+                "video_url": "4768415"
+            },
+            {
+                "episode_number": 5,
+                "name": "Bunu Yüksek Sesle Söyleyemiyorum",
+                "overview": "Bir söylenti, Hori ve Miyamura'nın filizlenen ilişkisini karmaşık hale getirir. Kyosuke tünemek için eve gelir ve anında Miyamura'dan hoşlanmaya başlar. Sakura, Remi ile olan arkadaşlığını değerlendirir.",
+                "air_date": "2021-02-07",
+                "still_path": "/w2VvBglepsM1kzMEc9Jg7IEvRpp.jpg",
+                "video_url": "4768478"
+            },
+            {
+                "episode_number": 6,
+                "name": "Bu Yaz Sıcak Bir Yaz Olacak",
+                "overview": "Miyamura geceyi burada geçirir. Söylentiler okulda orman yangını gibi yayıldı. Shindo çifti bir torba şekeri paylaşmaya çağırır. İkinci sınıftaki bir kız Miyamura'yı takip etmeye başlar.",
+                "air_date": "2021-02-14",
+                "still_path": "/m95Ht21etRFa7gbbRtGOquZkcEN.jpg",
+                "video_url": "4278182"
+            },
+            {
+                "episode_number": 7,
+                "name": "Sen Buradasın, Ben Buradayım",
+                "overview": "Sakura, Toru'ya yaklaşma cesaretini bulur. Yoshikawa gerçekte ne istediğini dile getirmekte zorlanıyor. Miyamura bir haftalık bir yolculuğa çıkar. Hori, korku takıntısından dolayı endişelenir.",
+                "air_date": "2021-02-21",
+                "still_path": "/amOJrfWKHQrCAwulOWucNah352L.jpg",
+                "video_url": "4278243"
+            },
+            {
+                "episode_number": 8,
+                "name": "Gerçek Aldatmaca Ortaya Çıkıyor",
+                "overview": "Remi, kendisinin ve Sengoku'nun nasıl çıkmaya başladığını anlatıyor. Miyamura, Hori'nin gizli bir yanını keşfeder. Yoshikawa'ya çıkma teklifi alınca ekip, Ishikawa'nın yardım etmesini sağlar.",
+                "air_date": "2021-02-28",
+                "still_path": "/Gm9w8e7PBjokUc9xe3QsgSZLuH.jpg",
+                "video_url": "4768635"
+            },
+            {
+                "episode_number": 9,
+                "name": "Zor Ama İmkansız Değil",
+                "overview": "Miyamura bazı düşmanca yüzlerle karşılaşır. Hori, Miyamura'nın en karanlık arzularını gerçekleştirmesini sağlamaya çalışır. Mizouchi'nin aşkı karşılıksızdır. Tanihara, Miyamura ile geçmişiyle yüzleşir.",
+                "air_date": "2021-03-07",
+                "still_path": "/uPQKGIo24CBiAe6a7iEP5RHJkUH.jpg",
+                "video_url": "4282585"
+            },
+            {
+                "episode_number": 10,
+                "name": "Karlar Eriyene Kadar",
+                "overview": "Hori'nin Miyamura'dan beklenmedik bir talebi vardır. Yoshikawa, Ishikawa ile olan sahte ilişkisinin sona erebileceğini öğrendiğinde kendi duyguları üzerinde düşünmek zorunda kalır.",
+                "air_date": "2021-03-14",
+                "still_path": "/jLDRjqmbli0s9yvwGMicXWQCGsr.jpg",
+                "video_url": "4768674"
+            },
+            {
+                "episode_number": 11,
+                "name": "Nefret Gibi Görünebilir",
+                "overview": "Ekip, Yanagi'yi gevşetmeye çalışır. Iura, Sawada'yı ne kadar korkuttuğundan habersizdir. Iura'nın kız kardeşi Motoko giriş sınavlarıyla uğraşırken Iura, Hori'den yardım ister.",
+                "air_date": "2021-03-21",
+                "still_path": "/fjNZZfiJSNeGPVUey7voBGoorQw.jpg",
+                "video_url": "4289101"
+            },
+            {
+                "episode_number": 12,
+                "name": "Şimdiye Kadar ve Sonsuza Kadar",
+                "overview": "Yoshikawa, Ishikawa'nın evine doğru yola çıkar. Noel herkese romantik bir tatil neşesi getirir. Hori ve Miyamura geleceklerini tartışırlar.",
+                "air_date": "2021-03-28",
+                "still_path": "/512Badr031fSqikz8kn7Fr2UHqW.jpg",
+                "video_url": "4293086"
+            },
+            {
+                "episode_number": 13,
+                "name": "Sana Gökyüzünü Hediye Ederdim",
+                "overview": "Mezuniyet yaklaşırken Miyamura geçen yılı, belirsiz geleceğini ve bulduğu yeni hayatı düşünür.",
+                "air_date": "2021-04-04",
+                "still_path": "/aj2h0cfsP5OM6yUeznvO43icvoo.jpg",
+                "video_url": "4768721"
+            }
+        ]
+    }
+}

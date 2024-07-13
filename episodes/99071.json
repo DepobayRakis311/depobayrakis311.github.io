@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2021-01-13",
+        "poster_path": "/a5IDQtt7SgLbLtY7YGYVp1XvRng.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Şifacı Yeniden Başlıyor!",
+                "overview": "İblis Lordu'nun mağlup edilmesiyle Keyaru'nun intikamı başlar. İlk adım zamanı geri almaktır. Ardından planlama yapılıyor…",
+                "air_date": "2021-01-13",
+                "still_path": "/vK1o2NQrjJqhxHm82GCF5x42UfD.jpg",
+                "video_url": "4209212"
+            },
+            {
+                "episode_number": 2,
+                "name": "Şifacı Prenses Flare'i Mahvetti!",
+                "overview": "Flare'in Keyaru'nun aslında çok geç olana kadar göremediği karanlık bir tarafı var. Affetmek şu an onun ilgilendiği bir şey değil. Yani bekliyor…",
+                "air_date": "2021-01-20",
+                "still_path": "/urauJvBddSEaRsw2ds8gsoE7BrZ.jpg",
+                "video_url": "4224427"
+            },
+            {
+                "episode_number": 3,
+                "name": "Şifacı Bir Köle Satın Alır!",
+                "overview": "Henüz yaşanmamış olsa bile insan geçmişi unutmaz. Pek çok kişi cezasız kalıyor. Ancak onlara ulaşmak yardım gerektirebilir.",
+                "air_date": "2021-01-27",
+                "still_path": "/BwOJiJAlIyc0A417CyUKjNZs9i.jpg",
+                "video_url": "4225127"
+            },
+            {
+                "episode_number": 4,
+                "name": "Şifacı Setsuna'yı Edindi!",
+                "overview": "Setsuna intikam için ne kadar ileri gidecek? Keyarga bunu merak ediyor.",
+                "air_date": "2021-02-03",
+                "still_path": "/v4h17DgD6ghRogbMu1S7JGXU31o.jpg",
+                "video_url": "4766001"
+            },
+            {
+                "episode_number": 5,
+                "name": "Şifacı Yeni Bir Oyuncak Buldu!",
+                "overview": "Keyarga'nın eylemleri fark edilmeden kalmadı. Gioral askerlerine karşı Krylet kılıç tekniğini kullandı. Ve bir kadın hakaretin durmasına izin vermeyecek.",
+                "air_date": "2021-02-10",
+                "still_path": "/zbXcIzDKIetsWsCrzpkAGOiOwPx.jpg",
+                "video_url": "4766044"
+            },
+            {
+                "episode_number": 6,
+                "name": "Şifacı Kan ve Gözyaşı Döküyor!",
+                "overview": "İntikamın maliyeti yüksektir. Özellikle bedelini masumlar ödediğinde.",
+                "air_date": "2021-02-17",
+                "still_path": "/1JLe9BoxUMLOV5ZQVLHW7Z2CpYd.jpg",
+                "video_url": "4235187"
+            },
+            {
+                "episode_number": 7,
+                "name": "Şifacı Adaleti İcra Ediyor!",
+                "overview": "İyileşme Kahramanını bekliyorlardı. Onun kahraman olmasını planladılar. Ne yazık ki Keyarga onlar için bir kahraman değil.",
+                "air_date": "2021-02-24",
+                "still_path": "/ecebuuAB34qBGncGpsgNdOo4paz.jpg",
+                "video_url": "4766084"
+            },
+            {
+                "episode_number": 8,
+                "name": "Şifacı İblis Lorduyla Buluşuyor!",
+                "overview": "Keyarga bu kadını tanıyor. O, İblis Lordu ve tüm insanlığın düşmanı olacak. Peki insanların ve şeytani varlıkların bir arada yaşadığı bir şehirde ne işi var?",
+                "air_date": "2021-03-03",
+                "still_path": "/vs7w3ArgyRlTQuSYAIKhsexiDEf.jpg",
+                "video_url": "4766094"
+            },
+            {
+                "episode_number": 9,
+                "name": "Şifacı Bir Yemeğin İntikamını Alır!",
+                "overview": "Keyarga, Freia ve Setsuna, Eve Demon Lord olana kadar onu koruyacak. Ancak bu korumanın bir bedeli var: Felsefe Taşı.",
+                "air_date": "2021-03-10",
+                "still_path": "/fCrFSY2vM1OIPRd2EHZu61qrmjm.jpg",
+                "video_url": "4766110"
+            },
+            {
+                "episode_number": 10,
+                "name": "Şifacı Tek, Güzel Bir Çiçeğe Dönüşür!",
+                "overview": "Bir yırtıcı hayvan nasıl yakalanır? Keyarga kendini mükemmel bir yem haline getiriyor.",
+                "air_date": "2021-03-17",
+                "still_path": "/4ybZO7i0c3NlwbZUfDZa0Ikiw1v.jpg",
+                "video_url": "4766123"
+            },
+            {
+                "episode_number": 11,
+                "name": "Şifacı, Norn'un Vahşetinden Sorunlu!",
+                "overview": "Keara, Blade'in anılarını okur ve Norn'un Branica'ya üç gün içinde saldırmayı planladığını öğrenir ve yeni silahıyla intikam almayı umar.",
+                "air_date": "2021-03-24",
+                "still_path": "/yWqjvAIC6fE2wXR3Hb0PRTVPhQj.jpg",
+                "video_url": "4269852"
+            },
+            {
+                "episode_number": 12,
+                "name": "Şifacı Yeni Bir Yolculuğa Başlıyor!",
+                "overview": "Beklenmedik bir gelişme Norn'u hazırlıksız yakalar. Başka bir plana ihtiyacı var ama bu, önce Keyarga'nın gazabından kurtulabileceğini varsayıyor.",
+                "air_date": "2021-03-31",
+                "still_path": "/xzFGVgYBJoYMNgytworpk84E6Eq.jpg",
+                "video_url": "4283489"
+            }
+        ]
+    }
+}

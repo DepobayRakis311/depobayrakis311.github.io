@@ -1,0 +1,523 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 64,
+        "air_date": "2009-04-05",
+        "poster_path": "/1cpXTzrUiMbqcCLsdxRfVIHJsEd.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Fullmetal Simyacı",
+                "overview": "Dondurucu Simyacı Isaac McDougal, Merkezi Hapishaneden kaçtıktan sonra Führer Kral Bradley'i öldürme planını harekete geçirir. Ancak Yarbay Roy Mustang'in komutası altındaki ordu ve Devlet Simyacıları onu durdurmaya çalışır.",
+                "air_date": "2009-04-05",
+                "still_path": "/gt38hv6Xkr2U42Wud7xEhtXREst.jpg",
+                "video_url": "4029510"
+            },
+            {
+                "episode_number": 2,
+                "name": "İlk Gün",
+                "overview": "Lior'a doğru giderken, Ed ve Al, insan dönüşümü tabusunu yıkarak kendilerini şu anki bedenlerinde kapana kısılmış hale getiren olayları anımsarlar. Bu arada, Albay Mustang, Elric kardeşlerle ilk tanıştığı zamanı düşünür.",
+                "air_date": "2009-04-12",
+                "still_path": "/7nj2xLJvjNecLnftoCSmC8QTk6t.jpg",
+                "video_url": "4029511"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sapkınlık Şehri",
+                "overview": "Ed ve Al, efsanevi Felsefe Taşı'nı bulmayı ve vücutlarını normale döndürmeyi umarak Lior şehrine gelirler. Orada \"mucizeler\" yaratabilen Cornello adında bir rahiple tanışırlar. Ed ve Al araştırırken Cornello hakkındaki gerçeği öğrenirler.",
+                "air_date": "2009-04-19",
+                "still_path": "/4V97HpXyziLoT5v8ByaT1AXo5vc.jpg",
+                "video_url": "4029512"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bir Simyacının Acıları",
+                "overview": "Ed ve Al, Lior'da bir kimeraya tanık olduktan sonra biyolojik dönüşümle ilgilenmeye başlarlar, bu yüzden Albay Mustang onları bu alanda uzman olan Hayat Bağlayan Simyacı Shou Tucker'la tanıştırır. Bu arada hedefleri yalnızca Devlet Simyacıları olan bir seri katil Central'da ortalıkta dolaşmaktadır.",
+                "air_date": "2009-04-25",
+                "still_path": "/gK9PNwrvLBcVMO7OIaW5nTXRgZS.jpg",
+                "video_url": "4029513"
+            },
+            {
+                "episode_number": 5,
+                "name": "Acıların Yağmuru",
+                "overview": "Shou Tucker ve kızı Nina'nın başına gelenleri öğrenen Elric kardeşler, simyanın gerçekte ne olduğunu sorgulamaya başlar. Bu sırada Albay Mustang ve diğer Devlet Simyacıları seri katil Scar'ın izini sürüyor.",
+                "air_date": "2009-05-03",
+                "still_path": "/feiw4Fe4sVQU7yUXqLEem7qK1rR.jpg",
+                "video_url": "4029514"
+            },
+            {
+                "episode_number": 6,
+                "name": "Umut Yolu",
+                "overview": "Scar ile karşılaşmalarının ardından Ed'in otomatik postasının ve Al'ın zırhının onarılması gerekir, bu yüzden Binbaşı Armstrong onlara memleketleri Risembool'a kadar eşlik eder. Oraya giderken Felsefe Taşı'nın yaratılmasına yardım eden bilim adamı Dr. Marcoh'u görürler ve onu Taş'ın araştırma verilerinin yerini vermesi için ikna etmeye çalışırlar.",
+                "air_date": "2009-05-10",
+                "still_path": "/pjgpBrj4dJTAKobjgjjpfqRTU6J.jpg",
+                "video_url": "4029515"
+            },
+            {
+                "episode_number": 7,
+                "name": "Gizli Gerçekler",
+                "overview": "Ed ve Al Merkez Kütüphaneye vardıklarında kütüphanenin yakıldığını keşfederler ve bunun yerine aradıkları bilgiye sahip olabilecek eski bir çalışan olan Sheska'yı görmeye götürülürler. Bu sırada Doğu Şehri'nde açıklanamayan bir patlama, Albay Mustang'in Scar'ı aramaya yeniden başlamasına neden olur.",
+                "air_date": "2009-05-17",
+                "still_path": "/vS7vHBoDDP5ldnggatjHyK4DbPb.jpg",
+                "video_url": "4029517"
+            },
+            {
+                "episode_number": 8,
+                "name": "Beşinci Laboratuvar",
+                "overview": "Ed ve Al, Felsefe Taşı'nın kökenleri hakkında daha fazla yanıt aramak için Beşinci Laboratuvar'a gizlice girer. Ancak, her birinin şu anda kompleksi koruyan eski idam sırasındaki katiller tarafından saldırıya uğraması çok uzun sürmez.",
+                "air_date": "2009-05-24",
+                "still_path": "/9Xc2F6hmDWAeSrDJOFqAvM4SaX4.jpg",
+                "video_url": "4029518"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yaratılan Duygular",
+                "overview": "Ed şu anda yaralarının iyileşmesi için hastanededir ve Al, Beşinci Laboratuvar'da 66 Numaranın ona söylediği şeyden vazgeçemez. Bu sırada Winry, Ed'in otomatik postasını onarmak için Merkez'e gitmeyi kabul eder... yine!",
+                "air_date": "2009-05-31",
+                "still_path": "/zW9qMXytsyDUZlcoVNh5RAYINTZ.jpg",
+                "video_url": "4029519"
+            },
+            {
+                "episode_number": 10,
+                "name": "Ayrı Destinasyonlar",
+                "overview": "Felsefe Taşı'nı çevreleyen komplo ordunun en yüksek rütbelerine yaklaştığında Mustang'in en güvendiği ve değer verdiği müttefiklerinden biri öldürülür.",
+                "air_date": "2009-06-07",
+                "still_path": "/gDA5XcbEVBTIGSEfArGa2mCz2Kz.jpg",
+                "video_url": "4029520"
+            },
+            {
+                "episode_number": 11,
+                "name": "Rush Vadisi'ndeki Mucize",
+                "overview": "Simyanın henüz yaşam yaratmanın gizemlerini çözmediğini fark eden Elric'ler, yeni bir arkadaşları doğuma başlayınca kendilerini güçsüz hissederler. Ancak Winry, Paninya adlı genç bir hırsızla birlikte harekete geçer.",
+                "air_date": "2009-06-14",
+                "still_path": "/kDxLtWN9ONnVbC2FlzjrZ0XL0mg.jpg",
+                "video_url": "4029522"
+            },
+            {
+                "episode_number": 12,
+                "name": "Bir Her Şeydir, Her Şey Birdir",
+                "overview": "Çocukluk öğretmenleri Izumi'yi ziyaret eden Elric'ler, eşdeğer değişimi kavramanın ilk zorluklarını hatırlıyor. Ayrıca onun simyanın en büyük tabusu hakkındaki derin bilgilerini paylaştığını da keşfederler.",
+                "air_date": "2009-06-21",
+                "still_path": "/brYaKIpdCct90vtjilXB9mbn06X.jpg",
+                "video_url": "4029524"
+            },
+            {
+                "episode_number": 13,
+                "name": "Dublith'in Canavarları",
+                "overview": "Al, Açgözlülük olarak bilinen görünüşte yok edilemez Homunculus'un liderliğindeki kimeralar tarafından kaçırılır. Ed'in kurtarma girişimi başarısızlıkla sonuçlanınca Izumi, kardeşlerinin çıkarlarını düşündüğünü bir kez daha kanıtlar.",
+                "air_date": "2009-06-28",
+                "still_path": "/utROdhaxJfQPWjMyWiL7O6QdJpi.jpg",
+                "video_url": "4029525"
+            },
+            {
+                "episode_number": 14,
+                "name": "Yeraltında Saklananlar",
+                "overview": "Greed'le şiddetli bir çatışma yaşayan Kral Bradley, acımasız bir rakip olduğunu kanıtlar. Ama sonunda Nihai Kalkan'ı yok eden adam, Führer'in kendisinden bile daha güçlüdür.",
+                "air_date": "2009-07-05",
+                "still_path": "/piGMj1y8tgxRunhdym1dr4FPL8p.jpg",
+                "video_url": "4029526"
+            },
+            {
+                "episode_number": 15,
+                "name": "Doğu'dan Gelen Elçi",
+                "overview": "Elric'ler, Felsefe Taşı'nı arayan Xing'den gelen Ling Yao ve görevlileri Lan Fan ve Fu ile çekişir. Ed ondan hoşlanmayabilir ama Ling Yao istediğini alana kadar ayrılmayacak.",
+                "air_date": "2009-07-12",
+                "still_path": "/mFPJEHgztVMT8ywiDFBetIPPdzf.jpg",
+                "video_url": "4029528"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bir Silah Arkadaşının Ayak Sesleri",
+                "overview": "Hughes'un kaderini öğrenen Ed ve Al, üzüntü ve suçluluk duygusuyla perişan olur. Kıskançlık hâlâ Devlet Simyacıları arasında gizleniyor ve başka bir Homunculus da onların saflarına sızmanın eşiğinde.",
+                "air_date": "2009-07-19",
+                "still_path": "/hWNUpZRw3WRXaQLKde8EBYDs0ui.jpg",
+                "video_url": "4029530"
+            },
+            {
+                "episode_number": 17,
+                "name": "Soğuk Alev",
+                "overview": "Beklenmedik bir kurtarıcı tarafından kurtarılan Ross'un kaçışı Mustang tarafından kesintiye uğrar. Alev Simyacısına en sadık olanlar bile, Maes Hughes'un katili sanılanına karşı gerçekleştirdiği tartışmalı eylem karşısında sarsılıyor.",
+                "air_date": "2009-07-26",
+                "still_path": "/g4gpLYNYgPMSailz3pZ3IsBohBj.jpg",
+                "video_url": "4029531"
+            },
+            {
+                "episode_number": 18,
+                "name": "Küçük Bir İnsanın Kibirli Avucu",
+                "overview": "Ed'in uzak bir efsane diyarına yaptığı yolculuk, Mustang'in Ross'la ara sokakta karşılaşmasının ardındaki şaşırtıcı yeni ayrıntıları sunar. Kendi kader karşılaşmasından sonra Elric, Winry'nin ebeveynleri hakkında çarpıcı bir sır öğrenir.",
+                "air_date": "2009-08-02",
+                "still_path": "/kU4ivjQSJfchbRYY7fjAa4q2aO9.jpg",
+                "video_url": "4029532"
+            },
+            {
+                "episode_number": 19,
+                "name": "Ölümsüzlerin Ölümü",
+                "overview": "Mustang, Alphonse, Havoc ve Hawkeye bir askeri laboratuvarı aramak için ayrıldılar. Eğer Lust istediğini yaparsa hiçbiri birbirini bir daha canlı göremeyecek.",
+                "air_date": "2009-08-09",
+                "still_path": "/2Gs3wUiEcX8rVmXw2CzqgneghcK.jpg",
+                "video_url": "4029533"
+            },
+            {
+                "episode_number": 20,
+                "name": "Mezarın Önünde Baba",
+                "overview": "Hohenheim'ın ziyareti Pinako'ya yapılan ciddi bir uyarıyla sona erer ancak Ed, çocukluğunun kömürleşmiş kalıntıları arasında umut bulur. Artık Al'in bedenine geri döndürülebileceğine her zamankinden daha fazla güveniyor.",
+                "air_date": "2009-08-16",
+                "still_path": "/5STgUruLArUKiNTpBv7EOLTr0D2.jpg",
+                "video_url": "4029535"
+            },
+            {
+                "episode_number": 21,
+                "name": "Aptalın İlerlemesi",
+                "overview": "Homunculi hakkında daha fazla şey öğrenmeyi uman Ed ve Al, yaratıkları saklandıkları yerden çıkarmak için riskli bir strateji geliştirir. Kardeşlerin planlarından birine adım atın: En tehlikeli düşmanları Scar'ın elinde ölümü göze alın.",
+                "air_date": "2009-08-30",
+                "still_path": "/fgNidBjqsAc9G0j43IEQefcikbT.jpg",
+                "video_url": "4029536"
+            },
+            {
+                "episode_number": 22,
+                "name": "Uzaklarda Geriler",
+                "overview": "Scar'ın halkını katledenleri yok etme misyonu haklı bir öfkeyle körükleniyor. Scar'ın ebeveynlerinin ölümlerinde oynadığı rolü öğrendikten sonra Winry bu katilce duyguların kendisine ait olduğunu iddia ediyor.",
+                "air_date": "2009-09-06",
+                "still_path": "/aTvRDaxSWvM5KKxdRdCMJPNdikT.jpg",
+                "video_url": "4029537"
+            },
+            {
+                "episode_number": 23,
+                "name": "Savaş Alanındaki Kız",
+                "overview": "Mustang'in grubu ile Ling Yao'nun grubu arasındaki işbirliği, bir Homunculus'un yakalanmasına yol açar. Ne yazık ki onların eylemleri aynı zamanda ordu saflarının tepesinde saklanan Homunculus'un da dikkatini çekiyor.",
+                "air_date": "2009-09-13",
+                "still_path": "/rDFDNcUNmYIpcHuadoXO05apwos.jpg",
+                "video_url": "4029539"
+            },
+            {
+                "episode_number": 24,
+                "name": "Göbeğin İçinde",
+                "overview": "Oburluğun çarpık güçleri Elric'leri alt eder ve yaratığın iştahı savaşın sonunda tatmin olur. Bu sırada Mustang, Bradley'e dair şüphelerini harekete geçirir ve kendisini canavarın karnında bulur.",
+                "air_date": "2009-09-20",
+                "still_path": "/uOuxOrhlTWGtpyJRs9J6piWoULV.jpg",
+                "video_url": "4029541"
+            },
+            {
+                "episode_number": 25,
+                "name": "Karanlığın Kapısı",
+                "overview": "Homunculi'ler kazanıyor. Ed ve Ling, Oburluk'un cehennemi andıran bağırsaklarında korkunç bir düşmanla karşı karşıya kalır. Central'da Mustang, sadık asker grubunun Bradley tarafından bölünmesini yalnızca izleyebilir.",
+                "air_date": "2009-09-27",
+                "still_path": "/sJO5IGaVKYCNZTJPELH9O5IxGjR.jpg",
+                "video_url": "4029542"
+            },
+            {
+                "episode_number": 26,
+                "name": "Yeniden Birleşme",
+                "overview": "Al, Baba denen kişiyi bulduğunda ve Mustang, Bradley'nin yaratılış hikayesini dinlediğinde gerçekler ortaya çıkar - ancak en şaşırtıcı açıklama, simyanın en büyük tabusunu bir kez daha yıkan Ed'e aittir.",
+                "air_date": "2009-10-04",
+                "still_path": "/mdxDbs2uZCJPqxqedAPfKxVUQBS.jpg",
+                "video_url": "4029544"
+            },
+            {
+                "episode_number": 27,
+                "name": "Ara Parti",
+                "overview": "Hohenheim, insanın kaçınılmaz çılgınlıklarını, sevgi dolu bir aileyle birlikte gelen acıları, simyanın gizli gerçeklerini ve savaşın kökenlerini ve sonuçlarını yansıtırken, geçmişe dair vizyonlar ısıtan bir ateşin başında canlanıyor.",
+                "air_date": "2009-10-11",
+                "still_path": "/bfZrYNbKD6WTYOb96WYYrEuNb6z.jpg",
+                "video_url": "4029545"
+            },
+            {
+                "episode_number": 28,
+                "name": "Baba",
+                "overview": "Elric'ler babamla yüz yüze gelirler ve onun yüzü gerçekten tanıdıktır. Güçsüz ve şaşkın olan Ed ve Al, babanın imkansız olması gereken simyayla yeni bir Homunculus yaratmasını yalnızca izleyebilirler.",
+                "air_date": "2009-10-18",
+                "still_path": "/m2D0O1rXQeKGjY7wB7MUKP1REy1.jpg",
+                "video_url": "4029548"
+            },
+            {
+                "episode_number": 29,
+                "name": "Aptalın Mücadelesi",
+                "overview": "Elric'ler Bradley'nin insafına kalmıştır; Eğer kardeşler yanlış bir hareket yaparlarsa bunun bedelini en sevdikleri kişiler ödeyecektir. Mustang sessizce müttefiklerini yanına toplarken Ed, Felsefe Taşı'nı bulmaya gerek kalmayabileceğini keşfeder.",
+                "air_date": "2009-10-25",
+                "still_path": "/sFc4zxin9mGkNMTQfukyi4JLeEZ.jpg",
+                "video_url": "4029549"
+            },
+            {
+                "episode_number": 30,
+                "name": "Ishvalan İmha Savaşı",
+                "overview": "Edward, Hawkeye'ın idealist genç askerlerin soykırımla görevlendirildiği bir döneme ilişkin öyküsünü dinlerken Ishvalan savaş alanının dehşeti ortaya çıkar.",
+                "air_date": "2009-11-01",
+                "still_path": "/1s33QZOZMIp7UkqHKXuC515DazL.jpg",
+                "video_url": "4029550"
+            },
+            {
+                "episode_number": 31,
+                "name": "520 Sensin Vaadi",
+                "overview": "Astları dağılmış olsa bile Mustang hâlâ müttefiklerinin olduğunu fark eder; ne yazık ki düşmanları da öyle. Homunculi, Scar ve Marcoh'yla baş etmesi için Ishvalan Savaşı'nın en kötü şöhretli katillerinden birini serbest bırakır.",
+                "air_date": "2009-11-08",
+                "still_path": "/btRFHxpvplUcqpdo976Mwhzgo9I.jpg",
+                "video_url": "4029551"
+            },
+            {
+                "episode_number": 32,
+                "name": "Führer'in Oğlu",
+                "overview": "Gizli bir karşılaşma, Mustang'in, emrinde sadık birlikleri olan eski bir dostunda yeni bir tutku uyandırmasına olanak tanır. Bu arada Ed ve Al, en büyük hayranları olan genç Selim Bradley ile bir şans buluşmasını paylaşır.",
+                "air_date": "2009-11-15",
+                "still_path": "/y1N1Qer0nQAHTcKI1P7p7jTyyVf.jpg",
+                "video_url": "4029552"
+            },
+            {
+                "episode_number": 33,
+                "name": "Briggs Kuzey Duvarı",
+                "overview": "Kimblee nihayet Scar'a yaklaştığında kuzeydeki soğuk sınır bölgeleri bir savaş alanına dönüşür. Donmuş çorak arazinin derinliklerinde, Briggs Kalesi'ne ulaşmaya çalışan Ed ve Al'in mücadelesi, acı unsurlara karşıdır.",
+                "air_date": "2009-11-22",
+                "still_path": "/7bc4bYOrcSUbqyGHwv6QYnv97Ci.jpg",
+                "video_url": "4029553"
+            },
+            {
+                "episode_number": 34,
+                "name": "Buz Kraliçesi",
+                "overview": "Fort Briggs'teki askerler, Drahmi'den gelen casus tehdidine karşı her zaman tetikte olmaya devam ediyor. Devasa bileşik aşılmaz gibi görünebilir; ancak şiddetli bir davetsiz misafir bunun tam tersini gösteren yıkıcı kanıtlar sunar.",
+                "air_date": "2009-11-29",
+                "still_path": "/hzbzNKKnRyEIShfgGi1i7K8wB9u.jpg",
+                "video_url": "4029555"
+            },
+            {
+                "episode_number": 35,
+                "name": "Bu Ülkenin Şekli",
+                "overview": "Ed, inanılmaz kapsamlı bir komployu ortaya çıkarır: sayısız kurbanı çoktan almış bir komplo. İpuçları, Fort Briggs'in yakında kan döküleceğini ve tüm bir ulusun acı çekeceğini gösteriyor.",
+                "air_date": "2009-12-06",
+                "still_path": "/y1eoPLHirQ5SHipk5TZi3pRnsG.jpg",
+                "video_url": "4029556"
+            },
+            {
+                "episode_number": 36,
+                "name": "Aile Portresi",
+                "overview": "Raven, Armstrong'u yozlaştırmaya çalışırken Ed ve Al'in tek yapması gereken hücrelerinde beklemektir. Uzun zaman önce babaları, ölümsüz bir bedende sonsuz bir pişmanlıkla sınırlı olarak kendi esaretiyle karşı karşıya kaldı. Acıdan kaçmak için veda etti.",
+                "air_date": "2009-12-13",
+                "still_path": "/lP717MoBOQAkDzQBnLQuEdSSGpA.jpg",
+                "video_url": "4029557"
+            },
+            {
+                "episode_number": 37,
+                "name": "İlk Homunculus",
+                "overview": "İlk Homunculus kendini ortaya çıkardığında Hawkeye şok olur. Edward, uzakta, Kimblee'den gelen bir teklif karşısında şaşırır: Fullmetal, bir toplu katil olma karşılığında aradığı her şeye sahip olabilir.",
+                "air_date": "2009-12-20",
+                "still_path": "/gAR9g52DCrJTpw3Y3QqQyAraiFw.jpg",
+                "video_url": "4029558"
+            },
+            {
+                "episode_number": 38,
+                "name": "Baschool'da Çatışma",
+                "overview": "Scar, bir çift korkunç kimera tarafından köşeye sıkıştırıldığında Elrics, onun beklenmedik müttefikleri olarak mücadeleye girer. Daha sonra Winry'nin, ebeveyninin ölümündeki rolü nedeniyle Scar'la yüzleşme girişimi felaketle sonuçlanır.",
+                "air_date": "2009-12-27",
+                "still_path": "/v8IyctZOE8SU0lnL4TFMzuV0c9A.jpg",
+                "video_url": "4029560"
+            },
+            {
+                "episode_number": 39,
+                "name": "Hayal",
+                "overview": "Winry'nin Scar tarafından kaçırılmasıyla ilgili hile ortaya çıkar, ancak yine de bir kurtarma planı yapılması gerekir. Acımasız bir fırtına yaklaşıyor; yalnızca Alphonse Elric'in karşı koyabileceği bir fırtına.",
+                "air_date": "2010-01-10",
+                "still_path": "/iRwIv95qGLQSp8c0xJha2Ii2Zxk.jpg",
+                "video_url": "4029561"
+            },
+            {
+                "episode_number": 40,
+                "name": "Homunculus (şişedeki Cüce)",
+                "overview": "Uzun zaman önce, tuhaf, şekilsiz bir varlığın yaratıldığı bir deneyde basit bir kölenin kanı kullanıldı. Varlık, varoluş armağanı karşılığında köleye bir isim verdi ve onu ölümsüzlükle lanetledi.",
+                "air_date": "2010-01-17",
+                "still_path": "/c90IsrYr4xhUc0Pby5tdrfPcEQD.jpg",
+                "video_url": "4029562"
+            },
+            {
+                "episode_number": 41,
+                "name": "Uçurum",
+                "overview": "Kandan çok daha fazlasına bağlı olan Elric'ler uzun süredir neşeyi ve acıyı paylaşıyor. Al'ın soğuk boşlukta dolaştığı ve Ed'in Kimblee'nin elinden kan kaybettiği bir dönemde, ruhları arasındaki mistik bağlantı ölümcül olabilir.",
+                "air_date": "2010-01-24",
+                "still_path": "/hxMhbuH7xhijV5x3M2vMsjC5ltW.jpg",
+                "video_url": "4029563"
+            },
+            {
+                "episode_number": 42,
+                "name": "Karşı Saldırının İşaretleri",
+                "overview": "May ve Marcoh'un Scar'ın kardeşinin araştırmasını çözme çabaları ilerleme sağlıyor, ancak felaketi önlemek için çok geç olabilir. Şiddet ülke genelinde yayılıyor ve yakında kuzey sınırına ulaşacak.",
+                "air_date": "2010-01-31",
+                "still_path": "/vag5oUMVxPIoJ696NeWQSst989K.jpg",
+                "video_url": "4029564"
+            },
+            {
+                "episode_number": 43,
+                "name": "Karınca Isırığı",
+                "overview": "Karlı kuzeyde, Briggs Kalesi'nin askerleri işgalci bir orduyla çatışmaya girer ve Marcoh, canavar Envy'e karşı bir saldırıya öncülük eder. Central'da, Olivier Armstrong'a uğursuz ve şok edici bir sır açıklanır.",
+                "air_date": "2010-02-07",
+                "still_path": "/fJGMSbj55HpuDwj90sX3gf10WPk.jpg",
+                "video_url": "4029565"
+            },
+            {
+                "episode_number": 44,
+                "name": "Tam Gazda Devir",
+                "overview": "Hohenheim ve Alphonse yeniden tanışma fırsatı yakalar. Aralarındaki bağ kolaylıkla yeniden kurulur ve babaya sırlarını oğullarıyla paylaşma ilhamı verir; ancak içlerinden biri çok uzaktadır ve kaçmaktadır.",
+                "air_date": "2010-02-14",
+                "still_path": "/qF3NxbO4asKO5AGA93IDrKhE8Qu.jpg",
+                "video_url": "4029566"
+            },
+            {
+                "episode_number": 45,
+                "name": "Vaat Edilen Gün",
+                "overview": "Sessiz uyarılar yakın ve uzaklara yayıldı: Vaat Edilen Gün yaklaşıyor. Çoğu kişi yaklaşan kaosla kendi türüyle yüzleşirken, Edward insan, kimera ve Homunculus'tan oluşan yeni bir kabal oluşturur.",
+                "air_date": "2010-02-21",
+                "still_path": "/z2t7bL9gghOjYVLc9Xj9Lqm1kpo.jpg",
+                "video_url": "4029568"
+            },
+            {
+                "episode_number": 46,
+                "name": "Beliren Gölgeler",
+                "overview": "Bir ulusu geri almaya hazırlananların planları açığa çıkıyor. Bir suikastçının güpegündüz güçlü bir lideri öldürmesiyle kaos daha da büyür ve Alphonse karanlıkta canavarların kurbanı olur.",
+                "air_date": "2010-02-28",
+                "still_path": "/goPpy0AeJJZLorKnjjY7aiUVaom.jpg",
+                "video_url": "4029569"
+            },
+            {
+                "episode_number": 47,
+                "name": "Karanlığın Temsilcisi",
+                "overview": "Al'ın zırhının kabuğundan uğursuz bir ses çınlıyor ve Ed ile Greed kendilerini saldırı altında buluyor. Homunculi karanlığı kendi avantajlarına kullanırken geçmişten bir yüz savaşa katılmak için gelir.",
+                "air_date": "2010-03-07",
+                "still_path": "/oZHvdz3Kv6BUOEKJFgmvy90ZEre.jpg",
+                "video_url": "4029570"
+            },
+            {
+                "episode_number": 48,
+                "name": "Tüneldeki Yemin",
+                "overview": "Bradley aile ağacının çarpık köklerini araştıran Mustang, en sadık birliklerini bir araya getirir. Bu sırada Ed ve müttefikleri, kendi türüne düşman olarak herkesi şaşırtan Selim'le savaşmaya devam eder.",
+                "air_date": "2010-03-14",
+                "still_path": "/frCwZmDmxGUaMma1AdKpu77rNcs.jpg",
+                "video_url": "4029571"
+            },
+            {
+                "episode_number": 49,
+                "name": "Evlat Sevgisi",
+                "overview": "Al, babasının yardımıyla korkunç Gurur'u kontrol altına almak için inanılmaz adımlar atar. Vaat Edilen Gün'de güneş doğmaya başladığında, en genç Elric, Homunculus'un insan annesi hakkında düşünmesini dinler.",
+                "air_date": "2010-03-21",
+                "still_path": "/zQ3DpbTM1w2fdxI6Xlnz65agfYo.jpg",
+                "video_url": "4029572"
+            },
+            {
+                "episode_number": 50,
+                "name": "Merkezde Kargaşa",
+                "overview": "Mustang, Merkez'in savunmasına karşı, cesur kuzey birliklerinden ve geçmişten hoş karşılanan yüzlerden oluşan ayaktakımından oluşan bir saldırı gücüne liderlik ediyor. Ordunun en korkunç sırrı ortaya çıkana kadar zafer kesin görünüyor.",
+                "air_date": "2010-03-28",
+                "still_path": "/jguhoZ3DtlJAjofMOYMYJX9MWGn.jpg",
+                "video_url": "4029574"
+            },
+            {
+                "episode_number": 51,
+                "name": "Ölümsüz Lejyon",
+                "overview": "Ed'in ekibi, insan ruhlarıyla çalışan iğrenç yaratıklar olan açgözlü mankenlerden oluşan bir orduyla karşı karşıyadır. Çarpık yaratıklar savaş alanındaki durdurulamaz tek güç değildir - Gurur, Tembellik ve Kıskançlık hareket halindedir.",
+                "air_date": "2010-04-04",
+                "still_path": "/kh8s94fVQlbShEtSuzSv2EWLhjO.jpg",
+                "video_url": "4029575"
+            },
+            {
+                "episode_number": 52,
+                "name": "Birleşik Güç",
+                "overview": "Elinde Felsefe Taşı bulunan Alphonse, korkusuzca Pride ve Kimblee ile çatışır. Başka yerlerde Armstrong'lar kendilerini Sloth'un saldırısı ile Central birliklerinin silahları arasında sıkışıp kalmış halde bulurlar.",
+                "air_date": "2010-04-11",
+                "still_path": "/b7cnmFtfKizZ4aExa8XY8LrVStb.jpg",
+                "video_url": "4029576"
+            },
+            {
+                "episode_number": 53,
+                "name": "İntikam Alevi",
+                "overview": "Şaşırtıcı bir radyo yayınının Mustang güçlerine Merkez birliklerine karşı avantaj sağlamasının ardından Alev Simyacısı, Maes Hughes'un katiline karşı savaşta nefreti yakmanın acımasız gücünü serbest bırakır.",
+                "air_date": "2010-04-18",
+                "still_path": "/4xr4Jsgcy11JDlvYbBHXUCBq1L8.jpg",
+                "video_url": "4029577"
+            },
+            {
+                "episode_number": 54,
+                "name": "Cehennemin Ötesinde",
+                "overview": "Kıskançlık, Mustang'in intikamcı öfkesinin serbest bıraktığı ateş fırtınasında kıvranırken, Hawkeye, Alev Simyacısının nefretinin kontrolden çıkmasını önlemek için sert önlemler almak zorundadır.",
+                "air_date": "2010-04-25",
+                "still_path": "/5yc6ha7psR17dSi5TERMMct0bgd.jpg",
+                "video_url": "4029578"
+            },
+            {
+                "episode_number": 55,
+                "name": "Yetişkinlerin Yaşam Tarzı",
+                "overview": "İsyancıların zaferi yaklaşıyor ve Mustang ile Armstrong'un birlikleri arasında umut yeşeriyor. Central'ın güçleri çöküşün eşiğindedir, ta ki düşen liderleri kontrolü ele almak için geri dönene kadar.",
+                "air_date": "2010-05-02",
+                "still_path": "/igiAqDF85hLpZxUqImtv5r77x8p.jpg",
+                "video_url": "4029580"
+            },
+            {
+                "episode_number": 56,
+                "name": "Führer'in Dönüşü",
+                "overview": "Bradley'nin dönüşünden sonra Central'ın kuvvetleri yenilenmiş bir güçle savaşır ve Fuhrer'in kendisi savaşa girer. İlk rakibi zırhlı bir tanktır. İkinci düşmanı daha da zorludur.",
+                "air_date": "2010-05-09",
+                "still_path": "/rvUeL9WjHIUOrZJtcT4rVyDUv7g.jpg",
+                "video_url": "4029581"
+            },
+            {
+                "episode_number": 57,
+                "name": "Ebedi İzin",
+                "overview": "Bir milletin ruhu için yapılan savaş kaosa sürüklenir. Bradley, onunla çatışmaya cesaret edenlerin üzerine ölümü salıyor. Merkezin altında, Führer'in yaratılmasından sorumlu olan kişi, çok daha kötü bir şeyi açığa çıkarıyor.",
+                "air_date": "2010-05-16",
+                "still_path": "/cMPdshphOfsx47U4tr30turNma6.jpg",
+                "video_url": "4029583"
+            },
+            {
+                "episode_number": 58,
+                "name": "Fedakarlıklar",
+                "overview": "Mustang zor bir seçim yapmak zorundadır: Simyanın en büyük tabusunu yıkabilecek mi? Yoksa en sevdiği kişinin ölmesini mi izleyecek? Bu arada Ling'in nerede bitip Açgözlülüğün nerede başladığını ayırt etmek giderek zorlaşıyor.",
+                "air_date": "2010-05-23",
+                "still_path": "/pq6SU0cTfineB72AChv8lpPnZcO.jpg",
+                "video_url": "4029584"
+            },
+            {
+                "episode_number": 59,
+                "name": "Kayıp Işık",
+                "overview": "Güneşin ışığı kaybolmaya başlayınca Mustang, Geçit'in diğer tarafını görmenin verdiği kaybı öğrenir ve beş kurban, Baba'nın karanlık huzurunda toplanır.",
+                "air_date": "2010-05-30",
+                "still_path": "/sfyW3xD7i1wxXFv3QM7DJklCgHO.jpg",
+                "video_url": "4029585"
+            },
+            {
+                "episode_number": 60,
+                "name": "Cennetin Gözü, Dünyanın Kapısı",
+                "overview": "Işık gitti. Gölgeler her şeyi yutar. Gezegen sallanırken ve gökler titrerken, kahramanların ve kötü adamların ruhları karanlığa gömülüyor. Çember tamamlandı.",
+                "air_date": "2010-06-06",
+                "still_path": "/e8UgXVpJruEnNieufJRaTnDx6OF.jpg",
+                "video_url": "4029586"
+            },
+            {
+                "episode_number": 61,
+                "name": "Tanrı'yı ​​yutmak İsteyen",
+                "overview": "Milyonlarca cansız beden Amestris topraklarına saçılıyor ve güneş yaratma gücüne sahip bir varlık dünyanın üzerine salıveriliyor. Hohenheim'ın elinde muhteşem bir şey olmadığı sürece her şeyin kaybolacağı kesin.",
+                "air_date": "2010-06-13",
+                "still_path": "/ePnn9o0DdHeTJHsYcekBezU0KVv.jpg",
+                "video_url": "4029588"
+            },
+            {
+                "episode_number": 62,
+                "name": "Şiddetli Bir Karşı Saldırı",
+                "overview": "Edward, Mustang, Hawkeye, Greed, Izumi ve Armstrong tanrısal Baba'ya saldırdığında gerçekten destansı bir savaş başlar. Şanslar iyiye karşıdır; ta ki cesur bir çocuk şok edici bir fedakarlık yapana kadar.",
+                "air_date": "2010-06-20",
+                "still_path": "/kKi0XWJYQOxMD2j5ajcV1biX7km.jpg",
+                "video_url": "4029589"
+            },
+            {
+                "episode_number": 63,
+                "name": "Ağ Geçidinin Diğer Tarafı",
+                "overview": "Savaş sona erdiğinde Baba olarak bilinen kişi, Geçit'in ötesinde son kaderiyle karşılaşır. Fullmetal olarak bilinen kişi kutsal alana girdiğinde yalnızca yeni bir başlangıcın vaadini bulur.",
+                "air_date": "2010-06-27",
+                "still_path": "/uinXpRszb1EHz3tSi4pHSzYS86.jpg",
+                "video_url": "4029590"
+            },
+            {
+                "episode_number": 64,
+                "name": "Yolculuğun Sonu",
+                "overview": "Paylaşılan bir yolculuk sona erdiğinde birçok yolculuk başlar. Felsefe Taşı'nı çevreleyen çatışmadan en çok etkilenenler artık kendi yollarına gidiyor. Kesin olan bir şey var: Tekrar buluşacaklar.",
+                "air_date": "2010-07-04",
+                "still_path": "/jzCIX2bXrwTKfWApaJeTDWIASjj.jpg",
+                "video_url": "4029591"
+            }
+        ]
+    }
+}

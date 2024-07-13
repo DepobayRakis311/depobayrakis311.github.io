@@ -1,0 +1,203 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2021-10-07",
+        "poster_path": "/7ojdbf25qlsxrp2UygvdSnnDaSV.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Keşke Konuşabilseydim.",
+                "overview": "Tadano'nun lisedeki ilk günüdür ve tek yapmak istediği arka plana karışmaktır. Sınıfının sessiz kızı Komi'yi tanımaya başlar.",
+                "air_date": "2021-10-07",
+                "still_path": "/rBRMDB8WYTI3RF1KjReKYgk40H.jpg",
+                "video_url": "4442736"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sadece Bir Çocukluk Arkadaşı. Artı Daha.",
+                "overview": "Tadano, Komi'nin daha fazla arkadaş edinmesine yardımcı olmak için herkesle arkadaş olan konuşkan bir sınıf arkadaşının yardımını almaya çalışır, ancak onlar onu hemen geri çevirir.",
+                "air_date": "2021-10-14",
+                "still_path": "/imqSIHTsTBVX7ZlwHpev42Ivg3Q.jpg",
+                "video_url": "4451647"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bu Sadece Sahne Korkusu. Artı Daha.",
+                "overview": "Himiko Agari adındaki gergin bir kızın kaygı düzeyi, Komi'nin sessizce ona çok yoğun bir şekilde bakmaya başlamasıyla tavan yapar.",
+                "air_date": "2021-10-21",
+                "still_path": "/1q7SZTP6gzqkvuT2WoV6KrD510l.jpg",
+                "video_url": "4460110"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bu Sadece Fiziksel Bir Durum. Artı Daha.",
+                "overview": "Okul sağlık kontrolü sırasında rekabetçi sınıf arkadaşı Yadano, en büyük rakibi olarak gördüğü Komi'den daha iyi sonuçlar almaya kararlıdır.",
+                "air_date": "2021-10-28",
+                "still_path": "/vqZy5GOiipAqeZ7DJRSN8omJvZb.jpg",
+                "video_url": "4484107"
+            },
+            {
+                "episode_number": 5,
+                "name": "Bu Sadece Yazlık Üniformam. Dahası Da Var.",
+                "overview": "Komi, diğer öğrenci topluluğu gibi o da kışlık kıyafetinden yaz okulu üniformasına geçtiğinde neden herkesin ona bakmaya başladığını merak ediyor.",
+                "air_date": "2021-11-04",
+                "still_path": "/hVofmRubhqc886SuTbbMNk5oIw3.jpg",
+                "video_url": "4490804"
+            },
+            {
+                "episode_number": 6,
+                "name": "Sadece Bir Şaka. Artı Daha.",
+                "overview": "Tadano okula vardığında Komi'yi sınıfta kendisini beklerken bulur. Daha sonra endişeyle ona bir mektup uzatır.",
+                "air_date": "2021-11-11",
+                "still_path": "/pKw16aEJXzWlzmjRnuCDcKpuTEe.jpg",
+                "video_url": "4493733"
+            },
+            {
+                "episode_number": 7,
+                "name": "Sadece Havuz. Artı Daha.",
+                "overview": "Komi, Tadano ve Najimi ile birlikte yerel havuza yapacağı geziye hazırlanmak için çok zaman harcıyor. Oraya vardıklarında daha da fazla arkadaşla karşılaşırlar.",
+                "air_date": "2021-11-18",
+                "still_path": "/fHEFkJPDEj1Aq9JaqCuMKAdtQe.jpg",
+                "video_url": "4505040"
+            },
+            {
+                "episode_number": 8,
+                "name": "Sadece Obon. Artı Daha.",
+                "overview": "Obon tatilidir ve Komi büyükannesinin evini ziyaret etmektedir. Geniş ailesinin yanında kendini biraz tuhaf hissetmeden edemiyor.",
+                "air_date": "2021-11-25",
+                "still_path": "/9FQmKwu7XZuXVMQvFJPTctmi57a.jpg",
+                "video_url": "4516769"
+            },
+            {
+                "episode_number": 9,
+                "name": "Sadece Bir Köy Çocuğu. Dahası Da Var.",
+                "overview": "Yeni dönemin ilk günüdür ve herkes Komi'yi yeniden gördüğüne sevinir ama daha sonra Inaka adında bir öğrenci onu takip etmeye başlar.",
+                "air_date": "2021-12-02",
+                "still_path": "/y8m17VhT65YG0lQDrkaf0IcskjM.jpg",
+                "video_url": "4528980"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bugün Sadece Spor Günü. Artı Daha.",
+                "overview": "Komi, okul sporları gününde sınıf arkadaşlarına nasıl tezahürat yapacağını bilemez ama elinden gelenin en iyisini yapar. Daha sonra bayrak yarışını koşma sırası ona gelir.",
+                "air_date": "2021-12-09",
+                "still_path": "/mG7lK0Pcpaww6RDwqc66fsgfp2E.jpg",
+                "video_url": "4538027"
+            },
+            {
+                "episode_number": 11,
+                "name": "Bu Sadece Kültür Festivali için Bir Gösteri. Artı Daha.",
+                "overview": "1-1. Sınıf öğrencileri, kültür festivali için ne yapacaklarına karar vermek zorundadırlar; bu, hepsinin fazlasıyla ciddiye aldığı bir görevdir.",
+                "air_date": "2021-12-16",
+                "still_path": "/bfCHeHf9QSgUNsQqtYnrLaNz3RD.jpg",
+                "video_url": "4547035"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sadece Kültür Festivali.",
+                "overview": "Kültür festivalinde Najimi bir şeylerin peşindedir. Komi ve Tadano'yu kendi planlarına dahil etmeye çalışırlar.",
+                "air_date": "2021-12-23",
+                "still_path": "/hrHB1vVSO9Cl3jxxetwPFCHPlCq.jpg",
+                "video_url": "4555350"
+            },
+            {
+                "episode_number": 13,
+                "name": "Henüz Kışın Gelişi. Artı Daha.",
+                "overview": "Soğuk bir sabah, Komi ısınmak için boynuna bir atkı sarar, ancak okula varır varmaz Najimi ona bir oyun oynar!",
+                "air_date": "2022-04-07",
+                "still_path": "/hgTOyosKWEDc7g51oDnEqu8Fpne.jpg",
+                "video_url": "4675602"
+            },
+            {
+                "episode_number": 14,
+                "name": "Bu Sadece Bir Tayfun. Artı Daha.",
+                "overview": "Komi giyinip okula gitmek için hazırlanır ama ön kapıyı açtığında onu bir tayfunla karşılar. Evde kalmaya ve beklemeye karar verir.",
+                "air_date": "2022-04-14",
+                "still_path": "/rEFQUUHD0VT0xmg79rxjOawRJh9.jpg",
+                "video_url": "4675603"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bu Sadece Bir His. Artı Daha.",
+                "overview": "Sınıf arkadaşları Komi'yi daha iyi anlayıp onunla arkadaş olabilmeyi uman Nakanaka ve Yamai, Tadano ile konuşmaya karar verir.",
+                "air_date": "2022-04-21",
+                "still_path": "/y9ndFXFotZh5bJhbpUZZR58pV7t.jpg",
+                "video_url": "4684345"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bu Sadece Mutlu Bir Noel.",
+                "overview": "Noel Arifesi ve Komi'nin planladığı hiçbir şey yok. Ama sonra Najimi ona Komi'nin evinde bir Noel partisi vereceklerini söyler.",
+                "air_date": "2022-04-28",
+                "still_path": "/fD6nGRnLEYieT6AFj1Sv6B4cCHQ.jpg",
+                "video_url": "4761655"
+            },
+            {
+                "episode_number": 17,
+                "name": "Bu Sadece Bir Kardan Adam. Artı Daha.",
+                "overview": "Komi uyanır ve gece boyunca kar yağdığını görür. Tadano ve Najimi ile birlikte kardan adam yapmaya başlamak için taze karın içine çıkar.",
+                "air_date": "2022-05-05",
+                "still_path": "/3yc7UHuQWbKT10oSghYIy6uKf6G.jpg",
+                "video_url": "4761657"
+            },
+            {
+                "episode_number": 18,
+                "name": "Bu Sadece Herkesin Yeni Yılı. Artı Daha.",
+                "overview": "2 Ocak'ta Najimi tüm arkadaşlarını arar ve yeni yılı nasıl karşıladıklarını duyar.",
+                "air_date": "2022-05-12",
+                "still_path": "/ilsC7apdAxXlyS7pxJLcEQc0KnL.jpg",
+                "video_url": "4761658"
+            },
+            {
+                "episode_number": 19,
+                "name": "Bu Sadece Bir Yanlış Anlama. Artı Daha.",
+                "overview": "Komi, bir yanlış anlaşılmayı gidermek için Najimi'ye bir mektup yazmaya karar verir, ancak Najimi mektubu onlara veremeyecek kadar gergin olabilir.",
+                "air_date": "2022-05-19",
+                "still_path": "/ggeBPUx0lugKnbYaZKoXSYa35WM.jpg",
+                "video_url": "4761660"
+            },
+            {
+                "episode_number": 20,
+                "name": "Bu Sadece Okul Gezisi.",
+                "overview": "Komi'nin sınıfı okul gezisi için yola çıkar. Sınıf arkadaşları Kato ve Sasaki, bunu Komi için olabildiğince keyifli hale getirmeye kararlıdır.",
+                "air_date": "2022-05-26",
+                "still_path": "/hVKadDc4RhihbtzjBePX3ZtaQTS.jpg",
+                "video_url": "4761661"
+            },
+            {
+                "episode_number": 21,
+                "name": "Saha Gezisinin Henüz 2. Günü.",
+                "overview": "Komi, okul gezisinin ikinci gününde Ayami Sasaki ve Mikuni Kato'ya katılarak Kansai bölgesinde titizlikle planlanmış bir geziye çıkar.",
+                "air_date": "2022-06-02",
+                "still_path": "/nLrVe2VBkArYDlvabfRHRwtAzU3.jpg",
+                "video_url": "4761663"
+            },
+            {
+                "episode_number": 22,
+                "name": "Bugün Sevgililer Günü.",
+                "overview": "Nene Onemine, Komi'yi çikolatalı kek pişirmesi için evine davet eder. Çok geçmeden Nene'nin kabadayı küçük kardeşleri de onlara katılır.",
+                "air_date": "2022-06-09",
+                "still_path": "/3GS2Ip9qXk4Fzjeo2thP3envBXq.jpg",
+                "video_url": "4771563"
+            },
+            {
+                "episode_number": 23,
+                "name": "Sadece Yırtık Bir Tayt. Artı Daha.",
+                "overview": "Bir gün ders sırasında Ren Yamai, Komi'nin taytında delik olduğunu fark eder. Şans eseri Ren'in ona ödünç verebileceği yedek bir çift ayakkabısı var.",
+                "air_date": "2022-06-16",
+                "still_path": "/onjAtc2Oc1E58injbJ7KMcuYahF.jpg",
+                "video_url": "4777571"
+            },
+            {
+                "episode_number": 24,
+                "name": "Bu Sadece Beyaz Gün. Artı Daha.",
+                "overview": "Beyaz Gün yaklaşıyor ve Tadano, Komi'ye Sevgililer Günü'nde verdiği çikolatanın karşılığında bir şeyler vermek istiyor.",
+                "air_date": "2022-06-23",
+                "still_path": "/tqEI9img7H2hR1uREp9PUnmnpYi.jpg",
+                "video_url": "4777573"
+            }
+        ]
+    }
+}

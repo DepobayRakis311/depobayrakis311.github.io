@@ -1,0 +1,404 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 23,
+        "air_date": "2021-01-11",
+        "poster_path": "/4vEel9ztoC3PtQFOkthVPtdlWQr.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "İşsiz Reenkarnasyon",
+                "overview": "34 yaşındaki işsiz bir münzeviye bir kamyon çarpıyor... ve bir fantezi dünyasında yeni doğmuş bir bebek olarak uyanıyor! Sevgi dolu ebeveynleri, ömür boyu süren pişmanlıkları ve yeni başlayanlara yönelik bir sihir ders kitabıyla, hayattaki ikinci şansını en iyi şekilde değerlendirmek için yola çıkar.",
+                "air_date": "2021-01-11",
+                "still_path": "/sS93JaHkWvhecsmgSdg5MFel3y5.jpg",
+                "video_url": "4206126"
+            },
+            {
+                "episode_number": 2,
+                "name": "Usta",
+                "overview": "Rudy, yeni sihir öğretmeniyle eğitime başlar ve babasından kılıç ustalığını öğrenmeye başlar. Hızlı bir ilerleme kaydeder ancak geçmiş yaşamından gelen travmatik anılar onu dışarı çıkmaya korkar hale getirir. İkinci şansı zaten başarısızlığa mahkum mu?",
+                "air_date": "2021-01-18",
+                "still_path": "/gjktze6OF0wESkbHU4h3dxcWNoe.jpg",
+                "video_url": "4234426"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bir Arkadaş",
+                "overview": "Rudy, köyü keşfetmeye başlar ve yeşil saçlı bir çocuğu bir grup zorbanın elinden kurtarır. İkisi büyü yaparak yakınlaşır ama Rudy'nin yeni arkadaşında düşündüğünden daha fazlası mı vardır?",
+                "air_date": "2021-01-25",
+                "still_path": "/d29kiiic7xbvsxCnJ4syiO3JxYy.jpg",
+                "video_url": "4234428"
+            },
+            {
+                "episode_number": 4,
+                "name": "Acil Aile Toplantısı",
+                "overview": "Zenith ikinci çocuğa hamile olduğunu açıkladığında Greyrat ailesi çok sevinir, ancak Lilia kendisinin de hamile olduğunu ve babasının Paul olduğunu açıkladığında ruh hali bozulur. Bu Rudy'nin mutlu ailesinin sonu mu olacak?",
+                "air_date": "2021-02-01",
+                "still_path": "/uVN34pxWO1N1eFchpHdPXFMrMx0.jpg",
+                "video_url": "4234430"
+            },
+            {
+                "episode_number": 5,
+                "name": "Genç Bir Kadın ve Şiddet",
+                "overview": "Rudy, önümüzdeki beş yılını yerel lordun kızına ders vererek geçireceği Roa şehrine gelir. Ancak öğrencisi umduğundan çok daha fazlasıdır ve bırakın işini sürdürmeyi, ilk işine başlamak için bile mücadele etmesi gerekecektir.",
+                "air_date": "2021-02-08",
+                "still_path": "/2oiW3SSj752soSVpj8LST72d4Ib.jpg",
+                "video_url": "4234432"
+            },
+            {
+                "episode_number": 6,
+                "name": "Roa'da Bir İzin Günü",
+                "overview": "Rudy resmi olarak Eris'in öğretmenidir ama o sihirden başka bir şey öğrenmek istemez. Rudy onun diğer konulara ilgisini çekmeye çalışırken, aralıksız derslerin onda stres yarattığını fark eder ve şehirde bir gün izin almayı teklif eder.",
+                "air_date": "2021-02-15",
+                "still_path": "/tSBi3Ob8qWKMlpG6pMeukJUhT25.jpg",
+                "video_url": "4247853"
+            },
+            {
+                "episode_number": 7,
+                "name": "Çabanın Ötesinde Ne Var?",
+                "overview": "Eris'in 10. yaş günü hızla yaklaşıyor ve büyükbabası, krallığın dört bir yanından soyluları kutlamak için bir dans partisine davet etti. Tek bir sorun var: Eris dans edemiyor ve derslerine karşı sabrını hızla kaybediyor.",
+                "air_date": "2021-02-22",
+                "still_path": "/rrEKdSZXOT0cEX1fSEmty0Q6lD1.jpg",
+                "video_url": "4247860"
+            },
+            {
+                "episode_number": 8,
+                "name": "Dönüm Noktası 1",
+                "overview": "Rudy 10. yaş gününe ulaşır. Eris ve ailesi onun için sürpriz bir parti planlar. Bu arada, dünyanın dört bir yanındaki güçlü varlıklar onu fark etmeye başlarken, şehrin üzerinde dolaşan garip küre bir sır olarak kalmaya devam ediyor.",
+                "air_date": "2021-03-01",
+                "still_path": "/A68qEBAuk5ubUWdt6zTqiT2NiAB.jpg",
+                "video_url": "4251741"
+            },
+            {
+                "episode_number": 9,
+                "name": "Şans Eseri Bir Karşılaşma",
+                "overview": "Rudy ve Eris kendilerini Şeytan Kıtasının vahşi doğasında mahsur kalmış halde bulurlar. Hayatta kalmak için tek şansları, kötü şöhretli Superd iblis kabilesinin savaşçısı Ruijerd'de yatıyor gibi görünüyor, ama ona güvenilebilir mi?",
+                "air_date": "2021-03-08",
+                "still_path": "/v4PQNKhosqXAHi9sq03UUDBkI7q.jpg",
+                "video_url": "4251741"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bir Hayatın Değeri ve İlk İş",
+                "overview": "Rudeus, Eris ve Ruijerd bir şehre varır. Yolculukları için para kazanmaları ve maceracı olarak kaydolmaya karar vermeleri gerekiyor, ancak Ruijerd gibi Superd'lerin içeri girmesine izin verilmiyor. Rudeus'un bir planı var ama bu plan pratikte ne kadar işe yarayacak?",
+                "air_date": "2021-03-15",
+                "still_path": "/wbJbzAKDloQ2ReMo8QcAYOQahAE.jpg",
+                "video_url": "4261345"
+            },
+            {
+                "episode_number": 11,
+                "name": "Çocuklar ve Savaşçılar",
+                "overview": "Yeni para kazanma planları devreye giren Dead End, gizemli bir canavarın izini sürmek için yola çıkar. Ne yazık ki iş umdukları kadar sorunsuz gitmez ve Rudy'nin planları düşündüğünden çok daha az güvenli olabilir.",
+                "air_date": "2021-03-22",
+                "still_path": "/xb0n6CBxqJhnq10cVAbQT9hTfGQ.jpg",
+                "video_url": "4263859"
+            },
+            {
+                "episode_number": 12,
+                "name": "Şeytan Gözlü Kadın",
+                "overview": "Çıkmaz Sokak, Ruijerd'in Şeytan Kıtasını terk etmek için bir servet ödemek zorunda kalacağını keşfeder. Bu beklenmedik engeli aşmanın bir yolunu bulmaya çalışırken Rudeus başka bir görüntüyle karşılaşır.",
+                "air_date": "2021-10-04",
+                "still_path": "/m30WM42H36PsnmHTmX9bhJDeBRA.jpg",
+                "video_url": "4382622"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kaçırılan Bağlantılar",
+                "overview": "Roxy, Paul'ün kayıp ailesini aramaya başlamak için Şeytan Kıtası'na gelir. Bu arada Rudeus, Ruijerd'i okyanusun ötesine taşımak için kaçakçılarla bir anlaşma yapar.",
+                "air_date": "2021-10-11",
+                "still_path": "/ql4HhRdHbHhskgkz3LnghlVE9PT.jpg",
+                "video_url": "4437201"
+            },
+            {
+                "episode_number": 14,
+                "name": "Bedava Öğle Yemeği Diye Bir Şey Yok",
+                "overview": "Rudeus kendisini Doldia Köyü'ndeki canavar insanlar tarafından hapsedilmiş halde bulur. Ruijerd ve Eris, sabrını kaybetmeden ve özgürlüğe giden yolda savaşmaya çalışmadan önce adını temize çıkarmak için gelecekler mi?",
+                "air_date": "2021-10-18",
+                "still_path": "/cx0Kk2gVD0ddq3PAdxPKs91C5qp.jpg",
+                "video_url": "4446598"
+            },
+            {
+                "episode_number": 15,
+                "name": "Doldia Köyü'nde Yavaş Yaşam",
+                "overview": "Çıkmaz Sokak, Doldia köyünde yağmur mevsiminin geçmesini beklemeye karar verir. Eris, reisin torunuyla arkadaş olur, ancak onun Ghislaine'e olan sevgisi beklenmedik çatışmalara yol açar.",
+                "air_date": "2021-10-25",
+                "still_path": "/qEV2Akifh49yMwVJaPcBRI5zMS1.jpg",
+                "video_url": "4454214"
+            },
+            {
+                "episode_number": 16,
+                "name": "Aile Kavgası",
+                "overview": "Rudeus, Eris ve Ruijerd, Kutsal Ülke Millis'e varır ve burada Rudeus'un düşünceleri eve döner. Üçü bir günlük izin için ayrıldıklarında, ara sokakta şans eseri bir karşılaşma Rudeus'u şok edici bir buluşmaya sürükler.",
+                "air_date": "2021-11-01",
+                "still_path": "/f6h730Wa66eYDEaXPPQKCZwrM8X.jpg",
+                "video_url": "4462712"
+            },
+            {
+                "episode_number": 17,
+                "name": "Yeniden Bir Araya Gelme",
+                "overview": "Pavlus ve Rudeus, felaketle sonuçlanan yeniden bir araya gelmelerinin ardından yaptıkları üzerinde derinlemesine düşünür ve ileriye yönelik bir yol arar.",
+                "air_date": "2021-11-08",
+                "still_path": "/1lHIF2yab9NQPVUFHdjmjfClfTI.jpg",
+                "video_url": "4477902"
+            },
+            {
+                "episode_number": 18,
+                "name": "Ayrı Yolculuklar",
+                "overview": "Millishion'dan yola çıktıktan sonra Rudeus, Eris ve Ruijerd, Orta Kıta'ya giden bir gemiye binerler. Bu sırada Roxy, Rikarisu'ya gelir ve burada bazı tanıdık yüzlerle karşılaşır.",
+                "air_date": "2021-11-15",
+                "still_path": "/21G6WuJLZEI49FjrTEOYgKTbGS9.jpg",
+                "video_url": "4487383"
+            },
+            {
+                "episode_number": 19,
+                "name": "Rota Seçimi",
+                "overview": "Çıkmaz Sokak nihayet Orta Kıta'daki Shirone Krallığı'na varıyor. Rudeus, Roxy ile yeniden bir araya gelme konusunda endişelidir, ancak İnsan-Tanrı'dan gelen beklenmedik bir vizyon, onun umduğundan daha fazlasıyla karşı karşıya olabileceği anlamına gelir.",
+                "air_date": "2021-11-22",
+                "still_path": "/qmoWKcOQWeV7lpj6Ed1JsENN7G9.jpg",
+                "video_url": "4498192"
+            },
+            {
+                "episode_number": 20,
+                "name": "Küçük Kız Kardeşim Hizmetçi'nin Doğuşu",
+                "overview": "Despotik bir prens tarafından büyüye dayanıklı bir zindanda hapsedilen Rudeus çaresiz bir durumda. Ancak tam da her şey umutsuz görünürken beklenmedik bir ziyaretçi tuhaf bir istekle ortaya çıkar. Rudeus bu durumdan konuşarak kurtulabilecek mi?",
+                "air_date": "2021-11-29",
+                "still_path": "/nAE3FR7CQkQngHunt57fixJOUMb.jpg",
+                "video_url": "4511560"
+            },
+            {
+                "episode_number": 21,
+                "name": "Dönüm Noktası 2",
+                "overview": "Rudeus, Eris ve Ruijerd yolculuklarının sonuna yaklaşıyorlar, ancak karlı bir dağ geçidinde şans eseri bir karşılaşma, maceralarının vaktinden önce sona ermesi tehlikesini taşıyor.",
+                "air_date": "2021-12-06",
+                "still_path": "/s5oDEM3hfvVMdkWuOshxe5YcGU7.jpg",
+                "video_url": "4520887"
+            },
+            {
+                "episode_number": 22,
+                "name": "Hayaller ve Gerçekler",
+                "overview": "Rudeus ve Eris sonunda Fittoa'ya dönerler ancak ani vedalar ve hoş olmayan haberler, eve dönüşlerini acı-tatlı hale getirir.",
+                "air_date": "2021-12-13",
+                "still_path": "/4EApeJZhmxtbzrbUv9LT906t1pT.jpg",
+                "video_url": "4531223"
+            },
+            {
+                "episode_number": 23,
+                "name": "Uyanın ve Bir Adım Atın",
+                "overview": "Rudeus, Eris'in gidişinin ardından depresyona girer. Tekrar ayağa kalkmaya çalışırken tanıştığı birçok insan kendi yolculuklarına devam ediyor.",
+                "air_date": "2021-12-20",
+                "still_path": "/2Wen3Widg6xKNbZOqSME2Y5NBKr.jpg",
+                "video_url": "4540531"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 24,
+        "air_date": "2023-07-10",
+        "poster_path": "/kVHnRfj5c7rzetzMPlRQXEZRzkH.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kırık Kalpli Büyücü",
+                "overview": "Rudeus, kayıp annesini aramak için zorlu kuzey topraklarına doğru yola çıkar. Ya da en azından kendi kendine böyle söylüyor. Eris'ten ayrılığının izleri derinlerdedir ve yeniden ayağa kalkmak o kadar kolay olmayabilir.",
+                "air_date": "2023-07-10",
+                "still_path": "/mcSxW3rCNUN9FJkPugzIgnNdGBE.jpg",
+                "video_url": "5193949"
+            },
+            {
+                "episode_number": 2,
+                "name": "Gecenin Ölümünde Orman",
+                "overview": "Rudeus yeni bir parti istemez ama Kuzey Bölgesi'ndeki bir maceracı olarak hayata alışırken Counter Arrow'la yakınlaşmaya devam eder. Tehlike baş gösterdiğinde kendini yeni arkadaşları için her şeyi riske atarken bulur.",
+                "air_date": "2023-07-17",
+                "still_path": "/tuP5fqtVZYA1UKW8n2hwgJtykYv.jpg",
+                "video_url": "5199902"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ani Yaklaşım",
+                "overview": "Rudeus için işler iyiye gidiyor gibi görünüyor. Sara ona randevu teklif ettiğinde, o da kalp kırıklığını unutup yeni bir aşk kurmaya karar verir. Ancak geçmişi geride bırakmak, söylemesi yapmaktan daha kolay olabilir.",
+                "air_date": "2023-07-24",
+                "still_path": "/cDBi2NEvg3RiEKj9SuWpWh7BSBy.jpg",
+                "video_url": "5208650"
+            },
+            {
+                "episode_number": 4,
+                "name": "Davet Mektubu",
+                "overview": "Soldat'la iki yıl süren maceralardan sonra Rudeus ne annesini bulmaya ne de iktidarsızlığını iyileştirmeye yaklaşmıştır. Ancak baştan çıkarıcı bir elfin aniden gelişi ve beklenmedik bir teklif, hayatını tamamen yeni bir yöne sürükleyebilir.",
+                "air_date": "2023-07-31",
+                "still_path": "/2kTiEzn1u7h2yxL14fYehYR7ATV.jpg",
+                "video_url": "5216898"
+            },
+            {
+                "episode_number": 5,
+                "name": "Ranoa Sihir Üniversitesi",
+                "overview": "İnsan-Tanrı'nın tavsiyesine uyan Rudeus okula kaydolur. Eski bir arkadaşıyla yeniden bir araya gelir ve potansiyel yeni düşmanlarla tanışır, ancak aradığını bulabilecek midir? Ve kendisi ve gizemli \"Sessiz Fitz\" için gelecekte neler olacak?",
+                "air_date": "2023-08-07",
+                "still_path": "/1TEiOCt9F60YHrf378nVkBrdmO.jpg",
+                "video_url": "5220849"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ölmek İstemiyorum",
+                "overview": "Rudeus okul hayatına alışıyor ve esrarengiz Silent Fitz'i daha iyi tanımaya başlıyor. Ancak Zanoba'ya ders verme çabaları bir engelle karşılaşınca yeni arkadaşı köklü bir çözüm önerir.",
+                "air_date": "2023-08-14",
+                "still_path": "/7nKkKI1adnozFmJ1esGUzwt7Gl9.jpg",
+                "video_url": "5237929"
+            },
+            {
+                "episode_number": 7,
+                "name": "Canavar Kızların Kaçırılması ve Hapsedilmesi",
+                "overview": "Rudeus, yeni okul arkadaşlarından ikisinin değerli figürlerinden birini yok ettiğini öğrenince intikam almaya yemin eder. Ancak kavgada kız öğrencileri alt edebilecek olsa da, bundan sonra onlarla ne yapacağını bulmak o kadar kolay olmayacak.",
+                "air_date": "2023-08-21",
+                "still_path": "/pCcMTFLHxTrUHt3OqMhc1WYvind.jpg",
+                "video_url": "5237916"
+            },
+            {
+                "episode_number": 8,
+                "name": "Umutsuzluğun Nişanlısı",
+                "overview": "Havada aşk var. Önce, aşık bir sınıf arkadaşı hayallerindeki kızla tanışmak için Rudeus'tan yardım ister. Sonra canavar insanların çiftleşme mevsimi Rudeus'u zor bir duruma sokar—bu durumdan kurtulmak için mücadele etmesi gerekecektir.",
+                "air_date": "2023-08-28",
+                "still_path": "/eM2ZRMsDWuNRUjR2uVuqaLaRmB4.jpg",
+                "video_url": "5239429"
+            },
+            {
+                "episode_number": 9,
+                "name": "Beyaz Maske",
+                "overview": "Kitlesel ışınlanmayı araştırmak, Rudeus'u en yakalanması zor sınıf arkadaşını aramaya yöneltiyor: muhteşem Sessiz Yediyıldız. Ancak Silent'ın laboratuvar kulesine uğradığında, beklemediği ve hoş karşılamadığı tanıdık bir yüzle karşılaşır.",
+                "air_date": "2023-09-04",
+                "still_path": "/59bGSEevD9shxXtUlnumDBYK8b1.jpg",
+                "video_url": "520657"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bu Duygular",
+                "overview": "Rudeus üniversitede yeni bir rutine alışır. Ancak zaman geçtikçe Silent Fitz'in düşünceleri giderek artıyor. Gizemli sınıf arkadaşına karşı gerçekte ne hissediyor? Peki bunu öğrenmek için bir arkadaşının sırlarını ne kadar araştıracak?",
+                "air_date": "2023-09-11",
+                "still_path": "/wzigeQOp5KiMRZGEMiJrTiKPoLS.jpg",
+                "video_url": "531223"
+            },
+            {
+                "episode_number": 11,
+                "name": "Sana",
+                "overview": "Ariel, Sylphiette'e bir seçimle yüzleşir: Rudeus'a kendini göstermek ya da onunla bağları sonsuza dek koparmak. Rudeus'un hafızasını canlandırmak için son bir hamle yapmaya kararlı olan Sylphiette, onu bir orman gezisine davet eder.",
+                "air_date": "2023-09-18",
+                "still_path": "/uTL8idBcXNkWg1ZNUhDNACDRnn4.jpg",
+                "video_url": "540610"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sana Söylemek Istiyorum",
+                "overview": "Sylphiette kendini açığa vurur ve Rudeus duygularını itiraf eder, ancak bu bile onu rahatsız eden şeyi iyileştirmeye yetmez. Samimi konuşmalarının ardından Sylphiette, sorununa kesin olarak son vermek için yola çıkar.",
+                "air_date": "2023-09-25",
+                "still_path": "/pDxepnPctRVozi3uER4AZitz0Yv.jpg",
+                "video_url": "548792"
+            },
+            {
+                "episode_number": 13,
+                "name": "Hayalimdeki Ev",
+                "overview": "Yeni iyileşen ve özgüvenle dolup taşan Rudeus, Sylphie ile evlenmeye karar verir. Tek bir sorunu var: Bu dünyada evliliğin nasıl yürüdüğüne dair hiçbir fikri yok. Arkadaşları ona herhangi bir yeni evlinin bir eve ihtiyacı olduğunu söylediğinde, sonunda perili bir köşkle karşılaşır.",
+                "air_date": "2024-04-08",
+                "still_path": "/h9qYsLX59hJEoqwudjfpp4G7zsb.jpg",
+                "video_url": "5507473"
+            },
+            {
+                "episode_number": 14,
+                "name": "Düğün Resepsiyonu",
+                "overview": "Yeni evliler yeni evlerine yerleştiler. Daha sonra gelenek, tanıdıkları herkes için bir parti vermelerini emreder. Kalabalığa ev sahipliği yapmaya hazırlanmak kolay olmayacak. Ve başarsalar bile büyük günün sürprizleri var.",
+                "air_date": "2024-04-15",
+                "still_path": "/t9goEAxsd8LudOnzgHJHMwIFzJB.jpg",
+                "video_url": "5507474"
+            },
+            {
+                "episode_number": 15,
+                "name": "Uzaktan",
+                "overview": "Rudeus, Pavlus'tan bir mektup alır. Mektup, Rudeus'un küçük kız kardeşleri Norn ve Aisha'nın Rudeus'a katılmaya gönderildiğini açıklıyor. Bu arada Nanahoshi, orijinal dünyasına dönmenin bir yolunu bulmak için sihir çağırma konusundaki araştırmasına devam ediyor.",
+                "air_date": "2024-04-22",
+                "still_path": "/73G9pW6Hq6KSe32iYcSrwSllppN.jpg",
+                "video_url": "5521012"
+            },
+            {
+                "episode_number": 16,
+                "name": "Norn ve Aisha",
+                "overview": "Rudeus'un kız kardeşleri beklenmedik bir refakatçiyle gelir. Eski bir arkadaşıyla görüştükten sonra Rudeus, kızları okula gönderme zamanının geldiğine karar verir. Ancak Norn ve Aisha'yı ikna etmenin sandığından daha fazla soruna dönüştüğü ortaya çıkar.",
+                "air_date": "2024-04-29",
+                "still_path": "/9YJCqvhLiRHHIfaR7PE1ou3ny3w.jpg",
+                "video_url": "5521020"
+            },
+            {
+                "episode_number": 17,
+                "name": "Ağabeyimin Duyguları",
+                "overview": "Norn kendini yurt odasına kapatır ve derslere katılmayı reddeder. Geçmiş yaşamının hayaletinin peşini bırakmayan Rudeus, kız kardeşinin sorunlarını çözmek için yola çıkar, ancak sorunun sebebinin kendisi olduğunu keşfeder.",
+                "air_date": "2024-05-06",
+                "still_path": "/5uqn76jSS3Zy3NPbPSvO6bLIR08.jpg",
+                "video_url": "5531562"
+            },
+            {
+                "episode_number": 18,
+                "name": "Dönüm Noktası 3",
+                "overview": "Hayat Rudeus'u arıyor. Kız kardeşleri buraya yerleşiyor ve arkadaşları ve ailesi için bolca vakti var... ta ki Sylphie'den gelen bir duyuru ve beklenmedik bir mektup onun cennet gibi okul hayatını alt üst edene kadar.",
+                "air_date": "2024-05-13",
+                "still_path": "/lBwC3cCgMuGJRxAX52tRJaWi6dd.jpg",
+                "video_url": "5534585"
+            },
+            {
+                "episode_number": 19,
+                "name": "Çöl Yolculuğu",
+                "overview": "Nanahoshi'nin yardımıyla Rudeus yolculuğunu kısaltmanın bir yolunu bulur, ancak o ve Elinalise, Sylphie doğum yapmadan geri dönmeyi umuyorlarsa yine de acele etmeleri gerekecektir. İlk engelleri Begaritt'in sert çölü ve onun canavar sakinleridir.",
+                "air_date": "2024-05-27",
+                "still_path": "/xSi2t4SSx7XGrLdzy8Gp9GLJ1SD.jpg",
+                "video_url": "5546489"
+            },
+            {
+                "episode_number": 20,
+                "name": "Labirentin Içine",
+                "overview": "Rudeus ve Elinalise, Rapan'a ulaşır ve kısa süre sonra Paul ile yeniden bir araya gelirler, ancak ölümcül bir labirentin hem Zenith'i hem de Roxy'yi ele geçirdiğini öğrenirler. Rudeus'un çalışmalarının meyveleri, annesine ve akıl hocasına zamanında ulaşmak için son ve zayıf bir umut sunuyor.",
+                "air_date": "2024-06-03",
+                "still_path": "/6UmlIWL3pW28dMVmPJvI0cGm8uY.jpg",
+                "video_url": "5552734"
+            },
+            {
+                "episode_number": 21,
+                "name": "Altıncı Tabakaya Büyülü Çember",
+                "overview": "Roxy'nin kurtarılmasıyla Zenith arayışı ciddi bir şekilde devam eder. Rudeus, labirentin tehlikeleri arasında akıl hocasıyla yeniden bağlantı kurar. Peki neden onun yanında eskisinden biraz daha garip görünüyor?",
+                "air_date": "2024-06-10",
+                "still_path": "/2iZ0wOEnZ6DyvBWqdLPvPDFjU8q.jpg",
+                "video_url": "5558358"
+            },
+            {
+                "episode_number": 22,
+                "name": "Ebeveynler",
+                "overview": "Kurtarma ekibi Işınlayıcı Labirenti'nin kalbine ulaşır ve koruyucusuyla yüzleşir. Ancak canavar, Rudeus'un büyüsüne aldırış etmediğinde, çiğneyebileceklerinden fazlasını ısırmış olabileceklerini fark ederler.",
+                "air_date": "2024-06-17",
+                "still_path": "/oe5fQnzK6uixFvpmN0w0WAuc3Lk.jpg",
+                "video_url": "5565282"
+            },
+            {
+                "episode_number": 23,
+                "name": "Hadi Eve Gidelim",
+                "overview": "Roxy, Rudeus'u depresyondan çıkarmak için umutsuz bir hamle yapar. Grup eve dönerken her ikisinin de duygularıyla yüzleşmesi ve sonuçlarıyla yüzleşmesi gerekir.",
+                "air_date": "2024-06-24",
+                "still_path": "/zsJlKRwGXI2dcgyMjiZqnQuO0gf.jpg",
+                "video_url": "5573607"
+            },
+            {
+                "episode_number": 24,
+                "name": "Halefiyet",
+                "overview": "Rudeus, yokluğunda bir şeylerin ters gitmiş olabileceği endişesiyle eve gelir. Ancak onu bekleyen konuşmalar başlı başına bir felakete dönüşebilir. Hala Paul'ün ölümünün sersemlemesini yaşayan bir aileye yeni bir eşle nasıl tanıştırılabilir?",
+                "air_date": "2024-07-01",
+                "still_path": "/34qxeVn9C6L15CnvovgP7smyNyq.jpg",
+                "video_url": "5581265"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 0,
+        "air_date": null,
+        "poster_path": null,
+        "episodes": []
+    }
+}

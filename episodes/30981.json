@@ -1,0 +1,603 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 74,
+        "air_date": "2004-04-06",
+        "poster_path": "/whhFNQdWtpaM3xwve24cFea6gLL.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bay Dr. Tenma",
+                "overview": "Düsseldorf Hastanesi'nin önde gelen beyin cerrahlarından Dr. Kenzo Tenma, ünlü bir opera sanatçısı üzerinde gerçekleştirdiği başarılı ameliyattan dolayı büyük beğeni topladı. Ancak suçluluk duygusuyla karşı karşıyadır. Yönetmenin baskısıyla başka bir erkeği ameliyat edeceği gece opera sanatçısını ameliyat etmişti. Sonuç olarak, yönetmen kendisine belediye başkanını ameliyat etmesi emrini verdiğinde, bu emri görmezden gelmeye karar verir ve bunun yerine seri cinayet mahallinden hastaneye getirilen genç bir çocuğun hayatını kurtarmaya çalışır. Ancak çocuğun yanına getirilen ve hâlâ şokta olan ikiz kız kardeşi, 'onu öldürün' sözlerini tekrarlayıp duruyor.",
+                "air_date": "2004-04-06",
+                "still_path": "/gRrJaEe5oj8gsy54buNLkW8FHAZ.jpg",
+                "video_url": "2776472"
+            },
+            {
+                "episode_number": 2,
+                "name": "Çöküş",
+                "overview": "Dr. Heinemann'ın belediye başkanını ameliyat etme emrine uymamanın bedeli Dr. Tenma için ağır oldu. Kariyeri düşmeye başlar. Kurtardığı çocuk nihayet uyanır ama çok geçmeden korkunç bir olay yaşanır.",
+                "air_date": "2004-04-13",
+                "still_path": "/yIoVsDbmIduGojXaTR8DzpBbTVr.jpg",
+                "video_url": "2776474"
+            },
+            {
+                "episode_number": 3,
+                "name": "Cinayet Davası",
+                "overview": "Dr. Heinemann öldüğüne göre işler Dr. Tenma için daha parlak görünüyor. Kariyeri yükselişe geçiyor ve Eva bile onu geri kazanmaya çalışıyor. Ancak ne yazık ki tüm bu başarı Dedektif Lunge'un dikkatini çekti.",
+                "air_date": "2004-04-20",
+                "still_path": "/nMQqe7HJH1Dk8F6ALS1nbfFWXL0.jpg",
+                "video_url": "2776476"
+            },
+            {
+                "episode_number": 4,
+                "name": "İnfaz Gecesi",
+                "overview": "Adolf Junkers, polis için hayati önem taşıyan seri cinayetler hakkında bilgiye sahiptir, ancak bunları ifşa etmekten korkar. Ancak Dr. Tenma'nın Adolf Junkers'a olan ilgisi onu ikna eder. Ancak Junkers ile olan yakın ilişkisi onu şok edici bir dehşet gecesine sürükler.",
+                "air_date": "2004-04-26",
+                "still_path": "/DpBHxNXO5VHwLTInBGi80L5Io.jpg",
+                "video_url": "2776479"
+            },
+            {
+                "episode_number": 5,
+                "name": "Heidelberg'li Kız",
+                "overview": "Heidelberg'de yetenekli bir genç öğrenci olan Nina Fortner kabuslar görüyor. Ayrıca 10 yaşından önceki hayatına dair hiçbir şey hatırlamıyor. Kısa süre sonra üniversitede bayılma nöbetleri geçirir ve isimsiz e-postalar almaya başlar.",
+                "air_date": "2004-05-04",
+                "still_path": "/6FKz2pfpTlGXMxdH4h5op6j1aku.jpg",
+                "video_url": "2776481"
+            },
+            {
+                "episode_number": 6,
+                "name": "Kaybolma Raporu",
+                "overview": "Nina sonunda kendisine belirli bir zaman ve yerde anonim göndericiyle buluşması gerektiğini bildiren bir e-posta alır.\n\nDr. Tenma, Liebert kızını ararken, yerel bir yayınevinin editörü olan Mauler'den araştırmalarında yardım ister.",
+                "air_date": "2004-05-12",
+                "still_path": "/tLso0ODwU9bAUFIPdAvCUSvlelI.jpg",
+                "video_url": "2776482"
+            },
+            {
+                "episode_number": 7,
+                "name": "Trajedi Konağı",
+                "overview": "Tenma ve Nina, Mauler ve Nina'nın ebeveynlerinin ölü olduğunu bulmak için Fortner'ların evine dönerler. İki dedektif onları sorgulamak için karakola götürmek üzere gelir, ancak bazı şeyler doğru gözükmemektedir.",
+                "air_date": "2004-05-19",
+                "still_path": "/iVIw85BQXHZaZVhPk4QDPTWqZxc.jpg",
+                "video_url": "2776485"
+            },
+            {
+                "episode_number": 8,
+                "name": "Firari",
+                "overview": "Eva, Dr. Tenma'yı tehdit etmeye çalışıyor, eğer Dr. Tenma ona geri dönmezse, Dr. Tenma suç mahallinde bulunan kravatın kendisine ait olduğunu polise açıklayacak!",
+                "air_date": "2004-05-26",
+                "still_path": "/wlMYF7b88FPoCvjVnNqKPixF5Ha.jpg",
+                "video_url": "2776489"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kız ve Tecrübeli Asker",
+                "overview": "Hugo adında eski bir paralı asker, Lunge tarafından öğrencisi Tenma adında bir doktor hakkında sorguya çekilir.",
+                "air_date": "2004-06-02",
+                "still_path": "/96WWv4x4wTlhJfpmY1KKkj3LQCt.jpg",
+                "video_url": "2776491"
+            },
+            {
+                "episode_number": 10,
+                "name": "Silinmiş Bir Geçmiş",
+                "overview": "Tenma, katili gördüğünü iddia eden Heckel adında bir hırsızla karşılaşır. Kısa süre sonra Heckel, Tenma'yı birkaç katile götürmesiyle sonuçlanır.",
+                "air_date": "2004-06-09",
+                "still_path": "/kR95nSJmdt3BPmc4NSvrGA1m2hz.jpg",
+                "video_url": "2776493"
+            },
+            {
+                "episode_number": 11,
+                "name": "511 Kinderheim",
+                "overview": "Tenma, Johan'ın Kinderheim 511 olarak bilinen bir yetimhanede olduğunu öğrenir. Orada çalışan Hartmann adında eski bir Doğu Alman yetkili ve Dieter adında yaralı bir çocukla tanışır.",
+                "air_date": "2004-06-16",
+                "still_path": "/ngPjRictfjaYKwIX1bV0JtfdDlM.jpg",
+                "video_url": "2776495"
+            },
+            {
+                "episode_number": 12,
+                "name": "Küçük Bir Deney",
+                "overview": "Dieter, Tenma dönmeden önce Hartmann tarafından alınır. Ve Tenma, Kinderheim 511'deki deneyler hakkında daha fazla şey öğreniyor.",
+                "air_date": "2004-06-23",
+                "still_path": "/8a9l0cGDV9FDwkHcMgQw6IoD9ok.jpg",
+                "video_url": "1750884"
+            },
+            {
+                "episode_number": 13,
+                "name": "Petra ve Schumann",
+                "overview": "Küçük bir köyde yaşayan Dr. Schumann, hasta ama inatçı eski arkadaşı Petra'nın sağlığı konusunda endişe duymaktadır.",
+                "air_date": "2004-06-30",
+                "still_path": "/hlKdVyUkvKg0GP565domhD4bAZk.jpg",
+                "video_url": "2776500"
+            },
+            {
+                "episode_number": 14,
+                "name": "Sol Arka",
+                "overview": "Müfettiş Lunge, bir fahişenin cinayetini araştırır ve Dr. Boltzmann adlı bir senatörün olaya karıştığından şüphelenir. Ancak işine olan bağlılığı aile hayatını olumsuz etkiliyor.\n\nBu arada intikamcı Eva, Tenma'yı yakalamak için Hamle'ye baskı yapmaya devam eder. Ayrıca yeni bir sevgilisi var; bahçıvanı.",
+                "air_date": "2004-07-07",
+                "still_path": "/bnmF3AAbHKxf3K9yY5SlXtM9CSy.jpg",
+                "video_url": "2776505"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bebeğim Ol",
+                "overview": "Dr. Tenma ve Nina Fortner'ın araştırmaları onları aşırılıkçı bir örgüte üye olan 'Bebek' olarak bilinen güçlü bir adama götürür.\n\nÇok geçmeden örgütün yarın Türk bölgesi için özel planları olduğunu öğrenirler.",
+                "air_date": "2004-07-14",
+                "still_path": "/nTkNXYoOLeN9HP37IFQvWNdLE6y.jpg",
+                "video_url": "2776507"
+            },
+            {
+                "episode_number": 16,
+                "name": "Wolf'un İtirafı",
+                "overview": "Nina malikaneden kaçar. Tenma daha sonra malikanede tanınmayan General Wolf ile buluşur.",
+                "air_date": "2004-07-21",
+                "still_path": "/5VjzqfvUbnjHmrfLY9KtUUFRO7M.jpg",
+                "video_url": "2776511"
+            },
+            {
+                "episode_number": 17,
+                "name": "Yeniden Birleşme",
+                "overview": "Aşırılık yanlılarının planları uygulamaya koyulur ve Tenma, Johan'ı aramayı ertelemeye karar verir ve bunun yerine oradaki insanları uyarmak için Türk bölgesine gider. Dieter ve Heckel dazlaklar tarafından yakalanır ve ateşte yanmaya bırakılır. Nina da 'Bebek'ten 'ana yemek' hakkında bilgi almaya çalışıyor.",
+                "air_date": "2004-07-28",
+                "still_path": "/g5XrO7E75jUleiYDBWMFVv983ok.jpg",
+                "video_url": "2776512"
+            },
+            {
+                "episode_number": 18,
+                "name": "Beş Şeker",
+                "overview": "Nina eski bir arkadaşı ve patronu olan Bay Rosso ile tanışır. Ancak sevimli eski patronun çok karanlık bir geçmişi var.",
+                "air_date": "2004-08-04",
+                "still_path": "/vujsVa6Pl2eRnYbqL6gwpOkENxQ.jpg",
+                "video_url": "2776515"
+            },
+            {
+                "episode_number": 19,
+                "name": "Canavar Uçurumu",
+                "overview": "Tenma, Jurgens adlı bir katilin dahil olduğu davalar üzerinde çalışan kriminal psikolog Rudy'yi ziyaret eder.",
+                "air_date": "2004-08-11",
+                "still_path": "/iedKDiD6BYGUX8In7gin7ZTC1e2.jpg",
+                "video_url": "2776518"
+            },
+            {
+                "episode_number": 20,
+                "name": "Freiham'a Yolculuk",
+                "overview": "Tenma ve Dieter, Freiham'a giderken yaşlı bir çiftle otostop çekiyor. Tenma, çiftin onu teslim etmeyi planlayıp planlamadığını merak eder.",
+                "air_date": "2004-08-18",
+                "still_path": "/hnIFlLzJbk3F2Fl3P9jDyk9LXtY.jpg",
+                "video_url": "2776520"
+            },
+            {
+                "episode_number": 21,
+                "name": "Mutlu Tatiller",
+                "overview": "Nina, koruyucu ailesi Fortners'ın ölümünden sorumlu iki dedektiften biri olan Muller'la yüzleşir. Muller, koruması altındaki Roberto'nun aslında Johan için çalıştığını ve şimdi Nina'yı öldürmekle görevlendirildiğini keşfeder.",
+                "air_date": "2004-08-25",
+                "still_path": "/evKSBqCNwbkcfwvgHOyFqRS75Wr.jpg",
+                "video_url": "2776523"
+            },
+            {
+                "episode_number": 22,
+                "name": "Hamle Tuzağı",
+                "overview": "Lunge, zengin, orta yaşlı, çocuksuz bir çiftin öldürülmesinin seri cinayetlerin olağan işleyiş tarzına uymadığını belirler ve bu fırsatı Tenma'yı tuzağa düşürmek için kullanmaya karar verir. Ancak onu tutuklayamadan Lunge, gerçek suçlu tarafından ciddi şekilde yaralandı. Tenma, Lunge'un yaralarını tedavi edebiliyor.",
+                "air_date": "2004-09-01",
+                "still_path": "/3UL3wcPZOaCJZrpbSsnPa6AS9wC.jpg",
+                "video_url": "2776529"
+            },
+            {
+                "episode_number": 23,
+                "name": "Eva'nın İtirafı",
+                "overview": "Eva Heinemann, toplum içinde sarhoşluktan tutuklanır ve tutuklanmasından önceki gece birlikte olduğu Roberto ile birlikte olur. Roberto daha sonra Johan'la olan bağlantısını açıklar ve Eva, Junkers'ın Johan tarafından öldürüldüğü gece aslında tanık olduğunu itiraf eder.",
+                "air_date": "2004-09-08",
+                "still_path": "/smpyendH3uITqcKHlacuUr9LIbo.jpg",
+                "video_url": "2776532"
+            },
+            {
+                "episode_number": 24,
+                "name": "Erkekler ve Yemek",
+                "overview": "Roberto, hayatı karşılığında Eva'ya, şu anda bir kır evinde bir mafya babasını tedavi eden Tenma ile yüzleşmesini söyler. Eva, görevini tamamlayamayınca Roberto tarafından derhal yaralanır ancak Tenma tarafından kurtarılır.",
+                "air_date": "2004-09-15",
+                "still_path": "/m4fL3hJku5ytZBSlfkQ5Z1VMQMJ.jpg",
+                "video_url": "2776538"
+            },
+            {
+                "episode_number": 25,
+                "name": "Perşembe Günkü Oğlan",
+                "overview": "Karl Neumann ve Lotte Frank, Hans Georg Schubert'e Latince okuyan öğrencilerdir. Lotte, Perşembe günleri Schubert'e kitap okuyan bir çocuğun kimliğini bulmaya çalışırken Karl'ın geçmişini öğrenmesine yardımcı olmaya çalışır. İkisi de onun kim olduğunu keşfettiklerinde Edmund Farren adlı çocuğu yatakhanesinde ölü bulurlar.",
+                "air_date": "2004-09-29",
+                "still_path": "/oA7Y1IR4uJvhmcIOjjlGAxQ8byB.jpg",
+                "video_url": "2776543"
+            },
+            {
+                "episode_number": 26,
+                "name": "Gizli Orman",
+                "overview": "Bir milyonerin oğlu olduğunu iddia eden bir adam intihar eder ve bir dedektif olayı çözmeye kararlıdır.",
+                "air_date": "2004-10-06",
+                "still_path": "/rtdgEwAQtM9b731M1KXwpkKKl41.jpg",
+                "video_url": "2776548"
+            },
+            {
+                "episode_number": 27,
+                "name": "Kanıt",
+                "overview": "Richard'ın geçmiş ve şimdiki durumu ortaya çıkar. Johan, Schuwald ailesiyle bağ kurmaya devam eder ve niyeti ortaya çıkar.",
+                "air_date": "2004-10-13",
+                "still_path": "/gSzKRaoqu0hxaZ4IYgjW8FRBdwG.jpg",
+                "video_url": "2776551"
+            },
+            {
+                "episode_number": 28,
+                "name": "Sadece Bir Vaka",
+                "overview": "Richard eski cinayet davalarını yeniden araştırırken korkutucu bir keşifte bulunur.",
+                "air_date": "2004-10-20",
+                "still_path": "/4ScD6otPzx2B7r5mTvPw0PdyHMf.jpg",
+                "video_url": "2776553"
+            },
+            {
+                "episode_number": 29,
+                "name": "Uygulamak",
+                "overview": "Robert, Johan'ın geçmişini araştırır ve şok edici bir keşifte bulunur. Dr. Gillen, bir seri katil olan Peter Jurgens ile Johan'ın olası olaya karışması hakkında konuşur ve trajik bir yanıt alır. Johan, Stephen Joos konusunda Robert'la yüzleşir. Ve Dr. Reichwen polisten trajik bir haber alır.",
+                "air_date": "2004-10-27",
+                "still_path": "/5IM7Jc5LiX27MmEjV2glotEhN5H.jpg",
+                "video_url": "2776554"
+            },
+            {
+                "episode_number": 30,
+                "name": "Karar",
+                "overview": "Robert'ın \"kazara\" ölümüne düşmesinde bir faul olduğundan şüphelenen Dr. Reichwen, araştırmalarında bazı keşiflerde bulunur. Ancak daha sonra fark ettiği gibi, araştırmaları onu tehlikeye atmış olabilir.",
+                "air_date": "2004-11-03",
+                "still_path": "/uTd9PmGOYn5mpNAWMUXcxNpDtyI.jpg",
+                "video_url": "2776556"
+            },
+            {
+                "episode_number": 31,
+                "name": "Güpegündüz",
+                "overview": "Dr. Tenma ve Dr. Reichwen nihayet buluşuyor. Dr. Reichwen, Dr. Tenma'nın cinayetlerdeki masumiyetini kanıtlamayı amaçlamaktadır, ancak Dr. Tenma'nın başka fikirleri vardır.",
+                "air_date": "2004-11-10",
+                "still_path": "/7C24YnfzxwM7ZNQDhC7m4ldynJV.jpg",
+                "video_url": "2776557"
+            },
+            {
+                "episode_number": 32,
+                "name": "Barınak",
+                "overview": "Lotte, Frank ve Karl birbirlerinden uzaklaşmaktadır. Lotte, Nina Fortner ile tanışır ve arkadaş olurlar. Dr. Tenma, Johan'ı vurmak için mükemmel bir yer arar.",
+                "air_date": "2004-11-17",
+                "still_path": "/oDFFnKWyt0eTyIJercgD0kpBXSu.jpg",
+                "video_url": "2776560"
+            },
+            {
+                "episode_number": 33,
+                "name": "Bir Çocuğun Bakışı",
+                "overview": "Dieter, çocukların oynadığı hayati tehlike içeren bir oyunu öğrenir. Bay Schuwald, Karl ve Johan'ın önerisiyle tüm kitap koleksiyonunu Münih Üniversitesi Kütüphanesi'ne bağışlamaya karar verir.",
+                "air_date": "2004-11-24",
+                "still_path": "/wLzZfg51P24TKL5zIOgqwz5kV8w.jpg",
+                "video_url": "2776562"
+            },
+            {
+                "episode_number": 34,
+                "name": "Karanlığın Eşiğinde",
+                "overview": "'Margot Langer' sahtekarı Johan'ı şantaj yapmaya çalışıyor. Dr. Tenma yasadışı bir klinikte genç bir 'doktora' yardım ediyor",
+                "air_date": "2004-12-01",
+                "still_path": "/zQnTrYLoKTVGVpkMCe8izx0aaJG.jpg",
+                "video_url": "2776566"
+            },
+            {
+                "episode_number": 35,
+                "name": "İsimsiz Kahramanım",
+                "overview": "Lunge, kendisi gibi davranarak Dr. Tenma'nın aklına girmeye çalışır. Dr. Gillen, psikotik bir katille yaptığı röportaj sırasında Johan hakkında bir şeyler öğrenir. Dr. Reichwen, Liebert'leri Johan'ın gerçek doğası konusunda uyarmaya çalışır. Dr. Tenma mükemmel bir keskin nişancılık yeri arıyor.",
+                "air_date": "2004-12-08",
+                "still_path": "/85rn4WWk0mYIvGcQoBEtJTH2a2j.jpg",
+                "video_url": "2776568"
+            },
+            {
+                "episode_number": 36,
+                "name": "Kaos Canavarı",
+                "overview": "Dr. Reichwein, Johan'ın gerçek doğasını Bay Schuwald'a açıklar. Dr. Tenma, Johan'ı öldürmeye hazırlanır. Lunge, Dr. Tenma'nın sıradakinin Schuwald olacağı sonucuna varır. Lotte, Nina'yla Johan hakkında yüzleşir.",
+                "air_date": "2004-12-15",
+                "still_path": "/Ap21b2eXMchLQEMurLjmC4TIozM.jpg",
+                "video_url": "2776570"
+            },
+            {
+                "episode_number": 37,
+                "name": "İsimsiz Bir Canavar",
+                "overview": "Bölüm, isimsiz bir Canavar hakkındaki bir peri masalıyla başlıyor. Nina hikayeyi resimli kitaptan okur ve bir deja vu duygusuna kapılır. Johan'ın kitap bağış töreni için yaptığı şeytani planlar gerçekleşir. Dr. Tenma, Johan'ı öldürme girişiminde büyük bir engelle karşılaşır.",
+                "air_date": "2005-01-12",
+                "still_path": "/4Jobs7gVFbD7cJYTea0V1EHh6kh.jpg",
+                "video_url": "2776572"
+            },
+            {
+                "episode_number": 38,
+                "name": "Gözlerimdeki Şeytan",
+                "overview": "Dr. Tenma, Roberto'ya doğrultulmuş bir silaha sahiptir, ancak Roberto tüfeği ona doğrultmuştur. Nina, Dr.Reichwen ve Dieter, tüm kütüphanenin alevler içinde olduğunu görmek için gelirler. İnsanlar içeride sıkışmıştır ve kapılar kilitlidir. Karl, annesinin hayatı ve ölümüyle ilgili raporu okur. Dr. Tenma, binada sıkışanları kurtarmaya çalışır. Johan, içindeki canavarı Schuwald'a gösterir.",
+                "air_date": "2005-01-19",
+                "still_path": "/mwmzanlKAGfPYJ7Q4pdHS35p2Tv.jpg",
+                "video_url": "2776574"
+            },
+            {
+                "episode_number": 39,
+                "name": "Gözlerindeki Cehennem",
+                "overview": "BKA'dan Lunge, Johan'ın gerçekten var olabileceğini öğrenir. Nina, resimli kitap ve geçmişi hakkında daha fazla bilgi edinmek için gerileyen hipnoza girer. Bay Schuwald'ın Dr. Tenma'ya bir mesajı vardır ve Karl'ı bunu kendisine iletmesi için Dresden'e gönderir.",
+                "air_date": "2005-01-26",
+                "still_path": "/sTFxScrDaiIxfwOc5wz2DRNlsKY.jpg",
+                "video_url": "2776576"
+            },
+            {
+                "episode_number": 40,
+                "name": "Daha Acımasız",
+                "overview": "Bölüm Grimmer'ı tanıtıyor. Grimmer, Doğu Almanya'daki yetimhanelerdeki istismarlara ilişkin derinlemesine bir araştırma yapan serbest çalışan bir gazetecidir. Grimmer, Prag gezisi sırasında Dr. Tenma ile tanışır ve Tenma bir göçmen sorunuyla karşı karşıya kalınca daha yakından tanışırlar.",
+                "air_date": "2005-02-02",
+                "still_path": "/jaJgMOPU8UlAZZ0WMDxKeLxmWQJ.jpg",
+                "video_url": "2776579"
+            },
+            {
+                "episode_number": 41,
+                "name": "511'in Hayaletleri",
+                "overview": "Grimmer, Kinderheim 511'deki suistimalleri anlatan deneysel araştırma makaleleri için inatla Petrov'un peşine düşer, ancak bunun yerine bir sürprizle karşılaşır.",
+                "air_date": "2005-02-09",
+                "still_path": "/ad7Wgv9ILsh4tcbv5fcITHPQOw8.jpg",
+                "video_url": "2776580"
+            },
+            {
+                "episode_number": 42,
+                "name": "Muhteşem Steiner'ın Maceraları",
+                "overview": "Grimmer, Petrov'un ona verdiği anahtara sahiptir ve eski bir Çekoslovakya gizli polis örgütü bunu istemektedir. Yakalanan ve işkence gören Grimmer, kaçırıcılarına 'Muhteşem Steiner'dan bahseder.",
+                "air_date": "2005-02-16",
+                "still_path": "/okzyjsp5Lv7UOkhVsKfSlNEoCDi.jpg",
+                "video_url": "2776581"
+            },
+            {
+                "episode_number": 43,
+                "name": "Dedektif Suk",
+                "overview": "Yeni bir müfettiş olan dedektif Suk, Zeman'ın cinayetiyle ilgileniyor. Soruşturması sırasında Zeman cinayetiyle ilgili sanıldığından çok daha fazlasının olduğunu keşfeder. Suk ayrıca uğruna tepelerden düştüğü bir bayanla da tanışır.",
+                "air_date": "2005-02-23",
+                "still_path": "/gjmsRU29pBFZELcvJROYh0R7bGH.jpg",
+                "video_url": "2776584"
+            },
+            {
+                "episode_number": 44,
+                "name": "Çifte Karanlık",
+                "overview": "Üstlerinin ölümünün ardından Suk, vakayı en başından itibaren yeniden araştırmak zorunda kalır. Yetimlerden Grimmer'la yapacağı görüşme hakkında bilgi alır. Ancak soruşturmanın derinliklerine indiğinde Grimmer'ı tutuklama niyeti farklı bir hal alır. Bölüm ayrıca bardaki isimsiz bayanın anlattığından daha fazlası olduğunu ortaya koyuyor.",
+                "air_date": "2005-03-02",
+                "still_path": "/bVPANfu9HXNA8MtbAX9HP2Ntx2q.jpg",
+                "video_url": "2776586"
+            },
+            {
+                "episode_number": 45,
+                "name": "Canavarın Görüntüsü",
+                "overview": "Suk, yeni komiser tarafından gözetim altına alınır. Suk, Grimmer'la birlikte kaseti ve araştırma kağıtlarını kasadan alır. Ancak hareketleri çeşitli taraflarca izleniyor.",
+                "air_date": "2005-03-09",
+                "still_path": "/2ovvgmyz0cH6FzYv9qbvoe2zH7f.jpg",
+                "video_url": "2776587"
+            },
+            {
+                "episode_number": 46,
+                "name": "Temas Etmek",
+                "overview": "Dr. Tenma, Suk'un kaçak durumunu bir gazeteciden öğrenir. Ve onu bulmak için yola çıkar. Bu sırada Suk ve Grimmer saklanmaya başlar, ancak hızla bulunur, etrafı sarılır ve STB tarafından saldırıya uğrar. STB'nin saldırısı kanlı bir şekilde sona erer.",
+                "air_date": "2005-03-16",
+                "still_path": "/8Cq45zBn14obRO3AESmyjt4Ouqu.jpg",
+                "video_url": "2776588"
+            },
+            {
+                "episode_number": 47,
+                "name": "Kabuslara Açılan Kapı",
+                "overview": "Nina'nın Prag'daki deneyimi onun için bir kabustur. Tenma ve Grimmer, Çekoslovakya STB'deki üst düzey bir adamla görüşür. Grimmer'ın kabul etmeyi reddettiği bir anlaşma teklif edilir.",
+                "air_date": "2005-03-23",
+                "still_path": "/x0abqV6R2kJ0MY8G6Av5jwxUNAb.jpg",
+                "video_url": "2776592"
+            },
+            {
+                "episode_number": 48,
+                "name": "En Korkunç Şey",
+                "overview": "Johan, Suk'un annesini ziyaret eder. Tenma ve Grimmer, onun ziyaretini öğrenir. Albay Ranke de dahil olmak üzere, Johan'ın kasetini dinlerler. Lunge, 'tatil' için Prag'a gelir. Araştırması onu Franz Bonaparta'nın çizimlerine götürür.",
+                "air_date": "2005-03-30",
+                "still_path": "/nZeEw7e216DupgtpRNWIWyOgwYC.jpg",
+                "video_url": "2776593"
+            },
+            {
+                "episode_number": 49,
+                "name": "En Zalim Şey",
+                "overview": "Grimmer ve Tenma, Johan'ın yetimlerden biri olan Milo'yu en acımasız kaderden birine maruz bırakmasını engellemeye çalışır.",
+                "air_date": "2005-04-06",
+                "still_path": "/ogKFo4cfgH4S2YiUEuTxHAaUl1v.jpg",
+                "video_url": "2776594"
+            },
+            {
+                "episode_number": 50,
+                "name": "Gül Konağı",
+                "overview": "Lunge, Kırmızı Gül Köşkü'nün ardındaki sırrı araştırır. Tenma ve Grimmer ayrılır ancak Tenma'nın başı belada bulur.",
+                "air_date": "2005-04-13",
+                "still_path": "/ucHFHWlTlFFcFo2swpHW2rH8O2S.jpg",
+                "video_url": "2776596"
+            },
+            {
+                "episode_number": 51,
+                "name": "Canavarın Aşk Mektubu",
+                "overview": "Schubert, Reichwein'in yardımıyla Karl Neumann'ın gerçek annesiyle olan geçmişini yeniden keşfeder ve Johan'la olan bağını fark eder. Tenma'nın tutuklandığı haberi yayıldıkça, Tenma'nın kendisini reddetmesinin bedelini ağır bir şekilde ödemesi konusunda ısrar eden Eva Heinemann dışında birçok kişi şok ve dehşetle tepki verir. Suk, Tenma'ya yardım etmek için bulunduğu hastaneden ayrılmaya çalışır, ancak Prag Polisi tarafından durdurulur ve ona Grimmer'ın, Suk'u polis memurlarının ölümlerine herhangi bir şekilde karışmaktan temize çıkaran bir not gönderdiğini bildirir. Runge ayrıca tutuklanma haberini de alır, ancak Kırmızı Güller Malikanesi ile daha çok ilgilenir ve burada muhtemelen ikizlerin annesine gönderilmiş bir mektup alır. Tenma, Düsseldorf'a geri gönderildi.",
+                "air_date": "2005-04-20",
+                "still_path": "/9owNlaW8EJ5daDXrY016JZTDYyw.jpg",
+                "video_url": "2776600"
+            },
+            {
+                "episode_number": 52,
+                "name": "Avukat",
+                "overview": "Eisler Memorial Hastanesi'nin eski hastaları, Tenma'yı temsil etmek için avukat Alfred Baul'un yardımına başvuruyor. Baul da Fritz Vardemann'dan yardım ister. Vardemann, Tenma'yı hapishanede ziyaret eder ve savunmayı üstlenmeyi kabul eder, ancak karısı ilk çocuğunu doğurmaya başlayınca hastaneye çağrılır. Baul, Tenma'yı hapishanede ziyaret ettiğinde Tenma, Baul'un Roberto olduğunu görünce şok olur. Roberto daha sonra bir sonraki hedefinin Eva Heinemann olacağını söylüyor.",
+                "air_date": "2005-04-27",
+                "still_path": "/bAO3AxPdptq5YmN8FP7xS4fZTH5.jpg",
+                "video_url": "2776613"
+            },
+            {
+                "episode_number": 53,
+                "name": "Kararlılık",
+                "overview": "Roberto'nun Eva'ya yönelik tehdidini duyduktan sonra Tenma, kendisine yöneltilen tüm suçlamaları itiraf etmeye karar verir, böylece mahkum hapishaneden kaçış için hazırlık yaparken bir mahkumu Federal Cezaevi'ne taşıyan aynı minibüse yerleştirilebilir.",
+                "air_date": "2005-05-04",
+                "still_path": "/8FqSJMnu6z46PLiLdpJpkhFBNU2.jpg",
+                "video_url": "2776616"
+            },
+            {
+                "episode_number": 54,
+                "name": "Kaçış",
+                "overview": "Tenma ve Milch, yaralı Gustav ve Helene ile birlikte kaçıyor. Eva, görüşmesi gereken avukat Bay Baul'un Roberto'dan başkası olmadığını öğrendiğinde hayatı tehlikeye girer.",
+                "air_date": "2005-05-11",
+                "still_path": "/x5C9rsGKe7YoZTDnccSjucs87j7.jpg",
+                "video_url": "2776618"
+            },
+            {
+                "episode_number": 55,
+                "name": "Oda 402",
+                "overview": "Dr. Tenma, Eva'yı çaresizce ararken Verderman'ı rehin alır. Ve Verderman'ın karanlık geçmişi ortaya çıkar.",
+                "air_date": "2005-05-18",
+                "still_path": "/pWGuNnYw5MuLw5ViJ8lIvX5YMxT.jpg",
+                "video_url": "2776620"
+            },
+            {
+                "episode_number": 56,
+                "name": "Bitmeyen Yolculuk",
+                "overview": "Nina ve Dieter, Kırmızı Gül Malikanesi'ne girerler ancak Nina, yaşadığı rahatsız edici deneyim nedeniyle bayılır. Ve kendilerini Lipsky adında bir kuklacının gözetiminde bulurlar.",
+                "air_date": "2005-05-25",
+                "still_path": "/9AAOAwTWGkOG3xpoNMxrYOxPwpt.jpg",
+                "video_url": "2776621"
+            },
+            {
+                "episode_number": 57,
+                "name": "O Gece",
+                "overview": "Johan ve Nina'nın geçmişine, Liebert cinayetlerinden önceki döneme bir geri dönüş, Johan'ın öldürülmesinin ardındaki nedeni ortaya çıkarıyor. Polis yanan malikanede şaşırtıcı bir keşifte bulunur. Tenma sonunda Eva'nın nerede olduğunu öğrenir. Ve Lunge, Lipsky'nin gerçek kimliğini ortaya çıkarır.",
+                "air_date": "2005-06-01",
+                "still_path": "/oE1auDwSzQw1obHBrXanO2Rbe3z.jpg",
+                "video_url": "2776624"
+            },
+            {
+                "episode_number": 58,
+                "name": "Bu Işten Nefret Ediyorum",
+                "overview": "Kiralık bir işçi olan Martin, General Wolf'un eski ortakları tarafından Eva'ya 'bakması' için işe alınır. Ancak duyguları emirlerinin önüne geçiyor.",
+                "air_date": "2005-06-08",
+                "still_path": "/hCgDXMWTKCOAgLD2J8V1doWsHmx.jpg",
+                "video_url": "2776625"
+            },
+            {
+                "episode_number": 59,
+                "name": "Şeytanı Gören Adam",
+                "overview": "Tenma, Martin'i bulmayı başarır. Sarhoş Eva, Johan'ı bir partide görür. Martin patronundan son emirlerini alır ama duyguları buna engel olur. Martin, Johan'ı ve öğrencisini araştırmaya çalışırken aklını aşar ve geçmişiyle ilgili gerçek ortaya çıkar.",
+                "air_date": "2005-06-15",
+                "still_path": "/zFQyzwZqmTh3J6RSh60AVg9naZ.jpg",
+                "video_url": "2776626"
+            },
+            {
+                "episode_number": 60,
+                "name": "Çok Fazla Bilen Adam",
+                "overview": "Martin'in Eva'yı kurtarma girişimi onun hayatına mal olur. Tenma ile geçirdiği son dakikalar, Martin'in patronu Peter Chapek ve deneylerle ilgili korkunç sırları açığa çıkarır.",
+                "air_date": "2005-06-22",
+                "still_path": "/jNMgDbmUtwiWZPIEPiGylrktDNi.jpg",
+                "video_url": "2776627"
+            },
+            {
+                "episode_number": 61,
+                "name": "Anılara Açılan Kapı",
+                "overview": "Nina, annesi ve Johan'la birlikte yaşadığı daireye döndüğünde başka bir anıyla karşılaşır. Daha sonra bu anıların ardındaki gerçeği bulmak için hipnoz için gönüllü olduğu Münih'e ve Dr. Reichwein'e döner. Hipnotik bir öfke içinde neredeyse Dr. Gillen'i öldürdükten sonra, Tenma'nın kardeşini öldürmesini engellemek için Dr. Reichwein'in evinden ayrılır. Bu arada Suk ve Vardemann, Franz Bonaparta'nın resimli kitaplarıyla yaptığı okuma seansları hakkında bilgi toplamak ve Vardemann'ın babasının gerçek katılımı hakkında daha fazla bilgi edinmek için Kırmızı Güller Malikanesi'nin eski sakinleriyle röportaj yapmak üzere bir araya gelir.",
+                "air_date": "2005-06-29",
+                "still_path": "/l60BAu0Uh2Iwop8NwVcSLuZBuJA.jpg",
+                "video_url": "2776629"
+            },
+            {
+                "episode_number": 62,
+                "name": "Keyifli Bir Yemek Masası",
+                "overview": "Tenma'ya Frankfurt'ta polisten kaçmaya çalışırken bir minibüs çarpar. Bebeğin komplosundan kurtardığı şehrin Türk Mahallesi'nde uyanır. Onu kurtaran adam bir kongrede Petr Capek'i öldürmeyi planlar, ancak bu görevinde başarısız olur ve vurularak öldürülür. Nina, Frankfurt'ta Petr Capek'in fotoğrafını görür ve bu, başka bir anıyı daha tetikler.",
+                "air_date": "2005-07-06",
+                "still_path": "/xE8gQWJVbBExnVTDiXxmFgcLG0a.jpg",
+                "video_url": "2776631"
+            },
+            {
+                "episode_number": 63,
+                "name": "İlgisiz Cinayetler",
+                "overview": "Egon Weisbach, Liebert ailesinin öldürülmesini araştıran ilk araştırmacılardan biriydi. Emekliliğinden önceki son gününde, hüküm giymiş bir seri katile eşlik ediyor ama çalışma tarzına uymayan birini neden öldürdüğünü bilmek istiyor. Aynı zamanda, Dr. Gillen birkaç katille röportaj yapıyor ve onların her zamanki hedeflerine uymayan birini neden öldürdüklerini merak ediyor. Her ikisi de tüm bu suçluların, genç bir adamın, muhtemelen Johan'ın isteği üzerine, olağan kapsamı dışında cinayetler işlediklerinin farkındadır.",
+                "air_date": "2005-07-13",
+                "still_path": "/4FoBZs3ndG3tiernRySrdXDravt.jpg",
+                "video_url": "2776632"
+            },
+            {
+                "episode_number": 64,
+                "name": "Bebeğin Depresyonu",
+                "overview": "Bebek bir fahişe tarafından öldürülür ve ölümü Petr Capek'in organizasyonunda şok etkisi yaratır. Capek kimin sadık olup olmadığı konusunda paranoyaklaşır ve yanlışlıkla gardiyanlarından birini öldürür. Johan'ın onu beklediği kulübesine varır.",
+                "air_date": "2005-07-20",
+                "still_path": "/p4doe6lLhhh8giZ9hO3AYJ7005N.jpg",
+                "video_url": "2776633"
+            },
+            {
+                "episode_number": 65,
+                "name": "Johan'ın Ayak İzleri",
+                "overview": "Capek, yaptıklarından dolayı Johan'ı azarlamaya çalışır ve ona her şeyin Capek'in planlarına göre yapılması gerektiğini söyler ancak Johan buna karşı çıkar ve ortadan kaybolur. Capek, organizasyonu üzerindeki hakimiyetinin zayıfladığını fark eder ve adamlarının Nina'yı Frankfurt'tan almasını sağlar. Eva, Johan'la tanıştırılan genç adam Christof Sievernich'e yaklaşarak yanıtlar ister.",
+                "air_date": "2005-07-27",
+                "still_path": "/tA28qaG2DoJgslpJ78xtGXeTVHB.jpg",
+                "video_url": "2776634"
+            },
+            {
+                "episode_number": 66,
+                "name": "Eve Hoşgeldin",
+                "overview": "Capek, Nina'ya kendisinin ve ikiz kardeşi Johan'ın \"mükemmel çocuklar\" yetiştirmek için tasarlanmış bir öjeni deneyinin ürünleri olduklarını açıklar. Tenma, Christof'u yaraladı ve Petr Capek hakkında cevaplar talep ederken onu ve Eva'yı hastaneye götürüyor. Eva ankesörlü telefondan telefon görüşmesi yaparken Tenma gizlice uzaklaşır.",
+                "air_date": "2005-08-03",
+                "still_path": "/op09o7GsIYWqYSpbLpznnvD5JMa.jpg",
+                "video_url": "2776636"
+            },
+            {
+                "episode_number": 67,
+                "name": "Geri Döndüm",
+                "overview": "Nina, Johan'la yüzleşir ve Johan, kendisine Kırmızı Güller Malikanesi'nde birçok insanın zehirlenmesiyle neler olduğuna dair bir hikaye sunar. Nina bu ölümlere tanık olanın kendisi olduğunu anlar, bu açıklamanın şoku onu neredeyse intihara sürükler ama Tenma tarafından kurtarılır. Capek'in öldürdüğü gardiyanı öğrendiklerinde Capek, örgütünün üyeleri tarafından vurularak öldürülür.",
+                "air_date": "2005-08-10",
+                "still_path": "/aLmAaiiXvdQYJcLOFDsIzPjffei.jpg",
+                "video_url": "2776638"
+            },
+            {
+                "episode_number": 68,
+                "name": "Ruhenheim",
+                "overview": "Lunge, Lipsky'nin aldığı bir kartpostalla Ruhenheim'a varır. Orada, araştırmaları onu bu kasabaya da getiren Grimmer ile tanışır. Bu kasabada işçi sınıfından bir çift, piyangoyu kazandıklarını fark eder ve herkesin onları öldürmek isteyebileceğinden korkan koca, bir silah cephaneliği satın alır.",
+                "air_date": "2005-08-17",
+                "still_path": "/dWoaXlZnl0AnNWfLHR3zxvKCkg4.jpg",
+                "video_url": "2776639"
+            },
+            {
+                "episode_number": 69,
+                "name": "Huzurlu Ev",
+                "overview": "Lunge ve Grimmer, rastgele silah sesleri duyulduğunda, insanlar ya öldürüldüğünde ya da ortadan kaybolduğunda ve şehir dışındaki tüm bağlantılar sağanak yağmur nedeniyle sular altında kaldığında Ruhenheim'da korkunç bir şeyler olduğu sonucuna varırlar. Nina yakındaki bir hastanede iyileşirken Tenma, Capek'ten gelen ipucunu kullanarak Prag'a gider ve Lipsky ile buluşur ve Johan'ın Ruhenheim'da olduğunu belirler.",
+                "air_date": "2005-08-24",
+                "still_path": "/6swDish7SjX8mDev2IGOqojdCvz.jpg",
+                "video_url": "2776640"
+            },
+            {
+                "episode_number": 70,
+                "name": "Kasaba Katliamı",
+                "overview": "Zaman geçtikçe Ruhenheim'da daha fazla insan gizemli kişiler ve birbirleri tarafından vurularak öldürülüyor. Hem Grimmer hem de Lunge, yerel bir otelin sahibinin Franz Bonaparta olarak da bilinen Klaus Poppe olduğunu belirler. Kasabadaki herkese silah veren bir adamı bastırdıktan sonra elebaşlarından birinin ikinci bir otelde olduğu bilgisini alırlar.",
+                "air_date": "2005-08-31",
+                "still_path": "/ym9CtBHMfwiAgZ8TvoQcAftejL0.jpg",
+                "video_url": "2776641"
+            },
+            {
+                "episode_number": 71,
+                "name": "Muhteşem Steiner'ın Gazabı",
+                "overview": "Tenma, Lunge'la karşılaşır ve ikincisi, Tenma'ya yönelik önceki suçlamalarından dolayı özür diler. Nina ve Dr. Gillen, Ruhenheim'a koşar. Piyangoyu kazanan çift, Bonaparta'nın oteline düzenlenen saldırıda yaralandıktan sonra Grimmer, kimliği belirsiz saldırganlarla mantık yürütmek için sokaklara çıkar.",
+                "air_date": "2005-09-07",
+                "still_path": "/nRSnVZ2zekxzKseNIgGGDKvCBaV.jpg",
+                "video_url": "2776642"
+            },
+            {
+                "episode_number": 72,
+                "name": "İsimsiz Bir Adam",
+                "overview": "Lunge, bir otel odasında elebaşlarından biri olan Roberto ile yüzleşir. Her ikisi de daha sonra kavgada yaralandı. Nina ve Gillen Ruhenheim'a varırlar ve burada iki ikizin Bonaparta'nın çizimlerini içeren bir ev bulurlar. Bu, son bir anıyı tetikler ve Johan'ın deliliğinin ve amaçlarının sırrını, gerçek yalnızlık arayışını ve eylemlerinin bağışlanmasını tetikler. Bonaparta, Johan'ı bulup öldürme arayışında Tenma'ya eşlik eder.",
+                "air_date": "2005-09-14",
+                "still_path": "/cYwkZ7sVHuTWj1eKFqcV2vej1Uh.jpg",
+                "video_url": "2776643"
+            },
+            {
+                "episode_number": 73,
+                "name": "Kıyamet Günü Manzarası",
+                "overview": "Bonaparta, Johan'ı vurarak öldürmeye çalışır, ancak kısa süre sonra kendi yaralarından ölen Roberto tarafından vurularak öldürülür. Katliamın sona ermesiyle birlikte yetkililer kasabaya akın eder ve ne olduğunu belirlemeye çalışır. Tam bir polis memuru Dr. Tenma'yı tutuklamak üzereyken bir ambulans görevlisi gelir ve Tenma'dan yardım ister.",
+                "air_date": "2005-09-21",
+                "still_path": "/50zYRfi1u6O11VsgKbn84lG0RQx.jpg",
+                "video_url": "2776644"
+            },
+            {
+                "episode_number": 74,
+                "name": "Gerçek Canavar",
+                "overview": "Trajik kan savaşının üzerinden epey zaman geçti ve herkes hayatını normale döndürmek için çok çalışıyor. Tenma sonunda aradığı kadını bulur ve bazı şaşırtıcı bilgileri açığa çıkarır.",
+                "air_date": "2005-09-28",
+                "still_path": "/nPvjX9pqeuNeIlr0YGB9LoT1efh.jpg",
+                "video_url": "2776646"
+            }
+        ]
+    }
+}

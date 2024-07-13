@@ -1,0 +1,220 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2014-01-04",
+        "poster_path": "/7pL2wGmy92v31ceYvCVIg4ilwLr.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bir Ev Kedisi, Bir Başıboş Tanrı ve Bir Kuyruk",
+                "overview": "Yato, Hayaletlerle savaşan ve insanların sorunlarını sadece 5 yen karşılığında çözen işsiz bir başıboş tanrıdır. Ancak kayıp bir kediyi aramanın kader dolu bir karşılaşmaya yol açacağını bilmemektedir...",
+                "air_date": "2014-01-05",
+                "still_path": "/6fpGewGVeiKSbtB1DYJnIIY8sXo.jpg",
+                "video_url": "2673689"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kar Benzeri",
+                "overview": "Yato'nun kendisini iyileştirmenin henüz bir yolunu bulamaması nedeniyle öfkelenen Hiyori, meseleyi kendi eline alır. Yato için yeni bir Regalia bulmak için acele eder ama bunun yerine felaketle karşılaşır!",
+                "air_date": "2014-01-12",
+                "still_path": "/tmnrJud12gSR1bzDif3FIqgti3X.jpg",
+                "video_url": "2673692"
+            },
+            {
+                "episode_number": 3,
+                "name": "Teklif Edilen Felaket",
+                "overview": "Yukine, bir tanrıyla yaşamanın hiç de göründüğü gibi olmadığını öğrenir, ancak beklenmedik bir müşterinin Yato'yu bir iş için işe almasıyla işler değişmeye başlar!",
+                "air_date": "2014-01-19",
+                "still_path": "/cK1bj4IpJFoO5wginWzKFeM7RsA.jpg",
+                "video_url": "2673695"
+            },
+            {
+                "episode_number": 4,
+                "name": "Mutluluğun Yattığı Yer",
+                "overview": "Yato, Yukine ve Hiyori'yi Yedi Şans Tanrısı'ndan biriyle tanıştırır... Ancak bu tanrının hayal ettikleri gibi bir tarafı yoktur!",
+                "air_date": "2014-01-26",
+                "still_path": "/xovVOC9pF1oVhOkSkuueH2PFA8Y.jpg",
+                "video_url": "2673697"
+            },
+            {
+                "episode_number": 5,
+                "name": "Sınır Çizgisi",
+                "overview": "Yato, Yukine'e Hayaletleri savuşturmak için yeni bir teknik öğretir... ve bu becerinin test edilmesi uzun sürmez! İşleri daha da kötüleştirmek için, Yukine ayrıca Hiyori'ye karşı beslediği yaramaz düşünceler ve duygularla da mücadele etmek zorundadır...",
+                "air_date": "2014-02-02",
+                "still_path": "/ntbtgD3zF7Hl7eWgIOTH1yw6grC.jpg",
+                "video_url": "2673698"
+            },
+            {
+                "episode_number": 6,
+                "name": "Korkunç Kişi",
+                "overview": "Yato ve Yukine, kısa giyimli savaş tanrıçası Bishamon'un aniden saldırısına uğrar. Yato yaralı bir halde durumla başa çıkmaya çalışırken Hiyori başka bir tanrıdan yardım ister...",
+                "air_date": "2014-02-09",
+                "still_path": "/ikG9mF39z7UJlq3bZK6rkzpVZcs.jpg",
+                "video_url": "2673699"
+            },
+            {
+                "episode_number": 7,
+                "name": "Belirsizlik ve Kader",
+                "overview": "Bishamon ve diğer tanrılar, yeni açılan Vent'ten dışarı akan Hayaletleri yok etmelidir. Ancak Yukine ve Yato hala düşmanca ilişkiler içindedir - gizemli Nora'nın kendi lehine kullandığı bir gerçek.",
+                "air_date": "2014-02-16",
+                "still_path": "/1Le9u6PGn6NvTrCaRkMnJITtqr0.jpg",
+                "video_url": "2673701"
+            },
+            {
+                "episode_number": 8,
+                "name": "Hat Üzerinden",
+                "overview": "Kötü durumuna rağmen Yato, zorbalık sorunu yaşayan bir öğrenciye yardım etmesi için işe alınır. Ancak hem öğrenci hem de Yukine, durumlarının gerçekliğiyle yüz yüze geldiklerinde işler sert bir şekilde değişir.",
+                "air_date": "2014-02-23",
+                "still_path": "/xauF7mPlu0NBS6Ah8GRK9hgTKep.jpg",
+                "video_url": "2673702"
+            },
+            {
+                "episode_number": 9,
+                "name": "İsim",
+                "overview": "Yato ölümün eşiğindeyken Hiyori ve arkadaşları, dışarıdan yardım gerektiren tehlikeli bir arınma ritüeli düzenlemeye karar verir. Peki kim bu bilinmeyen tanrı için hayatını isteyerek riske atar?",
+                "air_date": "2014-03-02",
+                "still_path": "/dLbOpeXZ6KKrt6pvugSmhorfUMH.jpg",
+                "video_url": "2673703"
+            },
+            {
+                "episode_number": 10,
+                "name": "Nefretle Karşılanan",
+                "overview": "Hiyori yeni yıla yakındaki bir tapınağı ziyaret ederek girer. Nora ve Rabo adındaki uğursuz felaket tanrısının onun için başka planları vardır...",
+                "air_date": "2014-03-09",
+                "still_path": "/prli0EXw0MbnlRfI7TQokJvxRDv.jpg",
+                "video_url": "2673704"
+            },
+            {
+                "episode_number": 11,
+                "name": "Terk Edilmiş Tanrı",
+                "overview": "Hiyori gizemli bir şekilde Yato'ya dair tüm hafızasını kaybeder ama başka kimseyi kaybetmez. Yato onun hatırlamasına yardımcı olmaya çalışırken Nora ve Rabo planlarına devam eder.",
+                "air_date": "2014-03-16",
+                "still_path": "/or0P0Cf6rz9Nbi2yKQVMPiF6rK0.jpg",
+                "video_url": "2673706"
+            },
+            {
+                "episode_number": 12,
+                "name": "Bir Hafıza Parçası",
+                "overview": "Yato ve Yukine, son bir savaşta Rabo ve Nora ile karşı karşıya gelir.",
+                "air_date": "2014-03-23",
+                "still_path": "/m1YSiuSNbcrjuwJ2nR4YWPizCgb.jpg",
+                "video_url": "2673707"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2015-10-01",
+        "poster_path": "/tFBC2iT2aCJgFJrVIsy6v8ipd0W.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ölümünden Sonra Bir İsim Taşıyan",
+                "overview": "Yato, ihtiyaç duyulduğunda Hayaletleri de öldüren bir teslimat tanrısı olarak günlük rutinine devam ediyor. Bishamon başka yerlerde çok eski zamanlardan kalma kabuslarla boğuşuyor…",
+                "air_date": "2015-10-03",
+                "still_path": "/5wDIYJYG7U2OyW7WrNId6rirOlJ.jpg",
+                "video_url": "2653042"
+            },
+            {
+                "episode_number": 2,
+                "name": "Anılarından Biri",
+                "overview": "Yukine yeni bir arkadaş edinir ama çok geçmeden Regalia olmanın ne demek olduğunu öğrenir. Bishamon'un bozulan sağlığı karşısında Kazuma'nın kafası karışmış durumda… ta ki şok edici bir keşif yapana kadar!",
+                "air_date": "2015-10-10",
+                "still_path": "/oJUTURGF73D3Ss5trAM2ggbXR4S.jpg",
+                "video_url": "2653044"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sahte Tahvil",
+                "overview": "Kugaha sonunda planını harekete geçirir ve Kazuma'yı sürgüne gönderir. Ortaya çıkan kaos, Bishamon'un daha fazla acı çekmesine neden olur... ve Yukine ile Yato'yu da kargaşanın içine çeker!",
+                "air_date": "2015-10-17",
+                "still_path": "/lIZ7V0SzeggFYPo0dgswPsU7NyY.jpg",
+                "video_url": "2653045"
+            },
+            {
+                "episode_number": 4,
+                "name": "Dilek",
+                "overview": "Kazuma ve Hiyori kendilerini yakalanmış halde bulur. Kugaha'nın Yato ve Bishamon'u birbirleriyle ölümüne savaşmaları için kandırmasını çaresizce izliyorlar!",
+                "air_date": "2015-10-24",
+                "still_path": "/7tN9KnNZeygambS52biY4XagrAQ.jpg",
+                "video_url": "2653050"
+            },
+            {
+                "episode_number": 5,
+                "name": "İlahi Takdir, Yakarış",
+                "overview": "Yato ve Bishamon birbirleriyle savaşırken Yukine ikiye bölünür! Başka bir yerde Kugaha, Bishamon'un Regalias'ını katlederek planının ikinci bölümünü hayata geçiriyor!",
+                "air_date": "2015-10-31",
+                "still_path": "/qtmymqtVxCp5Nn4rmxX4v6iVzE0.jpg",
+                "video_url": "2653054"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ne Yapılmalı?",
+                "overview": "Bishamon ve Yato, Kugaha'nın ihanetini öğrenir ancak hasarın büyük kısmı çoktan verilmiştir. Bu sırada maskeli dev Phantom, kalan son Regalia'ları avlamaya devam ediyor...",
+                "air_date": "2015-11-07",
+                "still_path": "/kipC7uGT6166jk9vS7nQnpYA5B9.jpg",
+                "video_url": "2653056"
+            },
+            {
+                "episode_number": 7,
+                "name": "Bir Tanrıya Nasıl İbadet Edilir?",
+                "overview": "Bishamon son zamanlardaki başarısızlıkları hakkında diğer tanrılarla görüşmek zorunda kalır. Başka bir yerde Ebisu, Yato'nun kendi tapınağını inşa etmesine yetecek kadar büyük miktarda bir para karşılığında Yukine'yi Yato'dan satın almayı teklif eder.",
+                "air_date": "2015-11-14",
+                "still_path": "/epOjfYxowWlD1opLSUBgz4Puv9a.jpg",
+                "video_url": "2653059"
+            },
+            {
+                "episode_number": 8,
+                "name": "Felaket Tanrısı",
+                "overview": "Kugaha'nın yenilgisinin ardından Ebisu, bazı gizli testler yapmaya karar verir. Bu arada, Hiyori'nin ona kendi tapınağını vermesiyle Yato yeni zirvelere ve yeni diplere ulaşır...",
+                "air_date": "2015-11-21",
+                "still_path": "/23uuhqHuWjcuAZxOXYljitv2wHp.jpg",
+                "video_url": "2653062"
+            },
+            {
+                "episode_number": 9,
+                "name": "İplik Kopma Sesi",
+                "overview": "Yato ve Nora birlikte son bir işi tamamlamak için yeraltı dünyasına giderler: belli bir sihirbazı bulup kurtarmak. Ancak her geçen an Hiyori, Yato'yu unutmaya başlar...",
+                "air_date": "2015-11-28",
+                "still_path": "/24SFLYEZ0s6ExCH3zIFDbSL9hUe.jpg",
+                "video_url": "2653064"
+            },
+            {
+                "episode_number": 10,
+                "name": "Belli Bir Arzu",
+                "overview": "Tanrılar, Ebisu'nun Hayaletler üzerinde deneyler yaptığını öğrenince gökler kaosa sürüklenir. Bu sırada Yato ve Ebisu, İzanami'den kaçıp yeraltı dünyasını geride bırakmaya çabalar.",
+                "air_date": "2015-12-05",
+                "still_path": "/ldXWLzUIittOEX2Q9A7eQ6yBZEz.jpg",
+                "video_url": "2653068"
+            },
+            {
+                "episode_number": 11,
+                "name": "Canlanma",
+                "overview": "Bishamon ve Hiyori, Yato'nun izini sürmeyi başarır ancak yeraltı dünyasına girmelerinin hiçbir yolu yoktur. Bu arada İzanami, Yato'nun peşine düşmeye devam ediyor... Eğer yakalanırsa sonsuza kadar yeraltı dünyasında mahsur kalacak!",
+                "air_date": "2015-12-12",
+                "still_path": "/39QvLb6JsO8rBjSMsjkL4kbSQfJ.jpg",
+                "video_url": "2653069"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sesiniz Çıkıyor",
+                "overview": "Bishamon, Yato'yu kurtarmak için savaşta Izanami ile yüzleşir. Yato'nun kaçmak için tek umudu gerçek isminde yatıyor ama bunu hiç kimseye açıklamadı. Bu arada göksel cellatlar Ebisu'yu yakaladılar ve onu öldürmeye hazırlanıyorlar!",
+                "air_date": "2015-12-19",
+                "still_path": "/eYLCybPoHBtNRVRukKiBaX8YqKz.jpg",
+                "video_url": "2653070"
+            },
+            {
+                "episode_number": 13,
+                "name": "Şans Tanrısının Mesajı",
+                "overview": "Gökler ilahi cezasını verir ve Ebisu yeniden başlamak zorunda kalır. Buna rağmen Yato yeni bir amaç duygusuyla doludur ve Ebisu'ya verdiği sözü tutar.",
+                "air_date": "2015-12-25",
+                "still_path": "/qj9AqHHws2H1IKlQrDJ9Vbieq8j.jpg",
+                "video_url": "2653071"
+            }
+        ]
+    }
+}

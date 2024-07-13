@@ -1,0 +1,517 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 20,
+        "air_date": "2005-02-21",
+        "poster_path": "/tUG6h0rMtQyOgvqI8r9AqxlKoUP.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Buzdağındaki Çocuk",
+                "overview": "Güney Kutbu'nda yaşayan iki genç kardeş (Sokka ve Katara), bir buzdağının içinde evcil hayvanı uçan bizonu Appa ile birlikte çok tuhaf bir çocuk (Aang) keşfeder. Peki savaşı kazara köylerinin kapısına kadar çektiğinde ona güvenebilecekler mi?",
+                "air_date": "2005-02-21",
+                "still_path": "/cjo9ipGyKvY0j024I0iqhVhfN34.jpg",
+                "video_url": "2787644"
+            },
+            {
+                "episode_number": 2,
+                "name": "Avatar Geri Dönüyor",
+                "overview": "Katara ve Sokka, Aang'ın uzun süredir kayıp olan Avatar olduğunu keşfeder ve Zuko adlı Ateşbükme prensi onu kaçırınca onu kurtarmak zorunda kalır.",
+                "air_date": "2005-02-21",
+                "still_path": "/zGktHJTiPypAqJd0yG3EVoznxqE.jpg",
+                "video_url": "2787645"
+            },
+            {
+                "episode_number": 3,
+                "name": "Güney Hava Tapınağı",
+                "overview": "Aang, yüz yıl sonra ilk kez eve gideceği için heyecanlıdır, ancak tapınağın terk edilmiş olduğunu öğrenince şok olur. Aang, tapınağı keşfederken Sokka ve Katara'ya çocukluğundan bahseder, ancak kısa süre sonra Aang'in hiç beklemediği bir şey keşfederler. Bu arada, Zuko gemisinde onarımlar yapmalıdır ve bunu yapabilmesinin tek yolu gemisini rakibinin deniz üssüne yanaştırmaktır.",
+                "air_date": "2005-02-25",
+                "still_path": "/bFBUv2VDtyBuilulFynsNGPINnw.jpg",
+                "video_url": "2787646"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kyoshi Savaşçıları",
+                "overview": "Ekip, Kyoshi Adası'na varır ve bazı Kyoshi savaşçıları tarafından yakalanır. Aang, avatarın kendisi olduğunu açıkladığında haber hızla yayılır ve sonunda Zuko'ya ulaşır. Zuko da onu yakalamak için Kyoshi Adası'na gider.",
+                "air_date": "2005-03-04",
+                "still_path": "/4VNx9JspNnWZibkkr7XydYPHh2m.jpg",
+                "video_url": "2787647"
+            },
+            {
+                "episode_number": 5,
+                "name": "Omashu Kralı",
+                "overview": "Aang'ın hava bükücü yeteneklerine bir kral meydan okur.",
+                "air_date": "2005-03-18",
+                "still_path": "/6p6CR7ITrtaYEo0IewpFfMVowB8.jpg",
+                "video_url": "2787648"
+            },
+            {
+                "episode_number": 6,
+                "name": "Tutuklu",
+                "overview": "Yakındaki bir Dünya Köyü'nde çete, Haru adında genç bir toprak bükücüyle tanışır. Bu köy, Ateş Ulusu'ndan korkarak yaşar çünkü oradaki askerler bulabildikleri tüm toprak bükücüleri yakalarlar.",
+                "air_date": "2005-03-25",
+                "still_path": "/hVnpU1sh2vf5yG5CqpNTga8JsIz.jpg",
+                "video_url": "2787649"
+            },
+            {
+                "episode_number": 7,
+                "name": "Ruh Dünyası: Kış Gündönümü (1)",
+                "overview": "Aang ve arkadaşları, kızgın bir ruhun terörize ettiği bir köyü ziyaret eder. Iroh, Dünya Krallığı askerleri tarafından yakalanır.",
+                "air_date": "2005-04-08",
+                "still_path": "/3dHFknGTv7Q9PNXiOoV9KT83vRn.jpg",
+                "video_url": "2787651"
+            },
+            {
+                "episode_number": 8,
+                "name": "Avatar Roku: Kış Gündönümü (2)",
+                "overview": "Önceki Avatar'ın ruhuyla temas kurmak için Aang'ın ertesi gün güneş batmadan önce Ateş Ulusu'ndaki bir tapınağa ulaşması gerekiyor. Orada dünyanın dengesini yeniden sağlamak için ne yapması gerektiğini öğrenecek. Zuko, Aang'i takip etmek için sürgüne meydan okumak zorundadır.",
+                "air_date": "2005-04-15",
+                "still_path": "/h8eRQzK7eBZGP3SyDnw8RFM5TK8.jpg",
+                "video_url": "2787652"
+            },
+            {
+                "episode_number": 9,
+                "name": "Su Bükme Parşömeni",
+                "overview": "Katara, Aang'e su bükmeyi öğretmeye çalıştığında, ancak onun bunu kendisinden çok daha hızlı öğrendiğini fark ettiğinde, yeteneklerini geliştirmek konusunda çaresiz kalır.  Katara, bir korsan dükkanında yanlışlıkla yeteneklerini geliştirmeye yardımcı olabilecek bir su bükme parşömeni ile karşılaştığında, parasının yetmeyeceğini fark ederek onu çalmaya karar verir.",
+                "air_date": "2005-04-29",
+                "still_path": "/c4xpfkn2iRVr50hal2NPu7mbZSC.jpg",
+                "video_url": "2787653"
+            },
+            {
+                "episode_number": 10,
+                "name": "Jet",
+                "overview": "Grup, Kuzey Kutbu'na doğru seyahat ederken neredeyse Ateş Ulusu tarafından ele geçiriliyor.  Ancak karizmatik bir genç adam ve onun isyancı grubu, Ateş Ulusu kampına saldırıp onları kurtardığında, Ateş Ulusu'nun topraklarını genişletme amaçlarına direnmeye çalıştıklarını öğrenirler.  Katara ve Aang, asi çetesiyle vakit geçirmekten gerçekten keyif alır, ancak Sokka çok geçmeden onların göründüğü kadar asil olmadıklarını keşfeder.",
+                "air_date": "2005-05-06",
+                "still_path": "/iO4HwGe4CSySOg5n6ecAH9pf0bu.jpg",
+                "video_url": "2787654"
+            },
+            {
+                "episode_number": 11,
+                "name": "Büyük Ayrım",
+                "overview": "Aang ve arkadaşları, Kuzey Kutbu'na giderken, iki grup mültecinin kimin karşıya geçmesi gerektiği konusunda tartıştığı dev bir kanyona varırlar.  Aang, birbirleriyle kavga etmemelerini sağlamak için iki grupla birlikte karşıya geçmeye karar verir.  Ancak çok geçmeden iki kabilenin yüz yıldır kavgalı olduğunu ve her ikisinin de eylemlerinin haklı olduğuna inandığını öğrenir.  Ancak kanyonun içindeki yırtıcı hayvanlar ortaya çıkmaya başlayınca Aang, iki kabileyi birbirinden ve vahşi vahşi doğadan korumaya çalışırken takılıp kalır.",
+                "air_date": "2005-05-20",
+                "still_path": "/yXln4Af5xi8jhGCXn6oWcCnG5UT.jpg",
+                "video_url": "2787655"
+            },
+            {
+                "episode_number": 12,
+                "name": "Fırtına",
+                "overview": "Aang, Katara ve Sokka'nın paraları bitti.  Katara, Sokka'ya bir iş bulmasını önerir ve tesadüfen balık tutma konusunda kendisine yardım edecek birini arayan bir balıkçıyla tanışırlar. Ancak balıkçı, Aang'in Avatar olduğunu anlayınca son 100 yılın tüm sorunlarının sorumlusu olarak Aang'ın yokluğunu suçlar ve Aang planörüne binerek kaçar. Katara, Appa'nın peşine düşer ve onu bulduğunda Aang, buzdağının içinde donmadan önceki hayatını açıklamaya başlar. Bu sırada Zuko ve Teğmen Jee kavga eder ama Iroh kavgayı ayırır. Kısa süre sonra Teğmen ve mürettebatın geri kalanı, liderlerinin geçmişini öğrendikten sonra onlara karşı yeni bir saygı duymaya başlar.",
+                "air_date": "2005-06-03",
+                "still_path": "/3AhzvIYWwoudE5dPc319s2P8IWG.jpg",
+                "video_url": "2787656"
+            },
+            {
+                "episode_number": 13,
+                "name": "Mavi Ruh",
+                "overview": "Aang, Katara ve Sokka seyahat ederken Sokka'nın ateşi çıkar. Katara'nın da ateşi çıkınca Katara ve Aang, Sokka'ya yardım etmeye çalışır. İki arkadaşını kurtarmak için tek başına yukarı çıkmak Aang'e kalmıştır. Ancak ilacı alamadan yeni terfi eden Amiral Zhao tarafından yakalanır ve Zhao'nun kalesine konur.",
+                "air_date": "2005-06-17",
+                "still_path": "/cyD4FCLS0vaxLmHantYqMkqACh5.jpg",
+                "video_url": "2787657"
+            },
+            {
+                "episode_number": 14,
+                "name": "Falcı",
+                "overview": "Grup, bir ornitorenk ayının saldırısına uğrayan bir adama yardım etmeye çalıştığında, yerel kasabada, yıllardır kasabanın kaderini tahmin eden Wu Teyze adında bir falcının bulunduğunu keşfederler. Ancak Sokka ve Aang, falcının en önemli tahminlerinden birinin tamamen yanlış olduğunu keşfettiklerinde, inatçı kasaba halkını, sevgili Wu Teyzelerinin yanıldığına ikna edecek bir plan geliştirmek zorunda kalırlar.",
+                "air_date": "2005-09-23",
+                "still_path": "/3nCVnuQbSv645QFg3SYM9PELbOe.jpg",
+                "video_url": "2787658"
+            },
+            {
+                "episode_number": 15,
+                "name": "Su Kabilesi'nin Bato'su",
+                "overview": "Katara ve Sokka, babalarının Güney Kutbu'ndan eski bir arkadaşı olan Bato ile yeniden bir araya gelirken Aang kendini ihmal edilmiş hisseder. Babalarından gelecek mesajı beklerken geçmişlerini hatırlamaya başlarlar. Aang, mesajın gelmesi durumunda Katara ve Sokka'nın onu terk edip babalarını bulmaya gideceklerine inanır. Ancak haberci, Aang'e Bato'ya iletmesi gereken mesajı verince Aang, arkadaşlarına Katara ya da Sokka'nın asla hayal edemeyeceği bir şekilde ihanet eder. Ancak Zuko, Aang'in izini sürmesi için June adında bir ödül avcısını işe aldığında, kendisini başka bir kavgadan korurken arkadaşlarına ihanet ettiği gerçeğiyle yüzleşmek zorunda kaldığı için arkadaşlığı da teste tabi tutulur.",
+                "air_date": "2005-10-07",
+                "still_path": "/sBSdSLVgW6JxpYKhEQiWGbVl1Q3.jpg",
+                "video_url": "2787659"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kaçak",
+                "overview": "Aang ve arkadaşları, Aang'in ateş bükmeye tanık olabilmesi için bir Ateş Ulusu kasabasına giderler, ancak onun Avatar olduğu keşfedildiğinde planları çok geçmeden ters gider. Neyse ki, Ateş Ulusu'nu terk eden Jeong Jeong adında bir ateş bükme ustasına hizmet eden bir kişi tarafından kurtarılır ve Aang, bu zamanı ateş bükmeyi öğrenmek için kullanmaya karar verir. Ancak ateş bükme ustası Aang'e ders verme konusunda isteksiz görünmektedir.",
+                "air_date": "2005-10-21",
+                "still_path": "/8TlUZ7Bdk9NbwvaXJ7r7F23uQ8J.jpg",
+                "video_url": "2787660"
+            },
+            {
+                "episode_number": 17,
+                "name": "Kuzey Hava Tapınağı",
+                "overview": "Aang ve arkadaşları hava bükücülerin hayatta kaldığına dair söylentiler duyunca Kuzey Kutbu'na giderken Kuzey Hava Tapınağı'na uğramaya karar verirler. Buldukları şey, hava bükücü olmayan ama süzülme sanatında ustalaşmış bir grup insandır; ancak bu Aang'ı üzüyor çünkü tapınağı tahrif ediyorlar. Ancak tapınağın kimsenin giremediği bir kısmı vardı ve Aang ile arkadaşlarının içeride keşfettikleri şey yaklaşmakta olan çatışmanın habercisiydi.",
+                "air_date": "2005-11-04",
+                "still_path": "/ea6vqQarfblBWk95wmUdUjYzEzt.jpg",
+                "video_url": "2787661"
+            },
+            {
+                "episode_number": 18,
+                "name": "Su Bükme Ustası",
+                "overview": "Aang kuzey kutbunu bulmaya çalıştığında, onun yerine kuzey kutbunda bulunur. Aang ve Katara oraya götürülürken bir su bükme ustası bulmaya heveslidirler ancak kızların su bükmeyi öğrenmesine izin verilmediğini keşfederler.",
+                "air_date": "2005-11-18",
+                "still_path": "/yGmwLBcQboXSRnmKpaa7utygUNt.jpg",
+                "video_url": "2787663"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kuzeyin Kuşatması (1)",
+                "overview": "Zhao, Kuzey Su Kabilesi'ne karşı saldırısını başlatmaya başlar. Prestijli şehrin duvarları yıkılmaya başladığında Avatar, ruhlar dünyasından yararlanır ve dünyanın en önemli bölgelerinden birini kurtarma umuduyla en eski ruhlardan birinin yardımını arar.",
+                "air_date": "2005-12-02",
+                "still_path": "/9jGillcXki194qzZm1LYfXNlVhz.jpg",
+                "video_url": "2787664"
+            },
+            {
+                "episode_number": 20,
+                "name": "Kuzeyin Kuşatması (2)",
+                "overview": "Aang ruhlar dünyasından büyük bir sürprizle döner. Bu arada Zhao ve güçleri Kuzey Su Kabilesi'ne daha derin baskı yapmaya devam ediyor. Iroh güçlü bir duruş sergilerken Zuko, planını sağlam tutmakta zorlanır.",
+                "air_date": "2005-12-02",
+                "still_path": "/sVqGZedB0hAOD9tPcHIwUMz3bsy.jpg",
+                "video_url": "2787665"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 20,
+        "air_date": "2006-03-17",
+        "poster_path": "/quX70K1L7vTLQ9vRJcK0kKcNNFA.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Avatar Durumu",
+                "overview": "Avatar Durumunun yıkıcı gücünü gösteren kabuslarla boğuşan Aang ve ekibi, Ateş Ulusu'nu yenmek için büyük planları olan bir Dünya Krallığı generaliyle tanışır. Bu arada, Kuzey Su Kabilesi'ne yapılan başarısız saldırıdan sağ kurtulan Zuko ve Iroh, Zuko'nun kız kardeşinden görünüşte iyi haberler veren sürpriz bir ziyarette bulunur.",
+                "air_date": "2006-03-17",
+                "still_path": "/oIy3PKC460qRbiPIxNKiuVf9QSH.jpg",
+                "video_url": "2787666"
+            },
+            {
+                "episode_number": 2,
+                "name": "İki Aşık Mağarası",
+                "overview": "Omashu'ya giderken Aang, Katara ve Sokka, onlara \"İki Aşık Mağarası\"na giden kestirme yolu gösteren bir grup göçebeyle tanışır. Ancak grup mağarada sıkışıp kaldığında, aşka güvenerek ve muhtemelen ilişkilerini sorgulayarak grubu kurtarmak Aang ve Katara'ya kalır. Bu sırada Iroh'da ölümcül bir kızarıklık oluşur ve Zuko ile Iroh, gerçek kimliklerinin ortaya çıkmayacağını umarak yardım almak için küçük bir Dünya Krallığı kasabasına gider.",
+                "air_date": "2006-03-24",
+                "still_path": "/nnXvDDSFUylD6SS7bpm1PXaNUbe.jpg",
+                "video_url": "2787667"
+            },
+            {
+                "episode_number": 3,
+                "name": "Omashu'ya Dön",
+                "overview": "Çetenin yeni keşfettiği şok edici haberlere rağmen Aang, gerçek kimliğinin ortaya çıkması halinde kendisini ve arkadaşlarını bekleyen tehlikelere rağmen, Kral Bumi'yi Omashu sınırları içinde bulmaya çalışmakta ısrar eder.  Bu arada Azula, görevinde ona yardımcı olacak eski arkadaşlarını aramaya başlar.",
+                "air_date": "2006-04-07",
+                "still_path": "/ryrXflY4MEKwvow1Kww607gVfzO.jpg",
+                "video_url": "2787668"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bataklık",
+                "overview": "Gizemli bir kasırga, çocukları Katara, Sokka ve Aang'ın gizemli vizyonlar gördüğü doğaüstü bir bataklığa sürükler. Bu sırada Momo ve Appa, haydut bataklık sakinleri tarafından kovalanır ve onları yalnızca Aang ve çetesi kurtarabilir.",
+                "air_date": "2006-04-14",
+                "still_path": "/8iSkwakA54mqxcBUZtZsISnvkco.jpg",
+                "video_url": "2787669"
+            },
+            {
+                "episode_number": 5,
+                "name": "Avatar Günü",
+                "overview": "Aang ve ekibi, \"Avatar Günü\" adı verilen bir şeyi kutlayan bir Dünya kasabasını keşfeder. Ancak oraya vardıklarında festivalin \"Avatar karşıtı\" bir duygu olduğunu öğrenirler ve Aang, geçmişteki bir enkarnasyonun işlediği iddia edilen bir suçtan dolayı yargılanır. Avatar'ın adını temize çıkarmak isteyen Katara ve Sokka, kanıt toplamak ve gerçeği keşfetmek için tanıdık bir yere geri döner.",
+                "air_date": "2006-04-28",
+                "still_path": "/rCttnlrBm4A8e8Vt7strjXYkCPS.jpg",
+                "video_url": "2787670"
+            },
+            {
+                "episode_number": 6,
+                "name": "Kör Haydut",
+                "overview": "Aang için bir Toprak Bükme öğretmeni arayan çocuklar, Earth Rumble 6 adlı yeraltı Toprak Bükme turnuvasına giderler ve burada kör ama güçlü bir Toprak Bükme kızı olan Toph ile karşılaşırlar. Aang, onun benzersiz Toprak Bükme tarzını gördükten sonra Toph'un öğretmeni olmasını ister ancak Toph'un ailesiyle sorunlar yaşanır.",
+                "air_date": "2006-05-05",
+                "still_path": "/ouMgUBM6duJ4cS3jXm2rUomz5X.jpg",
+                "video_url": "2787671"
+            },
+            {
+                "episode_number": 7,
+                "name": "Zuko Yalnız",
+                "overview": "Zuko, yerel bir çocukla tanıştığı Dünya Krallığı kasabasına tek başına seyahat eder. İkili neredeyse arkadaş olurken, Zuko geçmişine dair anılar yaşar.",
+                "air_date": "2006-05-12",
+                "still_path": "/8KNbkm7kniSrdH4Ye07vUd6z8hC.jpg",
+                "video_url": "2787672"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kovalamak",
+                "overview": "Her uyumaya çalıştıklarında ortaya çıkan bir makineden kaçmaya çalışmaktan yorulan Aang ve ekibi, Azula ve ekibinden kaçmak zorunda kalır ancak yorgunlukları zor bir duruma yol açar. Bu sırada Zuko'nun kişisel bir meseleyle uğraşması gerekir ve Iroh beklenmedik bir kişiyle bağ kurar.",
+                "air_date": "2006-05-26",
+                "still_path": "/jM4D3ngfBqV1VzQeHKOadjT4qxG.jpg",
+                "video_url": "2787673"
+            },
+            {
+                "episode_number": 9,
+                "name": "Acı İş",
+                "overview": "Aang, kendisini toprak bükmekten alıkoyan bir engelin üstesinden gelemeyince, Toph'un öğretme yetenekleri sorgulanır hale gelir. Sokka, bir sonraki yemeğinden birkaç dakika önce arkadaş olurken kendini zor durumda bırakır ve Iroh ile Zuko, diğer unsurlardan kaynaklanan yeni felsefeler ve yöntemler kullanarak eğitime başlar.",
+                "air_date": "2006-06-02",
+                "still_path": "/56Uya5iHbyRjSXvWIN1P6eAQSfc.jpg",
+                "video_url": "2787675"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kütüphane",
+                "overview": "Aang ve arkadaşları dünya hakkında bilgi içeren bir kütüphane bilen bir profesör bulduklarında, Sokka umutla Ateş Ulusu'na karşı kullanmak üzere biraz bilgi bulmak için oraya gitmeye karar verir. Kütüphane, insanların yalnızca kötü amaçlar için bilgi aradığına inandığı için kütüphanesine insanları kabul etmeyen bilgi ruhu Wan Shi Tong tarafından korunmaktadır. Wan Shi Tong, Sokka'nın kendisine karşı dürüst olmadığını keşfettiğinde, kütüphaneyi batırmaya başlar ve çocukları da beraberinde batırır.",
+                "air_date": "2006-07-14",
+                "still_path": "/fvAu7bhOFyI9HEt1Msp0WutlILb.jpg",
+                "video_url": "2787676"
+            },
+            {
+                "episode_number": 11,
+                "name": "Çöl",
+                "overview": "Aang, Appa'yı ararken Katara, uçsuz bucaksız çölde hayatta kalabilmek için herkesi bir arada tutmaya çabalar. Bu sırada Iroh ve Zuko, eski bir gizli topluluktan yardım ister.",
+                "air_date": "2006-07-14",
+                "still_path": "/1iJoEqtFi6v0fj3dNmiQRh05L5H.jpg",
+                "video_url": "2787677"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yılanın Geçidi",
+                "overview": "Aang ve ekibi bir grup mülteciyle buluştuğunda çeteye Ba Sing Se'ye giden feribota nereden binebileceklerini söylerler. Ancak bir dizi olaydan sonra eski bir dost olan Suki'nin yardımıyla yılanın geçidi adı verilen ölümcül bir rotayı kullanmak zorunda kalırlar. Bu sırada Zuko ve Iroh, Jet adında bir çocuk ve onun özgürlük savaşçılarıyla buluşur.",
+                "air_date": "2006-09-15",
+                "still_path": "/1OmMINcc4KaNBJmuswLq2ee3VXF.jpg",
+                "video_url": "2787679"
+            },
+            {
+                "episode_number": 13,
+                "name": "Matkap",
+                "overview": "Ba Sing Se'nin dış duvarına ulaşan çocuklar, Dünya Krallığı'nın son kalesi için yakın bir tehdit oluşturan devasa bir Ateş Ulusu tatbikatını kullanan bir Ateş Ulusu ordusuyla karşı karşıya gelir. Bu sırada Zuko ve Iroh'un yaptığı önemli hatalar Jet'in şüphelerini çekmeye başlar.",
+                "air_date": "2006-09-15",
+                "still_path": "/oinuOajlGzfwvcpmXyPE15IwfTL.jpg",
+                "video_url": "2787680"
+            },
+            {
+                "episode_number": 14,
+                "name": "Duvarlar ve Sırlar Şehri",
+                "overview": "Sonunda Ba Sing Se'ye girmeyi başaran çocuklara üst halkada bir ev verilir. Çocuklar Dünya Kralı'na planlarını anlatmak için sabırsızlanıyor ama bazı sorunlar var. Bu arada, hâlâ Iroh ve Zuko'nun Ateş Ulusu olabileceğine inanan Jet, meseleyi kendi eline almaya ve mültecilerin gerçek doğalarını ortaya çıkarmasını sağlamak için ne gerekiyorsa yapmaya karar verir.",
+                "air_date": "2006-09-22",
+                "still_path": "/ewTBqdyYruMREGkKbMZysZ0QgoG.jpg",
+                "video_url": "2787682"
+            },
+            {
+                "episode_number": 15,
+                "name": "Ba Sing Se'nin Hikayeleri",
+                "overview": "Şehirdeki farklı karakterleri ve onların bireysel maceralarını vurgulayan bir dizi kısa hikaye. Katara ve Toph, Iroh, Sokka, Aang, Zuko ve Momo'nun hikayeleri.",
+                "air_date": "2006-09-29",
+                "still_path": "/aJIcdw8ZYTwfvBZrca2VVTGHWEG.jpg",
+                "video_url": "2787683"
+            },
+            {
+                "episode_number": 16,
+                "name": "Appa'nın Kayıp Günleri",
+                "overview": "Appa'nın çölde kaçırılmasından günümüze kadar olan yolculuğu araştırılıyor.",
+                "air_date": "2006-10-13",
+                "still_path": "/hem0BVH2mXx71Xf79RolSFLzeJV.jpg",
+                "video_url": "2787684"
+            },
+            {
+                "episode_number": 17,
+                "name": "Lake Laogai",
+                "overview": "Aang ve arkadaşları Appa'yı aramaya devam eder ve onların haberi olmadan onu arayanlar sadece onlar değildir. Aramaları sırasında çocuklar, anlaşılır bir şekilde güvenme konusunda isteksiz oldukları Jet ile tanışırlar. Çocuklar çok geçmeden Dai Li'nin çocukların Appa'yı bulma çabalarını engellemek için ellerinden geleni yaptığını anlarlar. Bu sırada Iroh'a üst halkada kendi çay dükkanı teklif edilir ve Zuko, avatarın şehirde olduğunu keşfeder.",
+                "air_date": "2006-11-03",
+                "still_path": "/cdrc7Caz9VabYfBl9bH9R93wk4j.jpg",
+                "video_url": "2787685"
+            },
+            {
+                "episode_number": 18,
+                "name": "Dünya Kralı",
+                "overview": "Çocuklar, Dünya Kralı'na şehrinde gerçekleşen büyük komployu göstermeye çalışırken Long Feng ve Dai Li ile savaşır. Zuko ciddi bir şekilde hastalanır ve ruhsal bir krizle karşı karşıya kalırken ateşli rüyalar görür.",
+                "air_date": "2006-11-17",
+                "still_path": "/y4UHFyv67j6sf1wxvGljl5kpoKU.jpg",
+                "video_url": "2787686"
+            },
+            {
+                "episode_number": 19,
+                "name": "Guru",
+                "overview": "Aang, Guru Pathik'ten rehberlik almak için Doğu Hava tapınağına giderken Sokka, uzun süredir kayıp olan babasıyla yeniden bir araya gelir. Bu arada Azula'nın, aralarında Zuko ve Iroh'un da bulunduğu Dünya Krallığı'ndaki düşmanları için şeytani bir planı vardır.",
+                "air_date": "2006-12-01",
+                "still_path": "/49ED3hLwNq6sibzazGv656CrLEW.jpg",
+                "video_url": "2787687"
+            },
+            {
+                "episode_number": 20,
+                "name": "Kaderin Kavşağı",
+                "overview": "Herkes Azula'nın hain planını durdurmak için zamana karşı yarışıyor. Zuko beklenmedik bir kaynakta arkadaşlık bulur. Aang'ın kaderi tehlikededir; Iroh ona bir seçim yapma zamanının geldiğini söylerken Zuko'nun da kaderi aynıdır.",
+                "air_date": "2006-12-01",
+                "still_path": "/5Ix70WNv3rqYv0AVWPifE7euOq4.jpg",
+                "video_url": "2787688"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 21,
+        "air_date": "2007-09-21",
+        "poster_path": "/roPE4jaHawj1Dm6uIXJHuLDpkNy.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Uyanış",
+                "overview": "Aang uyanır ve kendisini ele geçirilmiş bir Ateş Ulusu gemisinde, Ba Sing Se için yapılan bir önceki savaştan dolayı saçı dolu ve ciddi yaralar almış halde bulur. Yanında Katara, Sokka ve babaları Hakoda, dördünü gemiye getiren olayları anlatıyor ve bir sonraki hamlelerini düşünüyor. Aang, daha hazır olmadan Ateş Lordu'yla yüzleşme arzusuyla mücadele etmeye çabalar. Bu sırada Zuko, babasının reddedilme korkusuyla uzun zamandır beklediği eve doğru yolculuğunu yaparken kendi sorunlarıyla uğraşmaktadır.",
+                "air_date": "2007-09-21",
+                "still_path": "/4bucff7ht2AkY6mAVgYMsJPVxo7.jpg",
+                "video_url": "2787689"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kafa Bandı",
+                "overview": "Aang, Ateş Ulusu vatandaşları olarak daha iyi uyum sağlamak için bir Ateş Ulusu okuluna kaydolur ve kendisine Ulus hakkında daha fazla bilgi edinme ve Avatar olduğunu keşfettiğinden beri ilk kez normal bir çocuk olarak hayatın tadını çıkarma fırsatı verir. Bu arada, Avatar'ın sahte ölümü konusunda giderek daha fazla paranoyaklaşan Zuko, hapsedilen Iroh'la yüzleşmeye başlar.",
+                "air_date": "2007-09-28",
+                "still_path": "/2b5qDWFIxJDlv2d7FLPd9IDwdnk.jpg",
+                "video_url": "2787690"
+            },
+            {
+                "episode_number": 3,
+                "name": "Boyalı Kadın",
+                "overview": "Ekip, acı çeken bir balıkçı köyüne vardığında, gizemli bir ruh köylülere yardım etmek için ortaya çıkar.",
+                "air_date": "2007-10-05",
+                "still_path": "/jIOrXmDp5YcCwPoeaw6MGLU1rfd.jpg",
+                "video_url": "2787691"
+            },
+            {
+                "episode_number": 4,
+                "name": "Sokka'nın Ustası",
+                "overview": "Gruba yeterince katkıda bulunmadığını hisseden Sokka, kılıcın yollarını öğrenebileceği, bulunması zor bir kılıç ustası arar.",
+                "air_date": "2007-10-12",
+                "still_path": "/2cjFSKxFHOqj0TpAnd4SqHjQ5G2.jpg",
+                "video_url": "2787693"
+            },
+            {
+                "episode_number": 5,
+                "name": "Sahil",
+                "overview": "Zuko, Azula, Mai ve Ty Lee, Ember Adası'na tatile çıkar. Bu süreçte kendileri, birbirleri ve geleceğe dair arzuları hakkında daha fazla şey öğrenirler. Başka bir yerde Aang ve diğerleri yeni bir düşmanla karşı karşıya gelir.",
+                "air_date": "2007-10-19",
+                "still_path": "/8OKDuNidwMMMgakf67c8tCX3I2C.jpg",
+                "video_url": "2787694"
+            },
+            {
+                "episode_number": 6,
+                "name": "Avatar ve Ateş Lordu",
+                "overview": "Avatar Roku ve Ateş Lordu Sözin'in hikayesi, farklı kaynaklar tarafından Aang ve Zuko'ya anlatılır.  Her ikisi de kendileri hakkında bilgi sahibi oluyor ve savaşın kökenleri gösteriliyor.",
+                "air_date": "2007-10-26",
+                "still_path": "/sFZ1uE6Kl50PRt2yGaGdKTay4gA.jpg",
+                "video_url": "2787695"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kaçak",
+                "overview": "Katara, Toph'un hızlı para kazanmaya yönelik yeni yöntemini onaylamadığını ifade ettiğinde grup onu fazla anaç bulur ve Katara ile Toph arasındaki gerilim artar. Katara nihayet Toph'un suçlamalarını çürütmek için bu dolandırıcılığa katılmaya karar verdiğinde savunmasız kalırlar ve korkunç sonuçlarla yüzleşmek zorunda kalırlar.",
+                "air_date": "2007-11-02",
+                "still_path": "/8gymKiOEJNYZPVScLRVUhNuYgCj.jpg",
+                "video_url": "2787696"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kukla Ustası",
+                "overview": "Ekip, ürkütücü bir kasabada meydana gelen tuhaf kaybolma olaylarını araştırıyor.",
+                "air_date": "2007-11-09",
+                "still_path": "/d1ECriFq8qpttMnHwrAVewSq6IF.jpg",
+                "video_url": "2787697"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kabuslar ve Hayaller",
+                "overview": "İstiladan dört gün önce Aang, Ateş Lordu ile yakında karşılaşacağı yüzleşme nedeniyle gerginleşir. Korkunç kabuslar ve halüsinasyonlar görmeye başladıkça kaygısı daha da artıyor. Bu sırada Zuko, bir savaş toplantısı hakkında kendisine bilgi verilmediğini öğrenince üzülür.",
+                "air_date": "2007-11-16",
+                "still_path": "/wiMuXVUPqSJFmny7Z6eqgZeRicn.jpg",
+                "video_url": "2787698"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kara Güneş Günü: İstila (1)",
+                "overview": "Tutulma günü geldi ve işgal kuvvetleri son hazırlıkları yapmak için bir araya geldi. Adaya sızarlar ve savaş başlar. Bu sırada Aang, Ateş Lordu'nu arar.",
+                "air_date": "2007-11-30",
+                "still_path": "/njLvVlI4HzQtxFYNG5G2LPpZJqF.jpg",
+                "video_url": "2787699"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kara Güneş Günü: Tutulma (2)",
+                "overview": "İstila gücü Ateş Ulusu'nun başkentine doğru savaşırken çocuklar, Aang'ın tutulma zamanında Ateş Lordu'nu bulmasına yardım eder. Zuko şok edici bir haberle babasıyla yüzleşir.",
+                "air_date": "2007-11-30",
+                "still_path": "/8IyCdPVbGeS6bO8Ij2EVd8oiUwm.jpg",
+                "video_url": "2787700"
+            },
+            {
+                "episode_number": 12,
+                "name": "Batı Hava Tapınağı",
+                "overview": "Aang ve grup, Zuko'nun peşindeyken Batı Hava Tapınağı'na varır. Zuko, Avatar'a ateş bükmeyi öğreterek savaşı bitirmesine yardım etmek istiyor.",
+                "air_date": "2008-07-14",
+                "still_path": "/k6BAVhHNN5JEvbvwK35wXUhxcFv.jpg",
+                "video_url": "2787702"
+            },
+            {
+                "episode_number": 13,
+                "name": "Ateş Bükme Ustaları",
+                "overview": "Zuko, Aang'e ateş bükmeyi öğretirken tüm ateş bükme becerilerini kaybettiğini fark eder. Güçlerini yeniden kazanmak için Zuko ve Aang'in, ateş bükmenin orijinal kaynağını kayıp bir medeniyetin kalıntıları arasında araması gerekir.",
+                "air_date": "2008-07-15",
+                "still_path": "/2xpOq1usmWDX9ia7cfBFmgqp8KO.jpg",
+                "video_url": "2787703"
+            },
+            {
+                "episode_number": 14,
+                "name": "Kaynayan Kaya (1)",
+                "overview": "Sokka, babasını hapisten çıkarmak ister ve Zuko'dan Ateş Ulusu hapishaneleri hakkında bilgi ister. Sokka ve Zuko, Sokka'nın babasını kurtarmak için yanardağın ortasında bulunan bir hapishane olan Kaynayan Kaya'ya doğru yola çıkar.",
+                "air_date": "2008-07-16",
+                "still_path": "/keivJ7wk45aLbg03AqEb9WgrYSz.jpg",
+                "video_url": "2787704"
+            },
+            {
+                "episode_number": 15,
+                "name": "Kaynayan Kaya (2)",
+                "overview": "Zuko ve Sokka, Suki, Sokka'nın babası ve diğer bazı kişilerle birlikte hapishaneden kaçmak için yeni planlar yaparken şok edici bir gelişme Azula'yı en yakın iki arkadaşıyla pek mutlu etmez.",
+                "air_date": "2008-07-16",
+                "still_path": "/zPQ44AtLyDOvGXzKECQ3zmpEQun.jpg",
+                "video_url": "2787706"
+            },
+            {
+                "episode_number": 16,
+                "name": "Güney Baskıncıları",
+                "overview": "Katara, annesinin ölümünden sorumlu olan Ateş Ulusu askeriyle yüzleşmeye karar verir. Aang onu vazgeçirmeye çalışır ama o dinlemez.",
+                "air_date": "2008-07-17",
+                "still_path": "/uizw41KRd4OMaLur4SMHCciI0n3.jpg",
+                "video_url": "2787708"
+            },
+            {
+                "episode_number": 17,
+                "name": "Ember Adası Oyuncuları",
+                "overview": "Çetenin maceralarını anlatan bir oyun, Aang ve ondan pek hoşlanan Toph dışında arkadaşlarının hoşuna gitmez. Bu sırada Aang, Katara'ya olan aşkını itiraf eder ancak yanıt belirsizdir.",
+                "air_date": "2008-07-18",
+                "still_path": "/uXawtxhXIs9zhkQ7CtnmHZvGwpy.jpg",
+                "video_url": "2787709"
+            },
+            {
+                "episode_number": 18,
+                "name": "Sozin Kuyruklu Yıldızı: Anka Kralı (1)",
+                "overview": "Aang, Ateş Lordu'nu öldürmesi gerekip gerekmediğine karar vermekte zorlanır ve gece boyunca, sabaha karşı ortadan kaybolan bir adaya doğru çekilir. Zuko, grubun geri kalanını, Aang'ı bulabileceğini umdukları bir izciyle tanışmak için Dünya Krallığı'na götürür. Ateş Lordu, kendisini Anka Kralı ilan eder ve Aang, nerede olduğunu bilmeden adada uyanır.",
+                "air_date": "2008-07-19",
+                "still_path": "/nvM2L5RuezyQKhMCltrhkEekIXe.jpg",
+                "video_url": "2787710"
+            },
+            {
+                "episode_number": 19,
+                "name": "Sozin Kuyruklu Yıldızı: Eski Ustalar (2)",
+                "overview": "Aang adadayken geçmiş yaşamlarından rehberlik ister ancak kendisine söylenenlerden memnun değildir. Aslında adanın, Aang'e aradığı rehberliğin verildiği bir aslan kaplumbağası olduğu ortaya çıkar. İzleyici Aang'ı takip edemeyince grubun geri kalanı Iroh'u bulmaları gerektiğine karar verir. Bu arada grup, Iroh'un izini sürerken, dört ulusun bölünmüşlüğünü aşan bir grup olan Beyaz Lotus Tarikatı ile buluşur.",
+                "air_date": "2008-07-19",
+                "still_path": "/51ceqvaljO0hqBjdDtmUzliHwVp.jpg",
+                "video_url": "2787712"
+            },
+            {
+                "episode_number": 20,
+                "name": "Sozin Kuyruklu Yıldızı: Cehenneme Doğru (3)",
+                "overview": "Sokka, Suki ve Toph, Ateş Ulusu'nun hava filosunu durdurmaya çalışır. Bu sırada Zuko ve Azula, Agni Kai'de düello yapar ve Aang, Ateş Lordu ile yüzleşir. Kaybetmenin eşiğinde olan Aang, yara izinin arkasından darbe alır ve bu da onu Avatar Durumuna gönderir.",
+                "air_date": "2008-07-19",
+                "still_path": "/jM6NzBbk5P22j3dWnIpOb7oTXeS.jpg",
+                "video_url": "2787714"
+            },
+            {
+                "episode_number": 21,
+                "name": "Sozin'in Kuyruklu Yıldızı: Avatar Aang (4)",
+                "overview": "Aang, Ateş Lordu'nun içindeki unsurları bükerek ve ateş bükme yeteneklerini ortadan kaldırarak Ateş Lordu'nu yener. Katara'yı Azula'dan korumak için Zuko'nun alaşağı edilmesinin ardından Katara kavgaya katılır ve Azula'yı dizginlemeyi başarır. Daha sonra Zuko, Ateş Lordu olarak taç giyer ve dünyaya daha iyi bir gelecek vaat ederken, Aang bir sonraki Avatar olarak onun yerini alır. Katara nihayet batan güneşin altında öpüşürken Aang'e olan sevgisini gösterir.",
+                "air_date": "2008-07-19",
+                "still_path": "/4a93Ud89t51LcvyiDTtWFRscUhE.jpg",
+                "video_url": "2787715"
+            }
+        ]
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2021-07-03",
+        "poster_path": "/hk9joSlfsrVTmcoYzQ7rFg028Fq.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Paslanmış Umutlar Durumunda",
+                "overview": "Noé, efsanevi \"Vanitas Kitabı\"nı bulmayı umduğu Paris'e giden bir zeplindedir. Gemi varış noktasına yaklaşırken Amelia adında bir kadınla tanışır ve ardından gizemli bir yabancının ortaya çıkmasıyla ortalık karışır. Noé'nin arayışı onu buldu mu?",
+                "air_date": "2021-07-03",
+                "still_path": "/fxnc6WqwzexfVu33t0Fn12f8PFr.jpg",
+                "video_url": "4564738"
+            },
+            {
+                "episode_number": 2,
+                "name": "Çiçekler Şehrinde",
+                "overview": "Vanitas ve Noé, bir davet gelene kadar çıkmazdadır. Velinimetlerinin evinde, \"Vanitas Kitabı\"nın bir vampirin gerçek adını geri getirebileceğini kanıtlamaları gerektiğini anlarlar. Gerekli kanıtı elde etmeye çalışırlar ancak kitaptan sonra başka biriyle karşılaşırlar.",
+                "air_date": "2021-07-10",
+                "still_path": "/v1fRc8ChV7x8V9OOJOa8cUORlw3.jpg",
+                "video_url": "4564739"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çıplak Kan Bırakan Dişler",
+                "overview": "Vanitas ve Cehennem Ateşi Cadısı arasındaki savaş beklenmedik bir hal alır. Vanitas ve Noé, Amelia'nınkiyle birlikte kendi kaderlerini öğrenmek için Kont Orlok'a döner. Noé, Amelia'nın isminin bozulmasının nedenini daha derinlemesine araştırır ve eski bir arkadaşıyla birlikte bir yolculuğa çıkar.",
+                "air_date": "2021-07-17",
+                "still_path": "/94rM9faQkJZtCUengJ1plGvswpF.jpg",
+                "video_url": "4564740"
+            },
+            {
+                "episode_number": 4,
+                "name": "Alaycı Maskeler Gecesi",
+                "overview": "Öğretmen Dünya Formülü teorisini açıklar. Vanitas, Noé ve Dominique'in ilişkisinden rahatsız olur. Dominique, Vanitas'ı kömürlerin üzerine sürüyor. Vanitas, Jeanne ile tekrar karşılaşır ve balo misafirlerine kendini gösterir. Kapıyı kıranlar geldiğinde kaos başlar.",
+                "air_date": "2021-07-24",
+                "still_path": "/y0H2fdZ9Yu4hm3XcDsnGWADNoic.jpg",
+                "video_url": "4564741"
+            },
+            {
+                "episode_number": 5,
+                "name": "Arkadaşlar",
+                "overview": "Noé'nin Şarlatan'la karşılaşması, bir çocukluk geçmişine dönüşü tetikler. Louis'in karanlık sırrıyla birlikte ilk günleri de ortaya çıkar. Noé arkadaşlarıyla birlikte büyür, ancak yakın çevrelerinden birini kurtarma girişiminin trajik sonuçları olur.",
+                "air_date": "2021-07-31",
+                "still_path": "/rafH7Pdv4IK5Jg64cpEzhB6OMgu.jpg",
+                "video_url": "4564742"
+            },
+            {
+                "episode_number": 6,
+                "name": "Sorular",
+                "overview": "Vanitas kurtarmaya gelir ve Noé ile ekibinin Şarlatan'ın lanetlileriyle savaşmasına yardım eder. Noé, Vanitas'ın yöntemlerini sorgular. Başka bir tehditle karşı karşıya kaldıklarında beklenmedik bir yardım gelir. Noé, Vanitas'la yüzleşir ama bu onları bir araya mı getirecek yoksa parçalayacak mı?",
+                "air_date": "2021-08-07",
+                "still_path": "/atwQ3hZ6mWCQMrKtVzmbB3cYLdd.jpg",
+                "video_url": "4564743"
+            },
+            {
+                "episode_number": 7,
+                "name": "Aşk",
+                "overview": "Vanitas ve Jeanne'nin Paris'teki savaşları sırasındaki \"karşılaşmaları\" gün yüzüne çıkar. Vanitas, Jeanne'nin sırrını iki şartla saklamayı teklif eder. Noé ve Vanitas, Lord Ruthven'la tanışmaya hazırlanır. Noé aşkın anlamı üzerine düşünür ama Domi işleri zorlaştırır.",
+                "air_date": "2021-08-14",
+                "still_path": "/A3CbiU6Mzomc0KOYyFEL3PT75YD.jpg",
+                "video_url": "4564744"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ölümün Uyuduğu Yer",
+                "overview": "Lord Ruthven ile yapılan görüşme Vanitas'ın önsezisini doğruluyor. Vanitas ve Noé, Kont Orlok'a rapor verir ve bir dizi vampir kaçırma olayını duyar. Dante bunu doğruluyor ve bu da onları yeraltına sürüklüyor. Paris'in derinliklerine doğru yaptıkları maceradan sağ çıkabilecekler mi?",
+                "air_date": "2021-08-21",
+                "still_path": "/AbiTpk3dT831v3au4sdlqsz7YgE.jpg",
+                "video_url": "4564745"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kızıl Avlayanlar",
+                "overview": "Roland'la savaş başlıyor! Vanitas ve Noé, Chasseur'ların peşinde koşarak kaçarlar. Vanitas, Chasseur'un yeraltı alanına neden girdiğini ve yolunu nasıl bildiğini açıklıyor. Gereksiz bir dramın ardından Vanitas aradığı kişiyi bulur.",
+                "air_date": "2021-08-28",
+                "still_path": "/tHvvL3EQlMZ7xw2lGapns9L63dp.jpg",
+                "video_url": "4564746"
+            },
+            {
+                "episode_number": 10,
+                "name": "69 Numara",
+                "overview": "Vanitas, çalışmalarından ve güçlü bir destekçisinden bahseden Dr. Moreau ile yeniden bir araya gelir. Yeniden bir araya gelmeleri ağlamaklı mı yoksa şiddetli mi olacak? Vanitas'ın Mavi Ay Vampiri ile geçirdiği zamana bir geri dönüşü var. Vanitas ve Noé, Roland'ın yardımıyla lanet sahibini kurtarmaya çalışır.",
+                "air_date": "2021-09-04",
+                "still_path": "/pTjwAuz4kDajRPQPJSEmSly91Iy.jpg",
+                "video_url": "4564747"
+            },
+            {
+                "episode_number": 11,
+                "name": "Vaatler",
+                "overview": "Dominique, Jeanne'e tavsiyelerde bulunur. Jeanne, Vanitas'ı bir davetle şaşırtır ve Dominique onları gölgede bırakır. Noé, Lord Ruthven'la karşılaşır ancak önceki karşılaşmalarının ardından kendisini ne bekleyeceğini bilemez. Jeanne sözünü tutar ve Vanitas da ona bir söz verir.",
+                "air_date": "2021-09-11",
+                "still_path": "/nU6HTSrAhMJ9FCPI7blusF66eJD.jpg",
+                "video_url": "4564748"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kalkış Noktası",
+                "overview": "Jeanne, Vanitas'ın içine korku salan bir şey söyler. Lord Ruthven, Noé'ye yemin ettirir. Olivier, Roland'ın takıntısı yüzünden aklını kaçırmıştır. Noé'nin içini yakan bir susuzluk vardır. Vanitas, belirli bir canavarın geri döndüğünü duyar ve Noé ile birlikte araştırmak üzere yola çıkar.",
+                "air_date": "2021-09-18",
+                "still_path": "/tobG6djRnC7FhYYsrGr4y7XpWaS.jpg",
+                "video_url": "4564749"
+            },
+            {
+                "episode_number": 13,
+                "name": "Şans Eseri Bir Karşılaşma",
+                "overview": "Vanitas ve Noé, Canavar olarak bilinen bir yaratığı aramak için Gévaudan'a giderler, ancak cani bir paladin, düşman bir tanıdık ve eski bir düşmanla karşılaştıklarında işler ters gider. Kahramanlarımız Canavarın yanı sıra bu tehditlerden de kurtulabilecek mi?",
+                "air_date": "2022-01-15",
+                "still_path": "/lj9z8YrHWgrcDpK4khAxHxBEkDT.jpg",
+                "video_url": "4577127"
+            },
+            {
+                "episode_number": 14,
+                "name": "Cadı ve Genç Adam",
+                "overview": "Vanitas ve Jeanne birlikte ateşli ama tuhaf bir gece geçirir. Vanitas, Dante'nin bilgileri sakladığını öğrenince öfkesi alevlenir. Hepsi farklı amaçlara sahip olduklarını bilmelerine rağmen Noé'yi bulmak için yola çıkarlar. Bu sırada Noé uyanır ve kendisini Canavar'ın ininde bulur.",
+                "air_date": "2022-01-22",
+                "still_path": "/bIL5r9N6JWSFaWwzQWsKqvkE2Jt.jpg",
+                "video_url": "4583408"
+            },
+            {
+                "episode_number": 15,
+                "name": "D'apchiers'ın Vampiri",
+                "overview": "Noé, Naenia'nın Chloé'nin gerçek adını aldığını öğrenir. Chloé'nin geçmişi ve d'Apchiers'ın geçmişi gün yüzüne çıkıyor; bunların arasında Jeanne ile olan arkadaşlığı, Alteration Engine ve Ruthven'in motor araştırmasını almaya çalışarak paramparça ettiği Chloé ile olan arkadaşlığı da var.",
+                "air_date": "2022-01-29",
+                "still_path": "/nS4u591auOSDHiK3SPo7Y24b2CR.jpg",
+                "video_url": "4590606"
+            },
+            {
+                "episode_number": 16,
+                "name": "Yaratık",
+                "overview": "Noé isteksizce Jean-Jacques'in anılarından yararlanır ve ona ne olduğunu ve Chloé ile nasıl arkadaş olduğunu öğrenir. Canavarın gerçek kimliği ve arkasındaki büyük komplo da gün yüzüne çıkıyor. Vanitas, Chloé'nin Alteration Engine'i etkinleştirmesini engellemeye çalışır.",
+                "air_date": "2022-02-05",
+                "still_path": "/uCl5fdUgFOU40WnOWei02Pi8g52.jpg",
+                "video_url": "4596351"
+            },
+            {
+                "episode_number": 17,
+                "name": "Bir Kabusun Elleri",
+                "overview": "Chloé, Naenia'yı neden öldürmek istediğini açıklar. Naenia'nın gerçek doğası ortaya çıktıktan ve Chloé'nin kötü ismi tetiklendikten sonra Vanitas ve Noé, beklenmedik bir yardımla Gévaudan'ı kurtarmak için çabalar. Jeanne'nin karanlık geçmişiyle birlikte bir kilisenin örtbas edilmesi de gün yüzüne çıkar.",
+                "air_date": "2022-02-12",
+                "still_path": "/ru4M5cqadZsStG4PkAjaKR8kJ3N.jpg",
+                "video_url": "4602756"
+            },
+            {
+                "episode_number": 18,
+                "name": "Sadece İkimiz",
+                "overview": "Vanitas, Jeanne'yi Chloé'yi öldürmemeye ikna etmeye çalışır. Astolfo'nun nefretinin nedeni ortaya çıktı. Jean-Jacques sonunda Chloé'nin son oyununu öğrenir ve onu durdurmaya çalışır. Vanitas, Chloé ve Gévaudan'ı kurtarmak için Alteration motorunu çalıştırıyor ama çok mu geç?",
+                "air_date": "2022-02-19",
+                "still_path": "/l7jipo9aXtFwMo85yVEU5q9VLzM.jpg",
+                "video_url": "4762462"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kar Çiçeği",
+                "overview": "Vanitas, Chloé'nin malnomenini tespit eder. Astolfo'nun nefreti kontrolden çıkar. Chloé, yok olmak ile kasvetli bir yaşam arasında seçim yapmak zorundadır. Vanitas yalnız kalması gerekmediğini hatırlıyor ama çok mu geç? Kahramanlarımız Gévaudan'ı ve kendilerini kurtarabilecek mi?",
+                "air_date": "2022-02-26",
+                "still_path": "/4GJYtBqNTm5NbiKopKvmjm3iPRg.jpg",
+                "video_url": "4616894"
+            },
+            {
+                "episode_number": 20,
+                "name": "Tedavisi Olmayan Hastalık",
+                "overview": "Noé, Vanitas'ı tuhaf bir hastalıktan kurtarması için Kont Orlok'a yalvarır. Vanitas, Roland'la karşılaşır ve ona \"bir arkadaş için\" aşk hakkında sorular sorar. Jeanne dehşet içinde Luca'ya güvenir. Dominque garip bir şekilde Noé'ye takıntılı görünüyor. Noé, Vanitas'a tanıştıklarından memnun olduğunu söyler.",
+                "air_date": "2022-03-05",
+                "still_path": "/kjsbGBcStxqzVP4dsJ2gV2p2Oxd.jpg",
+                "video_url": "4625221"
+            },
+            {
+                "episode_number": 21,
+                "name": "Yara Izleri",
+                "overview": "Noé rahatsız edici bir mektup aldıktan sonra harekete geçer. Domi ve Louis'in geçmişinin yanı sıra Mikhail'in geçmişine ilişkin ayrıntılar gün yüzüne çıkar. Vanitas, Mikhail'in dönüşünü duyunca paniğe kapılır. Noé, Mikhail'le yüzleşir ancak onun istediğini yapmak zorunda kalır.",
+                "air_date": "2022-03-12",
+                "still_path": "/1N57vjaTdT2X7m4Zb9eFuc8WpoE.jpg",
+                "video_url": "4762462"
+            },
+            {
+                "episode_number": 22,
+                "name": "Mavi Gece",
+                "overview": "Noé, Mikhail'in kanını emerken Mikhail'in Vanitas'la olan geçmişine bir göz atar. Vanitas'ın ebeveynleri, Mavi Ay Vampiri ile olan geçmişi ve katlandığı deneyler hakkında ayrıntılar ortaya çıkıyor. Vanitas Noé'yi kurtarmaya geldiğinde Mikhail çok sevinir.",
+                "air_date": "2022-03-19",
+                "still_path": "/o02gqNIsJgC0AaEc8hFZOYk9LJS.jpg",
+                "video_url": "4639966"
+            },
+            {
+                "episode_number": 23,
+                "name": "Yağmur Gibi Gözyaşları",
+                "overview": "Mikhail, Vanitas'a ne istediğini söyler. Noé ve Vanitas çatışır. Vanitas'ın neden başkalarından uzak durduğuna ve onların anılarına bakmalarını istemediğine dair ayrıntılar ortaya çıkıyor. Dominique'in hayatı bıçak sırtındadır. Noé tek şeyi yapamayacağını söylüyor Vanitas",
+                "air_date": "2022-03-26",
+                "still_path": "/v4GqUbwnaliDJ4ZJP9o4cF54xAO.jpg",
+                "video_url": "4648122"
+            },
+            {
+                "episode_number": 24,
+                "name": "Onun Dileği",
+                "overview": "Mikhail, Vanitas'a ona katılması için yalvarır. Dominque iç benliğiyle yüzleşir. Mikhail düşmanlarına dehşet saçar, ancak kitap bir bedel ödetir. Harabelerin arasında beklenmedik bir figür belirir. Vanitas, Noé ile barışır ve Mikhail ile yollarını ayırır.",
+                "air_date": "2022-04-02",
+                "still_path": "/eXeA7F7DakLxr62DuYMtGjnQSy7.jpg",
+                "video_url": "4656293"
+            }
+        ]
+    }
+}

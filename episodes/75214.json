@@ -1,0 +1,115 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2018-01-11",
+        "poster_path": "/g7BpD4B5jN4D0AAuI5v0hdfaZIN.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bölüm 1",
+                "overview": "Binbaşı Gilbert ondan ona göz kulak olmasını istediğinde Hodgins, Violet'i hastaneden alır. Gilbert'in akrabalarıyla tanıştıktan sonra ona bir iş teklif eder.",
+                "air_date": "2018-01-11",
+                "still_path": "/5NgeALLJ6j7WTUvIKrhX6wGg6RM.jpg",
+                "video_url": "4392343"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bölüm 2",
+                "overview": "Violet yeni işine alışmaya çalışır: Yazmayı öğrenmesi gerekir ve iş arkadaşları onun mektup yazmak için doğru tavırlara sahip olup olmadığını sorgular.",
+                "air_date": "2018-01-18",
+                "still_path": "/u4MHbc08kkhxpYpd5BAuew7OMiQ.jpg",
+                "video_url": "4517587"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bölüm 3",
+                "overview": "Violet, Oyuncak Bebek eğitim kursuna kaydolur. Sınıf arkadaşı Luculia, savaş gazisi erkek kardeşiyle kendi sorunları olmasına rağmen onunla arkadaş oluyor.",
+                "air_date": "2018-01-25",
+                "still_path": "/e1x2juyaYIm9YE9tOguRuAhZNOT.jpg",
+                "video_url": "4517592"
+            },
+            {
+                "episode_number": 4,
+                "name": "4.bölüm",
+                "overview": "Iris bir görev için memleketinin köyüne gittiğinde Violet ona eşlik eder. Iris'in doğum günü partisi ailesiyle anlaşmazlığa yol açar.",
+                "air_date": "2018-02-01",
+                "still_path": "/t0uxEuL1IDoHqGVT7WhZQWY4WqH.jpg",
+                "video_url": "4392346"
+            },
+            {
+                "episode_number": 5,
+                "name": "5.bölüm",
+                "overview": "Prenses Charlotte, nişanlısıyla kamuya açık bir yazışma yapacak ve Violet'e, majesteleri adına mektupları yazma görevi verildi.",
+                "air_date": "2018-02-08",
+                "still_path": "/g6iTQbUqfknHH0CwcNoCDGJZqlz.jpg",
+                "video_url": "4517602"
+            },
+            {
+                "episode_number": 6,
+                "name": "6.bölüm",
+                "overview": "Violet, hasarlı el yazmalarını kopyalayan transkripsiyoncularla çalışmak için Astrea ülkesine gider. Ortağı Leon'un kendisininkinden pek farklı olmayan bir geçmişi var.",
+                "air_date": "2018-02-15",
+                "still_path": "/7yTuIt7KmVyYpyPq1YtSb6Up5SB.jpg",
+                "video_url": "4517608"
+            },
+            {
+                "episode_number": 7,
+                "name": "7.bölüm",
+                "overview": "Yazar tıkanıklığı ve trajik bir geçmişe sahip bir oyun yazarı, Violet'i Genetrix ülkesine çağırır ve senaryosunu bitirmesine yardım etmesini ister. İkisi de keder hakkında bilgi edinir.",
+                "air_date": "2018-02-22",
+                "still_path": "/rXHhRch4zXg8owRAjlGb1yU68AT.jpg",
+                "video_url": "4517613"
+            },
+            {
+                "episode_number": 8,
+                "name": "8. Bölüm",
+                "overview": "Violet, Binbaşı Gilbert'in kayıp olarak listelendiğini öğrenir ancak aile üyeleri onun öldüğünü düşünür. Başa çıkamadığı için savaşı hatırlıyor.",
+                "air_date": "2018-03-01",
+                "still_path": "/5lxDFJm8pmFuDHePri9CLOzu9Sm.jpg",
+                "video_url": "4517617"
+            },
+            {
+                "episode_number": 9,
+                "name": "9.bölüm",
+                "overview": "Kalbi kırılan Violet işinden çekilir ve Otomatik Hafızalı Bebek olma hakkına sahip olup olmadığını sorgular. Daha sonra bir mektup alır.",
+                "air_date": "2018-03-08",
+                "still_path": "/gwEViNGfGqtgdnHvvbQzrGUz7QY.jpg",
+                "video_url": "4517624"
+            },
+            {
+                "episode_number": 10,
+                "name": "10.bölüm",
+                "overview": "Violet, ağır hasta bir savaş dul eşine mektup yazmak için kırsaldaki bir malikaneye gider, ancak genç kızı Ann, Violet'in varlığına içerler.",
+                "air_date": "2018-03-15",
+                "still_path": "/7tz3dtArlwOofnA3UyzkaNhVkZs.jpg",
+                "video_url": "4517628"
+            },
+            {
+                "episode_number": 11,
+                "name": "11.bölüm",
+                "overview": "Hodgins'in isteklerine karşı Violet, eski bir düşman ülkesi olan ve artık iç savaşa sürüklenen Ctrigall'daki askeri üsteki bir askerden iş alır.",
+                "air_date": "2018-03-22",
+                "still_path": "/s47D0X69Zyz5jZheF4MDCgXGgiO.jpg",
+                "video_url": "4517630"
+            },
+            {
+                "episode_number": 12,
+                "name": "12.bölüm",
+                "overview": "Binbaşının ağabeyine, imza törenini barışa karşı çıkan eski Gardarik güçlerine karşı savunması emredildi. Violet treninin yolunu keser.",
+                "air_date": "2018-03-29",
+                "still_path": "/uLyOhuR8qC0wOqITzWk6zWOLZTP.jpg",
+                "video_url": "4517633"
+            },
+            {
+                "episode_number": 13,
+                "name": "13.bölüm",
+                "overview": "İmza töreni sona erer ve savaş resmen sona erer. Violet, bir hava gösterisi için mektup yazarken Binbaşıya bir mektup yazar.",
+                "air_date": "2018-04-05",
+                "still_path": "/9iVaitlzFBUmjNIE8tUyP99udWk.jpg",
+                "video_url": "4517636"
+            }
+        ]
+    }
+}

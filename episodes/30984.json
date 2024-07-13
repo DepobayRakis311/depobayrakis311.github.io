@@ -1,0 +1,3108 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 366,
+        "air_date": "2004-10-05",
+        "poster_path": "/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Shinigami Olduğum Gün",
+                "overview": "On beş yaşındaki Ichigo Kurosaki hayaletleri görme konusunda esrarengiz bir yeteneğe sahiptir ancak bunun dışında sıradan bir hayat yaşamaktadır. Ancak Rukia Kuchiki adında bir Shinigami karşısına çıktığında her şey değişir.",
+                "air_date": "2004-10-05",
+                "still_path": "/huSX6KKEAQFB2SovmsbQtPED8DJ.jpg",
+                "video_url": "1751063"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bir Shinigami'nin Çalışması",
+                "overview": "Bir Shinigami olduktan sonra Ichigo Kurosaki, Karakura Kasabasının yerel Shinigami'si olarak Rukia Kuchiki'ye yardım etmeyi reddeder.",
+                "air_date": "2004-10-12",
+                "still_path": "/eXeX0NFS3hYQ3KXUaHykyTZhSDF.jpg",
+                "video_url": "1751065"
+            },
+            {
+                "episode_number": 3,
+                "name": "Büyük Kardeşin Dileği, Küçük Kız Kardeşin Dileği",
+                "overview": "İçi Boş Sora Inoue, küçük kız kardeşine saldırdığında Ichigo Kurosaki ve Rukia Kuchiki, onu kurtarmak için yola çıkar.",
+                "air_date": "2004-10-19",
+                "still_path": "/kLg5TqWattin5QslAhbexZhqH68.jpg",
+                "video_url": "1751070"
+            },
+            {
+                "episode_number": 4,
+                "name": "Lanetli Muhabbetkuşu",
+                "overview": "Yasutora Sado, genç bir çocuğun Ruhunu içeren bir muhabbet kuşu aldığında, onu peşlerindeki Hollow'dan korumak Ichigo Kurosaki ve Rukia Kuchiki'ye düşer.",
+                "air_date": "2004-10-26",
+                "still_path": "/j2NoxgG8FBksGoVN1JkduZxPYCJ.jpg",
+                "video_url": "1751074"
+            },
+            {
+                "episode_number": 5,
+                "name": "Görünmez Düşmanı Yen!",
+                "overview": "Rukia Kuchiki ve Yasutora Sado, Hollow Shrieker'a karşı iş birliği yapar.",
+                "air_date": "2004-11-02",
+                "still_path": "/62RW37FNZsMx5RUxJTwI3kKSsqX.jpg",
+                "video_url": "1751076"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ölümüne Mücadele! Ichigo, Ichigo'ya Karşı",
+                "overview": "Ichigo Kurosaki, Rukia Kuchiki'nin emriyle, Yedek Shinigami görevlerini yerine getirirken şüphe uyandırmamak ve onunla ilgilenmek için vücuduna yapay bir ruh koyar, ancak yapay ruhun kendi gündemi vardır.",
+                "air_date": "2004-11-09",
+                "still_path": "/eBWiMi4mS0P2OloRsqsphsDzk8Z.jpg",
+                "video_url": "1751080"
+            },
+            {
+                "episode_number": 7,
+                "name": "Doldurulmuş Aslan'dan Selamlar",
+                "overview": "Ichigo Kurosaki, Değiştirilmiş Ruh Kon ile arkadaş olur ve onu bir peluşun içine koyar.",
+                "air_date": "2004-11-16",
+                "still_path": "/xJXBwHZbhFsKxogHDbdDQ1pJH8S.jpg",
+                "video_url": "1751084"
+            },
+            {
+                "episode_number": 8,
+                "name": "17 Haziran Yağmurdaki Anılar",
+                "overview": "Ichigo Kurosaki, ailesinin geri kalanıyla birlikte annesinin mezarına gider.",
+                "air_date": "2004-11-23",
+                "still_path": "/dYW4AYxxYAnpZPgjg94wVBFNPRz.jpg",
+                "video_url": "1751087"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yenilmez Düşman",
+                "overview": "Ichigo Kurosaki, Grand Fisher'a karşı savaşıyor.",
+                "air_date": "2004-11-30",
+                "still_path": "/iKxBjbqvkQX8b3HAi34uF5gsBZq.jpg",
+                "video_url": "1751090"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kutsal Topraklarda Geziye Saldırı!",
+                "overview": "Ichigo Kurosaki, ailesinin geri kalanıyla birlikte isteksizce Don Kanonji'nin gösterisine katılırken, Don Kanonji'nin kendisi tarafından yanlışlıkla yaratılan bir Hollow ile savaşmak zorunda kalır.",
+                "air_date": "2004-12-07",
+                "still_path": "/tFtQxb6ytqPR1A6PTVXkZzBl236.jpg",
+                "video_url": "1751091"
+            },
+            {
+                "episode_number": 11,
+                "name": "Efsanevi Quincy",
+                "overview": "Ichigo Kurosaki ve Rukia Kuchiki, Quincy olan Uryū Ishida ile tanışır.",
+                "air_date": "2004-12-14",
+                "still_path": "/38I0hBskBtE4fLTBcjEGHNUTpO3.jpg",
+                "video_url": "1751093"
+            },
+            {
+                "episode_number": 12,
+                "name": "Nazik Bir Sağ Kol",
+                "overview": "Ichigo Kurosaki, Uryū Ishida ile düelloya başlarken Yasutora Sado yeni bir güç kazanır.",
+                "air_date": "2004-12-21",
+                "still_path": "/qSRgYBS3PQ3wk2ZzbTy6tikz9Ro.jpg",
+                "video_url": "1751094"
+            },
+            {
+                "episode_number": 13,
+                "name": "Çiçek ve İçi Boş",
+                "overview": "Orihime Inoue, Tatsuki Arisawa'yı korumak için yeni bir güç kazanır.",
+                "air_date": "2004-12-28",
+                "still_path": "/m5uys78Y23oNqXXyv79YtHEHuBI.jpg",
+                "video_url": "1751095"
+            },
+            {
+                "episode_number": 14,
+                "name": "Sırt Sırta, Ölümüne Mücadele!",
+                "overview": "Ichigo Kurosaki ve Uryū Ishida, Menos Grande'yi yenmek için birlikte çalışır.",
+                "air_date": "2005-01-11",
+                "still_path": "/npx4CFxK0orcShKETRX2CV0iClA.jpg",
+                "video_url": "1751097"
+            },
+            {
+                "episode_number": 15,
+                "name": "Kon'un Büyük Planı",
+                "overview": "Soul Society, Rukia Kuchiki'nin peşine düşerken Kon, Kurosaki Kliniğinden kaçmaya karar verir.",
+                "air_date": "2005-01-18",
+                "still_path": "/oSTyMKcT5ah7dJQae5K320aPbp6.jpg",
+                "video_url": "1751098"
+            },
+            {
+                "episode_number": 16,
+                "name": "Karşılaşma, Abarai Renji!",
+                "overview": "İki Shinigami, 6. Tümen Teğmen Renji Abarai ve Yüzbaşı Byakuya Kuchiki, Rukia Kuchiki'yi Ruh Cemiyeti'ne geri götürmek için İnsan Dünyasına gelir.",
+                "air_date": "2005-01-25",
+                "still_path": "/zvAAc5hHM6beYEkNczqb7ve3QjM.jpg",
+                "video_url": "1751100"
+            },
+            {
+                "episode_number": 17,
+                "name": "Ichigo Öldü!",
+                "overview": "Ichigo Kurosaki, Shinigami güçlerini kaybeder ve Rukia Kuchiki, Soul Society'ye geri alınır.",
+                "air_date": "2005-02-01",
+                "still_path": "/uqSNYBNWvjx0800oqWs3My7DMPN.jpg",
+                "video_url": "1751101"
+            },
+            {
+                "episode_number": 18,
+                "name": "Geri Alın! Shinigami'nin Gücü!",
+                "overview": "Ichigo Kurosaki, Shinigami güçlerini yeniden kazanmak ve Rukia Kuchiki'yi kurtarmak için Kisuke Urahara ile eğitimine başlar.",
+                "air_date": "2005-02-08",
+                "still_path": "/wOfLJ6LLukmuj0SXMusijt1AShL.jpg",
+                "video_url": "1751102"
+            },
+            {
+                "episode_number": 19,
+                "name": "Ichigo Boşluğa Dönüşüyor!",
+                "overview": "Kisuke Urahara helps Ichigo Kurosaki regain his Shinigami powers.",
+                "air_date": "2005-02-15",
+                "still_path": "/6dcvUv1TjemshrIcNYOLdULYxRn.jpg",
+                "video_url": "1751103"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ichimaru Gin's Shadow",
+                "overview": "Eğitimlerini tamamladıktan sonra Ichigo Kurosaki ve arkadaşları, Rukia Kuchiki'yi kurtarmak için Soul Society'ye doğru yola çıkar.",
+                "air_date": "2005-02-22",
+                "still_path": "/dQbyG18WnaLOrrmzQIVz7q5dnIs.jpg",
+                "video_url": "1751105"
+            },
+            {
+                "episode_number": 21,
+                "name": "Girmek! Shinigami'nin Dünyası",
+                "overview": "Ichigo Kurosaki ve arkadaşları Soul Society'ye girer.",
+                "air_date": "2005-03-01",
+                "still_path": "/ifjNKLzASt1WLb6TkBy3iJnkvWN.jpg",
+                "video_url": "1751107"
+            },
+            {
+                "episode_number": 22,
+                "name": "Shinigami'den Nefret Eden Adam",
+                "overview": "Ichigo Kurosaki ve arkadaşları, 3. Tümen Kaptanı Gin Ichimaru'nun müdahalesi nedeniyle Seireitei'ye girmenin başka bir yolunu bulmak zorunda kalır.",
+                "air_date": "2005-03-08",
+                "still_path": "/6KaTYZrq5PULGvqRa6wMKFrQdxZ.jpg",
+                "video_url": "1751109"
+            },
+            {
+                "episode_number": 23,
+                "name": "Rukia'nın İnfazından 14 Gün Önce",
+                "overview": "Ichigo Kurosaki ve arkadaşları Shiba Klanının evine girer.",
+                "air_date": "2005-03-15",
+                "still_path": "/bFGrwz26rLhCVbsYAclu8iD0v4U.jpg",
+                "video_url": "1751151"
+            },
+            {
+                "episode_number": 24,
+                "name": "Birleştirmek! 13 Bölüm",
+                "overview": "Ichigo Kurosaki ve arkadaşları Seireitei'ye girmek için hazırlıklarına başladıklarında, Gotei 13 kaptanı bir toplantı için toplanır.",
+                "air_date": "2005-03-22",
+                "still_path": "/lDH1IeRNgKR1IkUlA7eERJisIRO.jpg",
+                "video_url": "1751153"
+            },
+            {
+                "episode_number": 25,
+                "name": "Merkeze Muazzam Bir Bombayla Mı Gireceksiniz?",
+                "overview": "Ichigo Kurosaki ve arkadaşları Seireitei'ye girer.",
+                "air_date": "2005-03-29",
+                "still_path": "/pinPG9sHsT8GSIsCTgCrUaCLY3q.jpg",
+                "video_url": "1751154"
+            },
+            {
+                "episode_number": 26,
+                "name": "Formasyon! En Kötü Etiket",
+                "overview": "Ichigo Kurosaki ve arkadaşları Seireitei'nin çeşitli yerlerine dağılmışlardır ve burada yeni düşmanlarla karşılaşırlar.",
+                "air_date": "2005-04-05",
+                "still_path": "/uBdUx2p2fbTEvGVfumPjIbP3O1v.jpg",
+                "video_url": "1751164"
+            },
+            {
+                "episode_number": 27,
+                "name": "Ölüm Darbesini Serbest Bırakın!",
+                "overview": "Arkadaşları Seireitei'de ilerlemeye devam ederken Ichigo Kurosaki, 11. Tümen 3. Koltuk Ikkaku Madarame ile savaşını tamamlıyor.",
+                "air_date": "2005-04-12",
+                "still_path": "/mlNu5mYFRnfNDGKNHF8UagLmsEN.jpg",
+                "video_url": "1751166"
+            },
+            {
+                "episode_number": 28,
+                "name": "Orihime Hedefli",
+                "overview": "Ganju Shiba, 11. Lig 5. Koltuk Yumichika Ayasegawa'ya karşı mücadelesini kazanırken, Uryū Ishida kendi mücadelesine başlar.",
+                "air_date": "2005-04-19",
+                "still_path": "/fcXRthUBuL63ycZWcUUoLSQWjTP.jpg",
+                "video_url": "1751170"
+            },
+            {
+                "episode_number": 29,
+                "name": "Atılım! Shinigami'nin Kuşatan Ağı",
+                "overview": "Uryū Ishida, 7. Lig 4. Koltuk Jirōbō Ikkanzaka'yı yenerken Ichigo Kurosaki ve Ganju Shiba, Rukia Kuchiki'yi şahsen tanıyan 4. Lig 7. Koltuk Hanatarō Yamada ile karşılaşır.",
+                "air_date": "2005-04-26",
+                "still_path": "/1QwyQSbgolQetyeEm8AuetJQhZb.jpg",
+                "video_url": "1751172"
+            },
+            {
+                "episode_number": 30,
+                "name": "Renji'nin Yüzleşmesi",
+                "overview": "Senzaikyū üssüne götürülen Ichigo Kurosaki, 6. Tümen Teğmen Renji Abarai ile rövanş maçına başlar.",
+                "air_date": "2005-05-03",
+                "still_path": "/lQslKnINYyd8N33TQZaNaUgyB4F.jpg",
+                "video_url": "1751173"
+            },
+            {
+                "episode_number": 31,
+                "name": "Öldürme Kararı",
+                "overview": "Ichigo Kurosaki ve 6. Lig Teğmen Renji Abarai rövanş maçlarını tamamladılar.",
+                "air_date": "2005-05-10",
+                "still_path": "/wj9cisOsrNOFELN4XVyylw0odv4.jpg",
+                "video_url": "1751174"
+            },
+            {
+                "episode_number": 32,
+                "name": "Yıldızlar ve Serseri",
+                "overview": "6. Tümen Teğmen Renji Abarai, Rukia Kuchiki ile olan geçmişini hatırlıyor ve onun yerine onu kurtarması için Ichigo Kurosaki'ye yalvarıyor.",
+                "air_date": "2005-05-17",
+                "still_path": "/hmT6JfwHkWLoZ3d13H5l6uJnk9J.jpg",
+                "video_url": "1751176"
+            },
+            {
+                "episode_number": 33,
+                "name": "Mucize! Gizemli Yeni Kahraman",
+                "overview": "Yuzu Kurosaki, İnsan Dünyasında Raku adında bir kedi bulur ve Don Kanonji ve Karakura-Raizer Ekibi ile birlikte bir maceraya sürüklenir.",
+                "air_date": "2005-05-26",
+                "still_path": "/re7J2VGMSlFaFRM6jk3gxSxONXg.jpg",
+                "video_url": "1751178"
+            },
+            {
+                "episode_number": 34,
+                "name": "Şafak Trajedisi",
+                "overview": "Gotei 13, 6. Tümen Teğmen Renji Abarai'nin yenilgisine tepki verirken Yüzbaşı-Komutan Genryūsai Shigekuni Yamamoto, Ryoka'ya savaş ilan eder.",
+                "air_date": "2005-06-01",
+                "still_path": "/qo04UZjmob0GQpPpfZfwkW71BNZ.jpg",
+                "video_url": "1751180"
+            },
+            {
+                "episode_number": 35,
+                "name": "Aizen Suikastına Uğradı! Yaklaşan Karanlık",
+                "overview": "Gotei 13, 5. Tümen Kaptanı Sōsuke Aizen'in ölümüyle uğraşırken Ichigo Kurosaki ve grubu bir kez daha Senzaikyū'ya girmeye çalışır.",
+                "air_date": "2005-06-07",
+                "still_path": "/lO0QKmeMlX2Ig1HqEKaEq3WKiZx.jpg",
+                "video_url": "1751181"
+            },
+            {
+                "episode_number": 36,
+                "name": "Zaraki Kenpachi Yaklaşıyor!",
+                "overview": "Ichigo Kurosaki, savaşına 11. Tümen Kaptanı Kenpachi Zaraki ile başlar.",
+                "air_date": "2005-06-14",
+                "still_path": "/rSGIFTylHzbB8p4L4F80jTpgQYj.jpg",
+                "video_url": "1751182"
+            },
+            {
+                "episode_number": 37,
+                "name": "Yumruğun Nedeni",
+                "overview": "Yasutora Sado, 8. Tümen kaptanı Shunsui Kyōraku ile savaşır.",
+                "air_date": "2005-06-21",
+                "still_path": "/aKOvxA3r9k1AV1zbvbmHh3KtdQX.jpg",
+                "video_url": "1751183"
+            },
+            {
+                "episode_number": 38,
+                "name": "Çaresizlik! Kırık Zangetsu",
+                "overview": "Gotei 13'ün üst düzey üyeleri 5. Tümen Kaptanı Sōsuke Aizen'in öldürülmesine tepki göstermeye devam ederken Ichigo Kurosaki, 11. Tümen Kaptanı Kenpachi Zaraki ile savaşına devam ediyor.",
+                "air_date": "2005-06-28",
+                "still_path": "/2DvvextNaPKgFSjNfNSSzidKzGF.jpg",
+                "video_url": "1751184"
+            },
+            {
+                "episode_number": 39,
+                "name": "Ölümsüz Adam",
+                "overview": "Kendi gücüne ek olarak Zangetsu'nun gücüne de erişmeyi öğrenen Ichigo Kurosaki, 11. Tümen Kaptanı Kenpachi Zaraki ile savaşını tamamlar.",
+                "air_date": "2005-07-05",
+                "still_path": "/mN3ZQEh7fMInrvh86I4fuYrsBVX.jpg",
+                "video_url": "1751185"
+            },
+            {
+                "episode_number": 40,
+                "name": "Ganju'nun Tanıştığı Shinigami",
+                "overview": "11. Tümen Teğmen Yachiru Kusajishi, kaptanı Kenpachi Zaraki, Ganju Shiba ve 4. Tümen 7. Koltuk Hanatarō Yamada ile olan geçmişini anarken, Rukia Kuchiki'nin Senzaikyū'daki hücresine ulaşır.",
+                "air_date": "2005-07-12",
+                "still_path": "/4mS0SshXQ9DqXulPNAZxhNB1UIT.jpg",
+                "video_url": "1751186"
+            },
+            {
+                "episode_number": 41,
+                "name": "Yeniden Birleşme, Ichigo ve Rukia",
+                "overview": "Ichigo Kurosaki Beyaz Kule'ye varır ve Rukia Kuchiki ile yeniden bir araya gelir.",
+                "air_date": "2005-07-19",
+                "still_path": "/3RhzwA4DJZCQAmKZIxwIMMtNOBq.jpg",
+                "video_url": "1751188"
+            },
+            {
+                "episode_number": 42,
+                "name": "Yoruichi, Flash Tanrıçası, Dans Ediyor!",
+                "overview": "Yoruichi Shihōin, Ichigo Kurosaki'yi kurtarır ve onun Bankai'ye ulaşmasına yardım etmeye karar verir.",
+                "air_date": "2005-07-26",
+                "still_path": "/gZNnO6keVkT794TeXmczTrDQToq.jpg",
+                "video_url": "1751190"
+            },
+            {
+                "episode_number": 43,
+                "name": "Aşağılık Shinigami",
+                "overview": "Uryū Ishida ve Orihime Inoue, 12. Tümen Kaptanı Mayuri Kurotsuchi ile karşı karşıya gelir.",
+                "air_date": "2005-08-02",
+                "still_path": "/8LjClTPOZWsTNqQXUx32W0rsBe2.jpg",
+                "video_url": "1751191"
+            },
+            {
+                "episode_number": 44,
+                "name": "Ishida'nın Nihai Gücü!",
+                "overview": "Uryū Ishida, 12. Tümen Kaptanı Mayuri Kurotsuchi'yi yenmek için Sanrei Eldivenini çıkarır.",
+                "air_date": "2005-08-09",
+                "still_path": "/AbrKZDOadmZfNMClfkOMCGHGUbC.jpg",
+                "video_url": "1751192"
+            },
+            {
+                "episode_number": 45,
+                "name": "Sınırlarınızı Aşın!",
+                "overview": "Ichigo Kurosaki Bankai Eğitimine başlıyor.",
+                "air_date": "2005-08-16",
+                "still_path": "/sq3LkmSEvBLuDS5ai5U47XByGBB.jpg",
+                "video_url": "1751194"
+            },
+            {
+                "episode_number": 46,
+                "name": "Otantik Kayıtlar! Shinigami Okulu",
+                "overview": "5. Tümen Teğmen Momo Hinamori, Shin'ō Akademisi'ndeki geçmişini hatırlıyor.",
+                "air_date": "2005-08-23",
+                "still_path": "/8RINhw2qEcmxjrrDvqNylDSnanR.jpg",
+                "video_url": "1751195"
+            },
+            {
+                "episode_number": 47,
+                "name": "Yenilmezler",
+                "overview": "Ichigo Kurosaki Bankai Eğitimine devam ederken, 5. Tümen Teğmen Momo Hinamori, kaptanı Sōsuke Aizen'in bıraktığı mektubun içeriği konusunda 10. Tümen Kaptanı Tōshirō Hitsugaya ile yüzleşir.",
+                "air_date": "2005-08-30",
+                "still_path": "/5RHoW1NhPKfcXvmsdH2QM3aI3Fh.jpg",
+                "video_url": "1751196"
+            },
+            {
+                "episode_number": 48,
+                "name": "Hitsugaya Kükrüyor!",
+                "overview": "10. Tümen Kaptanı Tōshirō Hitsugaya, 3. Tümen Kaptanı Gin Ichimaru ile savaşır.",
+                "air_date": "2005-09-06",
+                "still_path": "/l2EZ10PMtx57gbalYQUW9GFVYKY.jpg",
+                "video_url": "1751197"
+            },
+            {
+                "episode_number": 49,
+                "name": "Rukia'nın Kabusu",
+                "overview": "Rukia Kuchiki, Kaien Shiba ile olan geçmişini hatırlıyor.",
+                "air_date": "2005-09-13",
+                "still_path": "/6zVhQUcKCcfeIfQ6A6VNMhAFBAx.jpg",
+                "video_url": "1751198"
+            },
+            {
+                "episode_number": 50,
+                "name": "Canlandırıcı Aslan",
+                "overview": "Karakura Süper Kahramanları bir kez daha bir araya geliyor ve Hollow'a karşı savaşıyor.",
+                "air_date": "2005-09-20",
+                "still_path": "/aSMcNWkfQ6OODO7Y8YmpzLL9pmA.jpg",
+                "video_url": "1751199"
+            },
+            {
+                "episode_number": 51,
+                "name": "Cümlenin Sabahı",
+                "overview": "Rukia Kuchiki'nin idam edileceği gün geldiğinde Seireitei çevresindeki çeşitli gruplar harekete geçer ve birbirleriyle çatışır.",
+                "air_date": "2005-09-27",
+                "still_path": "/8POptqyS18VSgskgLEBkBvPRkk8.jpg",
+                "video_url": "1751220"
+            },
+            {
+                "episode_number": 53,
+                "name": "Ichimaru Gin'in Cazibesi, Kararlılığı Paramparça Oldu",
+                "overview": "11. Tümen Yüzbaşı Kenpachi Zaraki ve emrindekiler, 7. ve 9. Tümen yüzbaşıları ve teğmenleriyle savaşıyor.",
+                "air_date": "2005-10-04",
+                "still_path": "/wUW3ZiqckWVIg1we1x8LLIbVGPN.jpg",
+                "video_url": "1751222"
+            },
+            {
+                "episode_number": 54,
+                "name": "Tamamlanmış Bir Yemin! Rukia'yı Geri Getir!",
+                "overview": "Rukia Kuchiki'nin idam töreni başlar ancak planlandığı gibi ilerlemez.",
+                "air_date": "2005-10-18",
+                "still_path": "/ymZXNT5M5AUT1t1Ge7ssmNJk9Wq.jpg",
+                "video_url": "1751223"
+            },
+            {
+                "episode_number": 55,
+                "name": "En Güçlü Shinigami! Öğretmen ve Öğrenciler Arasındaki Nihai Yüzleşme",
+                "overview": "Rukia Kuchiki'nin idamının kesintiye uğramasının ardından Seireitei'nin her yerinde çatışmalar başlar.",
+                "air_date": "2005-10-25",
+                "still_path": "/aYf7G7HkJxMKAjhWP2mqey2CrQM.jpg",
+                "video_url": "1751224"
+            },
+            {
+                "episode_number": 56,
+                "name": "Süpersonik Savaş! Savaş Tanrıçasını Belirleyin",
+                "overview": "Yoruichi Shihōin, 2. Tümen Kaptanı Suì-Fēng ile savaşır.",
+                "air_date": "2005-11-01",
+                "still_path": "/w9VU5uFGeKEedprOvpI56aXiivK.jpg",
+                "video_url": "1751226"
+            },
+            {
+                "episode_number": 57,
+                "name": "Senbonzakura, Ezildi! Zangetsu Gökyüzüne Doğru İlerliyor",
+                "overview": "Ichigo Kurosaki ve Kaptan Byakuya Kuchiki savaşlarına devam ediyor.",
+                "air_date": "2005-11-08",
+                "still_path": "/527t6P6EKTSumnjep1uCoZdwZV.jpg",
+                "video_url": "1751227"
+            },
+            {
+                "episode_number": 58,
+                "name": "Mühürünü Açın! Kara Bıçak, Mucizevi Güç",
+                "overview": "Ichigo Kurosaki ve 6. Tümen Kaptanı Byakuya Kuchiki, Bankai'lerini etkinleştirir.",
+                "air_date": "2005-11-15",
+                "still_path": "/8ktLuGpUABTrkBkpLXvR9imqn2j.jpg",
+                "video_url": "1751228"
+            },
+            {
+                "episode_number": 59,
+                "name": "Ölüm Maçının Sonucu! Beyazın Gururu ve Siyahın Arzu",
+                "overview": "Ichigo Kurosaki ve 6. Tümen Kaptanı Byakuya Kuchiki'nin savaşı sonuca ulaşır.",
+                "air_date": "2005-11-22",
+                "still_path": "/tAbQa8SNJwcLYn91px8maZqO7oR.jpg",
+                "video_url": "1751236"
+            },
+            {
+                "episode_number": 60,
+                "name": "Umutsuzluğun Gerçeği, Suikastçının Hançeri Sallandı",
+                "overview": "Soul Society'deki son birkaç olayı birbirine bağlayan bir komplo ortaya çıkar.",
+                "air_date": "2005-12-06",
+                "still_path": "/4p89ksW6WEw9qyFQIcSam7Dc4RI.jpg",
+                "video_url": "1751240"
+            },
+            {
+                "episode_number": 61,
+                "name": "Aizen Duruyor! Korkunç Hırslar",
+                "overview": "4. Tümen Teğmen Isane Kotetsu, Gotei 13'e Sōsuke Aizen'in hayatta olduğunu bildirir ve ikincisi onun entrikalarını ortaya çıkarır.",
+                "air_date": "2005-12-13",
+                "still_path": "/zhBs9qUR57ABsNvrJyE08bScZ84.jpg",
+                "video_url": "1751245"
+            },
+            {
+                "episode_number": 62,
+                "name": "Derlemek! En Güçlü Shinigami Grubu!",
+                "overview": "5. Tümen Yüzbaşısı Sōsuke Aizen, Rukia Kuchiki'nin Ruhundan Hōgyoku'yu çıkarır ve Hueco Mundo'ya çekilir.",
+                "air_date": "2005-12-20",
+                "still_path": "/8N4Y6yXWW7PZ6fHP8p7x1rdXKTN.jpg",
+                "video_url": "1751251"
+            },
+            {
+                "episode_number": 63,
+                "name": "Rukia'nın Kararı, Ichigo'nun Duyguları",
+                "overview": "Ichigo Kurosaki ve arkadaşları, Dangai üzerinden evlerine dönmeden önce Soul Society'de vedalaşıyorlar.",
+                "air_date": "2006-01-10",
+                "still_path": "/aa3drZSPlNB6NbAWiXSH2IUeWC7.jpg",
+                "video_url": "1751255"
+            },
+            {
+                "episode_number": 64,
+                "name": "Yeni Okul Dönemi, Renji Maddi Dünyaya Mı Geldi?!",
+                "overview": "Ichigo Kurosaki ve arkadaşlarının hayatları normale dönmeye başladığında, üç gizemli kişi ortaya çıkar ve Orihime Inoue'yi kaçırır.",
+                "air_date": "2006-01-17",
+                "still_path": "/tYZ3mytz9GcKA20sQVOyPriEAzx.jpg",
+                "video_url": "1751260"
+            },
+            {
+                "episode_number": 65,
+                "name": "Sürünen Terör, İkinci Kurban",
+                "overview": "Ichigo Kurosaki, Uryū Ishida, Yasutora Sado ve 6. Tümen Teğmeni Renji Abarai, Orihime Inoue'yi bulabilmek için bir oyun oynamak zorunda kalırlar.",
+                "air_date": "2006-01-24",
+                "still_path": "/baA2xnCfy3QVpAg2WEykkP13zbj.jpg",
+                "video_url": "1751261"
+            },
+            {
+                "episode_number": 66,
+                "name": "Atılım! Labirentte Saklı Tuzak",
+                "overview": "Ichigo Kurosaki, Teğmen Renji Abarai ve Uryū Ishida, arkadaşlarını kurtarmak için bir labirentte gezinmek zorundadır.",
+                "air_date": "2006-01-31",
+                "still_path": "/nCLDgTIm1kyznzrEyDpCuOF72LX.jpg",
+                "video_url": "1751263"
+            },
+            {
+                "episode_number": 67,
+                "name": "Ölüm Oyunu! Kayıp Sınıf Arkadaşı",
+                "overview": "Ichigo Kurosaki ve arkadaşları, aralarındaki bir sahtekarın kimliğini ortaya çıkarmak zorundadır.",
+                "air_date": "2006-02-07",
+                "still_path": "/iQIylRW2rV6vMRNOSTd4Y3Wi6l9.jpg",
+                "video_url": "1751264"
+            },
+            {
+                "episode_number": 69,
+                "name": "Ödül! Ruh Avlayanlar",
+                "overview": "Ichigo Kurosaki ilk kez bir Ödülle karşılaştığında Mod-Soul'lar yeni bedenler alır.",
+                "air_date": "2006-02-14",
+                "still_path": "/v6PlL9XfJCi5KG81nLQcT7YxFBw.jpg",
+                "video_url": "1751266"
+            },
+            {
+                "episode_number": 70,
+                "name": "Rukia'nın Dönüşü! Yedek Takımın Yeniden Dirilişi!",
+                "overview": "Uryū Ishida'ya ilgi duyan biri olarak iki yeni Ödül ortaya çıkıyor.",
+                "air_date": "2006-02-21",
+                "still_path": "/84JOWbRWnwT0OOG5M9fJcqwh2QS.jpg",
+                "video_url": "1751269"
+            },
+            {
+                "episode_number": 71,
+                "name": "Çarpışma Anı! Kötü Bir El Quincy'ye Yaklaşıyor",
+                "overview": "Ryō Utagawa, Ruhunu yutmaya çalışırken Uryū Ishida, kendisini Yoshino Sōma tarafından kaçırılmış ve kurtarılmış halde bulur.",
+                "air_date": "2006-03-07",
+                "still_path": "/hHDYaeDOGYqLJcNUNWNn6q6xHXi.jpg",
+                "video_url": "1751270"
+            },
+            {
+                "episode_number": 72,
+                "name": "Su Saldırısı! Kapanan Hastaneden Kaçış",
+                "overview": "Uryū Ishida hastanedeyken arkadaşları, suyu kontrol edebilen iki Bount ile savaşmak zorundadır.",
+                "air_date": "2006-03-14",
+                "still_path": "/24CyJTtyIJKBXzDMG7hc5b9kBl5.jpg",
+                "video_url": "1751272"
+            },
+            {
+                "episode_number": 74,
+                "name": "Sonsuza Kadar Yaşayan Bir Klanın Anıları",
+                "overview": "Uryū Ishida, Yoshino Sōma'yı tanırken 11. Tümen Kaptanı Kenpachi Zaraki ve teğmeni Yachiru Kusajishi, tümenlerinin eski bir üyesinin Karakura Kasabasında olduğunu keşfeder.",
+                "air_date": "2006-03-28",
+                "still_path": "/s1i1t8nUyVhVxWbiMgpDxPqBF3V.jpg",
+                "video_url": "1751274"
+            },
+            {
+                "episode_number": 76,
+                "name": "Çarpma Gücü! Fried, Zangetsu'ya Karşı",
+                "overview": "Ichigo Kurosaki, Jin Kariya'yı tahttan indirmek amacıyla ona ihanet eden Ryō Utagawa ile karşı karşıya gelir.",
+                "air_date": "2006-04-04",
+                "still_path": "/nbP3dqI3fENtLC5iT3I2qiZk3F3.jpg",
+                "video_url": "1751277"
+            },
+            {
+                "episode_number": 77,
+                "name": "Solmayan Kin! Kenpachi'nin Öldürdüğü Shinigami",
+                "overview": "Maki Ichinose, Jin Kariya ile Ichigo Kurosaki ile savaşırken geçmişini hatırlıyor.",
+                "air_date": "2006-04-11",
+                "still_path": "/6SPwAxTvsfdIv0YIFfkRqu5fnID.jpg",
+                "video_url": "1751280"
+            },
+            {
+                "episode_number": 78,
+                "name": "13 Tümen İçin Şok İfadeler!! Tarihe Gömülü Gerçek",
+                "overview": "Ichigo Kurosaki, dövüş ruhunu yeniden kazanmak için 6. Tümen Teğmen Renji Abarai ve Ganju Shiba ile mücadele ederken Uryū Ishida, Yoshino Sōma hakkında daha fazla şey anlamaya çalışır.",
+                "air_date": "2006-05-02",
+                "still_path": "/gF9dYYA7A8sEzkCUXpSHuXddZ7o.jpg",
+                "video_url": "1751281"
+            },
+            {
+                "episode_number": 79,
+                "name": "Yoshino'nun Ölüm Kararı",
+                "overview": "Yoshino Sōma, kendini kurtarmak için Jin Kariya'ya karşı son bir direniş gösterir.",
+                "air_date": "2006-05-09",
+                "still_path": "/yGDq2hzSnT2vjE3Y0BKSUxEDwFQ.jpg",
+                "video_url": "1751283"
+            },
+            {
+                "episode_number": 80,
+                "name": "Korkunç Bir Düşmandan Saldırı! Minik Bir Son Savunma Hattı Mı?",
+                "overview": "Kisuke Urahara'nın isteği üzerine Ririn, Kurōdo ve Noba, Kurosaki Kliniği çevresinde Bount karşıtı tuzaklar hazırlar, ancak Ichigo Kurosaki onları anlamsız ve yararsız bulup görmezden gelince öfkelenirler.",
+                "air_date": "2006-05-16",
+                "still_path": "/vdDeCEC9nBZPXepLoitmyaISFip.jpg",
+                "video_url": "1751284"
+            },
+            {
+                "episode_number": 81,
+                "name": "Hitsugaya Hareket Ediyor! Saldırıya Uğrayan Şehir",
+                "overview": "Bitto', Karakura Kasabasına saldırarak Bount'un güçlenmesini sağlarken, 10. Tümen Kaptanı Tōshirō Hitsugaya, saldırı gücüne Soul Society'deki görevleri hakkında bilgi verir.",
+                "air_date": "2006-05-23",
+                "still_path": "/w0q64LsVKe7yqZ7UqXhMh2a3oPQ.jpg",
+                "video_url": "1751286"
+            },
+            {
+                "episode_number": 82,
+                "name": "Ichigo Dalk'a Karşı! Solmuş Karanlığın Ortaya Çıkışı",
+                "overview": "6. Tümen Teğmen Renji Abarai, hemen geri çağrılan Bitto'yla savaşırken Ichigo Kurosaki, yeni haliyle Gō Koga'nın Bebeği Dalk ile savaşır.",
+                "air_date": "2006-05-30",
+                "still_path": "/dMSxZpwupprTmEEnTbzwuAsQajT.jpg",
+                "video_url": "1751289"
+            },
+            {
+                "episode_number": 83,
+                "name": "Gri Gölge, Oyuncak Bebeklerin Sırrı",
+                "overview": "Gō Koga, Ichigo Kurosaki'ye, trajedi yaşanana kadar Koga'nın Jin Kariya tarafından eğitilmesi için görevlendirildiği geçmişinden bir çocuk olan Cain'i hatırlattığını söyler.",
+                "air_date": "2006-06-06",
+                "still_path": "/fjulzRedqFAlcBG3ugIKAqC9lRJ.jpg",
+                "video_url": "1751290"
+            },
+            {
+                "episode_number": 85,
+                "name": "Ölümcül Gözyaşı Savaşı! Rukia, Orihime'ye Karşı",
+                "overview": "Mabashi, Rukia Kuchiki'nin vücudunun kontrolünü ele geçirmek ve onu arkadaşlarıyla savaşmaya zorlamak için Bebeği Ritz'i kullanır.",
+                "air_date": "2006-06-13",
+                "still_path": "/32fhjRXN0GpkCZLsqTQtgAhAIZb.jpg",
+                "video_url": "1751302"
+            },
+            {
+                "episode_number": 86,
+                "name": "Rangiku Dans Ediyor! Görünmez Düşmanı Dilimleyin!",
+                "overview": "Lieutenant Rangiku Matsumoto, Yasutora Sado, Noba, and Ururu Tsumugiya face off against the old Bount, Sawatari, and his Doll, Baura.",
+                "air_date": "2006-06-20",
+                "still_path": "/nE4Ph5d6BR1dUoIyKpnB7CXlnhZ.jpg",
+                "video_url": "1751308"
+            },
+            {
+                "episode_number": 87,
+                "name": "Byakuya Çağrıldı! Gotei 13 Hareket Etmeye Başlıyor!",
+                "overview": "Görünmez bir davetsiz misafir Soul Society'ye girerken Sawatari geri çekilir. Uryū Ishida, Quincy olmak için eğitim aldığını hatırlıyor.",
+                "air_date": "2006-07-04",
+                "still_path": "/tzqJdhJshdKSMiEJn4rokpahl6W.jpg",
+                "video_url": "1100655"
+            },
+            {
+                "episode_number": 88,
+                "name": "Teğmenlerin Imhası!? Yeraltı Mağarasındaki Tuzak",
+                "overview": "Ichigo Kurosaki ve arkadaşları Bounts mağarasına doğru yola çıkarlar ancak Ugaki'nin Bebeği Gesell ile karşılaşırlar.",
+                "air_date": "2006-07-11",
+                "still_path": "/s1Xxvgwzs2xfVcu3LDdyY6i6gPI.jpg",
+                "video_url": "1100656"
+            },
+            {
+                "episode_number": 89,
+                "name": "Rövanş?! Ishida, Nemu'ya Karşı",
+                "overview": "Teğmen Nemu Kurotsuchi, Uryū Ishida'ya bir savaş aksesuarı sunarken Ichigo Kurosaki ve arkadaşları Gesell ile savaşmaya devam ediyor.",
+                "air_date": "2006-07-18",
+                "still_path": "/gSlYBXs0MYCZuMqtU425isaUzXN.jpg",
+                "video_url": "1100657"
+            },
+            {
+                "episode_number": 90,
+                "name": "Renji Abarai, Ruhun Bankai'si!",
+                "overview": "Gesell efendisine saldırır. Ichigo Kurosaki, Jin Kariya ile savaşmaya çalışır ancak pek başarılı olamaz.",
+                "air_date": "2006-07-25",
+                "still_path": "/qadvVlufZFjVt7LwVwVuODzaGKg.jpg",
+                "video_url": "1751321"
+            },
+            {
+                "episode_number": 91,
+                "name": "Shinigami ve Quincy, Canlandırıcı Güç",
+                "overview": "Ichigo Kurosaki Bankai'yi başlatır, ancak Uryū Ishida Bount'ların portalını tamamlayarak onların Soul Society'ye girmelerine izin verir.",
+                "air_date": "2006-08-01",
+                "still_path": "/f9FfPW3J1M0wLyFYjPxada7kIFl.jpg",
+                "video_url": "1751324"
+            },
+            {
+                "episode_number": 92,
+                "name": "Yine Shinigami Dünyasının İstilası",
+                "overview": "Ödüller Soul Society'ye varır. Rukia Kuchiki, Yoshi ile bir kez daha buluşur.",
+                "air_date": "2006-08-08",
+                "still_path": "/wPhxSOFT94LdWaeuCXr9hi1shVE.jpg",
+                "video_url": "1751328"
+            },
+            {
+                "episode_number": 93,
+                "name": "Ödül Saldırısı! Yıkıcı Depremin Gotei 13'ü",
+                "overview": "Rukia Kuchiki, Yoshi'ye karşı çıkıyor. Kaptan-Komutan Genryūsai Shigekuni Yamamoto, diğer kaptanlara Bount'ların kökenleri hakkında bilgi verir.",
+                "air_date": "2006-08-15",
+                "still_path": "/4G57PhzWYObs6Fj3QVhw4fROU6h.jpg",
+                "video_url": "1751330"
+            },
+            {
+                "episode_number": 94,
+                "name": "Hitsugaya'nın Kararı! Çatışma Yaklaşımları",
+                "overview": "Ichigo Kurosaki ve arkadaşları sonunda Kūkaku Shiba'nın evine varırken Jin Kariya, Kusajishi'den adamlar toplar.",
+                "air_date": "2006-08-22",
+                "still_path": "/hOcss2WXD5fC877zXByR27pyuBr.jpg",
+                "video_url": "1751334"
+            },
+            {
+                "episode_number": 95,
+                "name": "Byakuya Sahaya Çıkıyor! Rüzgârın Yardığı Kiraz Çiçeklerinin Dansı",
+                "overview": "Ichigo Kurosaki yardıma geldiğinde Kaptan Byakuya Kuchiki, Jin Kariya ile savaşır.",
+                "air_date": "2006-09-05",
+                "still_path": "/gXhRnO9QNsxvzCWY78sTi6lglmF.jpg",
+                "video_url": "1751337"
+            },
+            {
+                "episode_number": 96,
+                "name": "Ichigo, Byakuya, Kariya, Üç Uç Noktanın Savaşı!",
+                "overview": "Ichigo Kurosaki ve Kaptan Byakuya Kuchiki, sürekli iyileşen Jin Kariya ile savaşmaya devam ederken Ran'Tao ortaya çıkar ve Kariya'yı ayrılmaya teşvik eder.",
+                "air_date": "2006-09-12",
+                "still_path": "/uFXqNEJ1l4ZGgTScvOkm7Ebn45P.jpg",
+                "video_url": "1751340"
+            },
+            {
+                "episode_number": 97,
+                "name": "Hitsugaya Saldırıyor! Düşmanı Ormanın Ortasında Dilimleyin",
+                "overview": "Kaptan Tōshirō Hitsugaya, Maki Ichinose ile karşı karşıya gelirken Ran'Tao, Yoshino Sōma'ya benzerliğinin nedenini açıklıyor.",
+                "air_date": "2006-09-19",
+                "still_path": "/eotgGzkXJK85M0SyYM7NtNO3nSj.jpg",
+                "video_url": "1751344"
+            },
+            {
+                "episode_number": 98,
+                "name": "Çarpışma! Kenpachi Zaraki, Maki Ichinose'a Karşı",
+                "overview": "Kaptan Kenpachi Zaraki, Maki Ichinose'u durdurmak için gelir.",
+                "air_date": "2006-10-04",
+                "still_path": "/kCGZz7OVvkt4XbrqDbKrEphTLnr.jpg",
+                "video_url": "1751352"
+            },
+            {
+                "episode_number": 99,
+                "name": "Shinigami, Shinigami'ye Karşı! Kontrol Edilemeyen Güç",
+                "overview": "Bount'lar Seireitei'ye girer ve Kaptan Suì-Fēng, Mabashi ile karşılaşır.",
+                "air_date": "2006-10-11",
+                "still_path": "/bbtA6BdpUNiWbAbtnDYsMc7dP36.jpg",
+                "video_url": "1751358"
+            },
+            {
+                "episode_number": 100,
+                "name": "Suì-fēng Öldü Mü? Özel Kuvvetlerin Sonuncusu",
+                "overview": "Kaptan Suì-Fēng, Mabashi'nin zehirini etkisiz hale getirmek için kendi zehrini kullanarak zehirlenmesinden kurtulur ve Mabashi'yi öldürür.",
+                "air_date": "2006-10-18",
+                "still_path": "/zUOU4WsWW86KZ463vZigFfIC9jl.jpg",
+                "video_url": "1751366"
+            },
+            {
+                "episode_number": 101,
+                "name": "Mayuri'nin Bankai'si!! Sawatari: Şeytanın Çatışması",
+                "overview": "12. Tümen'den Yüzbaşı Mayuri Kurotsuchi, Bount, Sawatari'ye karşı savaşıyor.",
+                "air_date": "2006-11-01",
+                "still_path": "/drLeoE2RBdg5K3ibl7byuWX3Xch.jpg",
+                "video_url": "1751432"
+            },
+            {
+                "episode_number": 102,
+                "name": "Son Quincy! Patlayan Güç",
+                "overview": "Jin Kariya, Jokai Crest'i ararken Uryū Ishida, Bount Yoshi ile savaşır.",
+                "air_date": "2006-11-08",
+                "still_path": "/4lXxl1ERrbvqKFeLUTwDPGPZikT.jpg",
+                "video_url": "1751437"
+            },
+            {
+                "episode_number": 103,
+                "name": "İshida, Saldırı Sınırlarını Aştı!",
+                "overview": "Uryū Ishida, Bount ve Yoshi'yi yenerken Jin Kariya, Soul Society'yi yok etmeye hazırlanır.",
+                "air_date": "2006-11-15",
+                "still_path": "/5qjHLJCG5iqTfJ5953Yuh9Atuad.jpg",
+                "video_url": "1751440"
+            },
+            {
+                "episode_number": 104,
+                "name": "10. Tümenin Ölüm Mücadelesi! Hyōrinmaru'nun Serbest Bırakılması",
+                "overview": "10. Tümen Kaptanı Tōshirō Hitsugaya, Bount, Gō Koga'ya karşı savaşır.",
+                "air_date": "2006-11-22",
+                "still_path": "/yza34hxjGxTiGLt43scDXxO9NOq.jpg",
+                "video_url": "1751445"
+            },
+            {
+                "episode_number": 105,
+                "name": "Kariya! Patlama için Geri Sayım",
+                "overview": "Shinigami, Jōkaishō hakkında daha fazla şey öğrendikçe Ran'Tao, Jin Kariya ile yüzleşir.",
+                "air_date": "2006-11-29",
+                "still_path": "/4vFN36Q5ATJcc1RYTLAHrq3ACN2.jpg",
+                "video_url": "1751449"
+            },
+            {
+                "episode_number": 106,
+                "name": "Yaşam ve İntikam! Ishida, Nihai Seçim",
+                "overview": "Uryū Ishida, Bount Jin Kariya ile yüzleşir.",
+                "air_date": "2006-12-06",
+                "still_path": "/kmFWgmPnmL0fkq7iHBLIbOuwKi9.jpg",
+                "video_url": "1751453"
+            },
+            {
+                "episode_number": 107,
+                "name": "Aşağı Dönen Kenar! Yıkım Anı",
+                "overview": "Ichigo Kurosaki ve Jin Kariya birbirleriyle savaşırken Shinigami, onları yeniden mühürleyecek diğer Jōkaishō'yu arar.",
+                "air_date": "2006-12-13",
+                "still_path": "/7XOKay77iicN42d9ZSagGH9h5nH.jpg",
+                "video_url": "1751455"
+            },
+            {
+                "episode_number": 108,
+                "name": "Ağlama Ödülü! Son Çatışma",
+                "overview": "Ichigo Kurosaki ve Jin Kariya arasındaki savaş sona eriyor.",
+                "air_date": "2006-12-20",
+                "still_path": "/fvTf4tZK7JnmEAYWsF3JB6Bi3JA.jpg",
+                "video_url": "1751458"
+            },
+            {
+                "episode_number": 109,
+                "name": "Ichigo ve Rukia, Cennetin Etrafında Dönen Düşünceler",
+                "overview": "Bount'larla yapılan savaşın ardından işler yavaş yavaş normale döner.",
+                "air_date": "2007-01-04",
+                "still_path": "/jEsNtwCKEULgsFuVo2di905ie0N.jpg",
+                "video_url": "1751461"
+            },
+            {
+                "episode_number": 110,
+                "name": "Yedek İşletmenin Yeniden Açılması! Korkunç Transfer Öğrencisi",
+                "overview": "Ichigo Kurosaki, İnsan Dünyası'ndaki Hollow'ları öldürmeye geri döner, ancak kısa süre sonra Vizörlü Shinji Hirako ile karşılaşır.",
+                "air_date": "2007-01-10",
+                "still_path": "/3wv9Ok7flrk2Nuw4EuULhVrS5nj.jpg",
+                "video_url": "1751466"
+            },
+            {
+                "episode_number": 111,
+                "name": "Şok! Babanın Gerçek Kimliği",
+                "overview": "Isshin Kurosaki kendisini bir Shinigami olarak gösterir ve Grand Fisher ile savaşır.",
+                "air_date": "2007-01-17",
+                "still_path": "/qles2w89egGZ86EgJ07DpxAmKQa.jpg",
+                "video_url": "1751468"
+            },
+            {
+                "episode_number": 112,
+                "name": "Savaşın Başlangıcı, Vizardlar ve Arrancarlar",
+                "overview": "Vizörlü ve Arrancar hakkında bilgiler ortaya çıkıyor.",
+                "air_date": "2007-01-24",
+                "still_path": "/1akBu3VvrxipuD8UEYsrNrHBxOu.jpg",
+                "video_url": "1751473"
+            },
+            {
+                "episode_number": 113,
+                "name": "Kıyametin Başlangıcı, Arrancar'ın Taarruzu",
+                "overview": "Arrancar İnsan Dünyası'na varır.",
+                "air_date": "2007-01-31",
+                "still_path": "/2rXAB3z3Vn462qEtst7MLpNS26D.jpg",
+                "video_url": "1751482"
+            },
+            {
+                "episode_number": 114,
+                "name": "Reunion, Ichigo ve Rukia ve Soul Reaper'lar",
+                "overview": "Arrancar, İnsan Dünyasını terk ederken Gotei 13, İnsan Dünyasını korumak için yardım gönderir.",
+                "air_date": "2007-02-07",
+                "still_path": "/sRIauPhnmQuCTyKGulF3ffUi4E8.jpg",
+                "video_url": "1751488"
+            },
+            {
+                "episode_number": 115,
+                "name": "Görev! Ruh Biçiciler Geldi",
+                "overview": "Ichigo Kurosaki tekrar dövüşmek için özgüvenini yeniden kazanır. Daha sonra, Arrancar hakkında daha fazla gerçek ortaya çıkar.",
+                "air_date": "2007-02-14",
+                "still_path": "/5NBrM0h5RhIrRH5p9QZ5NB8zwLC.jpg",
+                "video_url": "1751493"
+            },
+            {
+                "episode_number": 116,
+                "name": "Nazar, Aizen Geri Dönüyor",
+                "overview": "Arrancar tekrar İnsan Dünyasına varır.",
+                "air_date": "2007-02-21",
+                "still_path": "/j6YllSTQQ4TQ4TjW9NXaEZ2RM38.jpg",
+                "video_url": "1751499"
+            },
+            {
+                "episode_number": 117,
+                "name": "Rukia'nın Savaşı Başlıyor! Dondurucu Beyaz Bıçak",
+                "overview": "Rukia Kuchiki, Arrancar Di Roy Rinker'a karşı savaşıyor.",
+                "air_date": "2007-02-28",
+                "still_path": "/66t95Zk5UH2auaWWn6LG1DS20mo.jpg",
+                "video_url": "1751506"
+            },
+            {
+                "episode_number": 118,
+                "name": "Ikkaku'nun Bankai'si! Herşeyi Kıran Güç",
+                "overview": "3. Koltuk Ikkaku Madarame, Arrancar'lı Edrad Liones'a karşı savaşıyor.",
+                "air_date": "2007-03-07",
+                "still_path": "/lF6oJ2k2yabkrtwP7WjwQK57BU9.jpg",
+                "video_url": "1751516"
+            },
+            {
+                "episode_number": 119,
+                "name": "Zaraki Bölümü'nün Gizli Hikayesi! Şanslı Adamlar",
+                "overview": "3. Koltuk Ikkaku Madarame, 11. Tümene katıldığı zamanı hatırlıyor.",
+                "air_date": "2007-03-21",
+                "still_path": "/abdEBuEdmeDp8jrBu8kH9fx5fjv.jpg",
+                "video_url": "1751519"
+            },
+            {
+                "episode_number": 120,
+                "name": "Hitsugaya Dağılıyor! Kırık Hyōrinmaru",
+                "overview": "Arrancar'la savaşlar devam ediyor.",
+                "air_date": "2007-03-28",
+                "still_path": "/xJpJXBa80JsaazT3l0x9nfNwMPR.jpg",
+                "video_url": "1751525"
+            },
+            {
+                "episode_number": 121,
+                "name": "Çarpışma! Koruyucu ve Taşıyıcı",
+                "overview": "Ichigo Kurosaki ve Grimmjow Jaegerjaquez birbirleriyle savaşıyor.",
+                "air_date": "2007-04-11",
+                "still_path": "/9053ElejP3XvvRvoaZVpDk8MMF1.jpg",
+                "video_url": "1751530"
+            },
+            {
+                "episode_number": 122,
+                "name": "Vizard! Uyanmışın Gücü",
+                "overview": "Ichigo Kurosaki, Hollowifikasyonunu nasıl kontrol edeceğini öğrenme umuduyla Visored'lerin olduğu yere gider.",
+                "air_date": "2007-04-18",
+                "still_path": "/1VDrPivMfFdmT4z7BTEMeSSQSp.jpg",
+                "video_url": "1751535"
+            },
+            {
+                "episode_number": 123,
+                "name": "Ichigo, Tamamen Boşlaştırma!?",
+                "overview": "Ichigo Kurosaki, Hollowfication'ı kontrol etmek için eğitime başlar.",
+                "air_date": "2007-04-25",
+                "still_path": "/vdMAlyja9xQ6I1teVkn2NpIC7Vi.jpg",
+                "video_url": "1751539"
+            },
+            {
+                "episode_number": 124,
+                "name": "Çarpışma! Siyah Bankai ve Beyaz Bankai",
+                "overview": "Ichigo Kurosaki içindeki Hollow'la savaşına devam ediyor.",
+                "air_date": "2007-05-02",
+                "still_path": "/c64hphtq9vpxpUFhAYngiWBnkEl.jpg",
+                "video_url": "1751542"
+            },
+            {
+                "episode_number": 125,
+                "name": "Acil Rapor! Aizen'in Korkunç Planı!",
+                "overview": "Ichigo Kurosaki, Hollow'unu başarıyla kontrol ederken Sōsuke Aizen'in planları ortaya çıkar.",
+                "air_date": "2007-05-09",
+                "still_path": "/5p3WZgGZs6SVgTnhlTeIzNJJSQM.jpg",
+                "video_url": "1751544"
+            },
+            {
+                "episode_number": 126,
+                "name": "Uryū, Ryuken'e Karşı! Ebeveyn-çocuk Quincy'lerin Çatışması",
+                "overview": "Ichigo Kurosaki, Sōsuke Aizen'in planlarından haberdar olurken Uryū Ishida eğitimini bitirir.",
+                "air_date": "2007-05-16",
+                "still_path": "/pPZMt5WHael0VkmJXB6AbLOoHnD.jpg",
+                "video_url": "1751548"
+            },
+            {
+                "episode_number": 127,
+                "name": "Urahara'nın Kararı, Orihime'nin Düşünceleri",
+                "overview": "Orihime Inoue'ye yaklaşan savaşlarda savaşmasına izin verilmeyeceği söylendi.",
+                "air_date": "2007-05-30",
+                "still_path": "/jil3wBf2iwF3mLPbXYRlhecTZ2g.jpg",
+                "video_url": "1751550"
+            },
+            {
+                "episode_number": 128,
+                "name": "Kabus Arrancar! Hitsugaya Takımı Ayrılıyor",
+                "overview": "İnsan Dünyasındaki Shinigami, Shōta Toyokawa adında bir çocuk bulur.",
+                "air_date": "2007-06-06",
+                "still_path": "/BU1jx86cQzhSdt35NPyBpG5AqH.jpg",
+                "video_url": "1751555"
+            },
+            {
+                "episode_number": 129,
+                "name": "Karanlık Elçinin Hızlı İnişi! Kötülüğün Yayılması",
+                "overview": "Shinigamiler Shōta Toyokawa ve Yui Toyokawa'ya yardım eder.",
+                "air_date": "2007-06-13",
+                "still_path": "/mtGuNDkacYVCLOtzUDqVK4SVCMf.jpg",
+                "video_url": "1751560"
+            },
+            {
+                "episode_number": 130,
+                "name": "Görünmez Düşman! Hitsugaya'nın Acımasız Kararı",
+                "overview": "Shinigamiler Klonlayan Arrancar'ı arıyor.",
+                "air_date": "2007-06-20",
+                "still_path": "/9awU5aWjWCx41wKh8Ub9wBmSjOp.jpg",
+                "video_url": "1751565"
+            },
+            {
+                "episode_number": 131,
+                "name": "Rangiku'nun Gözyaşları, Kardeş ve Kız Kardeşin Hüzünlü Ayrılığı",
+                "overview": "Shinigami, Klonlayan Arrancar'la karşı karşıya gelir.",
+                "air_date": "2007-06-27",
+                "still_path": "/A32oBlNykA3Iot8fi0OIj8zB2Pa.jpg",
+                "video_url": "1751570"
+            },
+            {
+                "episode_number": 132,
+                "name": "Hitsugaya, Karin ve Futbol Topu",
+                "overview": "Karin Kurosaki, yaklaşan bir futbol maçını kazanmasına yardımcı olması için Kaptan Tōshirō Hitsugaya'yı ikna etmeye çalışır.",
+                "air_date": "2007-07-04",
+                "still_path": "/wAT3QmWVqYOBrodlBpBkv0X6CfC.jpg",
+                "video_url": "1751574"
+            },
+            {
+                "episode_number": 133,
+                "name": "Ikkaku: Sıcak Kanlı Kendo Hikayesi",
+                "overview": "3. Koltuk Ikkaku Madarame, Shinji Iijima adlı bir okul öğrencisinin Kendō turnuvasını kazanmasına yardım eder.",
+                "air_date": "2007-07-11",
+                "still_path": "/a5ELovNa7hTdrIkb56nh3K39kW8.jpg",
+                "video_url": "1751577"
+            },
+            {
+                "episode_number": 134,
+                "name": "Güzel Pastacı Yumichika!",
+                "overview": "5. Koltuk Yumichika Ayasegawa, Heita Momoyama adlı Artı'nın annesi için pasta pişirmesine yardım ediyor.",
+                "air_date": "2007-07-18",
+                "still_path": "/bc5SuqGPMwe7fXTP4OQdwMGtRTT.jpg",
+                "video_url": "1751581"
+            },
+            {
+                "episode_number": 135,
+                "name": "Kon Aldatıldı! Rangiku Gözcüde...",
+                "overview": "Kon, Miyuki adında bir kızla yaşamaya zorlanır.",
+                "air_date": "2007-07-25",
+                "still_path": "/c5MpDnUsorj4gYVreq2uXa4485c.jpg",
+                "video_url": "1751589"
+            },
+            {
+                "episode_number": 136,
+                "name": "Hueco Mundo'da İç Savaş! Ulquiorra'nın Ölümü",
+                "overview": "Birkaç Arrancar, Sōsuke Aizen'e ihanet eder ve Hōgyoku'yu çalar.",
+                "air_date": "2007-08-08",
+                "still_path": "/kyblxh8KXpfhfmlgYEjpcZvFcnI.jpg",
+                "video_url": "1751596"
+            },
+            {
+                "episode_number": 137,
+                "name": "Kötü Amaçlı Savaş, Aizen'in Tuzağı",
+                "overview": "Haydut Arrancar, Shinigami'ye yenilir.",
+                "air_date": "2007-08-22",
+                "still_path": "/4mPuRzItaXemY6jiDxPtspHCr95.jpg",
+                "video_url": "1751599"
+            },
+            {
+                "episode_number": 138,
+                "name": "Hueco Mundo Yeniden Hareket Ediyor! Hitsugaya Yammy'ye Karşı",
+                "overview": "Birkaç Arrancar İnsan Dünyasına doğru ilerliyor.",
+                "air_date": "2007-08-29",
+                "still_path": "/rvWfaxho2ugebKzBmQfN8K9bmrY.jpg",
+                "video_url": "1751605"
+            },
+            {
+                "episode_number": 139,
+                "name": "Ichigo, Grimmjow'a Karşı 11 Saniyelik Savaş!",
+                "overview": "Arrancar'la savaşlar devam ederken Ichigo Kurosaki yeni gücünü gösteriyor.",
+                "air_date": "2007-09-05",
+                "still_path": "/dkQic3XvQDeUQqzjhygXxXaezxD.jpg",
+                "video_url": "1751608"
+            },
+            {
+                "episode_number": 140,
+                "name": "Ulquiorra'nın Planı, Güneşin Battığı An!",
+                "overview": "Arrancar'ın Hueco Mundo'ya geri dönmesiyle savaşlar sona erer.",
+                "air_date": "2007-09-12",
+                "still_path": "/9dka3MUOvPfZCOBsac8XjisL66U.jpg",
+                "video_url": "1751614"
+            },
+            {
+                "episode_number": 141,
+                "name": "Elveda... Kurosaki!",
+                "overview": "Orihime Inoue, Hueco Mundo'ya gitmeden önce Ichigo Kurosaki'ye veda ediyor.",
+                "air_date": "2007-09-19",
+                "still_path": "/nbJMXBxobwu2CyOk6OziW2XBuP2.jpg",
+                "video_url": "1751617"
+            },
+            {
+                "episode_number": 142,
+                "name": "Sıkı Düzen! Orihime Inoue'nin Yasak Kurtarılması",
+                "overview": "Ichigo Kurosaki, Orihime Inoue'nin ortadan kaybolduğunu öğrenir ve onu kurtarmaya karar verir.",
+                "air_date": "2007-09-26",
+                "still_path": "/sxDePwPXcoJwGLWjs0Eh3bcn08r.jpg",
+                "video_url": "1751619"
+            },
+            {
+                "episode_number": 143,
+                "name": "Grimmjow'u Canlandırdı",
+                "overview": "Ichigo Kurosaki, Uryū Ishida ve Yasutora Sado, Hueco Mundo'ya gidiyor.",
+                "air_date": "2007-10-03",
+                "still_path": "/nI5iGZJ0NxNMYvPrrc80ihEKhVa.jpg",
+                "video_url": "1751621"
+            },
+            {
+                "episode_number": 144,
+                "name": "Ishida ve Chad, Yeni Bir Gücün Hızlanması",
+                "overview": "Uryū Ishida ve Yasutora Sado, Hueco Mundo'ya vardıktan sonra yeni güçlerini sergiliyor.",
+                "air_date": "2007-10-17",
+                "still_path": "/gNNCbuRzkQR6GHWhTeukkizXdL2.jpg",
+                "video_url": "1751628"
+            },
+            {
+                "episode_number": 145,
+                "name": "Espada Toplanıyor! Aizen'in Kraliyet Meclisi",
+                "overview": "Ichigo Kurosaki ve arkadaşları Las Noches'e doğru yola çıkarken, Sōsuke Aizen Espada ile bir toplantı düzenler.",
+                "air_date": "2007-10-24",
+                "still_path": "/ilAwecrzpxgTlB0Qb2zoRFBHY8v.jpg",
+                "video_url": "1751633"
+            },
+            {
+                "episode_number": 146,
+                "name": "Adı Nel! Garip Bir Arrancar'ın Ortaya Çıkışı",
+                "overview": "Ichigo Kurosaki, Arrancar Nel Tu ile tanışır ve bir Muhafız bazı sorunlara neden olur.",
+                "air_date": "2007-10-31",
+                "still_path": "/AsfGj2hMsKSyV9BF9pnn2r42zjk.jpg",
+                "video_url": "1751637"
+            },
+            {
+                "episode_number": 147,
+                "name": "Menos Ormanı! Kayıp Rukia'yı Arayın",
+                "overview": "Ichigo Kurosaki ve diğerleri zorla Menos Ormanı'na götürülür.",
+                "air_date": "2007-11-07",
+                "still_path": "/su1BhH44a27c8Dw4w2vync6yd3j.jpg",
+                "video_url": "1751639"
+            },
+            {
+                "episode_number": 148,
+                "name": "Ashido, Geçmişten Gelen Ruh Azraili",
+                "overview": "Ichigo Kurosaki ve diğerleri Menos Ormanı'nı keşfetmeye devam ediyor.",
+                "air_date": "2007-11-14",
+                "still_path": "/bXpaqG80lwyJDhRNqpVWTXBgZxB.jpg",
+                "video_url": "1751644"
+            },
+            {
+                "episode_number": 149,
+                "name": "Parçalanan Ormanın İçinde Bir Milyon Menos",
+                "overview": "Ichigo Kurosaki ve diğerleri Menos Ormanı'ndan kaçarlar.",
+                "air_date": "2007-11-21",
+                "still_path": "/vpcmXLsKEdEIZScHnvqY7Z6HCVp.jpg",
+                "video_url": "1751647"
+            },
+            {
+                "episode_number": 150,
+                "name": "Yemin! Buraya Tekrar Canlı Olarak Döndük",
+                "overview": "Ichigo Kurosaki ve grubu Las Noches'a varır.",
+                "air_date": "2007-11-28",
+                "still_path": "/wZrcv4EjLke36PerYbjtHy6WnsJ.jpg",
+                "video_url": "1751650"
+            },
+            {
+                "episode_number": 151,
+                "name": "Şiddetli Fırtına! Dans Eden Arrancar ile Karşılaşma",
+                "overview": "Ichigo Kurosaki, Arrancar Dordoni Alessandro Del Socaccio'ya karşı savaşır.",
+                "air_date": "2007-12-05",
+                "still_path": "/j6nUBSGCQqDZ6T49jdKBqQOla85.jpg",
+                "video_url": "1751679"
+            },
+            {
+                "episode_number": 152,
+                "name": "Ichigo Karşılık Veriyor! Burası Benim Bankai'm",
+                "overview": "Ichigo Kurosaki, Dordoni Alessandro Del Socaccio ile mücadelesini tamamlıyor.",
+                "air_date": "2007-12-12",
+                "still_path": "/2pM7BmW4q5UUHKImvzPA6zccLCh.jpg",
+                "video_url": "1751681"
+            },
+            {
+                "episode_number": 153,
+                "name": "Şeytani Araştırma! Szayelaporro'nun Planı",
+                "overview": "Ichigo Kurosaki ve diğerleri Las Noches'a doğru ilerlemeye devam ediyorlar.",
+                "air_date": "2007-12-19",
+                "still_path": "/lIBK71efU2C6kB6CAZJuEJJgALD.jpg",
+                "video_url": "1751683"
+            },
+            {
+                "episode_number": 154,
+                "name": "Rukia ve Kaien, Hüzünlü Kavuşma",
+                "overview": "Rukia Kuchiki, vefat eden akıl hocası Kaien Shiba ile yeniden bir araya gelir.",
+                "air_date": "2007-12-26",
+                "still_path": "/1tGuoyFC6DEeeJ8KvdQeJOgWWZG.jpg",
+                "video_url": "1751687"
+            },
+            {
+                "episode_number": 155,
+                "name": "Rukia Misilleme Yapıyor! Umutsuz Kidō'yu Serbest Bırakın",
+                "overview": "Rukia Kuchiki, Kaien Shiba ile savaşırken onun gerçekten Kaien olup olmadığını merak eder.",
+                "air_date": "2008-01-09",
+                "still_path": "/sIgEuBedLY29NFdie225GdHYmy6.jpg",
+                "video_url": "1751691"
+            },
+            {
+                "episode_number": 156,
+                "name": "Ishida ve Pesche, Dostluğun Birleşik Saldırısı",
+                "overview": "Uryū Ishida ve Pesche Guatiche, Cirucci Sanderwicci'ye karşı savaşır.",
+                "air_date": "2008-01-16",
+                "still_path": "/2EXocPQpTJqe7XsPxIZxCXlnpwS.jpg",
+                "video_url": "1751696"
+            },
+            {
+                "episode_number": 157,
+                "name": "Ishida'nın Koz Kartı, Seele Schneider",
+                "overview": "Uryū Ishida, Seele Schneider adlı yeni bir silahla Cirucci Sanderwicci'ye karşı savaşır.",
+                "air_date": "2008-01-23",
+                "still_path": "/kHjdxabWcRZwdLBPTIRGQaA4yjo.jpg",
+                "video_url": "1751702"
+            },
+            {
+                "episode_number": 158,
+                "name": "Dev'in Sağ Kolu, Şeytan'ın Sol Kolu",
+                "overview": "Yasutora Sado gerçek gücünün farkına varır ve Gantenbainne Camida'ya karşı savaşır.",
+                "air_date": "2008-01-30",
+                "still_path": "/sGskjqAJuJSqUnvYmzBIYM6vsEk.jpg",
+                "video_url": "1751707"
+            },
+            {
+                "episode_number": 159,
+                "name": "Yasutora Sado Öldü! Orihime'nin Gözyaşları",
+                "overview": "Yasutora Sado, Nnoitra Gilga'ya yenilir ve Teğmen Renji Abarai, Espada Szayelaporro Granz ile karşı karşıya gelir.",
+                "air_date": "2008-02-06",
+                "still_path": "/6MS5I9PRhaYt9kSGmTJBpgf0py6.jpg",
+                "video_url": "1751712"
+            },
+            {
+                "episode_number": 160,
+                "name": "Ahit, Kalbin Tam Burada...",
+                "overview": "Rukia Kuchiki, Aaroniero Arruruerie'yi öldürmeden önce Kaien Shiba ile olan geçmişini hatırlıyor.",
+                "air_date": "2008-02-13",
+                "still_path": "/zdqo0ipQ84UEHDnQbHAjOX5puxj.jpg",
+                "video_url": "1751714"
+            },
+            {
+                "episode_number": 161,
+                "name": "Zalim Arrancar, Ulquiorra'nın Provokasyonu",
+                "overview": "Espada, Aaroniero Arruruerie'nin ölümüne tepki verirken Ichigo Kurosaki, Ulquiorra Cifer ile karşı karşıya gelir.",
+                "air_date": "2008-02-20",
+                "still_path": "/46kxMZdkUkFzwEsRWqbUcvpAXnG.jpg",
+                "video_url": "1751716"
+            },
+            {
+                "episode_number": 162,
+                "name": "Szayelaporro Gülüyor, Renji'nin Ağ Yakalaması Tamamlandı",
+                "overview": "Ichigo Kurosaki, Ulquiorra Cifer ile savaşırken Teğmen Renji Abarai, Szayelaporro Granz'a karşı mücadelesinde zorlanır.",
+                "air_date": "2008-02-27",
+                "still_path": "/nPyAjrJ5yiLc0zBmMB2gjMGFrrM.jpg",
+                "video_url": "1751722"
+            },
+            {
+                "episode_number": 163,
+                "name": "Shinigami ve Quincy, Delilikle Savaş",
+                "overview": "Grimmjow Jaegerjaquez, Orihime Inoue'yi Loly Aivirrne ve Menoly Mallia'dan kurtarırken Uryū Ishida, Teğmen Renji Abarai'nin Szayelaporro Granz'a karşı savaşına katılır.",
+                "air_date": "2008-03-05",
+                "still_path": "/tgI9tZyHcP0zmRybkxqdUIa8kU4.jpg",
+                "video_url": "1751730"
+            },
+            {
+                "episode_number": 164,
+                "name": "Ishida'nın Stratejisi, 20 Saniyede Hücum ve Savunma",
+                "overview": "Uryū Ishida ve Teğmen Renji Abarai, Szayelaporro Granz'a karşı mücadelelerini sürdürürken, Ichigo Kurosaki, Orihime Inoue tarafından iyileştirilir.",
+                "air_date": "2008-03-12",
+                "still_path": "/d6bgqHMuWyGba3pWCAYoKIlhOSa.jpg",
+                "video_url": "1751734"
+            },
+            {
+                "episode_number": 165,
+                "name": "Öldürme Niyeti Kaynıyor! Neşeli Grimmjow",
+                "overview": "Ichigo Kurosaki, Grimmjow Jaegerjaquez ile son savaşına başlıyor.",
+                "air_date": "2008-03-19",
+                "still_path": "/yAGv9FFbnKmGpp8fVXk3E3U9KIo.jpg",
+                "video_url": "1751739"
+            },
+            {
+                "episode_number": 166,
+                "name": "Umutsuz Çaba Vs. Umutsuz Çaba! İçi Boş Ichigo",
+                "overview": "Ichigo Kurosaki, Grimmjow Jaegerjaquez ile mücadelesine devam ederken Orihime Inoue, Ichigo'nun Hollowfication formuyla baş etmekte zorlanır.",
+                "air_date": "2008-04-09",
+                "still_path": "/389lnk1IZQU24ccZa1HYsXQAqzK.jpg",
+                "video_url": "1751746"
+            },
+            {
+                "episode_number": 167,
+                "name": "Sonuç Anı, Grimmjow'un Sonu",
+                "overview": "Ichigo Kurosaki ve Grimmjow Jaegerjaquez savaşlarını tamamlıyor.",
+                "air_date": "2008-04-16",
+                "still_path": "/fqit5FcCfbJDrAjsYXge22QqI1g.jpg",
+                "video_url": "1751754"
+            },
+            {
+                "episode_number": 168,
+                "name": "Yeni Kaptan Görünüyor! Onun Adı Shūsuke Amagai",
+                "overview": "Shūsuke Amagai, 3. Bölümün yeni kaptanı olarak atandı.",
+                "air_date": "2008-04-23",
+                "still_path": "/muXrR4ef89Nv8mVmvKN69KhPP94.jpg",
+                "video_url": "1751763"
+            },
+            {
+                "episode_number": 169,
+                "name": "Yeni Gelişme, Tehlikeli Transfer Öğrencisi Ortaya Çıktı!",
+                "overview": "Ichigo Kurosaki, İnsan Dünyasında Rurichiyo Kasumiōji ve onun iki Shinigami muhafızıyla tanışır.",
+                "air_date": "2008-05-07",
+                "still_path": "/l8nI05BHy0xhsPUj02rTtXuDiIo.jpg",
+                "video_url": "1751768"
+            },
+            {
+                "episode_number": 170,
+                "name": "Ayışığı Gecenin Altında Umutsuz Mücadele, Gizemli Suikastçı ve Zanpakutō",
+                "overview": "Ichigo Kurosaki, Rurichiyo Kasumiōji hakkında daha fazla şey öğrendikçe kızın peşine düşen bir suikastçıyla savaşmak zorunda kalır.",
+                "air_date": "2008-05-14",
+                "still_path": "/untDabqzd8YpJ1OzhEdV589H2l.jpg",
+                "video_url": "1751776"
+            },
+            {
+                "episode_number": 171,
+                "name": "Kenryū, Açan Kızıl Çiçeklerin Bolluğu",
+                "overview": "Ichigo Kurosaki, Rurichiyo Kasumiōji'yle ilgilenmek zorunda kalırken başka bir suikastçı onu öldürmeye çalışır.",
+                "air_date": "2008-05-21",
+                "still_path": "/1v9HhtwYxDC9uSzomz9EAgxpueN.jpg",
+                "video_url": "1751781"
+            },
+            {
+                "episode_number": 172,
+                "name": "Kibune Savaşa Gidiyor! Şiddetli Rüzgar",
+                "overview": "Izuru Kira, 3. Bölüm üyelerinin Makoto Kibune'u ondan daha çok sevmesi yüzünden bunalıma girmeye başlar.",
+                "air_date": "2008-05-28",
+                "still_path": "/g93iNSPdLQHF8LDM86XOXXXOKeK.jpg",
+                "video_url": "1751789"
+            },
+            {
+                "episode_number": 173,
+                "name": "Büyük Kötülüğün Ortaya Çıkışı! Kasumiōji'nin Evindeki Karanlık",
+                "overview": "Rurichiyo Kasumiōji, Soul Society'ye gizlice döndükten sonra daha fazla suikastçının hedefi olur.",
+                "air_date": "2008-06-04",
+                "still_path": "/2lVfuPjPr4OPjUNUvKofOgvi2TD.jpg",
+                "video_url": "1751795"
+            },
+            {
+                "episode_number": 174,
+                "name": "Aynanın Sınırını Kırın! Ichigo'nun Esareti",
+                "overview": "Ichigo Kurosaki, suikastçı Hanza Nukui ile karşı karşıya gelir.",
+                "air_date": "2008-06-11",
+                "still_path": "/jdSumPXlcq4xXhV7Mk1nD5zwRgy.jpg",
+                "video_url": "1751799"
+            },
+            {
+                "episode_number": 175,
+                "name": "İntikam Alacak Suikastçı Ichigo Hedef Alınıyor",
+                "overview": "Hanza Nukui ve astları, Ichigo Kurosaki ve Rurichiyo Kasumiōji'yi öldürmek için İnsan Dünyasına saldırır.",
+                "air_date": "2008-06-18",
+                "still_path": "/AcMScHyFvkPVhFMZ0g6PefvhlUC.jpg",
+                "video_url": "1751806"
+            },
+            {
+                "episode_number": 177,
+                "name": "Rukia'nın Tersine Dönüşü! Öfkeli Kılıç",
+                "overview": "Rukia Kuchiki, Uryū Ishida ve Yasutora Sado, suikastçılara karşı savaşlarını bitirir.",
+                "air_date": "2008-06-25",
+                "still_path": "/Ac9yxYRvg0KbCPRjAAYsfMpT3wm.jpg",
+                "video_url": "1751815"
+            },
+            {
+                "episode_number": 178,
+                "name": "Gösterilen Kabus, Ichigo Aynanın İçinde",
+                "overview": "Ichigo Kurosaki, Hanza Nukui ile olan savaşını bitirir.",
+                "air_date": "2008-07-02",
+                "still_path": "/sA9rJKN3hQ8fttjVuQeId15cYeW.jpg",
+                "video_url": "1751817"
+            },
+            {
+                "episode_number": 179,
+                "name": "Yüzleşme!? Amagai Gotei'ye Karşı 13",
+                "overview": "Kaptan-Komutan Genryūsai Shigekuni Yamamoto, Kaptan Shūsuke Amagai'nin Bölümler arasında ortak eğitim alma teklifine karar vermesine yardımcı olmak için Soul Society'ye bir Menos Grande saldırısı düzenler.",
+                "air_date": "2008-07-09",
+                "still_path": "/8g3mAsOp6EzF7Dp9uTgjdMlLW3s.jpg",
+                "video_url": "1751819"
+            },
+            {
+                "episode_number": 180,
+                "name": "Prensesin Kararı, Kederli Gelin",
+                "overview": "Ichigo Kurosaki, Rurichiyo Kasumiōji'nin düğününü engellemek için Ruh Cemiyeti'ne gider.",
+                "air_date": "2008-07-16",
+                "still_path": "/unjAt3MaMpMbRszAOjB7lMVQget.jpg",
+                "video_url": "1751821"
+            },
+            {
+                "episode_number": 181,
+                "name": "2. Tümen Saldırıları! Ichigo Çevrelendi",
+                "overview": "Ichigo Kurosaki ve Rukia Kuchiki, Rurichiyo Kasumiōji'nin düğününü durdurmaya çalışır, ancak bu süreçte Gotei 13'ün saldırısına uğrarlar.",
+                "air_date": "2008-07-23",
+                "still_path": "/8cY5exchHVshDCBAJ13KUuMcMnj.jpg",
+                "video_url": "1751823"
+            },
+            {
+                "episode_number": 182,
+                "name": "Amagai'nin Gerçek Gücü, Serbest Bırakılan Zanpakuto!",
+                "overview": "Ichigo Kurosaki, Rurichiyo Kasumiōji'yi ararken Kaptan Shūsuke Amagai ile karşılaşır.",
+                "air_date": "2008-07-30",
+                "still_path": "/kt5jrIgcdPF2sW5ugLrVasXCxvG.jpg",
+                "video_url": "1100753"
+            },
+            {
+                "episode_number": 183,
+                "name": "Hareket Eden Karanlık! Kibune'nin Gerçek Renkleri",
+                "overview": "Teğmen Izuru Kira ve Makoto Kibune karşı karşıya gelir.",
+                "air_date": "2008-08-06",
+                "still_path": "/6jFR9YBOR1yM1BtvyXxQRxr6wAK.jpg",
+                "video_url": "1751827"
+            },
+            {
+                "episode_number": 184,
+                "name": "Kira ve Kibune, 3. Bölümün Hücum ve Savunması",
+                "overview": "Teğmen Izuru Kira ve Makoto Kibune savaşlarına devam ediyor.",
+                "air_date": "2008-08-20",
+                "still_path": "/bL7uPB1yMPktGwS4BpEZZw8l9sE.jpg",
+                "video_url": "1751829"
+            },
+            {
+                "episode_number": 185,
+                "name": "Buz ve Alev! Amagai ve Hitsugaya'nın Şiddetli Mücadelesi",
+                "overview": "Teğmen Izuru Kira, Makoto Kibune ile olan savaşını tamamlarken Kaptan Shūsuke Amagai, Kaptan Tōshirō Hitsugaya'ya karşı savaşmak zorunda kalır.",
+                "air_date": "2008-08-27",
+                "still_path": "/8ZEqq49zNJKGmAHZKXFnBYj29Gs.jpg",
+                "video_url": "1751832"
+            },
+            {
+                "episode_number": 186,
+                "name": "Siparişleri Sıralayın! Kasumiōji Hanesi'ni Bastırın",
+                "overview": "Ichigo Kurosaki, Rurichiyo Kasumiōji'yi kurtarmayı başarır, ancak Kaptan Shūsuke Amagai'nin Gyōkaku Kumoi ile çalıştığı ortaya çıkınca daha fazla sorun ortaya çıkar.",
+                "air_date": "2008-09-03",
+                "still_path": "/mZfIGgfoRnIqhLyp6NXe5vqexMA.jpg",
+                "video_url": "1751836"
+            },
+            {
+                "episode_number": 187,
+                "name": "Ichigo Öfkeleniyor! Suikastçının Sırrı",
+                "overview": "Yüzbaşı Shūsuke Amagai, Yüzbaşı-Kumandan Genryūsai Shigekuni Yamamoto'ya gerçek niyetini açıklar.",
+                "air_date": "2008-09-10",
+                "still_path": "/5LjaxLoncb3b7P3Gx9PvhqkNYAU.jpg",
+                "video_url": "1751841"
+            },
+            {
+                "episode_number": 188,
+                "name": "Düello! Amagai, Ichigo'ya Karşı",
+                "overview": "Ichigo Kurosaki ve Kaptan Shūsuke Amagai birbirleriyle savaşır.",
+                "air_date": "2008-09-17",
+                "still_path": "/bNsQ9R7FcQcnROgd5DTH7KpQx.jpg",
+                "video_url": "1751842"
+            },
+            {
+                "episode_number": 189,
+                "name": "Düşmüş Shinigami'nin Gururu",
+                "overview": "Ichigo Kurosaki ve Kaptan Shūsuke Amagai savaşlarını tamamlar.",
+                "air_date": "2008-10-07",
+                "still_path": "/2xf6HvCp1u2FWDseNQgeyLbvNNd.jpg",
+                "video_url": "1751844"
+            },
+            {
+                "episode_number": 190,
+                "name": "Hueco Mundo Bölümü, Yeniden Başlayın!",
+                "overview": "Sōsuke Aizen'in Soul Society'ye ihanet etmesinden bu yana yaşanan olayların uzun bir özetinin ardından Ichigo Kurosaki, Nnoitra Gilga ile yüzleşmeden önce Grimmjow Jaegerjaquez ile düellosunu bitirir.",
+                "air_date": "2008-10-14",
+                "still_path": "/4NPknz7mOB8P8WXbHe21QE7jbNL.jpg",
+                "video_url": "1751846"
+            },
+            {
+                "episode_number": 191,
+                "name": "Korkutucu Ziyafet, Szayelaporro Tiyatrosu",
+                "overview": "Szayelaporro Granz, Zanpakutō'sunu yayınlarken Nnoitra Gilga, Arrancar Nel Tu'nun gerçek kimliği hakkında şaşırtıcı bir açıklama yapıyor.",
+                "air_date": "2008-10-21",
+                "still_path": "/d8lVgp4FxB7zTTDuhN7KYrJkHJ4.jpg",
+                "video_url": "1751847"
+            },
+            {
+                "episode_number": 192,
+                "name": "Nel'in Sırrı, Büyük Memeli Bir Güzellik Savaşa Katılıyor!?",
+                "overview": "Nel Tu, orijinal Espada formuna geri dönüyor.",
+                "air_date": "2008-10-28",
+                "still_path": "/bpldNh7sVAi9qLYyl3QEa6L7MR0.jpg",
+                "video_url": "1751848"
+            },
+            {
+                "episode_number": 193,
+                "name": "Karşı Konulmaz, Terörün Kukla Gösterisi",
+                "overview": "Szayelaporro Granz yeni bir teknik sergilerken Nnoitra Gilga, Nelliel Tu Odelschwanck'ın saldırısı karşısında şaşkına dönüyor.",
+                "air_date": "2008-11-04",
+                "still_path": "/aSwaEMCxoVINhYCT0No78esRgda.jpg",
+                "video_url": "1751849"
+            },
+            {
+                "episode_number": 194,
+                "name": "Neliel'in Geçmişi",
+                "overview": "Nnoitra Gilga, Nelliel Tu Odelschwanck ile olan geçmişini hatırlıyor.",
+                "air_date": "2008-11-11",
+                "still_path": "/ZXwNoMT75X5Q7l8jFnJD0IB5dv.jpg",
+                "video_url": "1751850"
+            },
+            {
+                "episode_number": 195,
+                "name": "Nihai Birlik! Pesche'nin Ciddiyeti",
+                "overview": "Nelliel Tu Odelschwanck, Ichigo Kurosaki'yi Tesra Lindocruz'un ellerine bırakarak çocuk formuna geri döner. Szayelaporro Granz saldırılara karşı dayanıklı gibi görünüyor, Zommari Rureaux Rukia Kuchiki'nin işini bitirmek üzereyken Exequias, Yasutora Sado'yu idam etmeyi planlıyor.",
+                "air_date": "2008-11-18",
+                "still_path": "/bZJ8sL7ephsdBJgF7O48oyE5uOP.jpg",
+                "video_url": "1751851"
+            },
+            {
+                "episode_number": 196,
+                "name": "Savaşa Katılıyoruz! En Güçlü Soul Reaper Ordusu Ortaya Çıkıyor",
+                "overview": "Gotei 13, Ichigo Kurosaki ve yoldaşlarının imdadına yetişir.",
+                "air_date": "2008-11-25",
+                "still_path": "/zFJXc4vbXDtdKghfDXzBOKCcNF1.jpg",
+                "video_url": "1751852"
+            },
+            {
+                "episode_number": 197,
+                "name": "Byakuya'nın Bankai'si, Sessiz Öfke",
+                "overview": "Zommari Rureaux, Zanpakutō'sunu serbest bırakarak Kaptan Byakuya Kuchiki'yi yenilgiyi önlemek için sert önlemler almaya zorlar.",
+                "air_date": "2008-12-02",
+                "still_path": "/apOWz0M76MeouGuSE9NjOZ8yVkF.jpg",
+                "video_url": "1751853"
+            },
+            {
+                "episode_number": 198,
+                "name": "İki Bilim Adamı, Mayuri'nin Tuzağı",
+                "overview": "Kaptan Byakuya Kuchiki, Zommari Rureaux'nun işini bitirirken Kaptan Mayuri Kurotsuchi, Szayelaporro Granz'a karşı üstünlük sağlar.",
+                "air_date": "2008-12-09",
+                "still_path": "/hLwPZUMWbL4CGJNi5pZ4H6zA7eu.jpg",
+                "video_url": "1751860"
+            },
+            {
+                "episode_number": 199,
+                "name": "Kutsal Doğum, Diriltilen Szayel Aporro",
+                "overview": "Kaptan Mayuri Kurotsuchi, yeniden doğmuş Szayelaporro Granz'a karşı mücadelesini bitirmeye karar verir.",
+                "air_date": "2008-12-16",
+                "still_path": "/IJ5pSEjF7VvlCLOFrfUhB85Ki.jpg",
+                "video_url": "1751862"
+            },
+            {
+                "episode_number": 200,
+                "name": "En Sert Vücut!? Nnoitra'yı Kes",
+                "overview": "Yüzbaşı Kenpachi Zaraki ve Nnoitra Gilga kavgalarına devam ediyor.",
+                "air_date": "2008-12-23",
+                "still_path": "/AaoBOEeyrrdLfF95RwjTcYCdwQW.jpg",
+                "video_url": "1751934"
+            },
+            {
+                "episode_number": 201,
+                "name": "Nnoitra Çıktı! Çoğaltılan Silahlar",
+                "overview": "Kaptan Kenpachi Zaraki ile Nnoitra Gilga arasındaki savaş, Nnoitra'nın Zanpakutō'sunu serbest bırakmasıyla daha da şiddetli hale gelir.",
+                "air_date": "2009-01-06",
+                "still_path": "/wW68hRwYtwsWESpkFh3gibe4Ba0.jpg",
+                "video_url": "1751935"
+            },
+            {
+                "episode_number": 202,
+                "name": "Şiddetli Mücadele Sonucu! En Güçlü Kim?",
+                "overview": "Kaptan Kenpachi Zaraki ve Nnoitra Gilga savaşlarını tamamlıyor.",
+                "air_date": "2009-01-13",
+                "still_path": "/vrqoQR6KtsilcjzWiDJwjcCl5HL.jpg",
+                "video_url": "1751936"
+            },
+            {
+                "episode_number": 203,
+                "name": "Karakura Kasabası Toplanıyor! Aizen Soul Reaper'lara Karşı",
+                "overview": "Sōsuke Aizen planlarını açıklar ve Karakura Kasabasına gider.",
+                "air_date": "2009-01-20",
+                "still_path": "/oixwpwM9R2IrBbfRV23vfT6Pby9.jpg",
+                "video_url": "1751939"
+            },
+            {
+                "episode_number": 204,
+                "name": "Ichigo'nun Seppuku İkna Stratejisi ☆",
+                "overview": "Ichigo Kurosaki, kavga eden Rurichiyo Kasumiōji ve Kenryū'ya yardım etmeye çalışır.",
+                "air_date": "2009-01-27",
+                "still_path": "/3dvIISFf0gqofwZA4vODc4snh25.jpg",
+                "video_url": "1751942"
+            },
+            {
+                "episode_number": 205,
+                "name": "Güm! Boşluklarla Dolu Bir Kemari Turnuvası",
+                "overview": "Rurichiyo Kasumiōji and Kenryū have a kemari match.",
+                "air_date": "2009-02-03",
+                "still_path": "/ykwfusdb8rjg1K2gZ8CW2tdb6WV.jpg",
+                "video_url": "1583701"
+            },
+            {
+                "episode_number": 206,
+                "name": "Geçmiş Bölüm Başlıyor! 110 Yıl Önceki Gerçek",
+                "overview": "110 yıl önceki birçok Shinigami'nin geçmişi ortaya çıkıyor.",
+                "air_date": "2009-02-10",
+                "still_path": "/86WRkswJgl8MMYtL5FFOS1AZhUW.jpg",
+                "video_url": "1751968"
+            },
+            {
+                "episode_number": 207,
+                "name": "12. Tümenin Yeni Kaptanı Urahara Kisuke",
+                "overview": "12. Bölüm, Kisuke Urahara'nın yeni kaptan olmasıyla ilgilenir.",
+                "air_date": "2009-02-17",
+                "still_path": "/9tur0w5YTwwhGLAtMX9NqH8jSqL.jpg",
+                "video_url": "1751970"
+            },
+            {
+                "episode_number": 208,
+                "name": "Aizen ve Dahi Çocuk",
+                "overview": "Captain Kisuke Urahara takes Lieutenant Hiyori Sarugaki to the Nest of Maggots.",
+                "air_date": "2009-02-24",
+                "still_path": "/gLR500GdJ8TPZzOLlex0Qs6nM67.jpg",
+                "video_url": "1751971"
+            },
+            {
+                "episode_number": 209,
+                "name": "Muguruma 9. Ligden Ayrılıyor",
+                "overview": "Gotei 13, Rukongai vatandaşlarının ortadan kaybolmasının arkasında ne olduğunu bulmaya çalışıyor.",
+                "air_date": "2009-03-03",
+                "still_path": "/vxUp5auK2ril3p2drpmKgEL7Dum.jpg",
+                "video_url": "1751974"
+            },
+            {
+                "episode_number": 210,
+                "name": "Hiyori Öldü Mü? Trajedinin Başlangıcı",
+                "overview": "Birkaç Gotei 13 kaptanı ve teğmeni, Hollowfied Kaptan Kensei Muguruma ve Teğmen Mashiro Kuna ile karşı karşıya gelir.",
+                "air_date": "2009-03-10",
+                "still_path": "/ckFu0e70IMMghBWN8EiP34tr5hW.jpg",
+                "video_url": "1751976"
+            },
+            {
+                "episode_number": 211,
+                "name": "İhanet! Aizen'in Gizli Manevraları",
+                "overview": "Teğmen Sōsuke Aizen hain olduğunu ortaya koyuyor.",
+                "air_date": "2009-03-17",
+                "still_path": "/s3epgCnAnYohwVkazy0CYJZ2Zjz.jpg",
+                "video_url": "1751977"
+            },
+            {
+                "episode_number": 212,
+                "name": "Hirako'yu Kurtarın! Aizen ve Urahara",
+                "overview": "Kaptanlar Kisuke Urahara, Tessai Tsukabishi ve Yoruichi Shihōin, Hollowfied kaptanları ve teğmenleriyle birlikte İnsan Dünyasına doğru yola çıkar.",
+                "air_date": "2009-03-24",
+                "still_path": "/9uyYkxaInbsZiNFbRuPdZRTOV5Z.jpg",
+                "video_url": "1751979"
+            },
+            {
+                "episode_number": 213,
+                "name": "Konso Cop Karakuraizer Doğuyor",
+                "overview": "Kisuke Urahara, Karakura Kasabasını korumak için Karakura-Raizer Ekibini oluşturur.",
+                "air_date": "2009-03-31",
+                "still_path": "/2y1MvHlxAIfT4q4n5n5bwjnHlZW.jpg",
+                "video_url": "1751980"
+            },
+            {
+                "episode_number": 214,
+                "name": "Karakuraizer'ın Son Günü",
+                "overview": "Karakura-Raizer Takımı bir kadın Arrancar'la karşı karşıya gelir.",
+                "air_date": "2009-04-07",
+                "still_path": "/9woTRrqwoXhV5sdcLmleLCPyZxw.jpg",
+                "video_url": "1751982"
+            },
+            {
+                "episode_number": 215,
+                "name": "Karakura Kasabasını Savunun! Shinigami'nin Bütün Görünümü",
+                "overview": "Gotei 13, ilk üç Espada ile karşılaşmaya hazırlanırken Ichigo Kurosaki, Ulquiorra Cifer ile yüzleşir.",
+                "air_date": "2009-04-14",
+                "still_path": "/7jzlBbpOXGyO7xQja5zaUQwsHng.jpg",
+                "video_url": "1751984"
+            },
+            {
+                "episode_number": 216,
+                "name": "Seçkinler! Dört Shinigami",
+                "overview": "Ichigo Kurosaki, Ulquiorra Cifer ile yüzleşirken Karakura Kasabasında dört sütun için savaş başlıyor.",
+                "air_date": "2009-04-21",
+                "still_path": "/xSvviCl091FdIP68fUvAAMWblss.jpg",
+                "video_url": "1751986"
+            },
+            {
+                "episode_number": 217,
+                "name": "Güzel Küçük Şeytan Charlotte",
+                "overview": "5. Koltuk Yumichika Ayasegawa ve Charlotte Chuhlhourne birbirleriyle savaşıyor.",
+                "air_date": "2009-04-28",
+                "still_path": "/6r1XIi0mCaSIT1sy4piYNAGoVpc.jpg",
+                "video_url": "1751987"
+            },
+            {
+                "episode_number": 218,
+                "name": "Kira, Umutsuzluk İçinde Savaş",
+                "overview": "Teğmen Izuru Kira, Teğmen Shūhei Hisagi ve 3. Koltuk Ikkaku Madarame, Baraggan Louisenbairn'in Fracción'una karşı mücadelelerine devam ediyor.",
+                "air_date": "2009-05-05",
+                "still_path": "/vUleSAyhN0J3hx1KTBT8UuCOoeC.jpg",
+                "video_url": "1751988"
+            },
+            {
+                "episode_number": 219,
+                "name": "Hisagi'nin Shikai'si! İsmi...",
+                "overview": "Teğmen Shūhei Hisagi ve Findorr Calius birbirleriyle savaşır.",
+                "air_date": "2009-05-12",
+                "still_path": "/3IpixqH2IsJk0mhWmJ2q9UlcTZD.jpg",
+                "video_url": "1751989"
+            },
+            {
+                "episode_number": 220,
+                "name": "Ikkaku Şelalesi! Shinigami'nin Krizi",
+                "overview": "3. Koltuk Ikkaku Madarame, Choe Neng Poww'a karşı mücadelesini kaybeder ve Kaptan Sajin Komamura, savaşı devralmaya zorlanır.",
+                "air_date": "2009-05-19",
+                "still_path": "/cuQnraWIzktexOwmJmC4WaMluJ3.jpg",
+                "video_url": "1751991"
+            },
+            {
+                "episode_number": 221,
+                "name": "Tam Karşılaşma! Soul Reapers, Espada'ya Karşı",
+                "overview": "Kaptan Suì-Fēng, Ggio Vega ile savaşına başlarken diğer iki Espada ve onların Fracción'u kavgalarına başlar.",
+                "air_date": "2009-05-26",
+                "still_path": "/twOmgsj46b5eGBp9b098QJccxQI.jpg",
+                "video_url": "1751992"
+            },
+            {
+                "episode_number": 222,
+                "name": "En Kötü Etiket!? Suì-fēng ve Ōmaeda",
+                "overview": "Ggio Vega ve Nirgge Parduoc, Zanpakutōlarını serbest bırakınca, Teğmen Marechiyo Ōmaeda gerçek gücünü kullanmaya başlar.",
+                "air_date": "2009-06-02",
+                "still_path": "/lSxYAT0XMlvUF25gClElSba6RQm.jpg",
+                "video_url": "1751996"
+            },
+            {
+                "episode_number": 223,
+                "name": "Mucizevi Bir Vücut! Ggio Sürümleri",
+                "overview": "Teğmen Marechiyo Ōmaeda ve Yüzbaşı Suì-Fēng rakiplerine karşı mücadele eder, ancak sonunda kazanmayı başarır.",
+                "air_date": "2009-06-09",
+                "still_path": "/rdYV5TJyYebpNI7CSIlpBuIclJv.jpg",
+                "video_url": "1751997"
+            },
+            {
+                "episode_number": 224,
+                "name": "3'e 1 Savaş! Rangiku'nun Krizi",
+                "overview": "Teğmen Momo Hinamori, Teğmen Rangiku Matsumoto'ya yardım etmek için gelir ve Harribel'in Fracción'unu Ayon'u ortaya çıkarmaya teşvik eder.",
+                "air_date": "2009-06-16",
+                "still_path": "/nboqW5VcI54lIOuiUmsldi1YXQ5.jpg",
+                "video_url": "1751998"
+            },
+            {
+                "episode_number": 225,
+                "name": "Kaptan Yardımcıları Yok Edildi! Korkunç Şeytani Canavar",
+                "overview": "Ayon teğmenleri alt eder ve onları büyük ölçüde yaralar, ancak Yüzbaşı-Komutan Genryūsai Shigekuni Yamamoto canavarla savaşıyor gibi görünür.",
+                "air_date": "2009-06-23",
+                "still_path": "/j7WYPLZPBnEmVyt4aAh7dPG7i39.jpg",
+                "video_url": "1751999"
+            },
+            {
+                "episode_number": 226,
+                "name": "Şiddetli Mücadele Sonuçlanıyor Mu? Yeni Bir Savaşa Doğru!",
+                "overview": "Yüzbaşı-Komutan Genryūsai Shigekuni Yamamoto, Ayon ve Harribel'in Fracción'unu zahmetsizce bitiriyor. Starrk kendisinin Primera Espada olduğunu ortaya koyuyor. Ichigo Kurosaki, Ulquiorra Cifer'e karşı mücadele ederken Rukia Kuchiki, Rudbornn'la savaşır.",
+                "air_date": "2009-06-30",
+                "still_path": "/jW0nsb1c6Y1Ms8qRJIM0CpIah1v.jpg",
+                "video_url": "1752000"
+            },
+            {
+                "episode_number": 227,
+                "name": "Harika Hata",
+                "overview": "Ichigo Kurosaki and Yasutora Sado become classmates with Mizuiro Kojima and Keigo Asano. Rukia Kuchiki is assigned to Karakura Town and Renji Abarai is promoted.",
+                "air_date": "2009-07-07",
+                "still_path": "/1QD1XwNt5sy8l3cdmCvmbe0UMBH.jpg",
+                "video_url": "1752001"
+            },
+            {
+                "episode_number": 228,
+                "name": "Yaz! Deniz! Mayo Festivali!!",
+                "overview": "Karakterler sahilde mola veriyorlar.",
+                "air_date": "2009-07-14",
+                "still_path": "/kHaVrJKXAVFOUIT5I2XQWqAn3c7.jpg",
+                "video_url": "1752002"
+            },
+            {
+                "episode_number": 229,
+                "name": "Ruhun Ağlaması Mı? Halı Shinigami Doğuyor!",
+                "overview": "Ikkaku ve Yumichika, İnsan Dünyasındaki bir görev sırasında tekrar Mizuho'nun yanında kalmak zorunda kalır.",
+                "air_date": "2009-07-21",
+                "still_path": "/xyLFAh181DdTRJrg1ia5CowgoyC.jpg",
+                "video_url": "1752004"
+            },
+            {
+                "episode_number": 230,
+                "name": "Yeni Bir Düşman! Zanpakutō'nun Gerçekleşmesi",
+                "overview": "Muramasa adlı gizemli bir Zanpakutō Ruhu, birçok Zanpakutō'nun ruhunu kılıçlarından serbest bırakır ve Soul Society'ye saldırır.",
+                "air_date": "2009-07-28",
+                "still_path": "/yOxiaY9mylukfPhv5NZpiN61oSR.jpg",
+                "video_url": "1583727"
+            },
+            {
+                "episode_number": 231,
+                "name": "Byakuya, Kiraz Çiçekleriyle Kaybolan",
+                "overview": "Ichigo Kurosaki, Rukia Kuchiki'yi kovalarken İnsan Dünyasına gelen, tezahür etmiş Zanpakutō Spirit of Sode no Shirayuki'ye karşı savaşır.",
+                "air_date": "2009-08-04",
+                "still_path": "/97SioSIDOUIBDTJpr1Z540Nhzlz.jpg",
+                "video_url": "1583728"
+            },
+            {
+                "episode_number": 232,
+                "name": "Sode No Shirayuki Vs. Rukia! Confused Heart",
+                "overview": "Rukia Kuchiki and Ichigo Kurosaki battle Sode no Shirayuki, and Muramasa reveals he is a Zanpakutō Spirit.",
+                "air_date": "2009-08-11",
+                "still_path": "/dMWluGwQpNxBCBzvhEGvExfjDtK.jpg",
+                "video_url": "1583729"
+            },
+            {
+                "episode_number": 233,
+                "name": "Zangetsu Düşman Oldu",
+                "overview": "Muramasa, Zangetsu'yu serbest bırakır ve içindeki Hollow kontrolü ele geçirmeye başladığında Ichigo Kurosaki onunla savaşır.",
+                "air_date": "2009-08-18",
+                "still_path": "/adsZ8yUbx8VorYIf7I5klkNrXOP.jpg",
+                "video_url": "1583730"
+            },
+            {
+                "episode_number": 234,
+                "name": "Renji Şaşırdı Mı? İki Zabimarus",
+                "overview": "6. Tümen Teğmen Renji Abarai, Zanpakutō'sunun ruhuyla yüzleşir ve Muramasa, Ichigo Kurosaki'nin iç dünyasına girer.",
+                "air_date": "2009-08-25",
+                "still_path": "/c7msbnWJgP1tlre455efy2vrziu.jpg",
+                "video_url": "1583731"
+            },
+            {
+                "episode_number": 235,
+                "name": "Çarpışma! Hisagi, Kazeshini'ye Karşı",
+                "overview": "9. Tümen Teğmen Shūhei Hisagi, Zanpakutō ruhuyla savaşırken Hollow Ichigo, Muramasa ile savaşır ve 6. Tümen Teğmen Renji Abarai, Shikai'si Zabimaru'yu serbest bırakma yeteneğini yeniden kazanır.",
+                "air_date": "2009-09-01",
+                "still_path": "/r83ULB0ulCug6G7szlrpWlzlQYw.jpg",
+                "video_url": "1583732"
+            },
+            {
+                "episode_number": 236,
+                "name": "Serbest Bırakmak! Yeni Getsuga Tenshō",
+                "overview": "3. Tümen Teğmen Izuru Kira, Kazeshini ile savaşan 9. Tümen Teğmen Shūhei Hisagi'ye yardım ederken, 6. Tümen Teğmen Renji Abarai ve Ichigo Kurosaki savaşlarını tamamlıyor.",
+                "air_date": "2009-09-08",
+                "still_path": "/mbeNgj5D2DEvAA0wZ1mTKzfAcwM.jpg",
+                "video_url": "1583733"
+            },
+            {
+                "episode_number": 237,
+                "name": "Suì-fēng, Zanpakutō'yu Çevreleyen",
+                "overview": "11. Tümen 3. Koltuk Ikkaku Madarame ve 2. Tümen Teğmen Marechiyo Ōmaeda, Zanpakutō Spirits'leriyle karşılaşır ve Ichigo Kurosaki, 6. Tümen Kaptanı Byakuya Kuchiki'yi görür.",
+                "air_date": "2009-09-15",
+                "still_path": "/j69OQ3p8pyZ4oy4W4KiV2Bi8Wic.jpg",
+                "video_url": "1583734"
+            },
+            {
+                "episode_number": 238,
+                "name": "Dostluk? Kin? Haineko ve Tobiume",
+                "overview": "10. Tümen Teğmen Rangiku Matsumoto ve 5. Tümen Teğmen Momo Hinamori, Zanpakutō Ruhları ile savaşır ve 10. Tümen Kaptanı Tōshirō Hitsugaya, Muramasa Menos Ormanı'nda topallayarak Hyōrinmaru'ya adının ne olduğunu söyler.",
+                "air_date": "2009-09-22",
+                "still_path": "/ArJxxbZ0hIp8Z6SiGrqL6CPpIWJ.jpg",
+                "video_url": "1583735"
+            },
+            {
+                "episode_number": 239,
+                "name": "Uyanış Hyōrinmaru! Hitsugaya'nın Şiddetli Dövüşü",
+                "overview": "5. Tümen Teğmen Momo Hinamori ve 10. Tümen Teğmen Rangiku Matsumoto savaşlarını tamamlarken, 10. Tümen Kaptanı Tōshirō Hitsugaya, Hyōrinmaru'yu kendisinin efendisi olduğuna ikna etmeye çalışır, ancak Zanpakutō Spirit buna inanmaz.",
+                "air_date": "2009-09-29",
+                "still_path": "/kpOWjzV86nu7WOabxboVanfEdhZ.jpg",
+                "video_url": "1583736"
+            },
+            {
+                "episode_number": 240,
+                "name": "Byakuya'nın İhaneti",
+                "overview": "Ichigo Kurosaki, Muramasa'ya saldırır, ancak Senbonzakura ve daha sonra 6. Tümen Kaptanı Byakuya Kuchiki onu korumak için ortaya çıkar.",
+                "air_date": "2009-10-06",
+                "still_path": "/sGCQvtQoGX9ASssfIrbT4zoGCFa.jpg",
+                "video_url": "1583738"
+            },
+            {
+                "episode_number": 241,
+                "name": "Gurur Uğruna! Byakuya Renji'ye Karşı",
+                "overview": "Muramasa, 6. Tümen Kaptanı Byakuya Kuchiki'ye bir sadakat testi yaptırır. Daha sonra Byakuya, 6. Tümen kışlasını işgal eder ve teğmeni Renji Abarai ile savaşmak zorunda kalır.",
+                "air_date": "2009-10-13",
+                "still_path": "/giW3SpF1uUFgeOlyjrRz2H088De.jpg",
+                "video_url": "1583739"
+            },
+            {
+                "episode_number": 242,
+                "name": "Shinigami ve Zanpakutō, Toplam Saldırı",
+                "overview": "Ichigo Kurosaki, 2. Tümen Yüzbaşı Suì-Fēng ve 3. Tümen Teğmeni Izuru Kira savaşlarına başlarken, 11. Tümen 3. Koltuğu Ikkaku Madarame, Zanpakutō Ruhu Hōzukimaru ile savaşır ve onu yener.",
+                "air_date": "2009-10-20",
+                "still_path": "/de0syrMPkh8DjF1p9WgImIxmhiu.jpg",
+                "video_url": "1583740"
+            },
+            {
+                "episode_number": 243,
+                "name": "Bire Bir Dövüş! Ichigo Vs. Senbonzakura",
+                "overview": "Shinigami, Zanpakutō Spirits ile savaşırken 3. Tümen Teğmen Izuru Kira, Kazeshini'yi yener, ancak Wabisuke tarafından saldırıya uğrar. Bu sırada 11. Tümen Kaptanı Kenpachi Zaraki savaş alanına gelir.",
+                "air_date": "2009-10-27",
+                "still_path": "/5rhwy09dlBngagikGCoJ7JtvPCU.jpg",
+                "video_url": "1583741"
+            },
+            {
+                "episode_number": 244,
+                "name": "Uzun Zamandır Beklenen... Kenpachi Ortaya Çıkıyor!",
+                "overview": "11. Tümen Kaptanı Kenpachi Zaraki gelir ve 6. Tümen Kaptanı Byakuya Kuchiki'ye geçmeden önce Wabisuke'yi yener. Bu arada, 11. Lig 5. Koltuk Yumichika Ayasegawa, ortaya çıkan Zanpakutō Ruhu Ruri'iro Kujaku'yu yendi.",
+                "air_date": "2009-11-03",
+                "still_path": "/pYuPIc1SDFBCgUxvVrIuJegKAc9.jpg",
+                "video_url": "1583742"
+            },
+            {
+                "episode_number": 245,
+                "name": "Byakuya'yı Takip Edin! Karışık Gotei Bölümleri",
+                "overview": "11. Tümen Kaptanı Kenpachi Zaraki ve 6. Tümen Byakuya Kuchiki savaşırken, 11. Tümen Teğmen Yachiru Kusajishi, 12. Tümen Kaptanı Mayuri Kurotsuchi'nin Zanpakutō Ruhunu kendi kendini yok etmeye zorlamasından ve diğerlerine müdahale etmemelerini söylemesinden önce Ashisogi Jizō'yu kovalar. Muramasa, Byakuya'yı, koyu saçlı bir kadın, iki beyaz saçlı oğlan ve pelerinli bir figür tarafından korunan bir bariyerin içinde bulunan Yüzbaşı-Komutan Genryūsai Shigekuni Yamamoto'yu görmeye götürür.",
+                "air_date": "2009-11-10",
+                "still_path": "/aSIYWlYfP12WBIC8s9V4WM3GrhL.jpg",
+                "video_url": "1583743"
+            },
+            {
+                "episode_number": 246,
+                "name": "Özel Görev! Kaptan Komutan Yamamoto'yu Kurtarın!",
+                "overview": "Bir grup Shinigami, Kaptan-Komutan Genryūsai Shigekuni Yamamoto'yu kurtarmaya çalışır, ancak birkaç Zanpakutō Ruhu tarafından durdurulurlar. Bu sırada Ichigo Kurosaki, Yamamoto'yu çevreleyen bariyere gelir ve onu yok etmeye hazırlanır.",
+                "air_date": "2009-11-17",
+                "still_path": "/hxfwUHgkRCekH6j4jQ5ZdLrOZQj.jpg",
+                "video_url": "1583744"
+            },
+            {
+                "episode_number": 247,
+                "name": "Shinigami'yi Aldattı! Dünya Çöküşü Krizi",
+                "overview": "Yoruichi Shihōin, 8. Tümen Kaptanı Shunsui Kyōraku, 11. Tümen Kaptanı Jūshirō Ukitake ve 11. Tümen Kaptanı Kenpachi Zaraki, Zanpakutō Ruhlarına karşı savaşmaya devam ederken Ichigo Kurosaki, Kaptan-Komutan Genryūsai Shigekuni Yamamoto'yu serbest bırakır, ancak tüm bunların Muramasa'nın planının bir parçası olduğunu öğrenir. .",
+                "air_date": "2009-11-24",
+                "still_path": "/fA3qD1lGcoay6lw9NtJSXiMliVn.jpg",
+                "video_url": "1583745"
+            },
+            {
+                "episode_number": 248,
+                "name": "Buz Ejderhası ve Alev Ejderhası! En Güçlü Karşılaşma!",
+                "overview": "Yüzbaşı-Komutan Genryūsai Shigekuni Yamamoto ve diğerleri, Muramasa'nın Kōga Kuchiki'yi kurtarmaya çalışması sırasında Ryūjin Jakka'nın alevleri tarafından tutulurlar.",
+                "air_date": "2009-12-01",
+                "still_path": "/pBoHUeX9hx3FYty0yMF2JXya6jw.jpg",
+                "video_url": "1583746"
+            },
+            {
+                "episode_number": 249,
+                "name": "Senbonzakura'nın Bankai'si! Yaşayan Dünyanın Saldırısı ve Savunması",
+                "overview": "Muramasa, efendisi Kōga'yı serbest bırakırken 11. Tümen Kaptanı Kenpachi Zaraki, Tenken'in Bankai'si Kokujō Tengen Myō'ō ile karşı karşıya gelir.",
+                "air_date": "2009-12-08",
+                "still_path": "/qbE2RXJ3ERiLf85dKaihQA47Sjo.jpg",
+                "video_url": "1583747"
+            },
+            {
+                "episode_number": 250,
+                "name": "O Adam, Kuchiki'nin Hatırına",
+                "overview": "Kōga Kuchiki'nin geçmişi ortaya çıkar.",
+                "air_date": "2009-12-15",
+                "still_path": "/e6EXYpAx5mGeo5xfocj32v01vhl.jpg",
+                "video_url": "1583748"
+            },
+            {
+                "episode_number": 251,
+                "name": "Karanlık Tarih! En Kötü Shinigami Doğdu",
+                "overview": "6. Tümen Kaptanı Ginrei Kuchiki ve Kaptan-Komutan Genryūsai Shigekuni Yamamoto, Kōga Kuchiki'yi mühürlemek zorunda kalır. Şu anda 6. Tümen Kaptanı Byakuya Kuchiki, Kōga'nın Muramasa'yı öldürmesini durdurur.",
+                "air_date": "2009-12-22",
+                "still_path": "/d8TsHyK07EADTqc2Atfve4SqyIa.jpg",
+                "video_url": "1583934"
+            },
+            {
+                "episode_number": 252,
+                "name": "Byakuya, İhanetinin Arkasındaki Gerçek",
+                "overview": "Senbonzakura, 6. Tümen Kaptanı Byakuya Kuchiki'nin ihaneti hakkındaki gerçeği ortaya çıkarırken, Byakuya Kōga Kuchiki'ye karşı savaşır. Bu arada Muramasa kontrolü kaybeder ve yüzlerce Gillian'ı serbest bırakır.",
+                "air_date": "2010-01-05",
+                "still_path": "/tE58n7OJI8itDSoN4IudwhBsx6y.jpg",
+                "video_url": "1583936"
+            },
+            {
+                "episode_number": 253,
+                "name": "Muramasa'nın Gerçek Kimliği Ortaya Çıktı",
+                "overview": "6. Tümen Kaptanı Byakuya Kuchiki, Muramasa'nın kontrolü kaybedip kendisinin Hollow versiyonuna dönüşmesiyle Kōga Kuchiki'yi yener. Ichigo Kurosaki, Muramasa ile savaşırken birkaç Shinigami ve onların Zanpakutō Ruhları yardıma gelir.",
+                "air_date": "2010-01-12",
+                "still_path": "/uHHHSi3GgPh2d9kz9cIVrLTvbJU.jpg",
+                "video_url": "1583941"
+            },
+            {
+                "episode_number": 254,
+                "name": "Byakuya ve Renji, 6. Tümen Geri Dönüyor",
+                "overview": "Shinigami ve Zanpakutō Ruhları Gillian'larla başa çıkmaya çalışırlar.",
+                "air_date": "2010-01-19",
+                "still_path": "/h5SMSCK5w3XCABD7kCQ1bdQyF9r.jpg",
+                "video_url": "1583942"
+            },
+            {
+                "episode_number": 255,
+                "name": "Son Bölüm - Zanpakutō Alternatif Hikaye",
+                "overview": "Ichigo Kurosaki, Muramasa'yı yener ve Zanpakutō Ruhları orijinal formlarına geri döner.",
+                "air_date": "2010-01-26",
+                "still_path": "/wfjhe4eJQPSRkRmea7ARZqOujjo.jpg",
+                "video_url": "1583945"
+            },
+            {
+                "episode_number": 256,
+                "name": "Öfkeli Byakuya! Kuchiki Evi'nin Çöküşü",
+                "overview": "Tōjū adlı iki haydut Zanpakutō Ruhu saldırıp partiyi bozduğunda Kuchiki Malikanesi'nde bir parti düzenleniyor.",
+                "air_date": "2010-02-02",
+                "still_path": "/9DBsQoUoCCSpGQG2uvhfggr8hBa.jpg",
+                "video_url": "1583952"
+            },
+            {
+                "episode_number": 257,
+                "name": "Yeni Bir Düşman! Kılıç Canavarlarının Gerçek Doğası",
+                "overview": "10. Tümen Kaptanı Tōshirō Hitsugaya, Hollow tarafından emilen bir Tōjū ile savaşır.",
+                "air_date": "2010-02-09",
+                "still_path": "/2DTMHn28gbhARENwpFGkiHUHBdr.jpg",
+                "video_url": "1583957"
+            },
+            {
+                "episode_number": 258,
+                "name": "Başıboş Yılan, İşkence Görmüş Maymun",
+                "overview": "6. Tümen Teğmen Renji Abarai ve Zanpakutō Ruhu Zabimaru, bir Tōjū'yu yenmek zorundadır, ancak Hebi özgürlük ister.",
+                "air_date": "2010-02-16",
+                "still_path": "/ophImj2zvpyXWbobEC1msnY37wF.jpg",
+                "video_url": "1583958"
+            },
+            {
+                "episode_number": 259,
+                "name": "Terör! Yeraltında Gizlenen Canavar",
+                "overview": "Bir grup Shinigami, bir Tōjū ile savaşmak için kanalizasyona gitmek zorundadır. Kanalizasyonda yaşayan bir Zanpakutō Ruhu onlara yardım ediyor.",
+                "air_date": "2010-02-23",
+                "still_path": "/k9lmteJhKk2mvy2QDHJPvcvuyBg.jpg",
+                "video_url": "1583960"
+            },
+            {
+                "episode_number": 260,
+                "name": "Çözüm!? Hisagi ve Kazeshini",
+                "overview": "Bir bebeğe bakmak zorunda kalınca Kazeshini'nin fikri değişir.",
+                "air_date": "2010-03-02",
+                "still_path": "/aMKovXHzQnvYYMx54WlGtCatsa2.jpg",
+                "video_url": "1583961"
+            },
+            {
+                "episode_number": 261,
+                "name": "Bilinmeyen Yeteneğe Sahip Kişi! Orihime Hedef Alınıyor",
+                "overview": "Orihime Inoue, Tōjū tarafından kontrol edilen bir transfer öğrencisine yardım etmelidir.",
+                "air_date": "2010-03-09",
+                "still_path": "/kScmW2ylJYbY2kUdoXhj8fuMOqJ.jpg",
+                "video_url": "1583963"
+            },
+            {
+                "episode_number": 262,
+                "name": "Haineko Ağlıyor! Trajik Kılıç Canavarı!",
+                "overview": "Haineko, tamamen farkında olan bir Tōjū'ya aşık olur. Ancak kontrolü kaybettiğinde Haineko onu kendisi yenmeye karar verir.",
+                "air_date": "2010-03-16",
+                "still_path": "/deD0LkfYS2j9EY9MpyfjIc14qIs.jpg",
+                "video_url": "1583964"
+            },
+            {
+                "episode_number": 263,
+                "name": "Imprisonment?! Senbonzakura & Zabimaru",
+                "overview": "Zabimaru ve Senbonzakura, Shinigami Araştırma ve Geliştirme Enstitüsü'nde mahsur kaldı.",
+                "air_date": "2010-03-23",
+                "still_path": "/m6wegaqbmpyKgmxL6BAXEnqFQk4.jpg",
+                "video_url": "1583965"
+            },
+            {
+                "episode_number": 264,
+                "name": "Kadınların Savaşı Mı? Katen Kyōkotsu, Nanao'ya Karşı!",
+                "overview": "8. Tümen Teğmen Nanao Ise, bir Tōjū ile savaşırken menekşe saçlı kızla ilişki kurmaya çalışır.",
+                "air_date": "2010-03-30",
+                "still_path": "/bkpGanSPfnNGk2xtodSaNz6NMzi.jpg",
+                "video_url": "1583967"
+            },
+            {
+                "episode_number": 265,
+                "name": "Evrim?! Son Kılıç Canavarının Tehdidi",
+                "overview": "Zanpakutō Ruhları, sahipleri yardıma gelene kadar son Tōjū ile mücadele eder.",
+                "air_date": "2010-04-06",
+                "still_path": "/1BUzAAkjHeVQHfsPX72QrOoZN1P.jpg",
+                "video_url": "1583969"
+            },
+            {
+                "episode_number": 266,
+                "name": "Ichigo Ulquiorra'ya Karşı, Özgeçmiş",
+                "overview": "Önceki olaylar hatırlanır.",
+                "air_date": "2010-04-13",
+                "still_path": "/7kUyq4i7TAY6kSVDBuMAbysj5vO.jpg",
+                "video_url": "1583971"
+            },
+            {
+                "episode_number": 267,
+                "name": "Birbirine Bağlı Kalpler! Kesin Ölümün Sol Yumruğu",
+                "overview": "Renji Abarai ve Yasutora Sado, Battikaroa ile savaşırken Ichigo Kurosaki, Ulquiorra Cifer'e karşı mücadele ediyor.",
+                "air_date": "2010-04-20",
+                "still_path": "/nf8tondja6KJtWbcMbMQ7bNfYL5.jpg",
+                "video_url": "1583973"
+            },
+            {
+                "episode_number": 268,
+                "name": "Nefret ve Kıskançlık, Orihime'nin İkilemi",
+                "overview": "Loly Aivirrne ve Menoly Mallia, Orihime Inoue'yi Ichigo Kurosaki'nin dövüştüğü yere götürür. Yammy Llargo ortaya çıkar ve Loly'yi ortadan kaldırdıktan sonra Uryū Ishida tarafından pusuya düşürülür.",
+                "air_date": "2010-04-27",
+                "still_path": "/nT6gbb2Fyxc8X6TsIBGW5dn35ym.jpg",
+                "video_url": "1583978"
+            },
+            {
+                "episode_number": 269,
+                "name": "Ichigo ve Uryū, Sırt Sırta Bağlanmış",
+                "overview": "Uryū Ishida, Yammy Llargo ile uğraşırken Ulquiorra Cifer, Ichigo Kurosaki'ye Diriliş'ini gösterir.",
+                "air_date": "2010-05-04",
+                "still_path": "/9JJiEDRChYwHTCiQS73EcjVxX1I.jpg",
+                "video_url": "1583980"
+            },
+            {
+                "episode_number": 270,
+                "name": "Umutsuzluğun Başlangıcı... Ichigo, Ulaşılamaz Kılıç",
+                "overview": "Ichigo Kurosaki, serbest bırakılmış haliyle Ulquiorra Cifer ile büyük mücadele veriyor ve onu daha da ileriye taşımak için Ulquiorra, Ichigo'ya ikinci sürümünü gösteriyor.",
+                "air_date": "2010-05-11",
+                "still_path": "/58QbyCRY2UpM7CRQtyDvP2TO3In.jpg",
+                "video_url": "1583981"
+            },
+            {
+                "episode_number": 271,
+                "name": "Ichigo Öldü! Orihime, Acının Çığlığı!",
+                "overview": "Ichigo Kurosaki'nin Hollow formu onu tamamen ele geçirdiğinde Ulquiorra Cifer ile yeniden savaşmaya başlar.",
+                "air_date": "2010-05-18",
+                "still_path": "/o7Ij9SNGUgCbDRcpjExxPpBR9Do.jpg",
+                "video_url": "1583983"
+            },
+            {
+                "episode_number": 272,
+                "name": "Ichigo ve Ulquiorra, Sonuç!",
+                "overview": "Ichigo Kurosaki ve Ulquiorra Cifer savaşlarını tamamlıyor.",
+                "air_date": "2010-05-25",
+                "still_path": "/qBRXR719FKwwjW8A2etvCMou1K9.jpg",
+                "video_url": "1583986"
+            },
+            {
+                "episode_number": 273,
+                "name": "Köpekbalığının Öfkesi! Halibel'in Serbest Bırakılması",
+                "overview": "Rukia Kuchiki, Yasutora Sado ve Teğmen Renji Abarai, Yammy Llargo ile savaşırken Sahte Karakura Kasabasındaki kaptanlar Espada ile savaşmaya devam ediyor.",
+                "air_date": "2010-06-01",
+                "still_path": "/zLrUU77v0libZGUmKbXfus3H5HA.jpg",
+                "video_url": "1583993"
+            },
+            {
+                "episode_number": 274,
+                "name": "Hitsugaya, The Desperate Hyōten Hyakkasō!",
+                "overview": "Kaptan Tōshirō Hitsugaya ve Tier Harribel arasındaki savaş devam ediyor.",
+                "air_date": "2010-06-08",
+                "still_path": "/n1NOLZyQgctVezepUBtXdKCUT3c.jpg",
+                "video_url": "1583995"
+            },
+            {
+                "episode_number": 275,
+                "name": "Yaklaşan Ölüm Nefesi, Ölüme Hükümdar Olan Kral!",
+                "overview": "Yüzbaşı Suì-Fēng ve Teğmen Marechiyo Ōmaeda, Baraggan Louisenbairn'e karşı mücadele eder.",
+                "air_date": "2010-06-15",
+                "still_path": "/fUU4Tzw4Vk9C7JHNy5okKhubJgI.jpg",
+                "video_url": "1583996"
+            },
+            {
+                "episode_number": 276,
+                "name": "Tek Vuruşta Öldür, Suì-fēng, Bankai!",
+                "overview": "Teğmen Marechiyo Ōmaeda, Baraggan Luisenbarn'ı Yüzbaşı Suì-Fēng'e yönlendirirken, Yüzbaşı Shunsui Kyōraku ve Coyote Starrk savaşlarına devam ediyor.",
+                "air_date": "2010-06-22",
+                "still_path": "/8UIXEouurnuGsBccwxhzZfdltmU.jpg",
+                "video_url": "1583998"
+            },
+            {
+                "episode_number": 277,
+                "name": "Doruk! Kyōraku, Stark'a Karşı!",
+                "overview": "Kaptan Shunsui Kyōraku ve Coyote Starrk, savaşlarında ciddileşmeye karar verir.",
+                "air_date": "2010-06-29",
+                "still_path": "/koeSYxPOoUuvSYqT7i2GhdDr4LU.jpg",
+                "video_url": "1583999"
+            },
+            {
+                "episode_number": 278,
+                "name": "Kabus Geri Dönüyor... Espada'nın Yeniden Dirilişi",
+                "overview": "Espada'ların hâlâ hayatta olduğu, Sōsuke Aizen, Gin Ichimaru ve Kaname Tōsen'in serbest bırakıldığı ve Vizörlülerin savaş alanına geldiği görülür.",
+                "air_date": "2010-07-06",
+                "still_path": "/bTgl2R1fj0K7Z2GOAzjf9IASWeA.jpg",
+                "video_url": "1584001"
+            },
+            {
+                "episode_number": 279,
+                "name": "Hirako ve Aizen... Kaderin Buluşması!",
+                "overview": "Vizörlüler mücadeleye katılıyor.",
+                "air_date": "2010-07-13",
+                "still_path": "/hQHatBEuPjlsFmCss0gqykWJE4v.jpg",
+                "video_url": "1584004"
+            },
+            {
+                "episode_number": 280,
+                "name": "Hisagi ve Tōsen, Ayrılık Anı",
+                "overview": "Hachigen Ushōda, Kaptan Suì-Fēng'in Baraggan Luisenbarn ile savaşmasına yardım eder.",
+                "air_date": "2010-07-20",
+                "still_path": "/44dbZBBXaSQtUZajZ6PQ5RxuaRL.jpg",
+                "video_url": "1584010"
+            },
+            {
+                "episode_number": 281,
+                "name": "Yalanın Tacı, Baraggan'ın Garezi",
+                "overview": "Baraggan Luisenbarn, ölmeden önce Hueco Mundo Kralı olarak geçmişini hatırlıyor.",
+                "air_date": "2010-07-27",
+                "still_path": "/2DPU8ch4eXfdD22UB560PgCthV7.jpg",
+                "video_url": "1584014"
+            },
+            {
+                "episode_number": 282,
+                "name": "Ruhun Gücü! Los Lobos, Saldırın!",
+                "overview": "Aikawa ve Rōjūrō Ōtoribashi'nin Coyote Starrk'a karşı savaşını seviyorum.",
+                "air_date": "2010-08-03",
+                "still_path": "/2gflHNn1ktMjyjGXeDReVSnrMRD.jpg",
+                "video_url": "1584019"
+            },
+            {
+                "episode_number": 283,
+                "name": "Stark, Yalnız Savaş",
+                "overview": "Coyote Starrk ve Kaptan Shunsui Kyōraku, savaşlarını tamamlar.",
+                "air_date": "2010-08-10",
+                "still_path": "/ew4qQpUtc5x1FkTNxLrmypryOnW.jpg",
+                "video_url": "1584022"
+            },
+            {
+                "episode_number": 284,
+                "name": "Kurban Zinciri Halibel'in Geçmişi",
+                "overview": "Tier Harribel yaralarından dolayı bilincini kaybederken geçmişini hatırlıyor.",
+                "air_date": "2010-08-17",
+                "still_path": "/nuJLWNDL1vduVnhpjGfcBV0RcVD.jpg",
+                "video_url": "1584025"
+            },
+            {
+                "episode_number": 285,
+                "name": "Yüz Yıllık Kin! Hiyori'nin İntikamı",
+                "overview": "Sahte Karakura Kasabasında durum umutsuzlaşmaya başlarken Hueco Mundo'da Yammy Llargo ile mücadele devam ediyor.",
+                "air_date": "2010-08-24",
+                "still_path": "/sNbmlXEETuwU3JRCupuIgTM3hQy.jpg",
+                "video_url": "1584032"
+            },
+            {
+                "episode_number": 286,
+                "name": "Ichigo'nun Dönüşü! Karakura Kasabasını Koruyun",
+                "overview": "Hueco Mundo'daki kaptanlar Ichigo Kurosaki'yi Karakura Kasabasına geri göndermeye karar verir.",
+                "air_date": "2010-08-31",
+                "still_path": "/atkWyfS2PginqzOb9rUcsUhExBJ.jpg",
+                "video_url": "1584039"
+            },
+            {
+                "episode_number": 287,
+                "name": "Yan Hikaye! Ichigo ve Sihirli Lamba",
+                "overview": "Ichigo Kurosaki'nin bir hayali vardır ve ondan kaçmaya çalışır.",
+                "air_date": "2010-09-07",
+                "still_path": "/bkK8oNP05uUMmScwVTOV4NDt5yG.jpg",
+                "video_url": "1584045"
+            },
+            {
+                "episode_number": 288,
+                "name": "Son Trump Kartı! Ichigo, Belirleyici Savaşa Doğru",
+                "overview": "Yammy Llargo ile savaş devam ederken Ichigo Kurosaki, Karakura Kasabasına dönüşüne başlar.",
+                "air_date": "2010-09-14",
+                "still_path": "/84LVMH0ZBcJvn3vgaqCVoGLcSZ4.jpg",
+                "video_url": "1584052"
+            },
+            {
+                "episode_number": 289,
+                "name": "Byakuya, Kenpachi'ye Karşı Mı? Yakın Dövüş Başlıyor",
+                "overview": "Kaptanlar Byakuya Kuchiki ve Kenpachi Zaraki birbirleriyle savaşmaya hazırlanırken Yammy Llargo'nun öfkesi onu eskisinden daha da güçlü kılar. Bu arada Kaname Tōsen, Teğmen Shūhei Hisagi ve Yüzbaşı Sajin Komamura'ya Hollowfication yaptığını açıklar.",
+                "air_date": "2010-09-21",
+                "still_path": "/l9SOdOs6X4yQuyAdW0Fa26pibAG.jpg",
+                "video_url": "1584063"
+            },
+            {
+                "episode_number": 290,
+                "name": "Adalet Uğruna Mı?! Shinigami'yi Terk Eden Adam",
+                "overview": "Kaname Tōsen, Soul Society'ye ihanet etmesinin gerçek nedenlerini açıklıyor.",
+                "air_date": "2010-09-28",
+                "still_path": "/3LhjZuksxm1Kw2UaaxU4OHPwkUv.jpg",
+                "video_url": "1584068"
+            },
+            {
+                "episode_number": 291,
+                "name": "Aizen ile Umutsuz Mücadele! Hirako, Shikai!",
+                "overview": "Kaptan Sajin Komamura, Kaname Tōsen ile savaşına devam ederken Shinji Hirako, Zanpakutō'sunu Sōsuke Aizen'e karşı serbest bırakır.",
+                "air_date": "2010-10-05",
+                "still_path": "/vp3FWO8hwVBduRXQ9FfjjU5w4UK.jpg",
+                "video_url": "1584094"
+            },
+            {
+                "episode_number": 292,
+                "name": "Topyekün Savaş! Aizen Shinigami'ye Karşı",
+                "overview": "Shinigami ve Visored, Ichigo Kurosaki'yi korumaya ve Sōsuke Aizen'i yenmeye yemin eder.",
+                "air_date": "2010-10-12",
+                "still_path": "/8sMMcj4IXtybwfzNc3tvXGX97wm.jpg",
+                "video_url": "1584132"
+            },
+            {
+                "episode_number": 293,
+                "name": "Hitsugaya, Öfkeli! Nefret Kılıcı!",
+                "overview": "Shinigami ve Visored, Sōsuke Aizen'e saldırırlar, ancak hain kaptanı yenemezler.",
+                "air_date": "2010-10-19",
+                "still_path": "/id1m1xCITjvF07hlqKvTLgg4DeU.jpg",
+                "video_url": "1584142"
+            },
+            {
+                "episode_number": 294,
+                "name": "Saldırmak İmkansız Mı? Mühürlü Genryūsai!",
+                "overview": "Kaptan-Komutan Genryūsai Shigekuni Yamamoto, Sōsuke Aizen'e karşı savaşa katılır, ancak Zanpakutō'nun yeteneklerinin Wonderweiss Margela tarafından mühürlenmesi gerekir.",
+                "air_date": "2010-10-26",
+                "still_path": "/42zj35A4UaPa3vTYcLni6ibkyFF.jpg",
+                "video_url": "1584147"
+            },
+            {
+                "episode_number": 295,
+                "name": "Hepsi Bir Tuzak... Tasarlanmış Tahviller!",
+                "overview": "Sōsuke Aizen, Ichigo Kurosaki'ye tüm savaşlarının tam istediği gibi gerçekleştiğini açıklar.",
+                "air_date": "2010-11-02",
+                "still_path": "/3Q0PDUWoKjTsChscAMafh8zbXsp.jpg",
+                "video_url": "1584150"
+            },
+            {
+                "episode_number": 296,
+                "name": "Şok Gerçek: Ichigo'nun İçindeki Gizemli Güç!",
+                "overview": "Sōsuke Aizen, Ichigo Kurosaki'ye daha fazla gerçeği açıklarken Isshin Kurosaki de savaşa katılır.",
+                "air_date": "2010-11-09",
+                "still_path": "/qkX18wV1bTW04JIoRLPQZB4Cewk.jpg",
+                "video_url": "1584156"
+            },
+            {
+                "episode_number": 297,
+                "name": "Uzatan Bıçak Mı?! Ichigo, Gin'e Karşı!",
+                "overview": "Ichigo Kurosaki ve Gin Ichimaru savaşırken Sōsuke Aizen, Isshin Kurosaki'ye Hōgyoku'nun gerçek gücünü açıklar.",
+                "air_date": "2010-11-16",
+                "still_path": "/mrBLADW1mDbHxIl7f5aCZxa7EQA.jpg",
+                "video_url": "1584163"
+            },
+            {
+                "episode_number": 298,
+                "name": "Film! Festival! Shinigami Film Festivali!",
+                "overview": "Gotei 13'teki Shinigami, \"Seireitei Uluslararası Film Festivali\" için bir film çekiyor.",
+                "air_date": "2010-11-23",
+                "still_path": "/dwvQlcWR3CGMk8nxDSeS0OwFXnR.jpg",
+                "video_url": "1584171"
+            },
+            {
+                "episode_number": 299,
+                "name": "Tiyatro Açılışı Anması! Cehennem Ayet: Giriş",
+                "overview": "Kuchiki Rukia, Yaşayanların Dünyasını ziyaret ederken, Karakura Kasabasında görev yapan mevcut Soul Reaper Kurumadani Zennosuke'nin gizemli maskeli bir adam tarafından saldırıya uğramasıyla karşılaşır.",
+                "air_date": "2010-11-30",
+                "still_path": "/dTMQn4P9IupwLnuU3o4jYHh1agJ.jpg",
+                "video_url": "1584175"
+            },
+            {
+                "episode_number": 300,
+                "name": "Urahara Ortaya Çıkıyor! Aizen'i Durdurun!",
+                "overview": "Aizen, Hōgyoku tarafından dönüştürülürken Sōsuke Aizen ile savaş devam ediyor.",
+                "air_date": "2010-12-07",
+                "still_path": "/2IJBNjpxwsqq4744FJnCMySdJqQ.jpg",
+                "video_url": "1584183"
+            },
+            {
+                "episode_number": 301,
+                "name": "Ichigo Savaşma Ruhunu Kaybediyor!? Gin'in Beklentisi!",
+                "overview": "Dönüşümü ilerledikçe Sōsuke Aizen giderek daha dirençli olduğunu kanıtlıyor. Ichigo Kurosaki'nin gücü Gin Ichimaru'yu yenmeyi başaramaz.",
+                "air_date": "2010-12-14",
+                "still_path": "/5Vrczu4J3TFh9kl9dfj3BncOd39.jpg",
+                "video_url": "1584213"
+            },
+            {
+                "episode_number": 302,
+                "name": "Son Getsuga Tenshō!? Ichigo'nun Eğitimi!",
+                "overview": "Ichigo Kurosaki, Final Getsuga Tenshō'yu öğrenmek için eğitime başlar. Sōsuke Aizen ve Gin Ichimaru, Karakura Kasabasına varır.",
+                "air_date": "2010-12-21",
+                "still_path": "/gtrnwKK72HeBX9ByY7tiOVxGkSR.jpg",
+                "video_url": "1584223"
+            },
+            {
+                "episode_number": 303,
+                "name": "Gerçek Dünya ve Shinigami! Yeni Yıla Özel!",
+                "overview": "Soul Reaper Association, Soul Society'de bir Yeni Yıl partisine ev sahipliği yapıyor.",
+                "air_date": "2011-01-04",
+                "still_path": "/2uNqcf6oeghDvXmrutiH43nocpT.jpg",
+                "video_url": "1584230"
+            },
+            {
+                "episode_number": 304,
+                "name": "Başka Bir Yan Hikaye! Bu Seferin Düşmanı Bir Canavar Mı?",
+                "overview": "Ichigo Kurosaki'nin başka bir hayali vardır ve yine ondan kaçmaya çalışır.",
+                "air_date": "2011-01-11",
+                "still_path": "/sbjirNMppFGONhxD4qDnxToz7bO.jpg",
+                "video_url": "1584236"
+            },
+            {
+                "episode_number": 305,
+                "name": "Yanılsama Kükrüyor! Hisagi, Kaplıca Hanına Doğru!",
+                "overview": "Teğmenler Shūhei Hisagi ve Rangiku Matsumoto bir göreve çıkarlar ve Hisagi, Rangiku'nun ondan hoşlandığını düşünerek kendini kandırır.",
+                "air_date": "2011-01-18",
+                "still_path": "/oJlWjRbcOJBc8SaAy98qn4iX0E9.jpg",
+                "video_url": "1584244"
+            },
+            {
+                "episode_number": 306,
+                "name": "Koruma Uğruna! Ichigo, Tensa Zangetsu'ya Karşı!",
+                "overview": "Ichigo Kurosaki, Ichigo'nun içindeki Hollow'la birleşen Tensa Zangetsu'ya karşı direniyor.",
+                "air_date": "2011-01-25",
+                "still_path": "/9I3QnwsiFHiRxHt4R3P9ZG56Tjd.jpg",
+                "video_url": "1584246"
+            },
+            {
+                "episode_number": 307,
+                "name": "Acil Durum! Aizen, Yeni Evrim!",
+                "overview": "İnsanlar kaçarken Gin Ichimaru, Sōsuke Aizen'e ihanet eder.",
+                "air_date": "2011-02-01",
+                "still_path": "/bLBK9bUcUshiUnc0rrypNcz2ago.jpg",
+                "video_url": "1584249"
+            },
+            {
+                "episode_number": 308,
+                "name": "Elveda... Rangiku",
+                "overview": "Ichigo Kurosaki eğitiminden çıkar ve Sōsuke Aizen'i Karakura Kasabasından uzakta savaşa zorlar.",
+                "air_date": "2011-02-08",
+                "still_path": "/dXqgyqnmzcnEoVa20UhQNARRj1S.jpg",
+                "video_url": "1584250"
+            },
+            {
+                "episode_number": 309,
+                "name": "Şiddetli Mücadele Sonucu! Yayınlansın, Son Getsuga Tenshō!",
+                "overview": "Ichigo Kurosaki, Sōsuke Aizen'e karşı Final Getsuga Tenshō'yu kullanıyor.",
+                "air_date": "2011-02-15",
+                "still_path": "/6d7PO7fNqLOBsjYHLZz51kqcuxK.jpg",
+                "video_url": "1584252"
+            },
+            {
+                "episode_number": 310,
+                "name": "Ichigo'nun Kararı! Şiddetli Savaşın Bedeli",
+                "overview": "Sōsuke Aizen ile yapılan savaşın ardından yaşananlar gösteriliyor.",
+                "air_date": "2011-02-22",
+                "still_path": "/vkGbzBHKZqt3hEY9oSCP9ClH6hf.jpg",
+                "video_url": "1584253"
+            },
+            {
+                "episode_number": 311,
+                "name": "Ruh Dedektifi: Karakuraizer Yeniden Başlıyor!",
+                "overview": "Karakura-Raizer'ın devam eden maceraları.",
+                "air_date": "2011-03-01",
+                "still_path": "/vUuSzPFbojENIjwiA54O1WFh5bi.jpg",
+                "video_url": "1584255"
+            },
+            {
+                "episode_number": 312,
+                "name": "Resmen Işe Başlama! Yepyeni 2. Lig Kaptanı!",
+                "overview": "Teğmen Marechiyo Ōmaeda, İkinci Bölümün kaptanı gibi davranıyor.",
+                "air_date": "2011-03-08",
+                "still_path": "/6BfzajFYodn115W55ZIkcsY9wAW.jpg",
+                "video_url": "1584257"
+            },
+            {
+                "episode_number": 313,
+                "name": "11.ligde Hayatını Riske Atan Adam!",
+                "overview": "Ichigo Kurosaki, 11. Tümen'in bir üyesi olan Seizo Harugasaki ile tanışır.",
+                "air_date": "2011-03-15",
+                "still_path": "/tOjwa8TgzOLOtar92oCj4guruFE.jpg",
+                "video_url": "1584260"
+            },
+            {
+                "episode_number": 314,
+                "name": "Kon Gördü! Güzel Bir Ofis Hanımının Sırrı",
+                "overview": "Kon, güzel bir kızın peşine düşerken Karakura Kasabasının geri kalanı bir Hollow'un tehdidi altındadır.",
+                "air_date": "2011-03-22",
+                "still_path": "/o1b7bR4UmI6gg5KTFpt5MGuMkDC.jpg",
+                "video_url": "1584261"
+            },
+            {
+                "episode_number": 315,
+                "name": "Yachiru'nun Arkadaşı! Adaletin Shinigami'si Ortaya Çıkıyor!",
+                "overview": "Teğmen Yachiru Kusajishi, eski Shinigami arkadaşıyla karşılaşır ve ona yetişir.",
+                "air_date": "2011-03-29",
+                "still_path": "/rmM9Eg6OV1SRgv4WAkKoeNhjquh.jpg",
+                "video_url": "1100933"
+            },
+            {
+                "episode_number": 316,
+                "name": "Toshirō Hitsugaya'nın Tatili!",
+                "overview": "Kaptan Tōshirō Hitsugaya, İnsan Dünyasını ziyaret eder ve İnsan Dünyasındaki ilk görevinden tanıdığı yaşlı bir kadın olan Haru'yu ziyaret eder.",
+                "air_date": "2011-04-05",
+                "still_path": "/hGKGdZzqRoESmebryGBIN6krDXP.jpg",
+                "video_url": "4438087"
+            },
+            {
+                "episode_number": 317,
+                "name": "Seireitei'de Olağandışı Olay Mı?! Gotei 13 İstilacı Ordu Arkı!",
+                "overview": "Sōsuke Aizen'in yenilgisinden bir ay sonra işler normale dönerken Dangai'de insanlar kaybolmaya başlar.",
+                "air_date": "2011-04-12",
+                "still_path": "/kUcqbGdC5qFZnfmo29U9LQgUsEN.jpg",
+                "video_url": "4463988"
+            },
+            {
+                "episode_number": 318,
+                "name": "Renji, Rukia'ya Mı Karşı?! Yoldaşlarla Savaş!",
+                "overview": "Ichigo Kurosaki gözaltından kaçarken Kagerōza Inaba, Nozomi Kujō'yu almaya gelir.",
+                "air_date": "2011-04-19",
+                "still_path": "/6v6UuOOw4Ug6ddTlmM8H9rSFbhe.jpg",
+                "video_url": "4463997"
+            },
+            {
+                "episode_number": 319,
+                "name": "Ichigo'nun Yakalama Ağı! Soul Society'den Kaçış!",
+                "overview": "As Uryū Ishida battles Kagerōza Inaba, Ichigo Kurosaki and Rukia Kuchiki attempt to escape from Seireitei.",
+                "air_date": "2011-04-26",
+                "still_path": "/y8As3jLwLxWha8eTxwdWxM6KtoM.jpg",
+                "video_url": "4464006"
+            },
+            {
+                "episode_number": 320,
+                "name": "Gotei 13, Gerçek Dünyada Buluşuyor!",
+                "overview": "Gerçek Gotei 13, Reigai hakkında bir toplantı yaparken Kon, Nozomi Kujō ile ilgilenmekle görevlendirilir.",
+                "air_date": "2011-05-03",
+                "still_path": "/ukWLet2OLEbUvz9G7VAmQytor1n.jpg",
+                "video_url": "4464015"
+            },
+            {
+                "episode_number": 321,
+                "name": "Karşılıklı Benliğin Hesaplaşması, Ikkaku, Ikkaku'ya Karşı!",
+                "overview": "Kaptanlar Jūshirō Ukitake ve Shunsui Kyōraku, SRDI'nin kayıtlarını araştırırken gerçek Gotei 13 subayları, Reigai meslektaşlarıyla karşılaşır.",
+                "air_date": "2011-05-10",
+                "still_path": "/sY44rDz2t4B60BYY1EBesqyRF6Y.jpg",
+                "video_url": "4464021"
+            },
+            {
+                "episode_number": 322,
+                "name": "Çatışma! Rukia Vs. Rukia!",
+                "overview": "Reigai saldırılarına devam ederken Nozomi Kujō bir şey aramak için Karakura'da dolaşır.",
+                "air_date": "2011-05-17",
+                "still_path": "/aaMXue8Pa525Y0nRUYtySgP9o0D.jpg",
+                "video_url": "4438088"
+            },
+            {
+                "episode_number": 323,
+                "name": "Ichigo'yu Koruyun! Nozomi'nin Kararlılığı",
+                "overview": "Ichigo Kurosaki, Nozomi Kujō'yu korurken birçok Reigai'yi yener.",
+                "air_date": "2011-05-24",
+                "still_path": "/jLsQzPUYVimLQTlLMZomKZfrOEM.jpg",
+                "video_url": "4464028"
+            },
+            {
+                "episode_number": 324,
+                "name": "Seireitei'yi Yeniden Ele Geçirin! Kaptanlar Harekete Geçiyor!",
+                "overview": "Kaptanlar Kagerōza Inaba ile yüzleşmek üzere Ruh Cemiyeti'ne geri dönerler.",
+                "air_date": "2011-05-31",
+                "still_path": "/8U7pypiPhbZCDQhS5ub4jvXuls6.jpg",
+                "video_url": "4438090"
+            },
+            {
+                "episode_number": 325,
+                "name": "İnananların Hatırı Için! Byakuya, Hitsugaya'ya Karşı!",
+                "overview": "As Captain-Commander Genryūsai Shigekuni Yamamoto fights the Reigai, Captain Byakuya Kuchiki encounters a Reigai of Captain Tōshirō Hitsugaya.",
+                "air_date": "2011-06-07",
+                "still_path": "/hHZOoaD6Ux24i3xgCSIzeS46Dtd.jpg",
+                "video_url": "4464036"
+            },
+            {
+                "episode_number": 326,
+                "name": "İki Hinamori, Hitsugaya'nın Kararı",
+                "overview": "Kaptanlar Seireitei'de ilerlerken Kaptan Tōshirō Hitsugaya, Teğmen Momo Hinamori'nin Reigai'siyle karşılaşır.",
+                "air_date": "2011-06-14",
+                "still_path": "/hvs5JELJly3ctlfVr5U57nDJY4S.jpg",
+                "video_url": "4438091"
+            },
+            {
+                "episode_number": 327,
+                "name": "Kuchiki Ailesinin Gururu! Byakuya, Byakuya'ya Karşı!",
+                "overview": "Captains Sajin Komamura, Byakuya Kuchiki, and Genryūsai Shigekuni Yamamoto continue their battles with the Reigai.",
+                "air_date": "2011-06-21",
+                "still_path": "/lZDbc90kJGsc4mr73J0kYoYwEHB.jpg",
+                "video_url": "1100948"
+            },
+            {
+                "episode_number": 328,
+                "name": "Kageroza'yı Yen! Shinigami, Topyekün Savaş!",
+                "overview": "Gotei 13'ün gerçek üyeleri, ona meydan okumak için Kagerōza Inaba'nın inine gelir.",
+                "air_date": "2011-06-28",
+                "still_path": "/l47Yqkipjd9r09hdZzK3UZvQkAp.jpg",
+                "video_url": "4464047"
+            },
+            {
+                "episode_number": 329,
+                "name": "Yasak Araştırma...nozomi'nin Gizli Sırrı!",
+                "overview": "Kagerōza Inaba, Kaptan Mayuri Kurotsuchi'nin saldırısından kurtulmaya çalışırken, onun nedenleri ve Nozomi Kujō'nun kimliği ortaya çıkar.",
+                "air_date": "2011-07-05",
+                "still_path": "/z0m8JbNDPlzStYZNN0zWFBJTswx.jpg",
+                "video_url": "4464054"
+            },
+            {
+                "episode_number": 330,
+                "name": "Ben Yaşamak Istiyorum...! Nozomi'nin Zanpakutō'su",
+                "overview": "Gotei 13'ün geri kalan üyeleri iyileşmeye çalışırken Nozomi Kujō diğerlerine yardım etmek istediğine karar verir.",
+                "air_date": "2011-07-12",
+                "still_path": "/g1LnH0ILLlJJIcnGWfBnwtQFmOd.jpg",
+                "video_url": "4429946"
+            },
+            {
+                "episode_number": 331,
+                "name": "Mücadele Uğruna! Uyanmış Nozomi!",
+                "overview": "Nozomi Kujō, Ichigo Kurosaki ve diğerleriyle birlikte antrenman yaparken, Reigai bir kez daha İnsan Dünyasına saldırıyor.",
+                "air_date": "2011-07-19",
+                "still_path": "/3bQsgrQ723tx9dWaMme3GtD6aRu.jpg",
+                "video_url": "4747762"
+            },
+            {
+                "episode_number": 332,
+                "name": "Gerçek Dünyada Ortaya Çıkan En Kötü Reigai!",
+                "overview": "Kujou Nozomi, Reigai kaptanlarıyla savaşmak için Ichigo ve diğerlerine katılmaya çalışır, ancak diğer Soul Reaper'lar ona müdahale etmemesini söyler.",
+                "air_date": "2011-07-26",
+                "still_path": "/fQ7zJg1WqbMTu8rXOBKJ42MbiwE.jpg",
+                "video_url": "2800528"
+            },
+            {
+                "episode_number": 333,
+                "name": "Destroy Nozomi!? Genryusai's Decision!",
+                "overview": "Baş Yüzbaşı Genryusai Yamamoto, Reigai'ye karşı savaşmak için devreye giriyor. Kurosaki Ichigo ve Kujou Nozomi dövüşe katılıyor.",
+                "air_date": "2011-08-02",
+                "still_path": "/tAec5x0TpHkt5YURcY0azjSdOPd.jpg",
+                "video_url": "4464062"
+            },
+            {
+                "episode_number": 334,
+                "name": "Tükenen Reiatsu! Ichigo, Ruhun Ölüm Mücadelesi!",
+                "overview": "Kujou Nozomi’s Zanpakuto breaks in the midst of trying to protect Yamamoto-Genryuusai Shigekuni from Inaba Kagerouza’s attack.",
+                "air_date": "2011-08-09",
+                "still_path": "/v06t5iSm1QizPc4igoYfAwUQfDI.jpg",
+                "video_url": "4464905"
+            },
+            {
+                "episode_number": 335,
+                "name": "Dangai'de Mi Saklanıyorsun? Başka Bir Ichigo Mu?",
+                "overview": "Kisuke Urahara tarafından Urahara Mağazasına geri getirilen Ichigo Kurosaki, Reishi'sini almak için Dangai'ye gider.",
+                "air_date": "2011-08-16",
+                "still_path": "/jXMrLoohAtpmweUyYG4vpM2yr1g.jpg",
+                "video_url": "4747770"
+            },
+            {
+                "episode_number": 336,
+                "name": "Kageroza'yı Takip Edin! Teknolojik Geliştirme Departmanı, Sızma!",
+                "overview": "Ichigo Kurosaki, Kon, and Kisuke Urahara infiltrate Soul Society as Inaba begins to fuse with Nozomi Kujō.",
+                "air_date": "2011-08-23",
+                "still_path": "/oNzM95dKKVCXcySlFffYA6PZWhJ.jpg",
+                "video_url": "4464915"
+            },
+            {
+                "episode_number": 337,
+                "name": "Değiştirilmiş Ruhların Geliştiricisi",
+                "overview": "Yoruichi Shihōin ve kaptanlar Reigai ile savaşırken Ichigo Kurosaki, Kon ve Kisuke Urahara, Kagerōza Inaba'nın laboratuvarını aramaya gider.",
+                "air_date": "2011-08-30",
+                "still_path": "/8JdeA6FMANUuGjwZ9dEtH3Zeyk1.jpg",
+                "video_url": "4464073"
+            },
+            {
+                "episode_number": 338,
+                "name": "Kon'un Düşünceleri, Nozomi'nin Düşünceleri",
+                "overview": "Urahara Kisuke ve Kon, Kageroza'nın istilasının arkasındaki adam Ouko Yushima'yı bulur. Yakınlarda Kageroza'nın kanının izlerini bulan ikili, izi takip eder.",
+                "air_date": "2011-09-06",
+                "still_path": "/bCk3mjRtmSagZJMUwpfEcY2TvWl.jpg",
+                "video_url": "4464079"
+            },
+            {
+                "episode_number": 339,
+                "name": "Ichigo'yu Koruyun! Dostluk Bağları!",
+                "overview": "Gotei 13, Reigai ile savaşırken Inaba ve Nozomi Kujō'nun birleşik formu, Hollowfied Ichigo ve arkadaşlarıyla savaşır.",
+                "air_date": "2011-09-13",
+                "still_path": "/9nSXMBk8WO5qphA7gedTP26x1n9.jpg",
+                "video_url": "4438092"
+            },
+            {
+                "episode_number": 340,
+                "name": "Reigai, Orijinal'e Karşı, Kumar Gururu İçin Şiddetli Mücadele!",
+                "overview": "Birleştirilmiş Inaba Nozomi Kujō ile yüzleşirken kaptanlar ve teğmenler Reigai ile savaşır.",
+                "air_date": "2011-09-20",
+                "still_path": "/oNNUryzM3NzuOpWGqAAHnvv6xpy.jpg",
+                "video_url": "4747786"
+            },
+            {
+                "episode_number": 341,
+                "name": "İstilacı Ordu Arkı, Nihai Sonuç!",
+                "overview": "Kaptanlar ve teğmenler Reigai'ye karşı savaşırken Ichigo Kurosaki, yenilenen güçlerini Kagerōza Inaba ve Nozomi Kujō'nun kaynaşmış formuyla savaşmak için kullanır.",
+                "air_date": "2011-09-27",
+                "still_path": "/6GqnGxab9dvCYpoDcPqNPaH2r9n.jpg",
+                "video_url": "1753292"
+            },
+            {
+                "episode_number": 342,
+                "name": "Teşekkür Ederim",
+                "overview": "Ichigo Kurosaki yavaş yavaş kalan güçlerini kaybeder ve Rukia Kuchiki'ye veda eder.",
+                "air_date": "2011-10-04",
+                "still_path": "/zbW5YjVnGJUnJQw6Ei8ZXTPaDGw.jpg",
+                "video_url": "1753295"
+            },
+            {
+                "episode_number": 343,
+                "name": "Lise 3. Sınıf Öğrencisi! Giyinip Yeni Bir Bölüm Başlıyor!",
+                "overview": "On yedi ay sonra Ichigo Kurosaki, Karakura Kasabasında normal bir lise öğrencisi olarak hayatını yaşamaya devam ediyor.",
+                "air_date": "2011-10-11",
+                "still_path": "/bt2yltX1Q6FOFeHboup3DMckV1g.jpg",
+                "video_url": "1753296"
+            },
+            {
+                "episode_number": 344,
+                "name": "Okulda Bir Anlaşmazlık!? Ichigo ve Uryū, Birlikte Savaşın!",
+                "overview": "Kurosaki Ichigo'nun patronu Unagiya Ikumi ortaya çıkar ve onu ofise geri sürükler ve burada Kugo Ginjo adında bir adamla tanışır.",
+                "air_date": "2011-10-18",
+                "still_path": "/lyCuBow6X5QugTzX6fDGIzlcBCF.jpg",
+                "video_url": "1753298"
+            },
+            {
+                "episode_number": 345,
+                "name": "Uryū Saldırıya Uğradı, Arkadaşların Yakınına Bir Tehdit Geldi!",
+                "overview": "Ichigo Kurosaki ve Orihime Inoue'nin hastanede Uryū Ishida'yı ziyaret etmesinin ardından Keigo Asano saldırıya uğrar.",
+                "air_date": "2011-10-25",
+                "still_path": "/AnEcEitzJEZEBwKSYiYvpK5gUiI.jpg",
+                "video_url": "1753300"
+            },
+            {
+                "episode_number": 346,
+                "name": "Doyma Yeteneğine Sahip Adam: Kūgo Ginjō",
+                "overview": "Ginjou Kuugo, Kurosaki Ichigo'ya kaybettiği Soul Reaper güçlerini geri kazanmanın yanı sıra kendi benzersiz gücünü gösterme amacını anlatır.",
+                "air_date": "2011-11-01",
+                "still_path": "/rwiO40XhN5V0xYLENkjfZl67atM.jpg",
+                "video_url": "1753302"
+            },
+            {
+                "episode_number": 347,
+                "name": "Kurosaki Ailesine Sinsice Yaklaşan Bir Kriz!? Ichigo'nun Karışıklığı!",
+                "overview": "Kurosaki Ichigo'nun kaybettiği Soul Reaper güçlerini geri kazanıp kazanmayacağına karar vermek için bir günü var.",
+                "air_date": "2011-11-08",
+                "still_path": "/6OIyOCkFjTysczbA2B9gTiuOySt.jpg",
+                "video_url": "1753304"
+            },
+            {
+                "episode_number": 348,
+                "name": "Yedek Rozetin Gücü, Ichigo'nun 'gururu'!",
+                "overview": "Kurosaki Ichigo antrenmana başlıyor, ilk seansı Bay Pork'a karşı dövüşmek ve onu kazanmak olacak",
+                "air_date": "2011-11-15",
+                "still_path": "/aidXNQKN2uDobU2f8MMi6BtjcCR.jpg",
+                "video_url": "1753306"
+            },
+            {
+                "episode_number": 349,
+                "name": "Sıradaki Hedef: Şeytanın Eli Orihime'yi Hedef Alıyor!",
+                "overview": "Inoue Orihime aniden durdurulur ve Shishigawara Moe adında bir adam tarafından ölmesi istenir.",
+                "air_date": "2011-11-22",
+                "still_path": "/44aNQowH43Sh9WW5SjdZ34zL0GC.jpg",
+                "video_url": "1753308"
+            },
+            {
+                "episode_number": 350,
+                "name": "Shinigami Yedeğini Öldüren Adam!? Tsukishima Hamlesini Yapıyor",
+                "overview": "Tsuskishima, Orihime'nin göğsüne saplanıyormuş gibi yapar ve onu terk eder. Orihime'de herhangi bir kesinti olmamasına rağmen Tsukishima'nın arkadaşı olduğuna dair belirsiz bir fikir edinmeye başlar. Olanlar konusunda Ichigo'yu endişelendirmek istemeyen o, Chad'e yalnızca Tsukishima'dan bahseder. Orihime'nin kendisinden bilgi sakladığının farkında olan Ichigo, arkadaşlarına yardım etmek amacıyla eğitimine devam etmek üzere Xcution karargahına geri döner.",
+                "air_date": "2011-11-29",
+                "still_path": "/1RISewC8XGxIFd0naw5sD7zg3IX.jpg",
+                "video_url": "1753316"
+            },
+            {
+                "episode_number": 351,
+                "name": "Dolunay, İğrenç Güç!",
+                "overview": "Ichigo Kurosaki, Jackie Tristan'ı yardım etmeye ikna etmeye çalışırken Xcution ile eğitimine devam ediyor.",
+                "air_date": "2011-12-06",
+                "still_path": "/4O5zSCcuZXvRFKBw1hnJdHuUso8.jpg",
+                "video_url": "1753326"
+            },
+            {
+                "episode_number": 352,
+                "name": "Tsukishima Saldırıyor! Eğitim Engellendi",
+                "overview": "Jackie Tristan ve Ichigo Kurosaki akvaryumda antrenman yaparken Shūkurō Tsukishima, Xcution'un saklandığı yere varır.",
+                "air_date": "2011-12-13",
+                "still_path": "/e5o2ulcgnydhvXxkRJPZhCQmf5c.jpg",
+                "video_url": "1753327"
+            },
+            {
+                "episode_number": 353,
+                "name": "Ichigo, Dolulukta Ustalaşmak!",
+                "overview": "Shūkurō Tsukishima, Xcution'a vardığında bir savaş başlar.",
+                "air_date": "2011-12-20",
+                "still_path": "/wJYItjriKb6qAG6GIfscKdHN3sG.jpg",
+                "video_url": "1753328"
+            },
+            {
+                "episode_number": 354,
+                "name": "Ichigo, Ginjo'ya Karşı! Oyunun Alanına",
+                "overview": "Ichigo Kurosaki, Oyun Alanında Kūgo Ginjō ile savaşır.",
+                "air_date": "2011-12-27",
+                "still_path": "/eERitH7qrdyXdlbnprB4JPfuE8I.jpg",
+                "video_url": "1753328"
+            },
+            {
+                "episode_number": 355,
+                "name": "Shinigami Savaşta! Seireitei Özel'de Yeni Yıl!",
+                "overview": "Soul Society'deki yeni yıl kutlamaları arasında uçurtma uçurma yarışması ve Rukia'nın kutlama dansı yapması yer alıyor.",
+                "air_date": "2012-01-10",
+                "still_path": "/gNoU4FOLSxJcxWYJsvPysoYSoju.jpg",
+                "video_url": "1753330"
+            },
+            {
+                "episode_number": 356,
+                "name": "Dost Yada Düşman!? Ginjo'nun Gerçek Niyeti!",
+                "overview": "Ichigo Kurosaki, Kūgo Ginjō ile eğitimine devam eder ve bunun sonucunda Dolunay'ı tamamlar.",
+                "air_date": "2012-01-17",
+                "still_path": "/6GQmerQm4XcJ2OEJU43v621BGAa.jpg",
+                "video_url": "1753333"
+            },
+            {
+                "episode_number": 357,
+                "name": "Tsukishima'nın Yeteneği, Tehlike Yaklaşıyor!",
+                "overview": "Ichigo Fullbring'iyle antrenman yapıyor. Chad ve Orihime, Tsukishima'yı araştırır ve savaşa girer.",
+                "air_date": "2012-01-24",
+                "still_path": "/9GZsOMWNnA8rMb7SPj9YIX8hZnX.jpg",
+                "video_url": "1753337"
+            },
+            {
+                "episode_number": 358,
+                "name": "Çarpışma!? Xcution Ginjō'ya Saldırıyor",
+                "overview": "Uryū, her yerde ortaya çıkan Reiatsu'yu araştırmak için hastaneden ayrılır. Ichigo'nun arkadaşları ve ailesinin yanı sıra Ginjō dışındaki Xcution üyeleri Tsukishima tarafından kesildi.",
+                "air_date": "2012-01-31",
+                "still_path": "/52LJuaiGkUFzRmUsM20zI6ujZ9e.jpg",
+                "video_url": "1753340"
+            },
+            {
+                "episode_number": 359,
+                "name": "Acı Savaş! Ichigo, Sado ve Orihime'ye Karşı",
+                "overview": "Ichigo ve Kūgo gizli bir saklanma yerinde nefeslerini tutar ve bir plan yapar. Tsukishima'nın malikanesine giderler ve savaşa girerler.",
+                "air_date": "2012-02-07",
+                "still_path": "/vpC8EP2I718YF46HyWA87fCEGgM.jpg",
+                "video_url": "1753345"
+            },
+            {
+                "episode_number": 360,
+                "name": "Ichigo, Uryū'ya Karşı!? Hain Kim!?",
+                "overview": "Ichigo Kurosaki, Shūkurō Tsukishima ile savaşına başlarken Uryū Ishida gelir ve Kūgo Ginjō, Tsukishima tarafından kesilir.",
+                "air_date": "2012-02-14",
+                "still_path": "/l8mgPuh1KfRAmbvt53qONLU2vfj.jpg",
+                "video_url": "1753349"
+            },
+            {
+                "episode_number": 361,
+                "name": "Yeni Bir Görünüm! Gotei 13 Geldi!",
+                "overview": "Fullbring'i elinden alınan güçsüz Ichigo Kurosaki, Rukia Kuchiki tarafından bıçaklanır ve Shinigami güçleri kendisine geri verilir.",
+                "air_date": "2012-02-21",
+                "still_path": "/zoQ0wGrzn2mWt2U0CmGp2aAwB7S.jpg",
+                "video_url": "1753352"
+            },
+            {
+                "episode_number": 362,
+                "name": "Canlanma! Shinigami'nin Yerine: Ichigo Kurosaki!",
+                "overview": "13 Saray Muhafız Ekibi Soul Reaper, Ichigo Kurosaki'nin kaybolan güçlerini geri kazanmak için Ruh Enerjisini paylaşıyor.",
+                "air_date": "2012-02-28",
+                "still_path": "/9eJTSMB80vnLZukSzmHvCViPaOn.jpg",
+                "video_url": "1753354"
+            },
+            {
+                "episode_number": 363,
+                "name": "Şiddetli Dövüş! Shinigami Vs. Xcution!",
+                "overview": "Soul Reaper'lar, bire bir savaşlarda Xcution üyeleriyle karşı karşıya gelir.",
+                "air_date": "2012-03-06",
+                "still_path": "/ka9nf798ZfnIwornK1LAj0Dy0HR.jpg",
+                "video_url": "1753356"
+            },
+            {
+                "episode_number": 364,
+                "name": "Umutsuz Mücadele!? Byakuya'nın Sorunlu Anıları",
+                "overview": "Kuchiki Byakuya ve Tsukishima Shuukurou arasındaki savaş, ikisi de güçlerinin sınırlarını zorlarken kızışıyor.",
+                "air_date": "2012-03-13",
+                "still_path": "/zYL1xVo9AVve2xNzG6CWVpYN9Tj.jpg",
+                "video_url": "1753358"
+            },
+            {
+                "episode_number": 365,
+                "name": "Ichigo, Ginjo'ya Karşı! Yedek Rozetin Sırrı",
+                "overview": "Ichigo Kurosaki, Uryū Ishida ve Kūgo Ginjō arasındaki savaş yoğunlaştıkça, Yedek Shinigami Rozetinin ardındaki gerçek ortaya çıkar.",
+                "air_date": "2012-03-20",
+                "still_path": "/bkiB8oZxefoHObtHotJwEuRynqw.jpg",
+                "video_url": "1753361"
+            },
+            {
+                "episode_number": 366,
+                "name": "Değişen Tarih, Değişmeyen Kalp",
+                "overview": "Ichigo Kurosaki ve Ginjou Kuugo, skoru dengelemek için Bankai'lerini serbest bırakır.",
+                "air_date": "2012-03-27",
+                "still_path": "/sePdwxoUpTI9VugCET6ny0DaQJi.jpg",
+                "video_url": "1753363"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 26,
+        "air_date": "2022-10-11",
+        "poster_path": "/eReMMJnHqDeZUYIkA8bZy8ZZZJD.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kan Savaşı",
+                "overview": "Soul Society, yok edilen Hollow'ların sayısında ani bir artış gözlemliyor.",
+                "air_date": "2022-10-11",
+                "still_path": "/wh0G2DV1rR914iMKmFlqgmXH7AC.jpg",
+                "video_url": "4915671"
+            },
+            {
+                "episode_number": 2,
+                "name": "Temel Taşları",
+                "overview": "Arrancar'lar Nel Tu ve Pesche Guatiche, Hueco Mundo'nun bilinmeyen bir düşmanın saldırısı altında olduğunu açıklamak için Ichigo'dan yardım istemeye geldiler. Durumu görmezden gelemeyen Ichigo ve arkadaşları, Hueco Mundo'ya doğru yola çıkmaya karar verir.",
+                "air_date": "2022-10-18",
+                "still_path": "/x91m4yftqVoouzTJ44QwbWSLrVC.jpg",
+                "video_url": "4922963"
+            },
+            {
+                "episode_number": 3,
+                "name": "Starcross Yürüyüşü",
+                "overview": "Ichigo ve arkadaşları, Quilge Opie ile yüzleşmek için Hueco Mundo'ya gelir ve son düşmanlarının Quincey olduğunu öğrenir.",
+                "air_date": "2022-10-25",
+                "still_path": "/5dkbh523J6viGq3XHncr122dcRj.jpg",
+                "video_url": "4929490"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gölgeyi Öldür",
+                "overview": "Wandenreich, Soul Society'yi yok etmek için elit gücü Stern Ritter'ı harekete geçirir. Dikkat dağıtmak için devasa alevli Reishi sütunları yaratan Stern Ritter, Soul Reaper'lara katliam getirmek için kolayca Soul Society'ye girer.",
+                "air_date": "2022-11-01",
+                "still_path": "/gv1g4tr1TdCLOW50Yb7oDVKUv7E.jpg",
+                "video_url": "4936303"
+            },
+            {
+                "episode_number": 5,
+                "name": "Öfke Bir Yıldırım gibi",
+                "overview": "Quilge Opie, gücünü Ichigo'yu Garganta'ya hapsetmek için kullanır. Ichigo, özgür kalmaya çalışırken, Ruh Telefonu aracılığıyla, düşmanın saldırısına düşen Ruh Orakçılarının çığlıklarını duymaya başlar.",
+                "air_date": "2022-11-08",
+                "still_path": "/fzn3bgzASHiwULkPFB4Yu9kiXvT.jpg",
+                "video_url": "4945574"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ateş",
+                "overview": "Shigekuni Genryusai Yamamoto, bin yıldır ilk kez Yhwach'la yüzleşir. Yhwach nihayet kılıcını Genryusai'ye çekerken Soul Reaper'lar, Seireitei'de meydana gelen anormal bir değişikliği fark eder.",
+                "air_date": "2022-11-15",
+                "still_path": "/xPbQLaqPa6HpLpFKlZR9g9pbu9x.jpg",
+                "video_url": "4952505"
+            },
+            {
+                "episode_number": 7,
+                "name": "Karanlıkta Doğmuş",
+                "overview": "Shigekuni Genryusai Yamamoto, mağlup ettiği Yhwach'ın bir sahtekar olduğunu öğrenir. Gerçek Yhwach daha sonra kendini ortaya çıkarır ve Genryusai'yi kolayca öldürerek Soul Reaper'lara bir şok ve yıkım dalgası gönderir.",
+                "air_date": "2022-11-22",
+                "still_path": "/zu5lvRmgDqEWapQOzQS8TP2Njkn.jpg",
+                "video_url": "4964713"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kayan Yıldız Projesi [sıfır Karışım]",
+                "overview": "Stern Ritter saldırısından sağ kurtulanları bulmak ve onlara yardım etmek için Seireitei genelinde kurtarma çalışmaları yapılıyor. Bu sırada Ichigo, kırık Tensa Zangetsu'sunu tamir etmek için Mayuri Kurotsuchi ile buluşur.",
+                "air_date": "2022-11-29",
+                "still_path": "/aeWsKgsAm2ZazD7tOo1l0SkWZAX.jpg",
+                "video_url": "4965378"
+            },
+            {
+                "episode_number": 9,
+                "name": "Düşüş",
+                "overview": "Squad Zero, yaklaşan savaşa hazırlanmak için Ichigo'yu Kraliyet Sarayı'na geri getirir. Bu arada Kyoraku, On Üç Saray Muhafız Birliğine liderlik edecek yeni Baş Kaptan olarak atanır.",
+                "air_date": "2022-12-06",
+                "still_path": "/KlQG7e4RjT1SmxF07ZvE1V6TaA.jpg",
+                "video_url": "4971397"
+            },
+            {
+                "episode_number": 10,
+                "name": "Savaş",
+                "overview": "Kenpachi Zaraki, Retsu Unohana, diğer adıyla Yachiru Unohana, yani \"İlk Kenpachi\" ile savaşmak için göz bandını çıkarıyor. Bu sırada Ichigo ve Renji, Zanpakuto'yu yarattığı söylenen Oh-Etsu Nimaiya ile tanışmak için Hoohden'a gider.",
+                "air_date": "2022-12-13",
+                "still_path": "/kS4pD38ycu4a165e76LRKPfs7I9.jpg",
+                "video_url": "4977251"
+            },
+            {
+                "episode_number": 11,
+                "name": "Yağmur Hariç Her Şey",
+                "overview": "Ichigo, testinde başarısız olduğu için Oh-etsu Nimaiya tarafından Kraliyet Sarayı'ndan kovulur. Ichigo bir daha gözlerini açtığında kendisini Yaşayanlar Dünyasındaki evinin önünde dururken bulur.",
+                "air_date": "2022-12-20",
+                "still_path": "/6JcGN8xYr6MUQgAoCoKbIJ2sGNi.jpg",
+                "video_url": "4983782"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yağmurdan Başka Her Şey: Haziran Gerçeği",
+                "overview": "On Üç Saray Muhafız Birliği'nden Takım 10 Kaptanı Isshin Shiba, Yaşayanların Dünyasında Masaki Kurosaki adlı Quincy ile karşılaşmasını Baş Kaptan'a bildirmemeye karar verir.",
+                "air_date": "2022-12-27",
+                "still_path": "/eN3M4ArsptQbp6uXwBfwhHuUU70.jpg",
+                "video_url": "4990895"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kılıç Benim",
+                "overview": "Ichigo, kendisinin bir Soul Reaper ve bir Quincy'den doğan çocuk olduğunu öğrenir. Sonunda mirasının ardındaki gerçeği anlayan Ichigo, başladığı işi bitirmek için yenilenmiş bir kararlılıkla Hoohden'a dönmeye karar verir.",
+                "air_date": "2022-12-27",
+                "still_path": "/eLq15MZxnc9VtD4WlbCz5jeUYAc.jpg",
+                "video_url": "4990997"
+            },
+            {
+                "episode_number": 14,
+                "name": "Son 9 Gün",
+                "overview": "Ichigo, Seireitei'ye dönmek için Kraliyet Sarayı'ndan ayrılmaya hazırlanır ancak Ichigo'nun Yhwach'ı şu an olduğu gibi yenemeyeceğini iddia eden Hyosube tarafından durdurulur.",
+                "air_date": "2023-07-08",
+                "still_path": "/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg",
+                "video_url": "5192071"
+            },
+            {
+                "episode_number": 15,
+                "name": "Gölgelerden Gelen Barış",
+                "overview": "Seireitei'nin yerini tamamen Wandenreich alırken, Gotei 13, Sternritter ile karşı karşıya kalır.",
+                "air_date": "2023-07-15",
+                "still_path": "/4kOlkLEqZAsKRBstfVNYPDi2pVd.jpg",
+                "video_url": "5198979"
+            },
+            {
+                "episode_number": 16,
+                "name": "Temel Virülans",
+                "overview": "Mayuri, herkesin çalınan Bankai'sini geri almanın bir yolunu aramak için Hueco Mundo'da kalan Urahara'dan bir telefon alır. Urahara, Quilge ile daha önceki savaşından elde edilen verilere dayanarak bir çözüm bulabildiğini iddia ediyor.",
+                "air_date": "2023-07-22",
+                "still_path": "/4p3a1Q0TbZ51sCf5OndRv9DETzt.jpg",
+                "video_url": "5205004"
+            },
+            {
+                "episode_number": 17,
+                "name": "Kurt Kalbi",
+                "overview": "Kaptanların çalınan Bankai'lerini geri almasının ardından savaşın gidişatı değişmiş görünüyordu. Ancak Stern Ritter'lar, Soul Reaper'ları daha da köşeye sıkıştırmak için Quincy Voll Stern Dich'lerini serbest bırakır.",
+                "air_date": "2023-07-29",
+                "still_path": "/2CeBB6gf7qvKAR3FVGndiQEINsZ.jpg",
+                "video_url": "5211815"
+            },
+            {
+                "episode_number": 18,
+                "name": "Ringside'da Öfke",
+                "overview": "Kensei Muguruma, Shuhei Hisagi, Ikkaku Madarame ve Yumichika Ayasegawa'yı zaten yenmiş olan Masculine'e karşı savaşa katılır. Ancak Kensei, rakibinin ne kadar zayıf olduğunu görünce şaşırır.",
+                "air_date": "2023-08-05",
+                "still_path": "/1Zi9EldjMnuvZGjrOdNY6u9rEeu.jpg",
+                "video_url": "5220644"
+            },
+            {
+                "episode_number": 19,
+                "name": "Beyaz Pus",
+                "overview": "Korkusuz Rukia, Äs Nödt'le mücadele ederken Sodenoshirayuki'sini sallıyor.",
+                "air_date": "2023-08-12",
+                "still_path": "/zGSvoF91YFLmyel1xwAR9aOB5d2.jpg",
+                "video_url": "5386145"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ben Kenarım",
+                "overview": "Isane ve Yachiru, yalnızca fiziksel olarak ortadan kaybolma yeteneğine sahip olmakla kalmayıp aynı zamanda varlığını rakiplerinin hafızasından silebilen bir Quincy olan Gwenael'in saldırısına uğradıklarında yaralı Kensei ve Rojuro'yu tedavi ediyorlar.",
+                "air_date": "2023-08-19",
+                "still_path": "/xPyOjfE9rXTM14jzfUiS5ryXNBR.jpg",
+                "video_url": "5386146"
+            },
+            {
+                "episode_number": 21,
+                "name": "Başsız Yıldız",
+                "overview": "Kenpachi, Gremmy'yi yener ancak Candice'in yıldırım saldırısıyla aniden vurulunca zafer anı yarıda kalır. Meninas, Giselle ve Liltotto da Özel Tehdit olarak kabul edilen Kenpachi'yi alt etmek için Candice'e katılır.",
+                "air_date": "2023-08-26",
+                "still_path": "/zGfMQ0J1tfmSWzE9jRvZeDt5vN0.jpg",
+                "video_url": "5386148"
+            },
+            {
+                "episode_number": 22,
+                "name": "Zombilerin Dışına Yürümek",
+                "overview": "Yhwach'ın asıl hedefinin Kraliyet Sarayı olduğunu öğrenen Ichigo ve Soul Reaper'lar, Yhwach'ı durdurmaya çalışır. Ancak çabaları, Yhwach'ın Kraliyet Sarayı'na güvenli geçişine izin vermek için Ichigo'nun önünde duran Uryu tarafından engellenir.",
+                "air_date": "2023-09-09",
+                "still_path": "/6a2mg7CAhWBTJkHsffRtH6jxExb.jpg",
+                "video_url": "5386149"
+            },
+            {
+                "episode_number": 23,
+                "name": "Zombilerle Yürümek 2",
+                "overview": "Ikkaku, Yumichika ve Arrancarlar, Giselle'in zombileriyle savaşmak için birlikte çalışır. Ancak Giselle, Squad 10'un Kaptan Hitsugaya'sından başkası olmayan bir sonraki piyonunu ortaya çıkardığında grup şok olur.",
+                "air_date": "2023-09-16",
+                "still_path": "/S4tZVBDNcHlDvRcF5Vcu3jeNkO.jpg",
+                "video_url": "5386150"
+            },
+            {
+                "episode_number": 24,
+                "name": "Kazanmak için Çok Erken Bilmek İçin Çok Geç",
+                "overview": "Yhwach sonunda Kraliyet Sarayı'nın ana girişinden içeri girer. Haschwalth ve Uryu'nun eşlik ettiği Quincy King, Büyük Saray'a doğru ilerlemeye hazırlanırken Squad Zero'dan Senjumaru Shutara tarafından durdurulur.",
+                "air_date": "2023-09-23",
+                "still_path": "/eEeN76dqEXQq4Czgnt2WyM9BMQk.jpg",
+                "video_url": "5386151"
+            },
+            {
+                "episode_number": 25,
+                "name": "Usta",
+                "overview": "Yhwach, gerçek Kraliyet Sarayı'nı koruyan Hyosube ile yüzleşmek için Squad Zero'nun sahte Kraliyet Sarayı'nı çevreleyen kafesten kaçar.",
+                "air_date": "2023-09-30",
+                "still_path": "/1i7fH1SmouIPgv9gXlPnlsxWFir.jpg",
+                "video_url": "5266041"
+            },
+            {
+                "episode_number": 26,
+                "name": "Siyah",
+                "overview": "﻿Yhwach, düşmüş Kraliyet Muhafızlarına güç vermek ve onların Voll Stern Dich formlarını etkinleştirmek için Auswählen'i gerçekleştirir. Aşağıda Kraliyet Muhafızları ve Squad Zero arasında şiddetli bir savaş var.",
+                "air_date": "2023-09-30",
+                "still_path": "/lyqVlNRnNvYfr6Z6HZqAJLk1pL4.jpg",
+                "video_url": "5272819"
+            }
+        ]
+    }
+}

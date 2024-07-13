@@ -1,0 +1,551 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 26,
+        "air_date": "2019-04-06",
+        "poster_path": "/x2f3rK7GvxalWsa74H87PeVvsZo.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Zulüm",
+                "overview": "Taisho Dönemidir (yani 1912-1926). Tanjiro Kamado, ailesiyle birlikte dağlarda mütevazı ama mutlu bir hayat yaşamaktadır. Bir gün kasabada kömür satmaktan döndüğünde, bir iblis saldırısının ardından katledilen ailesinin kalıntılarını kan gölleri içinde bulur. Tanjiro, hayatta kalan tek kişi olan kız kardeşi Nezuko'yu sırtında alarak karlı dağdan aşağı koşar. Ancak yolda Nezuko aniden hırlayarak Tanjiro'ya döner.",
+                "air_date": "2019-04-06",
+                "still_path": "/liyqZVGyEf5e4TEI2JuKU0aaldI.jpg",
+                "video_url": "3703717"
+            },
+            {
+                "episode_number": 2,
+                "name": "Antrenör Sakonji Urokodaki",
+                "overview": "Giyu Tomioka'nın ısrarı üzerine Tanjiro, iblise dönüşen kız kardeşi Nezuko ile birlikte Sagiri Dağı'na doğru yola çıkar. Gece boyunca Tanjiro bir tapınağın içinden kan kokusunu alır. Birinin incinebileceğini düşünerek içeri girer, ancak insan yiyen bir iblisle karşılaşır. İblis saldırdığında Tanjiro baltasıyla karşılık vermeyi başarır ama iblisin gücü çok büyüktür. İblis tam onun işini bitirmek üzereyken Tanjiro'dan başkası kurtarılmaz.",
+                "air_date": "2019-04-13",
+                "still_path": "/r2MZH3snLABIpqUPj8YOF9HIaBf.jpg",
+                "video_url": "3592642"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sabito ve Makomo",
+                "overview": "Şeytan Avcısı Birliği... Antik çağlardan beri iblisleri avlayan bir organizasyon. Sakonji Urokodaki, birime katılma testi olan Son Seçim için Tanjiro'yu eğitmeye başlar. Bubi tuzakları, kuru kılıç sallamaları, şelaleye dalma ve nefes alma teknikleriyle dolu bir dağda gezinmek... Bir yıl sonra Urokodaki, Tanjiro'ya öğretecek başka bir şeyi olmadığını söyler ve ona dev bir kayanın önünde aşması gereken son bir engel verir. .",
+                "air_date": "2019-04-20",
+                "still_path": "/m9sWQLtoU1G5jdHOYUnykin0xxw.jpg",
+                "video_url": "3703726"
+            },
+            {
+                "episode_number": 4,
+                "name": "Son Seçim",
+                "overview": "Son Seçimi geçmek için, kişinin Demon Slayers tarafından yakalanan iblislerin hapsedildiği Fujikasane Dağı'nda yedi gün hayatta kalması gerekir. Böylece genç kılıç ustaları ve iblisler arasındaki hayatta kalma savaşı başlıyor. Sakonji Urokodaki'den öğrendiği nefes teknikleri ve duruşlarla donanmış olan Tanjiro, iblis üstüne iblis kesiyor. İki yıllık eğitimi boşa gitmedi. Ancak tam o sırada, birdenbire şekil değiştirmiş bir iblis ortaya çıkar.",
+                "air_date": "2019-04-27",
+                "still_path": "/kH6Ir9EWGoqkTMoiQnx5fJmwY2I.jpg",
+                "video_url": "3703737"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kendi Çeliklerim",
+                "overview": "Gün ağardığında, yedi günlük savaşın ardından ayakta kalan yalnızca dört kılıç ustası kalır. Tanjiro ve diğer hayatta kalanları selamlayan rehberler, Demon Slayer Corps sistemini anlatıyor. Dördüne de üniformalar verilir ve haberci olarak Kasugai Kargaları verilir, ardından kendi Nichirin kılıçları için cevheri seçmeleri gerekir. Her bir cevher yığınına dikkatle baktıktan ve keskin koku alma duyusunu kullandıktan sonra Tanjiro'nun seçtiği şey...",
+                "air_date": "2019-05-04",
+                "still_path": "/fWsUsEVYaOHh6bPkgH7HeQxotmP.jpg",
+                "video_url": "3703744"
+            },
+            {
+                "episode_number": 6,
+                "name": "Bir İblise Eşlik Eden Kılıç Ustası",
+                "overview": "Tanjiro artık Şeytan Avcısı Birliğinin üniformasını giyiyor. Kalçasındaki Nichirin Kılıcı ve artık uyanık olan Nezuko, sırtındaki Urokodaki tarafından yapılan özel bir kutunun içinde ilk görevine doğru yola çıkar. Kızların her gece ortadan kaybolduğu kuzeybatıdaki bir kasaba. Orada Tanjiro, kız arkadaşının kaçırılmasının ardından endişeden bitkinleşen Kazumi ile tanışır. Yakınlarda bir iblisin kokusunu alsa da görünürde iblis yok. Tanjiro bu uğursuz olayın arkasında bir iblisin olduğundan emindir...",
+                "air_date": "2019-05-11",
+                "still_path": "/qd0lN2R3wzbUyXbSEQEO19nkGah.jpg",
+                "video_url": "3703755"
+            },
+            {
+                "episode_number": 7,
+                "name": "Muzan Kibutsuji",
+                "overview": "Artık üçe ayrılan iblisler Tanjiro'yu köşeye sıkıştırmıştır. İşte o zaman Nezuko saldırır. Artık kendisi de bir iblis haline geldi ve artık korunmaya ihtiyaç duyacak kadar zayıf değil. Kararını veren Tanjiro, iblislerden birini takip ederek artık yere yayılan bataklığa doğru gider. Orada onu bekleyen...",
+                "air_date": "2019-05-18",
+                "still_path": "/aR1bB3ltg1FjGc6N3xBpiYz7Huo.jpg",
+                "video_url": "3703763"
+            },
+            {
+                "episode_number": 8,
+                "name": "Büyüleyici Kan Kokusu",
+                "overview": "Bir sonraki görev Tokyo Asakusa'da. Tanjiro, Taisho Dönemi'nin gösterişli manzarası karşısında şaşırır, ancak çok geçmeden orada iblisin kokusunu alır. Kokunun peşinde koşması onu Muzan Kibutsuji'ye götürür. Tanjiro onu yere sermeye çalışır. Ancak Kibutsuji yoldan geçen birini iblise dönüştürerek kargaşaya neden olur. Tanjiro çaresizce işleri kontrol altına almaya çalışırken karşısına biri çıkar...",
+                "air_date": "2019-05-25",
+                "still_path": "/hnvD3jFov03BLjvGrqTueXZfvwL.jpg",
+                "video_url": "3703770"
+            },
+            {
+                "episode_number": 9,
+                "name": "Temari Şeytanı ve Ok Şeytanı",
+                "overview": "Tanjiro'yu kurtarmaya gelenler Tamayo ve Yushiro adlı iki iblis oldu. Tamayo, \"Göz Körleştirme\" büyüsünü kullanarak Tanjiro ve Nezuko'yu evine yönlendirir. Orada Tamayo ile yaptığı konuşma sayesinde Tanjiro, iblisleri insan formuna döndürmenin bir yolu olduğunu öğrenir. Tam o sırada Tanjiro'nun peşindeki iki iblis evin yerini tespit eder ve şiddetli bir saldırı başlatır...",
+                "air_date": "2019-06-01",
+                "still_path": "/pMST9IQizKO4EE6P54yFFMBz7vE.jpg",
+                "video_url": "3703773"
+            },
+            {
+                "episode_number": 10,
+                "name": "Birlikte Sonsuza",
+                "overview": "Tanjiro'nun krizi devam ediyor. Yahaba'nın son Kan Şeytan Sanatı olan \"Kouketsu Oku\"na karşı direnmek için Su Nefesi tekniğinin çeşitli biçimlerini kullanıyor. Bu arada Nezuko ve Susamaru hâlâ mücadele ediyor. Sonuçtan endişelenen Tamayo, kendi Kanlı Şeytan Sanatını serbest bırakır.",
+                "air_date": "2019-06-08",
+                "still_path": "/nDbVix8vunXKj6zLcVEaxwF7YTq.jpg",
+                "video_url": "3703786"
+            },
+            {
+                "episode_number": 11,
+                "name": "Tsuzumi Konağı",
+                "overview": "Kasugai Kargasına göre Tanjiro'nun bir sonraki hedefi güney-güneydoğudur. Yolda Tanjiro, Final Seçiminden sağ kurtulan arkadaşı kılıç ustası Zenitsu Agatsuma ile karşılaşır. Tanjiro, dağların derinliklerine doğru ilerlerken Zenitsu'nun pasif tavrıyla baş etmekte zorlanır. Evlerinin önünde ağabeyi götürülen iki çocukla karşılaşırlar. Zenitsu orada bir yerden çınlayan bir tsuzumi sesi duyar.",
+                "air_date": "2019-06-15",
+                "still_path": "/xKOewshyBZcisLUWrOQjEGe650L.jpg",
+                "video_url": "3703793"
+            },
+            {
+                "episode_number": 12,
+                "name": "Domuz Dişlerini Gösteriyor, Zenitsu Uyuyor",
+                "overview": "Her tsuzumi çalındığında odaların döndüğü evin içinde Tanjiro, Zenitsu Agatsuma'dan ayrılır. Yanında Tanjiro olmayan Zenitsu, Shoichi'yi eve götürürken korku ve umutsuzluğa kapılır. Bu sırada Tanjiro, evin efendisi, tsuzumi oynayan iblis ve yaban domuzu kafası maskesi takan tuhaf görünüşlü bir adamla tanışır.",
+                "air_date": "2019-06-22",
+                "still_path": "/qrPsA5eNGH4sPwMImUhOvlShd7U.jpg",
+                "video_url": "3703804"
+            },
+            {
+                "episode_number": 13,
+                "name": "Hayattan Daha Önemli Bir Şey",
+                "overview": "Evin efendisi Kyogai her tsuzumisini çaldığında, oda döner ve Tanjiro mücadele eder. Önceki savaşında aldığı kırık kemikler yüzünden güçsüzleşen Tanjiro, umutsuzca savaşırken kendini ateşlemeye çalışır, ancak Kyogai'nin Kan Şeytanı Sanatı tarafından alt edilir. Kyogai'nin kafasını kesmenin bir yolunu bulacak mı?",
+                "air_date": "2019-06-29",
+                "still_path": "/5ixd8rC1tTDHf5kSo5o7hbghpOi.jpg",
+                "video_url": "3703809"
+            },
+            {
+                "episode_number": 14,
+                "name": "Wisteria Aile Armasının Bulunduğu Ev",
+                "overview": "Ölümcül bir mücadelenin ardından Tanjiro, Kyogai'ye galip gelir. Daha önce kaçan Zenitsu'yu bulmak için evden çıkar. Ancak işte o zaman önündeki tuhaf koşulları görüyor... Hırpalanmış Zenitsu, kollarında Nezuko'nun bulunduğu kutuyu tutarken, yaban domuzu kafası maskeli adam iki Nichirin Kılıcı çekilerek yoluna çıkıyor.",
+                "air_date": "2019-07-06",
+                "still_path": "/e98IzkyZqU3mUP7f568GenqGQ9v.jpg",
+                "video_url": "3703815"
+            },
+            {
+                "episode_number": 15,
+                "name": "Natagumo Dağı",
+                "overview": "Bir sonraki varış yerleri kuzey-kuzeybatıdır. Tanjiro ve Nezuko, Zenitsu ve Inosuke ile Natagumo Dağı'na doğru yola çıkar. Bu dağ örümcek ağlarıyla kaplıdır ve sayısız örümcek kaynıyor. Sinmiş Zenitsu'yu geride bırakan Tanjiro ve Inosuke, dağa doğru yola çıkarlar ve orada örümcek ağlarına dolanmış diğer Demon Slayer arkadaşlarıyla karşılaşırlar.",
+                "air_date": "2019-07-13",
+                "still_path": "/8CNCZfubtFYzvuo4GgIDCSXBYvj.jpg",
+                "video_url": "3703820"
+            },
+            {
+                "episode_number": 16,
+                "name": "Başkasının İlk Gitmesine İzin Vermek",
+                "overview": "Tanjiro ve Inosuke, örümcek ağlarına hapsolmuş Şeytan Avcıları ile savaşır. İpleri kesip ağları yok ettikten sonra dağın derinliklerine doğru yola çıkarlar. Ormanda ilerledikçe ipler kalınlaşır ve kontrolleri altındakiler bir insanoğlunun ulaşamayacağı şekilde hareket etmeye başlar. İblis Avcılarını onlara zarar vermeden durdurmak kolay olmayacak ama sonra Tanjiro kesin bir hamle yapar...",
+                "air_date": "2019-07-20",
+                "still_path": "/swSQtQPgFpqjw3s0LNtUMWyHFnU.jpg",
+                "video_url": "3703829"
+            },
+            {
+                "episode_number": 17,
+                "name": "Tek Bir Şeyde Ustalaşmalısınız",
+                "overview": "Muzan Kibutsuji'nin doğrudan astı olan On İki Kizuki'den biri burada bir yerlerde. Tanjiro, Natagumo Dağı'nın Ana Örümcek Şeytanını öldürdüğünde, Nezuko'yu tekrar insana dönüştürebilecek anahtarı elinde tutabilecek bir iblisin bu ormanın bir yerinde olduğunu öğrenir. Hırpalanmış Inosuke'yi de yanında tutarak ormanın derinliklerine doğru yola çıkar. Bu sırada Zenitsu ormanda çaresizce yürürken insan yüzlü bir örümcekle karşılaşır.",
+                "air_date": "2019-07-27",
+                "still_path": "/oKOrMhozP1BX6gWiJAcuZVSm6Zd.jpg",
+                "video_url": "3703836"
+            },
+            {
+                "episode_number": 18,
+                "name": "Sahte Bir Tahvil",
+                "overview": "Tanjiro ve Inosuke, Natagumo Dağı'nın Baba Örümcek Şeytanı ile karşı karşıya gelir. Tanjiro bir saldırı düzenler ancak iblisin ezici gücü tarafından savrulur. Bir nehrin yakınına indiğinde, Rahibe Örümcek Şeytanına işkence eden genç iblis Rui ile karşılaşır. Rui aralarındaki terör ve nefret bağını \"aile bağı\" olarak adlandırınca Tanjiro öfkelenir. Böylece Rui ve Tanjiro arasındaki savaş başlar.",
+                "air_date": "2019-08-03",
+                "still_path": "/ra7dCRS9E39fnhHieFKF47ldESl.jpg",
+                "video_url": "3703863"
+            },
+            {
+                "episode_number": 19,
+                "name": "Hinokami",
+                "overview": "Hashiras olarak bilinen İblis Avcısı Birliği'ndeki kılıçlılar Natagumo Dağı'na ulaştı. Su Hashira Giyu Tomioka, Baba Örümcek Şeytanını tek bir vuruşla öldürür. Kendisinden tamamen farklı bir ligde olan birinin böyle bir kılıç ustalığı gösterisini görmekten heyecan duyan Inosuke, Giyu'yu düelloya davet eder. Bu sırada Zenitsu, zehir vücudunda dolaşırken ölümün eşiğindedir. Tam o sırada Böcek Hashira, Shinobu Kocho onun önünde belirir.",
+                "air_date": "2019-08-10",
+                "still_path": "/b4o8DMgM61MJymZMFyR2nRnOifl.jpg",
+                "video_url": "3703885"
+            },
+            {
+                "episode_number": 20,
+                "name": "Aile Rolü",
+                "overview": "Rui ona Kanlı Şeytan Sanatıyla saldırdığında Tanjiro kendini kesin ölüme hazırlar. Hayatı gözlerinin önünden geçerken aniden babasının dansı kagurayı hatırlar ve Su Nefesi olmayan yeni bir saldırı başlatır. Hinokami Kagura Dansı. İblisten aynı anda bir darbe alacağını bilerek, yeni hamlesini Rui'nin kafasını kesmek için kullanır. Tanjiro yerde yatan, yaralarla dolu Nezuko'ya doğru sürünürken karşısına biri çıkar.",
+                "air_date": "2019-08-17",
+                "still_path": "/zEBhEj2Dt58vqAUsEWv6DOCz5RJ.jpg",
+                "video_url": "3703891"
+            },
+            {
+                "episode_number": 21,
+                "name": "Birlik Kurallarına Karşı",
+                "overview": "Tanjiro'nun Nezuko yere yığılırken bile onu korumaya çalışmasını görmek Rui'nin kendi geçmişine dair anılarını tetikler. Bir zamanlar hasta bir çocukken, kendisine kanından pay veren Muzan Kibutsuji ile tanıştıktan sonra bir iblis haline geldi. Ancak bir iblise dönüştükten sonra kendi ailesi onu öldürmeye çalışır. O zamandan beri bir aile arıyor. Asla elde etmeyi umamayacağı bir bağın peşinde...",
+                "air_date": "2019-08-24",
+                "still_path": "/g3jzSZOzqaH6VD23tmIqRQLtLoF.jpg",
+                "video_url": "3703897"
+            },
+            {
+                "episode_number": 22,
+                "name": "Konağın Efendisi",
+                "overview": "Savaş bittikten sonra Tanjiro ve Nezuko, Demon Slayer Birliği karargahına götürülür. Kolordu lideri Ubuyashiki ile Kolordu'daki en güçlü kılıç ustaları olan Hashiralar arasındaki Hashira Toplantısının yapılacağı yer burasıdır. Hashiralar, Tanjiro'yu bir iblisi koruyarak İblis Avcısı Birliği'ni ihlal ettiği için kınadı. Ve ardından Rüzgar Hashira, Sanemi Shinazugawa, kılıcını Nezuko'ya doğru kaldırıyor...",
+                "air_date": "2019-08-31",
+                "still_path": "/2bo6M1fLHXz47b3NoW3Y5zesTKB.jpg",
+                "video_url": "3703903"
+            },
+            {
+                "episode_number": 23,
+                "name": "Haşira Toplantısı",
+                "overview": "İblis Avcısı Birliği'nin lideri Ubuyashiki, sonunda Tanjiro'nun huzuruna çıkar. Tanjiro ve Nezuko'nun Birliğe katılmasına izin vereceğini söyler. Ancak Hashiraların bu kararı hemen kabul etmesi mümkün değil. Rüzgar Hashira, Sanemi Shinazugawa, kendi kolunu keser ve Nezuko'ya kanıyla alay ederek onun bir iblis olarak gerçek yüzünü göstermesini sağlamaya çalışır.",
+                "air_date": "2019-09-07",
+                "still_path": "/gdlEXQbUuVtIzKxuOMWd2BhT4n8.jpg",
+                "video_url": "3703911"
+            },
+            {
+                "episode_number": 24,
+                "name": "Rehabilitasyon Eğitimi",
+                "overview": "Yaralı Tanjiro, Zenitsu ve Inosuke tedavi için Böcek Hashira Shinobu Kocho'nun evine gönderilir. İki hafta sonra Tanjiro ve Inosuke rehabilitasyon eğitimine başlar. Ancak tatbikatlar acımasızdır ve kendilerini ruhen kırılmış halde bulurlar. Yorucu rejimden habersiz olan Zenitsu onlara geç katılır ve kızların önünde gözle görülür bir şekilde heveslidir, ancak...",
+                "air_date": "2019-09-14",
+                "still_path": "/hhZsnP34Tjx568RJwSTN9nkkCcX.jpg",
+                "video_url": "3703915"
+            },
+            {
+                "episode_number": 25,
+                "name": "Tsuguko, Kanao Tsuyuri",
+                "overview": "Kelebek Köşkü'nde rehabilitasyon eğitimi gören Tanjiro, Toplam Konsantrasyon Nefesi tekniklerini gün boyu sürdürmek için çok çalışıyor. İlk başta, sınıfında kendisini eğiten kılıç ustası Kanao'ya karşı çaresiz kalsa da, yavaş ama emin adımlarla ilerleme kaydetmeye başlar. Tanjiro'nun kendisini her gün antrenmana adadığını gören Zenitsu ve Inosuke de antrenmana devam eder, ancak...",
+                "air_date": "2019-09-21",
+                "still_path": "/4VmgnTSJvOPbfy7k51t94T4q88e.jpg",
+                "video_url": "3706069"
+            },
+            {
+                "episode_number": 26,
+                "name": "Yeni Görev",
+                "overview": "Tanjiro ve diğerleri rehabilitasyon eğitimlerine adanmışken, iblislerin mutlak efendisi Muzan Kibutsuji, On İki Kizuki'nin Alt Sıralarını toplar. İblisler de bir sonraki hamlelerini yapmaya hazırlanır. Eğitim sona ererken, Tanjiro Kanao ile eşit şartlarda dövüşebilecek noktaya gelmiştir. Tam o sırada, Kasugai Crow'undan yeni bir görev haberi alır.",
+                "air_date": "2019-09-28",
+                "still_path": "/ooZNrd1lFth6NVzToRd8MOKuNGK.jpg",
+                "video_url": "4241616"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 7,
+        "air_date": "2021-10-10",
+        "poster_path": "/yQ0c0Sha9qQbecSMFTA2bYtHByu.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Flame Hashira Kyojuro Rengoku",
+                "overview": "Alev Hashira Kyojuro Rengoku yeni emirler alır: Kırktan fazla kişinin kaybolduğu Mugen Trenine gidin ve bir soruşturma yürütün. Demon Slayer Kolordu Karargâhından ayrılarak bu yeni göreve doğru yola çıkar.",
+                "air_date": "2021-10-10",
+                "still_path": "/s25sv0IoUYWL24MhoYbYU5idlZ5.jpg",
+                "video_url": "4445525"
+            },
+            {
+                "episode_number": 2,
+                "name": "Derin Uyku",
+                "overview": "Tanjiro'nun grubu, Butterfly Mansion'daki eğitimlerini yeni tamamlamış bir şekilde bir sonraki görevleri olan Mugen Treni'ne doğru yola çıkarlar. Orada kendilerinden önce gelen Rengoku ile buluşurlar. Tanjiro her zaman enerjik Rengoku'nun etkisi altında kalır, Zenitsu her zamanki gibi iblislerle karşılaşma ihtimalinden korkar ve Inosuke devasa makinenin görüntüsü karşısında çok heyecanlanır. Ancak yolcularla dolu bu trende yeni bir savaş başlamak üzeredir.",
+                "air_date": "2021-10-17",
+                "still_path": "/3D1Ke4O5eRcKr255ddlDTnwmoa6.jpg",
+                "video_url": "4454340"
+            },
+            {
+                "episode_number": 3,
+                "name": "Olmalıydı",
+                "overview": "Tanjiro, Nezuko, Zenitsu ve Inosuke, Mugen Treninde Rengoku'ya katılır. Trende iblislerin olabileceğini duyunca alarma geçerler ama kendilerini uykuya dalarken bulurlar. Tanjiro, rüyasında uzun süredir kayıp olan ailesiyle yeniden bir araya gelir. Ancak çok geçmeden bunun Enmu'nun (Aşağıdaki) kurduğu bir tuzak olduğu ortaya çıkar.",
+                "air_date": "2021-10-24",
+                "still_path": "/bsjdWN0H0t9Pe7nPYoxXTHd8KpP.jpg",
+                "video_url": "4463045"
+            },
+            {
+                "episode_number": 4,
+                "name": "Hakaret",
+                "overview": "Tanjiro, Zenitsu, Inosuke ve Rengoku, Enmu'nun Kan Şeytan Sanatının kontrolü altındayken derin bir uykuya daldılar. Enmu, Tanjiro ve yoldaşlarını yenmek için suç ortaklarını kullanarak onların ruhani özlerini yok etmeye çalışırken Tanjiro bir rüyanın içinde olduğunu fark eder ve uyanmanın bir yolunu arar. Tanjiro rüyadan uyanmak için kılıcını kullanarak kendi boynunu kesmeye karar verir.",
+                "air_date": "2021-11-07",
+                "still_path": "/eECM3oquq3G8jFOGWTnxaFql3vM.jpg",
+                "video_url": "4487550"
+            },
+            {
+                "episode_number": 5,
+                "name": "İleriye Doğru!",
+                "overview": "Rüyasından kendi boynunu keserek uyanan Tanjiro, trendeki tüm kargaşanın kaynağı olan Enmu ile savaşır. Enmu yolculara acı vermekten zevk alıyor gibi görünüyor ve bu da Tanjiro'yu daha da çileden çıkarıyor. Tanjiro, Enmu'nun kafasını kesmeyi başarır, ancak Enmu'nun vücudunun Mugen Treni ile kaynaştığını keşfeder. Tanjiro köşeye sıkışmış durumda ama yeni uyanmış Inosuke ona yardım etmeye geliyor ve...",
+                "air_date": "2021-11-14",
+                "still_path": "/wiyxLpsQtpG6tMO3HjaTwD98SD.jpg",
+                "video_url": "4498332"
+            },
+            {
+                "episode_number": 6,
+                "name": "Akaza",
+                "overview": "Nezuko, Zenitsu ve Rengoku, yolcuları korumak için Enmu'ya karşı savaşır. Bu sırada Tanjiro ve Inosuke, Enmu'nun boynunun yerini keşfeder. Enmu'nun Kan Şeytanı Sanatını engellemek ve Enmu'nun boynunu kesmek için birlikte çalışırlar. Mugen Treni acı içinde kıvranıyor ve raydan çıkıyor. Tanjiro ve arkadaşlarının yanı sıra 200 kadar yolcunun kaderi ne olacak?",
+                "air_date": "2021-11-21",
+                "still_path": "/9mhvaSJfVDUF8uiInaa3KOoXMsC.jpg",
+                "video_url": "4511358"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kalbini Ateşe Ver",
+                "overview": "Enmu'yu yendikten sonra Tanjiro ve Rengoku'nun karşısına çıkan iblis Üst Üç, Akaza'ydı. Tanjiro yaralı ve yerdeyken neredeyse Akaza'nın saldırısına uğrar ve Rengoku hızla karşılık verdiğinde ölümden kıl payı kurtulur. Rengoku ve Akaza arasındaki yoğun savaş sırasında Akaza, Rengoku'ya kendisinin de bir iblis olması gerektiğini önerir. Rengoku, Akaza'nın teklifini şiddetle reddeder, ancak yaralı vücudu bitkindir ve fiziksel sınırlarının ötesine itilmektedir...",
+                "air_date": "2021-11-28",
+                "still_path": "/bSKs2NzkXd8n0f2bIT8lhEuR7DH.jpg",
+                "video_url": "4524402"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 11,
+        "air_date": "2021-12-05",
+        "poster_path": "/kyhi1OjpifFkfo8gXrRvf9jI7SJ.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Sound Hashira Tengen Uzui",
+                "overview": "Mugen Treni olayının ardından Akaza, Muzan Kibutsuji'yi ziyaret eder. Bir karganın rehberliğinde Tanjiro Kamado, Kyojuro Rengoku'nun son mesajlarını babasına ve küçük erkek kardeşine iletmek için Rengoku evine doğru yola çıkar. Tanjiro'nun grubu Kelebek Köşkü'ne geri döner.",
+                "air_date": "2021-12-05",
+                "still_path": "/yHvD7Yhaxcn0Mc3BSI0yAFVrYT8.jpg",
+                "video_url": "4581572"
+            },
+            {
+                "episode_number": 2,
+                "name": "Eğlence Bölgesine Sızmak",
+                "overview": "Tanjiro, Rengoku evini ziyaret edip Kyojuro'nun son mesajını iletmek için Kyojuro'nun küçük kardeşi Senjuro ile tanıştıktan sonra Tanjiro, günlerini eğitim alarak ve görevleri tamamlayarak geçirir. Bir gün Kelebek Köşkü'ne döner ve Sound Hashira, Tengen Uzui'yi, Aoi ve Naho'yu kendi istekleri dışında bir göreve götürmeye çalışırken bulur. Tanjiro, Zenitsu ve Inosuke bunun yerine bu göreve çıkmayı teklif eder ve bir sonraki varış noktalarına, Eğlence Bölgesi'ne doğru yola çıkarlar.",
+                "air_date": "2021-12-12",
+                "still_path": "/mTtIdiS9ntOjlBFaZxGRu5qkZdF.jpg",
+                "video_url": "4581576"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sen Nesin?",
+                "overview": "Eğlence Bölgesi'ne vardıktan sonra, Tanjiro ve yoldaşları Uzui'nin eşleri Suma, Makio ve Hinatsuru'nun çalıştığı her eve sızarlar. Çırak olarak çalışırken ve onların nerede olduğunu ararken, Inosuke Makio'nun odasındaki herkesten kendini soyutladığını duyar.",
+                "air_date": "2021-12-19",
+                "still_path": "/1pEUWW6ynwjeCthb7NqQlSMtxso.jpg",
+                "video_url": "4581580"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bu Akşam",
+                "overview": "Tanjiro, eğlence bölgesini yağmalayan şeytana yaklaşırken. Ancak o yaklaşırken bile diğerleri sorgularına doğru onları takip etmeye devam ediyor. Şeytanı ilk kim bulacak? Peki bu yüzleşmeden sağ çıkabilecekler mi?",
+                "air_date": "2021-12-26",
+                "still_path": "/oyZd3BMT8pH83PLLG07njxhKfkO.jpg",
+                "video_url": "4772464"
+            },
+            {
+                "episode_number": 5,
+                "name": "İşler Gerçekten Gösterişli Olacak!!",
+                "overview": "Zenitsu'nun kaybolduğu ve Uzui tarafından Eğlence Bölgesi'nden ayrılmaları söylendikten sonra, Tanjiro ve Inosuke Zenitsu'yu kurtarmaya karar verirler. O akşam, Tanjiro bir iblisin kokusunu alır ve bu onu Daki'nin kemeri tarafından yutulan Koinatsu Oiran'a götürür. Uzui ortalıkta görünmediği için, Tanjiro Üst Altı iblisiyle tek başına yüzleşmek zorundadır.",
+                "air_date": "2022-01-02",
+                "still_path": "/xHobu2pJtnRePBxrvxafUHXKJNr.jpg",
+                "video_url": "4772467"
+            },
+            {
+                "episode_number": 6,
+                "name": "Katmanlı Anılar",
+                "overview": "Daki ile olan şiddetli savaş sırasında Tanjiro, Hinokami Kagura'yı serbest bırakmaya devam eder ve bu da vücudunda büyük bir gerilime neden olur. Bu sırada Inosuke, Kemer Şeytanı'nın yuvasına ulaşır ve yakalanan insanları kurtarır. Kemerden kurtulan Makio, Suma ve Zenitsu da kavgaya katılır. Yuvanın tavanı kırılırken Uzui kılıçlarını sallıyor gibi görünür.",
+                "air_date": "2022-01-09",
+                "still_path": "/9jSSKfsWXEPwiSz8eCMQK8St5gc.jpg",
+                "video_url": "4772481"
+            },
+            {
+                "episode_number": 7,
+                "name": "Dönüşüm",
+                "overview": "Daki'nin insan hayatını küçümsemesine öfkelenen Tanjiro, ona daha yoğun bir şekilde saldırır ve yavaş yavaş şeytanı köşeye sıkıştırır. Ama zaten fiziksel sınırlarını aştı. Tanjiro çöküp her şey yeniden kaybolmuş gibi görünürken Nezuko ortaya çıkar. Korkunç bir savaş başlar ve Nezuko daha şeytani bir forma dönüşmeye başlar...",
+                "air_date": "2022-01-16",
+                "still_path": "/6IVxJBaIAOboW9HXzx0Kr0DevAZ.jpg",
+                "video_url": "4772490"
+            },
+            {
+                "episode_number": 8,
+                "name": "Toplama",
+                "overview": "Nezuko, iblis formu ilerledikçe çevredeki masum insanlara saldırmaya çalıştıktan sonra Tanjiro, sonunda bir ninni söyleyerek onu uykuya daldırmayı başarır. Bu arada, Uzui - Daki'nin ağabeyi ve Üst Altı'nın diğer formu Gyutaro - tarafından kafasının kesilmesinin ardından Daki'nin vücudundan başka bir iblis ortaya çıkar. Uzui'nin artık iki iblisle, Daki ve Gyutaro'yla yüzleşmesi gerekiyor.",
+                "air_date": "2022-01-23",
+                "still_path": "/5UvxFzLy40MGDue1fvTDFmz2WNj.jpg",
+                "video_url": "4593847"
+            },
+            {
+                "episode_number": 9,
+                "name": "Üst Seviye Bir Şeytanı Yenmek",
+                "overview": "Tanjiro, Zenitsu ve Inosuke savaşta Uzui'ye katıldı. Zenitsu ve Inosuke, Daki'yi ele alırken Tanjiro ve Uzui, Gyutaro'yla uğraşır; ancak iblislerin koordineli saldırılarıyla üstünlük sağlaması nedeniyle mücadele ediyorlar. Ancak Hinatsuru'nun yardımı ve Uzui'nin ekip çalışması sayesinde Tanjiro'nun kılıcı, Gyutaro'nun boynuna doğru yolunu bulur...",
+                "air_date": "2022-01-30",
+                "still_path": "/8qmQglGIAYFk3cPGONQrr3EpxQ7.jpg",
+                "video_url": "4595480"
+            },
+            {
+                "episode_number": 10,
+                "name": "Asla Pes Etme",
+                "overview": "Tanjiro ve Uzui, Gyutaro'nun Kan Şeytanı Sanatı tarafından ayrılmıştır. Tanjiro, mücadele eden Zenitsu ve Inosuke'ye katılırken, koordineli kılıç saldırıları sayesinde sonunda Daki'nin kafasını kesmeyi başarırlar. Ancak, Inosuke, Daki'nin kafasını almaya çalıştığında, Gyutaro'nun tırpanı tarafından delinir. Uzui de çökmüştür ve Tanjiro ile diğerlerini sırtları duvara dönük halde bırakır.",
+                "air_date": "2022-02-06",
+                "still_path": "/9vq4YJdsQ53D4CqQQumRHg6gLgg.jpg",
+                "video_url": "4603582"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kaç Hayat Olursa Olsun",
+                "overview": "Uzui, Gyutaro'nun Kan Şeytan Sanatı saldırılarının tümünü savuşturur ve çenesinden delinmesine rağmen Tanjiro, Gyutaro'nun kafasını kesmeyi başarır. Tepeden tırnağa yaralanmış olsalar da Zenitsu ve Inosuke, Daki'nin kafasını da keserler ve her iki iblisin de kafasını aynı anda kesmeyi başarırlar. Tam şiddetli bir mücadelenin ardından Üst Altı iblisleri yenmiş gibi görünürken, Gyutaro Kan İblis Sanatını serbest bırakır...",
+                "air_date": "2022-02-13",
+                "still_path": "/rO0yt4BIcSZRuIwPlK0QsyhjPZ3.jpg",
+                "video_url": "4604595"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 11,
+        "air_date": "2023-04-09",
+        "poster_path": "/6gD7G8HQay1X8mHiFVttWJ3czYb.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Birinin Rüyası",
+                "overview": "Bir Üst Seviye İblis, yüz yıldır ilk kez Uzui, Tanjiro ve yoldaşlarının çabalarıyla yenilgiye uğratıldı. Bu haber sadece İblis Avcısı Birliği üyeleri arasında değil aynı zamanda Muzan Kibutsuji tarafından çağrılan Üst Seviye İblisler arasında da bir dalgalanma etkisi yaratıyor. Bu sırada Tanjiro, Kılıç Ustası Haganezuka'yı kılıcını kırdıktan sonra üzdüğünü fark ettiğinde Kelebek Köşkü'nde iyileşmektedir ve onunla şahsen konuşmak için kılıç ustalarının yaşadığı köye gitmeye karar verir.",
+                "air_date": "2023-04-09",
+                "still_path": "/nIiUkcBobhVoBh02RnXRaS5KW3U.jpg",
+                "video_url": "5152137"
+            },
+            {
+                "episode_number": 2,
+                "name": "Yoriichi Tip Sıfır",
+                "overview": "Tanjiro, bir sütun ile bir demirci çırağı arasındaki tartışmaya müdahale eder ve harika bir eğitim yönteminin varlığını öğrenir.",
+                "air_date": "2023-04-16",
+                "still_path": "/uvT1yTTx3rfAIP8AtqxtSM0ZxRB.jpg",
+                "video_url": "5152138"
+            },
+            {
+                "episode_number": 3,
+                "name": "300 Yıl Öncesinden Bir Kılıç",
+                "overview": "Tanjiro, eğitimine Yoriichi Type Zero ile başlar ve Kotetsu'nun acımasız koçluğu ve ekstrem eğitimiyle sınırları zorlanır. Bu deneyim sayesinde Tanjiro, koku duyusunu kullanarak rakibinin bir sonraki hamlesinin nereye çarpacağını tahmin etme konusunda yeni bir beceri kazanır. Tanjiro, eğitimi sırasında Yoriichi Type Zero'ya bir darbe indirir ve sonunda onu yok eder, ancak içeriden 300 yılı aşkın bir süre öncesine ait bir kılıç belirir...",
+                "air_date": "2023-04-23",
+                "still_path": "/wquxWyBwsXG3lWrDjg7TQKSRfew.jpg",
+                "video_url": "5122923"
+            },
+            {
+                "episode_number": 4,
+                "name": "Teşekkürler Tokito",
+                "overview": "Hantengu'nun kafası Muichiro tarafından kesilir ve iki klona bölünür. Muichiro, Karaku'ya hayran kalır. Klonlar daha fazla klona bölündüğünde Tanjiro, Nezuko ve Genya şaşkına döner. Muichiro, Kotetsu'yu Japon Balığı Şeytanından kurtarır.",
+                "air_date": "2023-04-30",
+                "still_path": "/2HLP9LAcPkkzGbLpeKm33BXj4NE.jpg",
+                "video_url": "5122924"
+            },
+            {
+                "episode_number": 5,
+                "name": "Parlak Kırmızı Kılıç",
+                "overview": "Tokito ormanda ilerlemeye devam eder ve Bay Kanamori'yi bulur. Ormanın ortasındaki çalışma kulübesine vardıklarında Gyokko tarafından karşılanırlar. Bu sırada Tanjiro, Hantengu'ya karşı mücadelesine devam eder.",
+                "air_date": "2023-05-07",
+                "still_path": "/vtImSrMdWDsmhXFMs681mkxdGed.jpg",
+                "video_url": "5141363"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hashira Olmayacak Mısın?",
+                "overview": "Tanjiro, Nezuko ve Genya'nın Hantengu'ya karşı ve Tokito'nun Gyokko'ya karşı eşzamanlı iki dövüşü devam ediyor. Genya şeytani bir form göstermeye başladı. Tanjiro ondan Hantengu'nun gerçek bedenini aramasını ister ama geçmişe dair anılar Genya'nın başına dert olmaya başlar.",
+                "air_date": "2023-05-14",
+                "still_path": "/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg",
+                "video_url": "5141364"
+            },
+            {
+                "episode_number": 7,
+                "name": "Korkunç Kötü Adam",
+                "overview": "Genya, Hantengu'dan ayrılan beşinci iblisin boynunu hedef alır, ancak iblisin boynu şaşırtıcı derecede serttir ve ona saldırmaya çalışırken kılıcı ikiye bölünür. Silahı da etkisizdir ve Genya köşeye sıkışır. Boynunu tek başına kesemeyeceğini anlayınca ana gövde olduğuna inanılan beşinci iblisin yenilmesini Tanjiro'ya emanet eder. Genya'nın iradesini alan Tanjiro, kılıcını kaçan iblise karşı kullanır...",
+                "air_date": "2023-05-21",
+                "still_path": "/7jOdHvdpD5oKGsRgixuMCJ5P5vJ.jpg",
+                "video_url": "5148707"
+            },
+            {
+                "episode_number": 8,
+                "name": "Muichiro'daki Mu",
+                "overview": "Muichiro, Kotetsu'nun kendisine üflediği havanın yardımıyla Gyokko'nun Su Hapishanesi Kazanından kaçar. Muichiro sonunda trajik geçmişini hatırlar.",
+                "air_date": "2023-05-28",
+                "still_path": "/sM31ISH4HuaSvC9Kf7A76f7SsOa.jpg",
+                "video_url": "5156205"
+            },
+            {
+                "episode_number": 9,
+                "name": "Mist Hashira Muichiro Tokito",
+                "overview": "Anılarıyla silahlanan Muichiro, şeytani beşinci ayın kendisine karşı hiçbir şansı olmadığına ikna olarak kendini güçlü ve yenilmez hisseder.",
+                "air_date": "2023-06-04",
+                "still_path": "/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
+                "video_url": "5219616"
+            },
+            {
+                "episode_number": 10,
+                "name": "Love Hashira Mitsuri Kanroji",
+                "overview": "Tanjiro, Nezuko ve Genya, Zohakuten ve onun beş ağaç ejderhasına karşı zorlu bir savaşta mücadele ediyor. Dört duygu iblisinin gücünü kullanarak ağaç ejderhalarına karşı savunma amaçlı savaşmak zorunda kalırlar ve dövüşün ortasında Tanjiro onlardan biri tarafından yutulur. Tanjiro'nun ölümü yaklaşırken Mitsuri tam zamanında gelir ve onu kurtarır. Ve şimdi Mitsuri, yakalanan Nezuko ve Genya'yı kurtarmak için Zohakuten'le karşı karşıya geliyor...!",
+                "air_date": "2023-06-11",
+                "still_path": "/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
+                "video_url": "5219617"
+            },
+            {
+                "episode_number": 11,
+                "name": "Bağlantılı Bir Bağ: Şafak ve İlk Işık",
+                "overview": "Tanjiro, Hantengu'ya karşı mücadeleye devam ediyor. Tüm yaralarına ve Üstün Dörtlü'nün becerisine rağmen onu yenebilecek mi? Savaş sona yaklaşırken Demon Slayer Ekibi, savaşı şafaktan önce bitirmek için zamana karşı yarışmak zorundadır.",
+                "air_date": "2023-06-18",
+                "still_path": "/kFvPNnB8215j0xudEtFXa7oJ8F6.jpg",
+                "video_url": "5219620"
+            }
+        ]
+    },
+    "season_5": {
+        "season_number": 5,
+        "name": "Sezon 5",
+        "episode_count": 8,
+        "air_date": "2024-05-12",
+        "poster_path": "/htuO1MgCSVfcLYwU3YVSaO2H9iv.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "To Defeat Muzan Kibutsuji",
+                "overview": "Hashira, Sanemi ve Iguro, yoldaşlarıyla birlikte bir görev için dağın tepesindeki terk edilmiş bir kaleye giderken Tanjiro, Kılıç Ustası Köyü'nde aldığı yaralardan dolayı Kelebek Köşkü'nde tedavi görmektedir. Daha sonra Hashira, bir Hashira toplantısı düzenlemek için Ubuyashiki Malikanesi'nde toplanır ve burada Muichiro, işaretlerin nasıl ortaya çıktığını açıklar. Aşağıdan yukarıya tüm İblis Avcısı Birliği'ni güçlendirmek amacıyla Hashira Eğitimi başlıyor...",
+                "air_date": "2024-05-12",
+                "still_path": "/rgDvHS8LHTHuU4Xx64sSVvA39gZ.jpg",
+                "video_url": "5533911"
+            },
+            {
+                "episode_number": 2,
+                "name": "Water Hashira Giyu Tomioka's Pain",
+                "overview": "Kagaya'nın Kasugai Kargası aniden Tamayo'nun önünde belirir ve onu Demon Slayer karargahına davet eder - kendisi bir iblis olmasına rağmen. Bu sırada Kelebek Köşkü'nde Kagaya'dan bir mektup alan Tanjiro, Hashira Eğitimine katılmayan Giyu'yu ziyaret eder. Tanjiro ilk başta Giyu tarafından reddedilir ancak sabırla onunla konuşmaya devam eder. Tanjiro'nun ısrarlarına boyun eğen Giyu, eğitime katılmama nedenini paylaşmaya başlar.",
+                "air_date": "2024-05-19",
+                "still_path": "/wJPkCpsVFmMS6lAgBbLW5zs8Q3f.jpg",
+                "video_url": "5540447"
+            },
+            {
+                "episode_number": 3,
+                "name": "Tamamen İyileşen Tanjiro Hashira Eğitimine Katılıyor!!",
+                "overview": "Giyu, Tanjiro ile konuştuktan sonra geçmişinin üstesinden gelmeyi başarır ve eğitime katılmaya karar verir. Bu arada Tanjiro'nun yaraları eğitime katılacak kadar iyileşir ve eski Hashira Uzui ile ilk eğitimine gider.",
+                "air_date": "2024-05-26",
+                "still_path": "/mNiT7VrfYxQXbgVqEEWtyM2EgRu.jpg",
+                "video_url": "5547383"
+            },
+            {
+                "episode_number": 4,
+                "name": "Birinin Yüzüne Bir Gülümseme Getirmek",
+                "overview": "Uzui ile eğitimini tamamladıktan sonra Tanjiro, Tokito evini ziyaret eder. Zaten eğitime başlamış olan Demon Slayer kılıçlıları, Muichiro'nun yoğun eğitimi ve sert sözlerinden dolayı moralini bozdu. Tanjiro kılıç ustalarının bu konuda yapabilecekleri bir şey olup olmadığını tartıştıklarını duyar...",
+                "air_date": "2024-06-02",
+                "still_path": "/bQQ0uQ5AJ7sYDbirDIzB33J7FgF.jpg",
+                "video_url": "5552729"
+            },
+            {
+                "episode_number": 5,
+                "name": "Şeytanları Bile Yedim...",
+                "overview": "Mitsuri'nin eğitimini tamamladıktan sonra Tanjiro, Iguro ile antrenmana çıkar. Eğitim sahasına vardığında Iguro gözle görülür bir şekilde öfkeli bir şekilde onu beklemektedir. Kılıç becerilerini geliştirmek zorunda kalacağı bu korkunç eğitimi tamamlayabilecek mi?",
+                "air_date": "2024-06-09",
+                "still_path": "/iiKJxsJOT69R86Y5QFtUUQmeha.jpg",
+                "video_url": "5558327"
+            },
+            {
+                "episode_number": 6,
+                "name": "İblis Avcısı Birliğinin En Güçlüsü",
+                "overview": "Tanjiro ve Zenitsu, Himejima'nın dağların derinliklerindeki eğitim alanına gider ve Inosuke ve Murata ile yeniden bir araya gelir.",
+                "air_date": "2024-06-16",
+                "still_path": "/jwAiNnEDDgGathvC8VDTmfXqybH.jpg",
+                "video_url": "5565307"
+            },
+            {
+                "episode_number": 7,
+                "name": "Stone Hashira Gyomei Himejima",
+                "overview": "Tanjiro, Himejima'nın görevleriyle boğuşuyordu. Şans eseri tanıştığı Genya'nın tavsiyesi üzerine nihayet kayayı hareket ettirmeyi başarır. Bu atılımla Tanjiro, Himejima'nın zorlu eğitiminin üstesinden gelebilecek mi?",
+                "air_date": "2024-06-23",
+                "still_path": "/1rw2hmzC7yJwtDfXuP9MIYQvJWQ.jpg",
+                "video_url": "5573733"
+            },
+            {
+                "episode_number": 8,
+                "name": "Hashira Birliği",
+                "overview": "Ayın parladığı sessiz bir gecede Kagaya, sonunda Ubuyashiki Konağı'nda görünen Muzan Kibutsuji ile tanışır.",
+                "air_date": "2024-06-30",
+                "still_path": "/a8QEWBNIfRzXN7g5WOdrPS3QeKy.jpg",
+                "video_url": "5581604"
+            }
+        ]
+    }
+}

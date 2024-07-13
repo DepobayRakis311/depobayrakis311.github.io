@@ -1,0 +1,387 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 47,
+        "air_date": "2020-10-03",
+        "poster_path": "/k3LNFvoLJidIinXkvmahCpShL12.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ryomen Sukuna",
+                "overview": "Yuji Itadori, hastanede çok sevdiği büyükbabasını ziyaret ettikten sonra, Yuji'den lanetli bir kalıntıyı teslim etmesini isteyen bir çırak büyücüyle karşılaşır.",
+                "air_date": "2020-10-03",
+                "still_path": "/3wymoL9HYpllpFrcD8VCvemktGg.jpg",
+                "video_url": "4772097"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kendim için",
+                "overview": "Yuji, Ryomen Sukuna'nın lanetini kontrol etmeyi başarır. Daha sonra kendisine ölümcül bir seçim sunan Jujutsu Lisesi öğretmeni Satoru Gojo ile aynı odada uyanır.",
+                "air_date": "2020-10-10",
+                "still_path": "/k5U9vkpy31UiqCkEc6x6OPBBB0R.jpg",
+                "video_url": "4772113"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çelik Kız",
+                "overview": "Nobara Kugisaki, Roppongi gezisinde sınıfa katılır ve burada Gojo ona ve Yuji'ye ilk sınavı verir: terk edilmiş bir binadaki laneti ortadan kaldırmak.",
+                "air_date": "2020-10-17",
+                "still_path": "/foMCHRzZVfCTvrmfWWeWViBzvZH.jpg",
+                "video_url": "4772139"
+            },
+            {
+                "episode_number": 4,
+                "name": "Lanet Rahmi Ölmeli",
+                "overview": "Bir lanetli rahmin bir çocuk gözaltı merkezine saldırması üzerine Yuji'nin grubu hayatta kalanları kurtarmak için çağrılır; ancak savaşmak bir seçenek değildir.",
+                "air_date": "2020-10-24",
+                "still_path": "/7AxWD8EGwgurIeNoS40YidIlbcT.jpg",
+                "video_url": "4772153"
+            },
+            {
+                "episode_number": 5,
+                "name": "Lanet Rahmi Ölmeli -ii-",
+                "overview": "Sukuna, Yuji'nin cesedini korkunç bir şekilde rehin alırken Fushiguro, Yuji uyanana kadar zaman kazanmak için Sukuna'nın lanetinin katıksız gücüne karşı mücadele eder.",
+                "air_date": "2020-10-31",
+                "still_path": "/xXIK0xhHMThQkSkbBMAznaUTubj.jpg",
+                "video_url": "4772160"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yağmurdan Sonra",
+                "overview": "Sukuna, Yuji'ye onu iki şartla hayata geri getireceğini söyler. Bu sırada Suguru Geto ve lanetli bir ruh, Gojo ile ilgili planlarını tartışır.",
+                "air_date": "2020-11-07",
+                "still_path": "/p7iB7X4BBr1vxeIjfeIelKZWaeS.jpg",
+                "video_url": "4772176"
+            },
+            {
+                "episode_number": 7,
+                "name": "Saldırı",
+                "overview": "Lanetli ruh Jogo, karşılık vermekte o kadar az zorluk çeken Gojo'ya saldırır ki Gojo'dan ayrılır ve savaşı gözlemlemesi için bir öğrenciyi geri getirir.",
+                "air_date": "2020-11-14",
+                "still_path": "/ggoWW4AChFzqNkVNr941EhRqTiX.jpg",
+                "video_url": "4772197"
+            },
+            {
+                "episode_number": 8,
+                "name": "Can Sıkıntısı",
+                "overview": "Kugisaki ve Fushiguro değişim etkinliğine hazırlanırken, Kyoto Jujutsu okulundan iki büyük öğrenci Tokyo'ya gelir ve onlarla kavga eder.",
+                "air_date": "2020-11-21",
+                "still_path": "/6RmiWPTEzDIOLmGI3zYo2GqVeOW.jpg",
+                "video_url": "4772203"
+            },
+            {
+                "episode_number": 9,
+                "name": "Küçük Kızartma ve Ters İntikam",
+                "overview": "Lise öğrencisi Junpei Yoshino, zorbalarının bir sinema salonunda korkunç bir şekilde öldürüldüğünü bulur. Büyücü Kento Nanami ve Yuji olay yerini araştırır.",
+                "air_date": "2020-11-28",
+                "still_path": "/6hsZIkinuai7bAE1cQYXEUIkjju.jpg",
+                "video_url": "4772217"
+            },
+            {
+                "episode_number": 10,
+                "name": "Boşta Dönüşüm",
+                "overview": "Junpei, Mahito'dan şaşırtıcı tavsiyeler alır. Daha sonra Ijichi ve Yuji, Junpei'nin izini sürer ve onunla tesadüfen karşılaşmak için bir plan yapar.",
+                "air_date": "2020-12-05",
+                "still_path": "/rYa2K1q24GNb3dgAvgZm6K6OTzj.jpg",
+                "video_url": "4772234"
+            },
+            {
+                "episode_number": 11,
+                "name": "Eski Kafalı, Bağnaz",
+                "overview": "Mesai saatleri dışında çalışmak zorunda kalmaktan rahatsız olan Nanami, Mahito'ya büyücülüğünün gerçek potansiyelini gösterir. Bu sırada Yuji ve Junpei, filmler yüzünden yakınlaşır.",
+                "air_date": "2020-12-12",
+                "still_path": "/dVRE3XvFfgm8BRww4AqxokPMds1.jpg",
+                "video_url": "4243321"
+            },
+            {
+                "episode_number": 12,
+                "name": "Birgün Sana",
+                "overview": "Nanami'nin uyarısını dikkate almayan Yuji, okula koşar ve Junpei ile mantık yürütmeye çalışır, ancak Mahito çok geçmeden sözünü keser. Yuji, yardım için Sukuna'ya başvurur.",
+                "air_date": "2020-12-19",
+                "still_path": "/yCvQNEZA4FC4yupgV9Ll8Hp7dCZ.jpg",
+                "video_url": "4243325"
+            },
+            {
+                "episode_number": 13,
+                "name": "Yarın",
+                "overview": "Yuji ve Nanami, Mahito'ya yönelik saldırılarını koordine ederek onu yıpratırlar. Ancak lanetli ruh ölüme yaklaştıkça kendi içinde yeni bir güç bulur.",
+                "air_date": "2020-12-26",
+                "still_path": "/ritCXU7BUcNodAVMMiTOAkrSigF.jpg",
+                "video_url": "4243335"
+            },
+            {
+                "episode_number": 14,
+                "name": "Kyoto Kardeş Okul Değişim Etkinliği - Grup Savaşı 0 -",
+                "overview": "Tokyo ve Kyoto Jujutsu okulları arasındaki değişim etkinliğinin başlamasıyla birlikte Gojo, Yuji'nin sürpriz bir şekilde ortaya çıkmasını ayarlar.",
+                "air_date": "2021-01-16",
+                "still_path": "/wzimi19uWzAboYzDjYUDpdhEMUO.jpg",
+                "video_url": "4772269"
+            },
+            {
+                "episode_number": 15,
+                "name": "Kyoto Kardeş Okul Değişim Etkinliği - Grup Savaşı 1 -",
+                "overview": "Değişim etkinliği takım savaşı başladıktan kısa bir süre sonra Todo, Tokyo öğrencilerini pusuya düşürür. Yuji onu durdurmak için harekete geçer ama çok geçmeden kendisini kuşatılmış halde bulur.",
+                "air_date": "2021-01-23",
+                "still_path": "/hoZfRWj2ROpzPnuKf45CUPzCRQE.jpg",
+                "video_url": "4772283"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kyoto Kardeş Okul Değişim Etkinliği - Grup Savaşı 2 -",
+                "overview": "Todo, Yuji'ye lanet güçlerinden nasıl daha iyi yararlanabileceği konusunda tavsiyelerde bulunur. Kugisaki, Nishimiya ile alay ettikten sonra Panda, uzaktan kumandalı Mechamaru ile savaşır.",
+                "air_date": "2021-01-30",
+                "still_path": "/bDM0qdyzYUMhNpIH9AUkz7okbRE.jpg",
+                "video_url": "4772300"
+            },
+            {
+                "episode_number": 17,
+                "name": "Kyoto Kardeş Okul Değişim Etkinliği - Grup Savaşı 3 -",
+                "overview": "Miwa, Maki'nin saldırılarına karşı ayakta durmaya çalışırken Kugisaki, ona Mai'nin zorlukları hakkında ders veren uçan bir Nishimiya'nın peşine düşer.",
+                "air_date": "2021-02-06",
+                "still_path": "/7BMedKvP6i1wIK7vLgL3v2BnRHe.jpg",
+                "video_url": "4772329"
+            },
+            {
+                "episode_number": 18,
+                "name": "Adaçayı",
+                "overview": "Fushiguro, Kamo'nun ok yağmurundan kaçıyor ama rakibi yakın dövüşte de aynı derecede zorlu olduğunu kanıtlıyor. Bu sırada Inumaki, önsezili bir varlığın varlığını hisseder.",
+                "air_date": "2021-02-13",
+                "still_path": "/haxqbRAfpDuS9MIEBk9ToRLNuxt.jpg",
+                "video_url": "4772350"
+            },
+            {
+                "episode_number": 19,
+                "name": "Siyah Flaş",
+                "overview": "Inumaki, Fushiguro ve Kamo, özel dereceli lanetli ruh Hanami'ye karşı kendilerini savunmakta zorlanırlar, ancak Maki, çok ihtiyaç duyulan desteği sağlamak için gelir.",
+                "air_date": "2021-02-20",
+                "still_path": "/qpDxYXnn0ZkoLPz0lB6iQZVIkHM.jpg",
+                "video_url": "4243355"
+            },
+            {
+                "episode_number": 20,
+                "name": "Standart Olmayan",
+                "overview": "Kendi deyimiyle zekasıyla Hanami'nin çeşitli becerilerini analiz eden Todo, Yuji ile birlikte saldırmak için kafa karıştırıcı tekniğini kullanır.",
+                "air_date": "2021-02-27",
+                "still_path": "/f15D3bnszZigSKbc85wL8ItwLKn.jpg",
+                "video_url": "4260884"
+            },
+            {
+                "episode_number": 21,
+                "name": "Jujutsu Koshien",
+                "overview": "Etkinliğin kesintiye uğramasının ardından okul turnuvası beyzbol maçıyla devam ediyor.",
+                "air_date": "2021-03-06",
+                "still_path": "/jhTrnQKXpc7rxDwM1Wm7ulKf71P.jpg",
+                "video_url": "4260885"
+            },
+            {
+                "episode_number": 22,
+                "name": "Kör İtaatin Kökeni",
+                "overview": "Lanetle bağlantılı bir dizi cinayete ilişkin soruşturma, Yuji, Fushiguro ve Kugisaki'yi kurbanların ve Fushiguro'nun eski ortaokuluna götürür.",
+                "air_date": "2021-03-13",
+                "still_path": "/y1dNQyQtjmhYRIhdU6arnUPagcl.jpg",
+                "video_url": "4260179"
+            },
+            {
+                "episode_number": 23,
+                "name": "Kör İtaatin Kökeni -ii-",
+                "overview": "Fushiguro, Kugisaki ve Itadori, lanetli ruhlarla iki cephede savaşıyor. Fushiguro düşmanıyla tek başına yüzleştiğinde Gojo ile yaptığı son eğitimleri hatırlıyor. Kendini aşması gerektiğini biliyor...",
+                "air_date": "2021-03-20",
+                "still_path": "/eLxlqoRzD7HPe8JgiJd5iGpXpaf.jpg",
+                "video_url": "4265338"
+            },
+            {
+                "episode_number": 24,
+                "name": "Suç Ortakları",
+                "overview": "Yuji ve Nobara'nın Ölüm Boyası Rahimleri Kechizu ve Eso'ya karşı mücadelesi sonuca varıyor! Ancak, zaferde bile öldürmenin bir bedeli var, Jujutsu Lisesi öğrencilerinin daha önce hiç düşünmediği bir şey. Bu arada, Choso, Geto ve Mahito bu olaydan haberdar oluyor.",
+                "air_date": "2021-03-27",
+                "still_path": "/zIG6nADGUqJYDBXEsDaYyzYjHgH.jpg",
+                "video_url": "4772671"
+            },
+            {
+                "episode_number": 25,
+                "name": "Gizli Envanter",
+                "overview": "Jujutsu büyücüleri Iori Utahime ve Mei Mei, birçok kişinin kaybolduğu uğursuz bir malikaneye gönderilir. Malikaneye sızarlar ve lanetli ruhun bariyerini yok etmeye çalışırlar, ancak aniden bina çökmeye başlar.",
+                "air_date": "2023-07-06",
+                "still_path": "/wR1ss0SiN0EjKOPgrGfCm9FzdVD.jpg",
+                "video_url": "5191619"
+            },
+            {
+                "episode_number": 26,
+                "name": "Gizli Envanter 2",
+                "overview": "Gojo ve Geto, Yıldız Plazma Gemisi Tengen ile uyumlu genç kıza eşlik etme ve onu yok etme göreviyle görevlendirilir. Amanai Riko, Curse Kullanıcı Grubu Q ve dini tarikat Yıldız Dini Grubu tarafından hedef alınıyor.",
+                "air_date": "2023-07-13",
+                "still_path": "/eJYC7fMWOc6lsbkjkgKutIwMRsU.jpg",
+                "video_url": "5197165"
+            },
+            {
+                "episode_number": 27,
+                "name": "Gizli Envanter 3",
+                "overview": "Gojo ve Geto, Amanai'nin cep telefonu çaldığında başına konulan ödülün ardından lanet kullanıcılarını geri püskürtür. Yakalanan bir Kuroi telefonunda görüntüleniyor. Gojo, Amanai'yi Jujutsu Lisesi'ne geri getirmeye çalışır, ancak Amanai müzakerelere kendisi gitmekte ısrar eder.",
+                "air_date": "2023-07-20",
+                "still_path": "/hiWLnViLZISiSWmMi5aLUcWz79M.jpg",
+                "video_url": "5203319"
+            },
+            {
+                "episode_number": 28,
+                "name": "Gizli Envanter 4",
+                "overview": "\"Hadi eve gidelim Riko-chan.\" Geto, Amanai'ye elini uzattığı anda olabilecek en kötü şey olur. Toji Fushiguro ortaya çıktığında Geto şaşkına döner. Toji daha sonra Satoru Gojo'yu öldürdüğünü açıklar.",
+                "air_date": "2023-07-27",
+                "still_path": "/kxDB28fFy1NfW6hkMNco5v34QzO.jpg",
+                "video_url": "5209854"
+            },
+            {
+                "episode_number": 29,
+                "name": "Prematüre Ölüm",
+                "overview": "Ağustos 2007. Gojo, görevleri kendi başına halletmeye başlar ve Geto'nun da bunu yapmasına neden olur. Bir gün Geto'nun huzuruna belli bir kişi çıkar. Gojo'nun en güçlü jujutsu büyücüsü olmasına ve Geto'nun da en kötü lanet kullanıcısı olmasına yol açan sonuç nedir?",
+                "air_date": "2023-08-03",
+                "still_path": "/gjWLlxTUqzf7t4HsMQhUCxke5EW.jpg",
+                "video_url": "5219615"
+            },
+            {
+                "episode_number": 30,
+                "name": "O gibi",
+                "overview": "2018. Bir gün bir görevi bitirdikten sonra Itadori sinemaya gitmeye karar verir, Kugisaki alışverişe gitmeye karar verir ve Fushiguro onlara eve gideceğini söyler. Yolları ayrıldıktan sonra bir kadın Kugisaki'ye yaklaşır ve aniden Itadori-kun'la birlikte olup olmadığını sorar.",
+                "air_date": "2023-08-31",
+                "still_path": "/5sVDG2UKlryQ3YhAMzSHKwXE0nF.jpg",
+                "video_url": "5249172"
+            },
+            {
+                "episode_number": 31,
+                "name": "Akşam Festivali",
+                "overview": "Muta ile Mahito arasındaki savaş devam eder ve sonuca ulaşır. Daha sonra 31 Ekim'de Shibuya'nın üzerine bir perde indirilir ve çeşitli jujutsu büyücü ekipleri bölgenin etrafında toplanır.",
+                "air_date": "2023-09-07",
+                "still_path": "/AwgGz4NcjZEv65DoCx4sOoZ2hdn.jpg",
+                "video_url": "5249175"
+            },
+            {
+                "episode_number": 32,
+                "name": "Şibuya Olayı",
+                "overview": "Mei Mei Takımı, Meiji Tapınağı İstasyonunun üzerine indirilen bir perdeye yeniden atandı. Ekip ayrılır ve Yuji, perdeyi korumakla görevli bir çekirge lanetiyle karşılaşır. Başka bir yerde Satoru Gojo, Jogo, Hanami ve Choso ile karşılaşır.",
+                "air_date": "2023-09-15",
+                "still_path": "/4TKsaK3283WN94Bjsx44XmpkVgn.jpg",
+                "video_url": "5254246"
+            },
+            {
+                "episode_number": 33,
+                "name": "Shibuya Olayı - Kapı, Açık",
+                "overview": "Satoru Gojo, Jogo, Hanami ve Choso arasındaki savaş başlıyor. Gojo, Hanami'ye önce kendilerinin öleceğini söyler. Yuji, kendisine herkesin canavara dönüştüğünü ve trene bindiğini söyleyen bir kadınla karşılaşır. Gojo'nun savaşı devam ederken tren gelir.",
+                "air_date": "2023-09-22",
+                "still_path": "/wbeKG5lUim0kUzygMojZ5XLH7ar.jpg",
+                "video_url": "5263657"
+            },
+            {
+                "episode_number": 34,
+                "name": "Kargaşa",
+                "overview": "Artık Satoru Gojo mühürlendiğinden Mechamaru, Mei Mei Ekibi ile birlikte çalışarak onları olup bitenler hakkında bilgilendirir ve şimdi ne yapılacağına dair planını uygulamaya koymalarını sağlar.",
+                "air_date": "2023-09-29",
+                "still_path": "/vVKd4JzK1UV6sxuiPL28gZdtT4Q.jpg",
+                "video_url": "5263659"
+            },
+            {
+                "episode_number": 35,
+                "name": "Seans",
+                "overview": "Nanami, Fushiguro ve Ino, Itadori ile buluşur ve ardından Nanami, büyücüleri dışarıda tutan perdeyi kaldırmak için diğerlerinin birlikte çalışması için yeni emirler verir.",
+                "air_date": "2023-10-06",
+                "still_path": "/yb01ZABSLVTg7YdhuAa6K2W4TI.jpg",
+                "video_url": "5269705"
+            },
+            {
+                "episode_number": 36,
+                "name": "Kör Bıçak",
+                "overview": "Yuji ve Megumi, büyücülerin Şibuya'ya girmesini engelleyen perdeyi kaldırır. Nobara ve Nitta, Shigemo ile karşılaşır ve bir savaş başlar. Shigemo üstünlük sağlar, ancak daha sonra Nanami, amir yardımcılarının ölümlerini akılda tutarak gelir.",
+                "air_date": "2023-10-12",
+                "still_path": "/kdpIM5MToGTQMwHCTpuMyabC7xu.jpg",
+                "video_url": "5278198"
+            },
+            {
+                "episode_number": 37,
+                "name": "Kırmızı Ölçek",
+                "overview": "Yuji, Choso ile karşılaştığı Shibuya İstasyonuna doğru yola çıkar. Choso, Yakınsama'yı serbest bırakır ve onunla Yuji arasındaki savaş başlar.",
+                "air_date": "2023-10-19",
+                "still_path": "/Au7MJUh21ftpQN4bhEJcA5fHtA2.jpg",
+                "video_url": "5288954"
+            },
+            {
+                "episode_number": 38,
+                "name": "Dalgalanmalar",
+                "overview": "Mei Mei ve Ui Ui, Suguru Geto gibi davranan şeyin çağırdığı Özel Düzey Hastalık Laneti ile savaşır. Bu sırada Nanami, Maki ve Naobito'ya katılır ancak bilinmeyen güçlere sahip lanetli bir ruhla karşılaşırlar.",
+                "air_date": "2023-10-26",
+                "still_path": "/uUIXH9nBl7HFoaomIlL4CTolq39.jpg",
+                "video_url": "5298222"
+            },
+            {
+                "episode_number": 39,
+                "name": "Dalgalanmalar (2)",
+                "overview": "Nanami, Maki ve Naobito, Özel Dereceden Lanetli Ruh Dagon'un Etki Alanı Genişletmesi olan Büyüleyici Skandha Ufku'nu etkinleştirmesinin ardından uçurumun kenarına sürüklenir. Fushiguro onlara ölümden kaçmanın bir yolunu gösterir, ardından Toji kavgaya müdahale eder.",
+                "air_date": "2023-11-02",
+                "still_path": "/vzNGwCOfpuytEmR2UO29trlodjy.jpg",
+                "video_url": "5306341"
+            },
+            {
+                "episode_number": 40,
+                "name": "Gök Gürültüsü",
+                "overview": "Sukuna uyandıktan sonra Jogo'nun tavsiyesine uymayı reddeder, bunun yerine Özel Derece Lanetli Ruh Jogo'ya karşı ezici gücünü sergiler. Bu sırada Fushiguro, diğerinin kimliğinin farkında olmadan, başıboş Toji ile karşı karşıya gelir.",
+                "air_date": "2023-11-09",
+                "still_path": "/g9yiVw2BHqThSeevyuKBoJrsTpM.jpg",
+                "video_url": "5315261"
+            },
+            {
+                "episode_number": 41,
+                "name": "Gök Gürültüsü (2)",
+                "overview": "Toji'ye karşı verdiği mücadelede ağır yaralanan Fushiguro, Shigemo'nun sürpriz saldırısına uğrar. Ölümün eşiğinde olan Fushiguro çaresizce Dougenzaka geçidine doğru yönelir ve On Gölge Tekniği ile belli bir Shikigami'yi çağırır.",
+                "air_date": "2023-11-16",
+                "still_path": "/1zNRMC4OM0FDAvSXaGcbPTnkGnU.jpg",
+                "video_url": "5324870"
+            },
+            {
+                "episode_number": 42,
+                "name": "Doğru ve Yanlış",
+                "overview": "Itadori, Sukuna'nın Shibuya üzerinde yarattığı sonuçlara tanıklık ederken acı bir kararlılıkla yeniden uyanır. Bu sırada Nanami, Mahito karşısına çıkana kadar bitkin bir sis içinde şekil değiştirmiş insan sürüleriyle savaşmaya devam eder.",
+                "air_date": "2023-11-23",
+                "still_path": "/rAZeDUOFLQoLgEqcjvNoMy7lmpB.jpg",
+                "video_url": "5335284"
+            },
+            {
+                "episode_number": 43,
+                "name": "Doğru ve Yanlış (2)",
+                "overview": "Itadori, Mahito'ya karşı ileri geri bir mücadeleye girişir, ancak Mahito'nun ortalama insanları ona karşı kullanma oyununa karşı mücadele eder. Bu arada, Kugisaki, savaş alanına döndüğünde Mahito'nun ayrılmış bedenlerinden biriyle karşılaşır.",
+                "air_date": "2023-11-30",
+                "still_path": "/irunrX4hAbsTWUTZpWNJXg1Asbv.jpg",
+                "video_url": "5356376"
+            },
+            {
+                "episode_number": 44,
+                "name": "Doğru ve Yanlış (3)",
+                "overview": "Itadori gözlerinin önündeki felaket karşısında şaşkınlık içinde duruyor, aklı çoktan sınırlarını çoktan aşmış durumda. Bir lanet olarak Mahito, ideal olaylar dizisinin önünde gerçekleştiğini görmekten mutluluk duyar ve Itadori'nin işini daha da bitirmeye hazırlanır.",
+                "air_date": "2023-12-07",
+                "still_path": "/vdpupuE0OtfInqCmwU9Wk4sMqC9.jpg",
+                "video_url": "5356379"
+            },
+            {
+                "episode_number": 45,
+                "name": "Metamorfoz",
+                "overview": "Todo, Itadori'yi içinde bulunduğu kötü durumdan kurtardıktan sonra moralini yükseltir ve onu ayağa kalkmaya teşvik eder. Mahito işleri daha da hızlandırırken, çok yönlü saldırıları serbest bırakmak için Soul Multiplicity ve Body Repel'i kullanmaya başlıyor.",
+                "air_date": "2023-12-14",
+                "still_path": "/pg4bblgq3ywpFOphH5tEerg7Tu8.jpg",
+                "video_url": "5367953"
+            },
+            {
+                "episode_number": 46,
+                "name": "Metamorfoz (2)",
+                "overview": "Itadori ve Mahito'nun ölümüne mücadelesi sonuçlandığı anda Geto'nun bedenini taşıyan varlık, \"Seni kurtarayım mı Mahito?\" diye sordu. Itadori, önündeki adamın Gojo'yu mühürleyen ve saldırmak için atlayan kişi olduğunu anında fark eder.",
+                "air_date": "2023-12-22",
+                "still_path": "/iJbmi5vBd2eAt1LtKmTe7z4EXjM.jpg",
+                "video_url": "5387161"
+            },
+            {
+                "episode_number": 47,
+                "name": "Şibuya Olayı - Kapı, Kapat",
+                "overview": "Shibuya Olayı'nın son anları için büyücüler bir araya gelirken Choso, Geto'nun cesedine asalaklık eden beyinin kimliğini anlamaya başlar. Özel dereceli büyücü Yuki Tsukumo, ölümün eşiğindeyken kurtarmaya gelir.",
+                "air_date": "2023-12-28",
+                "still_path": "/oZXG2hKiueV4A9RSbV6ZMNdhWyz.jpg",
+                "video_url": "5387164"
+            }
+        ]
+    }
+}

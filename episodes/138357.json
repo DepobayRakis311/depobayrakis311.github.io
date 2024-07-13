@@ -1,0 +1,123 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2022-07-08",
+        "poster_path": "/uMPVtdCB3330QescbQvRrrEUAtr.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "İlk Uçuş",
+                "overview": "Bir yabancıyla şans eseri karşılaşması Ko'yu gece hayatıyla tanıştırır. Ko onu takip ediyor ve neden olmasın? Gece henüz genç.",
+                "air_date": "2022-07-08",
+                "still_path": "/sOdkq1P3z3TUlXAmwMDufFz4P5r.jpg",
+                "video_url": "4783780"
+            },
+            {
+                "episode_number": 2,
+                "name": "Line Yapıyor Musunuz?",
+                "overview": "İzini bile bulamadığınız bir vampire nasıl aşık olabilirsiniz!? Nazuma hala sinir bozucu bir şekilde anlaşılması zor olsa da Ko'nun bu yeni soruna nostaljik bir çözümü olabilir.",
+                "air_date": "2022-07-15",
+                "still_path": "/xLSmpSXYyFrtQohoEUdJnvHPG6h.jpg",
+                "video_url": "4793964"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çok Şey Çıktı",
+                "overview": "Birine ne zaman arkadaş demeye başlayabilirsin? Zaten arkadaşlık nedir ki? Ko bir sınıf arkadaşıyla yeniden bağlantı kurduğunda, nasıl yanıtlanacağını bildiğinden emin olmadığı sorular ortaya çıkar.",
+                "air_date": "2022-07-22",
+                "still_path": "/eplbcueeqEz6qUilG1HTVz1smEE.jpg",
+                "video_url": "4798453"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bu Sıkışık Bir Durum Değil Mi?",
+                "overview": "Ko, bir akşam geç saatlerde Akira'yı kendisi ve Nazuna ile takılmaya davet ettiğinde üç kişi kalabalık olur.",
+                "air_date": "2022-07-29",
+                "still_path": "/yAUpZ3NUsnGvfTpQrgfmazJGW06.jpg",
+                "video_url": "4804711"
+            },
+            {
+                "episode_number": 5,
+                "name": "Peki, Bu Bir Sorun",
+                "overview": "Nazuna nasıl para kazanıyor? Ko, onun (çok şüpheli) işiyle ilgili içeriden bilgi edinmek üzeredir, ancak önce karmaşık duygularını anlaması gerekecektir.",
+                "air_date": "2022-08-05",
+                "still_path": "/9ufjihTpkNIRHVJOSlB2sCNwiQU.jpg",
+                "video_url": "4815155"
+            },
+            {
+                "episode_number": 6,
+                "name": "Eğlenmek De Olabilir",
+                "overview": "Ko'nun yansımasını görmek için aynaya ihtiyacı yok. Nazuna'nın son müşterisi kılığında ona bakıyor.",
+                "air_date": "2022-08-12",
+                "still_path": "/6MpHjwFMs88fehpwdzMOBewgByo.jpg",
+                "video_url": "4822363"
+            },
+            {
+                "episode_number": 7,
+                "name": "Çoğalt",
+                "overview": "Can sıkıntısı Ko'yu gecenin karanlığına sürükledi. Sıkıntı, Ko'nun yeni tanıdığını kendi yöntemleriyle zaman öldürmeye itmişti. O ve Ko çok benzer görünüyorlar… belki de rahatlık açısından ÇOK benzerler.",
+                "air_date": "2022-08-19",
+                "still_path": "/m50X0yjc32qLP4I5ILfq1Ey89GF.jpg",
+                "video_url": "4835126"
+            },
+            {
+                "episode_number": 8,
+                "name": "Hepimiz",
+                "overview": "Ko dünyadaki tüm zamana sahip olduğunu düşünüyordu, ancak beklenmedik bir son tarihin ortaya çıkması her şeyi değiştirdi. Umarım arkadaşları (hem yeni hem de eski) biraz tavsiye verir.",
+                "air_date": "2022-08-26",
+                "still_path": "/oQYVGDnqupwonPd9Sx7J70bCXA7.jpg",
+                "video_url": "4853901"
+            },
+            {
+                "episode_number": 9,
+                "name": "Adil Değil",
+                "overview": "Seri son derece popülerdir, ancak insan sevgililerinden biri başa çıkmaya hazır olmadığı duygular geliştirdiğinde popülerlik o kadar da fazla değildir.",
+                "air_date": "2022-09-02",
+                "still_path": "/fpozNiCwS9RZvRUcymIn6rfA6lz.jpg",
+                "video_url": "4853947"
+            },
+            {
+                "episode_number": 10,
+                "name": "Peeping-tom Fotoğraflarını Büyüt",
+                "overview": "Midori'nin çalıştığı hizmetçi kafede her şey ışıltılar ve kalplerden ibaret değil. Birisi belli bir hizmetçiye gizlice yaklaşıyor ama araya giren kişiyi ortaya çıkarmak göründüğü kadar kolay değil…",
+                "air_date": "2022-09-09",
+                "still_path": "/lY2JGnlRVgcXz6V3FldmTeZW52D.jpg",
+                "video_url": "4881348"
+            },
+            {
+                "episode_number": 11,
+                "name": "Vampirin Ne Olduğunu Biliyor Musun?",
+                "overview": "Nazuna'nın kucaklaşma işi için yeni kana ihtiyacı var ve Ko da bu işin içinde! Ama gece boyunca birisini arayarak dolaşan tek kişi o değil…",
+                "air_date": "2022-09-16",
+                "still_path": "/pBxODhh6RJVpiVuMAk5V8rY6tHn.jpg",
+                "video_url": "4881354"
+            },
+            {
+                "episode_number": 12,
+                "name": "Annem Bu Gece Dışarıda",
+                "overview": "Vampir olmak ne anlama geliyor? Ko neden onlardan biri olmak istiyor? Bir arkadaşıyla yaptığı sohbet, Ko'nun bu çok önemli sorulara yanıt bulamadığını ortaya çıkarır.",
+                "air_date": "2022-09-23",
+                "still_path": "/pSLisoqeVSYpxX9iVQTeTY7iwlU.jpg",
+                "video_url": "4881373"
+            },
+            {
+                "episode_number": 13,
+                "name": "Gecenin Çağrısı",
+                "overview": "Gece uzak geliyor. Ko bu açığı nasıl kapatacağından emin değil.",
+                "air_date": "2022-09-30",
+                "still_path": "/fAGdpxQxNAisTTuZb4yhUNcU0WR.jpg",
+                "video_url": "4911212"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 0,
+        "air_date": null,
+        "poster_path": "/7ItEgxgqlr3gmvjdzvvJAIpwgNc.jpg",
+        "episodes": []
+    }
+}

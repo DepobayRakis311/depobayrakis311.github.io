@@ -1,0 +1,195 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 23,
+        "air_date": "2021-10-15",
+        "poster_path": "/xN3RABgGy26CnD3LQDTRlOAHzwW.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Prensin Yeni Giysileri",
+                "overview": "Kralların yaptıklarına ve becerilerine göre sıralandığı bir dünyada prens olan Bojji'nin, engelleri nedeniyle bir sonraki kral olmaya uygun olmadığı düşünülüyor. Konuşabildiği ama aynı zamanda Bojji'nin nezaketinden de yararlanan bir gölge varlık olan Kage ile karşılaşır.",
+                "air_date": "2021-10-15",
+                "still_path": "/tm7ze7FHuGT4HX9cx2Lv8OPrSNW.jpg",
+                "video_url": "4457146"
+            },
+            {
+                "episode_number": 2,
+                "name": "Prens ve Kage",
+                "overview": "Kage'nin halkının Bo Krallığı'ndan tasfiye edilmesinin ardından trajik çocukluğu anlatılıyor. Bojji ile Daida arasındaki maç devam ederken Bojji'nin dövüş tarzı korkak olmakla suçlanır ve Domas ona daha asil bir tarz benimsemesi talimatını verir.",
+                "air_date": "2021-10-22",
+                "still_path": "/7wwo14zdCWP3ylRuWlDofpcFpVU.jpg",
+                "video_url": "4464307"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yeni Kral",
+                "overview": "Kral Bosse vefat eder ve Bojji'yi bir sonraki kral olarak adlandırır. Ancak yeni kralın açıklanması Bojji'nin beklediği gibi gitmez. Kage'nin onsuz bir yolculuğa çıktığı söylendikten sonra Bojji, Hiling'i dehşete düşürerek kendi yolculuğuna çıkmaya karar verir.",
+                "air_date": "2021-10-29",
+                "still_path": "/rQEh1MPJnJLQNlX9DuXbupEMmkV.jpg",
+                "video_url": "4476210"
+            },
+            {
+                "episode_number": 4,
+                "name": "İlk Yolculuğu",
+                "overview": "Kralların Sıralaması Komitesi'nden bir panelist, Daida'ya sıralamasını vermek için krallığı ziyaret eder. Bojji, seyahat ederken ona hayatın gizemini öğreten alışılmadık bir avcıyla karşılaşır. Kamp ateşi etrafında yemek yerken Bojji'nin hayatına kastedilir.",
+                "air_date": "2021-11-05",
+                "still_path": "/tEQosPsogatzLUkb1VLS9Y8VC08.jpg",
+                "video_url": "4492260"
+            },
+            {
+                "episode_number": 5,
+                "name": "İç Içe Geçmiş Araziler",
+                "overview": "Hayatına yönelik son girişimin ardından Bojji, gizli bir koruyucusu olduğunu öğrenince çok sevinir. Domas, Daida'nın güvenini kazanmak için ne gerekiyorsa yapmaya hazır. Sihirli Ayna, Daida'yı kendisine Bosse'un gücünü vereceği varsayılan bir iksire yönlendirir.",
+                "air_date": "2021-11-12",
+                "still_path": "/xUmpCOWIDMCFqhcBynKguGuSRBE.jpg",
+                "video_url": "4496410"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yeraltı Dünyasının Kralı",
+                "overview": "Bojji ve Kage, sıradan insanları güçlü krallara dönüştürebildiği söylenen yeraltı dünyasının kralı Desha ile tanışır. Ancak, Bojji'nin beceri seviyesini test ettikten sonra Desha onu eğitmeyi reddeder. Apeas, Daida ve aynayı bulur ve bir taraf seçmek zorundadır.",
+                "air_date": "2021-11-19",
+                "still_path": "/73hrJoIFG9HvFfd76OgbansukZF.jpg",
+                "video_url": "4532157"
+            },
+            {
+                "episode_number": 7,
+                "name": "Prensin Çıraklığı",
+                "overview": "Kage, Bojji'yi kral olacak kadar güçlü yapması için Desha'nın kardeşi Despa'ya yalvarır ve Despa, Bojji'yi çırak olarak alır. Değerlendirmesini yaptıktan sonra Despa, Bojji'nin gerçekte ne kadar az güce sahip olduğunu görünce hayrete düşer, ancak onu eğitmekten vazgeçmeyi reddeder.",
+                "air_date": "2021-11-26",
+                "still_path": "/cpyBuPlZEv60zWSZbDV53uqU5Y3.jpg",
+                "video_url": "4532159"
+            },
+            {
+                "episode_number": 8,
+                "name": "Rüyaların Kurban Edilmesi",
+                "overview": "Bosse'nin iktidara yükselişinin ve Bojji'nin doğuşunun hikayesi ortaya çıkıyor. Domas, kendisi uzaklaşmaya karar vermeden önce Hokuro'yu kaleye geri dönmesi ve muhtemelen onu orada bekleyen kader konusunda uyarır. Kraliyet sarayından birini öldürmeye yönelik bir komplo şekilleniyor.",
+                "air_date": "2021-12-03",
+                "still_path": "/pUsjnGaWY5WVA53TycH96rLOLjm.jpg",
+                "video_url": "4570990"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kraliçe ve Kalkan",
+                "overview": "Yıllar önce Bosse, Dorshe'yi görevinden aldı ve onu, temkinli Bojji'yi kazanmaya çalışan gönülsüz Hiling'in koruması yaptı. Artık Hiling ile ona suikast düzenlemek için gönderilen canavarlar arasında duran tek şey Dorshe'dir.",
+                "air_date": "2021-12-10",
+                "still_path": "/ueRBJKW7vUX9Fn0fbDQXagC29Wc.jpg",
+                "video_url": "4570994"
+            },
+            {
+                "episode_number": 10,
+                "name": "Prensin Kılıcı",
+                "overview": "Bojji, Kage ve Despa, Bojji'nin eğitiminin sonunu kutlamak için akşam yemeğine çıkarlar. Kage, Bojji'nin kılıcı hakkında şüphelere kapılır ta ki akşam yemeğinde bir kavga çıkana ve Bojji kendini savunmak zorunda kalana kadar. Bojji ve Kage bir sonraki adımlarının ne olacağını düşünmelidir.",
+                "air_date": "2021-12-17",
+                "still_path": "/r4lcvbE0KW1Cm2BJDaB8gt0UmvU.jpg",
+                "video_url": "4571002"
+            },
+            {
+                "episode_number": 11,
+                "name": "Büyük ve Küçük Kardeşler",
+                "overview": "Daida, Sorii ve Bebin'in kendisine hayatın değeri hakkında öğrettiği bir ders üzerine düşünür ve karanlık sürgününde yalnız olmadığını anlar. Altı suçlu yeraltı dünyasındaki hücrelerinden kaçtığında Desha, peşlerine düşmeleri için şövalyelerini gönderir.",
+                "air_date": "2021-12-24",
+                "still_path": "/492GrkwED3qyKTOlVNao3bKfVaN.jpg",
+                "video_url": "4571006"
+            },
+            {
+                "episode_number": 12,
+                "name": "Savaşın Ayak Sesleri",
+                "overview": "Kalenin dışında Hiling ve seçkin kuvveti hamle yapmaya hazırlanır. Bu sırada kalenin içinde Sihirli Ayna ve Maymunlar altı suçluyu taht odasına doğru yönlendirir. Bojji ve Kage, bir müttefikin kendilerine katılacağı haberine sevinirler.",
+                "air_date": "2022-01-07",
+                "still_path": "/bqofHnlNRdNxjPojZH9GqgV8V5c.jpg",
+                "video_url": "4613147"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kargaşadaki Krallık",
+                "overview": "Hiling ve şövalye grubu, Sihirli Ayna'nın komutası altındaki güçlerin yoğun muhalefetiyle karşı karşıya kalır. Çatışma umutsuz bir hal aldığında Apeas'ın sadakati sınanır. Kale kasabasında Ouken kendi bağımsız saldırısını başlatır.",
+                "air_date": "2022-01-14",
+                "still_path": "/z6UqpoLjZBeIPnXALgJrBPbCUC7.jpg",
+                "video_url": "4613148"
+            },
+            {
+                "episode_number": 14,
+                "name": "Prensin Dönüşü",
+                "overview": "Ağır şekilde yaralanan Dorshe, Hiling'i korumak için umutsuz bir çaba gösterir ve beklenmedik bir müttefikten yardım alır. Altı suçludan biri olan Gigan, Bojji ve Kage kaleye dönene kadar güçlü saldırısına devam ederken durum vahim olmaya devam ediyor.",
+                "air_date": "2022-01-21",
+                "still_path": "/yV6j3Z8XhufLClCMkwfdBVtBs9h.jpg",
+                "video_url": "4613150"
+            },
+            {
+                "episode_number": 15,
+                "name": "Yeraltı Dünyası Düzeni",
+                "overview": "Dorshe ve Hiling'i dinlenmeleri için geride bırakan Bojji ve Kage, sihirli canavarları eve göndermek için yeraltı dünyasının girişine giden bir partiye liderlik eder. Domas ve Hokuro, kayıp suçluları yeniden yakalamaya giderken yerin derinliklerinde Yeraltı Dünyası Düzeni ile karşılaşır.",
+                "air_date": "2022-01-28",
+                "still_path": "/ncexRD2UVevKYGLqY9TwylmFpLj.jpg",
+                "video_url": "4613151"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kraliyet Majesteleri",
+                "overview": "\"Miranjo\" ismi Bojji için travmatik bir geçmişe dönüşü tetikler. Desha, Gigan'ı bir suçluya dönüştüren koşulları Bojji'ye anlatır. Despa'ya danıştıktan sonra Desha planlarında bir değişiklik yapar ve şövalyeleriyle birlikte yeraltı dünyasına dönmeye karar verir.",
+                "air_date": "2022-02-04",
+                "still_path": "/2oS6hmX3trAh0zM7jk4MvXKC9q7.jpg",
+                "video_url": "4614557"
+            },
+            {
+                "episode_number": 17,
+                "name": "Ölümsüzlüğün Laneti",
+                "overview": "Bojji ve Kage, onlara Miranjo'nun rüyasını anlatan Apeas ile karşılaşır. Domas ve Hokuro sonunda yok etmeleri emredilen yeraltı dünyasının girişine ulaşırlar. Sihirli Ayna, Despa'nın gözetiminden kaçıp ona yardım eden Ouken'e seslenir.",
+                "air_date": "2022-02-11",
+                "still_path": "/3FvKsssNKYquwp1cndYU1GjvknZ.jpg",
+                "video_url": "4614567"
+            },
+            {
+                "episode_number": 18,
+                "name": "Tanrılarla Savaş",
+                "overview": "Bosse, hücresinden Bebin'e, Miranjo küçük bir kızken ilk kez nasıl tanıştığının hikayesini anlatıyor. Domas ve Hokuro, Hiling'den özür diler ve ardından Bojji'ye yardım etmeye gider. Bojji'nin işleri Ouken'le doludur ancak Despa'dan yardım alır.",
+                "air_date": "2022-02-18",
+                "still_path": "/eqqqynvNrDuWmJEAfjalRQDBaRu.jpg",
+                "video_url": "4614640"
+            },
+            {
+                "episode_number": 19,
+                "name": "Son Kale",
+                "overview": "Bosse, Bebin çağrılıncaya kadar Bebin'e şekli bozulmuş Miranjo'yu bulduğu zamanın hikayesini anlatır. Bojji ve Despa izlerken Kage bir ölüm kalım kararıyla karşı karşıya kalır ve beklenmedik bir kaynaktan yardım bulur. Büyük Dörtlü, Ouken'la yüzleşmek için öne çıkar.",
+                "air_date": "2022-02-25",
+                "still_path": "/yPk2CSrXX9X5VrAENZsLXhfKAoA.jpg",
+                "video_url": "4618301"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ölümsüz ve Yenilmez",
+                "overview": "Miranjo, yaptıklarından dolayı kendini Shiina'ya ve annesine hesap verirken bulur. Bojji, Miranjo hakkında hüküm verme ihtimaliyle karşı karşıyadır. Ouken'in durumu, yeni bir savaşçı gelene kadar daha da kötüleşiyor, ancak bu yeni gelen gerçekten bir müttefik mi?",
+                "air_date": "2022-03-04",
+                "still_path": "/w19u7Xh7jjakDwJNaLxSSpOTD01.jpg",
+                "video_url": "4625426"
+            },
+            {
+                "episode_number": 21,
+                "name": "Bir Kralın Kılıç Ustalığı",
+                "overview": "Bosse'un hayata döndürülmek istemediğini anlayan Miranjo özür diler. Bosse, her iki yanında bulunan diğerlerine bir ültimatom verir, aksi takdirde öldürülür. Despa, Bosse ile hesaplaşması sürerken Bojji'nin yeterli gücü sağlayamayacağından korkar.",
+                "air_date": "2022-03-11",
+                "still_path": "/xqquy2l9f9GTIJKWkP5ZP2gjBTv.jpg",
+                "video_url": "4632042"
+            },
+            {
+                "episode_number": 22,
+                "name": "Şeytana Bir Vaat",
+                "overview": "Bosse, Daida'ya Miranjo ile geçirdiği zamanın mutlu anılarını ve gücünü iblisten nasıl aldığını gösterir. İblisi yakaladıktan sonra Despa, Ouken'e olan arzusunu yerine getirmeye çalışır, ancak Bojji ve Daida'nın akıllarında farklı bir dilek vardır.",
+                "air_date": "2022-03-18",
+                "still_path": "/9eC8z2eKzWi3Ftl7qxf3Ps9kaMi.jpg",
+                "video_url": "4645865"
+            },
+            {
+                "episode_number": 23,
+                "name": "Kral ve Güneş",
+                "overview": "Daida, Miranjo'nun suçlarını kabul edip kabul eder, ardından onu affeder. Daida, kefaretinin bir parçası olarak tahtı Bojji'ye bırakır. Ancak Kage, arkadaşının yeni ayrıcalıklı konumu nedeniyle kendini uygunsuz hisseder ve Bojji'yi kendi başına hüküm sürmeye bırakır.",
+                "air_date": "2022-03-25",
+                "still_path": "/vuIULyWBYhtVXhjvuCJQdc4bTz8.jpg",
+                "video_url": "4648920"
+            }
+        ]
+    }
+}

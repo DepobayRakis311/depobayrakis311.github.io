@@ -1,0 +1,195 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 23,
+        "air_date": "2018-04-12",
+        "poster_path": "/lmx0rW83DCh60ARiZqM6DY2XJhB.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yok Edici'nin Kayıp Halkası -mutlak Sıfır-",
+                "overview": "Ufukta 3. Dünya Savaşı olmasına rağmen Okabe normal bir üniversite hayatı yaşamaya çalışır. Ancak yeni geliştirilen bir yapay zeka dünyasını sarsmak üzeredir.",
+                "air_date": "2018-04-12",
+                "still_path": "/xHkTdFpdTePArIOr0th8MT5zi7K.jpg",
+                "video_url": "4881772"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kapalı Eğrinin Epigrafı -kapalı Epigraf-",
+                "overview": "Maho ile tesadüfen karşılaştıklarında ortak birini tanıdıklarını keşfeden Okabe, özel yapay zekası Amadeus ile ilk kez yüz yüze gelir.",
+                "air_date": "2018-04-19",
+                "still_path": "/q5EnGAITegtisGCGdhaQtJr0DCp.jpg",
+                "video_url": "3284245"
+            },
+            {
+                "episode_number": 3,
+                "name": "İki Taraflı İncil Protokolü -x-gün Protokolü-",
+                "overview": "Mayuri, laboratuvarda bir Noel partisi için herkesi bir araya getirmeye çalışır, ancak Okabe sert bir uyanış yaşar.",
+                "air_date": "2018-04-25",
+                "still_path": "/gR6CgJDBMmm97nlJO8vEwnaYcPq.jpg",
+                "video_url": "4881862"
+            },
+            {
+                "episode_number": 4,
+                "name": "Hüzünlü Akışın Yalnızlığı -bir Başıboş Koyun-",
+                "overview": "Okabe'nin cevaplardan çok soruları kalırken Suzuha, beklenmedik derecede yakın birini arayışına yardım eder.",
+                "air_date": "2018-05-03",
+                "still_path": "/50v3q6WGwKQstuU4X4YQVnXmRbu.jpg",
+                "video_url": "3296177"
+            },
+            {
+                "episode_number": 5,
+                "name": "Astigmatizmanın Yalnızlığı -dolaşık Koyun-",
+                "overview": "Yeni Yıl hızla yaklaşırken arayışları devam ediyor, ancak Ruka'nın belirli bir misafirle yaşadığı ikilem durumu daha da kötüleştirebilir.",
+                "air_date": "2018-05-10",
+                "still_path": "/foAx1isxo9puGjknujypr2HGgtC.jpg",
+                "video_url": "3300965"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yörünge Düzeninin Tutulması -yörünge Tutulması-",
+                "overview": "Kızın kimliği artık bilindiğinden Okabe ve arkadaşları, yeni yıla bir türbe ziyareti ve asla unutamayacakları bir partiyle başlar.",
+                "air_date": "2018-05-17",
+                "still_path": "/4Itq8KBhRZMXPdl9tcf8INu6grM.jpg",
+                "video_url": "4881881"
+            },
+            {
+                "episode_number": 7,
+                "name": "Vibronik Geçiş Tutulması -vibronik Geçiş-",
+                "overview": "Okabe saldırıyla ilgili yanıtlar ararken Amadeus'la yaşanan sorunlar şaşırtıcı olaylara yol açar.",
+                "air_date": "2018-05-23",
+                "still_path": "/yfwNouLYH7a77TBG6S9geHq0P5W.jpg",
+                "video_url": "4881888"
+            },
+            {
+                "episode_number": 8,
+                "name": "Antinomi İkilisi -antinomik İkili-",
+                "overview": "Okabe'ye, değişen dünya çizgisinde fedakarlıklar yapılması gerektiğine dair acı tatlı bir hatırlatma yapılır.",
+                "air_date": "2018-05-30",
+                "still_path": "/okZ3veQ5LQQrwVchIoUAkwxFQUU.jpg",
+                "video_url": "3336907"
+            },
+            {
+                "episode_number": 9,
+                "name": "Ebedi Dönüşün Pandora'sı -pandora'nın Kutusu-",
+                "overview": "Okabe'nin saldırganları ve motivasyonlarını belirlemesi zaman alacaktır, ancak Üçüncü Dünya Savaşı'nın yaklaşan krizi Suzuha'yı umutsuz önlemlere başvurmaya zorlar.",
+                "air_date": "2018-06-06",
+                "still_path": "/s3fakS6tW2z3CyDT7Z0kygrN6Ov.jpg",
+                "video_url": "3343076"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kanıtlanabilir Varlığın Pandora'sı -yasak Hücre-",
+                "overview": "Maho'nun berbat odasını temizlemek için takviye çağrıldıktan sonra, onun ve Okabe'nin Akihabara randevusu Maho'nun şaşırtıcı bir itirafıyla sona erer.",
+                "air_date": "2018-06-14",
+                "still_path": "/tBQ2mWt1WB8OG3ZlwbkQkUmNmAK.jpg",
+                "video_url": "3449038"
+            },
+            {
+                "episode_number": 11,
+                "name": "Unutulmuş Varoluşun Pandora'sı -mühürlü Kutsal Eşya-",
+                "overview": "Okabe, Maho'yu değerli mülkünden vazgeçmeye ikna etmelidir, ancak beklenmedik bir tehlike onları kendi hayatları için pazarlık yapmaya zorlar.",
+                "air_date": "2018-06-21",
+                "still_path": "/bzvjrOyNfuqHPxaLImnXYWA8GsM.jpg",
+                "video_url": "3466983"
+            },
+            {
+                "episode_number": 12,
+                "name": "Karşılıklı Özyinelemenin Anne Kazı -yinelemeli Anne Kaz-",
+                "overview": "Kagari, kayıp anılarını keşfetme umuduyla bir şarkının kökenini bulmaya çalışır.",
+                "air_date": "2018-06-28",
+                "still_path": "/juA1OzM9uuoLlPnPdNhY7IM0N61.jpg",
+                "video_url": "4881918"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kırınımlı Recitativo'nun Anne Kazı -kırınımlı Anne Kazı-",
+                "overview": "Sonunda Kagari'nin kayıp geçmişine dair bir ipucu elde eden Okabe, umduğundan çok daha fazlasını keşfeder.",
+                "air_date": "2018-07-04",
+                "still_path": "/8N6iXmVuYRifw8efvbSLQ9XvmDt.jpg",
+                "video_url": "3386966"
+            },
+            {
+                "episode_number": 14,
+                "name": "Elastik Limitin Tanınması -presage Veya Recognize-",
+                "overview": "Sürpriz bir saldırı karşısında şok olan Suzuha ve Daru, dünyayı kurtarmak için son umutları olarak Amerika'ya bakar.",
+                "air_date": "2018-07-18",
+                "still_path": "/pHOARY4I17H2VToUNS4sEGvgNte.jpg",
+                "video_url": "3398579"
+            },
+            {
+                "episode_number": 15,
+                "name": "Asimptotik Doğrunun Tanınması -asimptotun Tanınması-",
+                "overview": "Babasının pasifliğinden bıkan Suzuha, Yuki başka biriyle çıkmadan önce Daru'yu bir erkek haline getirmek zorundadır.",
+                "air_date": "2018-07-25",
+                "still_path": "/7PxxBLPv1teToLGajIbxwv3YKu6.jpg",
+                "video_url": "3403051"
+            },
+            {
+                "episode_number": 16,
+                "name": "Sonsuzluk Noktasının Altair'i -vega ve Altair-",
+                "overview": "Zaman makinesini kullanmanın son tarihi hızla yaklaşırken Okabe'nin inatçılığı yumrukların havada uçuşmasına ve gözyaşlarının akmasına neden olur.",
+                "air_date": "2018-08-01",
+                "still_path": "/AtU5hGozo4P3GyiVHFdvXDY7Ci8.jpg",
+                "video_url": "3408922"
+            },
+            {
+                "episode_number": 17,
+                "name": "Hiperbolik Düzlemin Altairi -beltrami Pseudosfer-",
+                "overview": "Suzuha görevini tamamlamak için yola çıkarken Mayuri de kendi kararlılığını bulur. Ancak daha sonra felaket gelir.",
+                "air_date": "2018-08-08",
+                "still_path": "/wdAzdeRMqGdBmM69LfJkkpWAKIo.jpg",
+                "video_url": "3413499"
+            },
+            {
+                "episode_number": 18,
+                "name": "Öteleme Simetri Altairi -öteleme Simetrisi-",
+                "overview": "Gelecekten gelen bir kötü adamın geçmişe musallat olması ve sinsi planlarını ortaya çıkarmasıyla zaman makinesinde kıyamet kopuyor.",
+                "air_date": "2018-08-15",
+                "still_path": "/dkRTlWDrxP2jhHt5OhpqjatEJYw.jpg",
+                "video_url": "3417582"
+            },
+            {
+                "episode_number": 19,
+                "name": "Döngüsel Koordinatın Altairi -zamanda Atlama Makinesi-",
+                "overview": "Savaş ve felaket kapıdadır ve Okabe'nin bunu durdurmasının tek yolu arkadaşlarına, kararlılığına ve umuduna güvenmektir.",
+                "air_date": "2018-08-23",
+                "still_path": "/asQwAITmCpCXGHodollNMj4M20V.jpg",
+                "video_url": "3427058"
+            },
+            {
+                "episode_number": 20,
+                "name": "Sarsılmaz Sözün Rinascimento'su -vaat Edilen Rinascimento-",
+                "overview": "Okabe, soğuk ve cansız bir dünyada uyanır ve arkadaşlarını tüm bu kaosun ortasında hayatta kalma mücadelesi verirken bulur.",
+                "air_date": "2018-09-06",
+                "still_path": "/mQvdOmMIqdXfAEOqJGdEkeA3XMb.jpg",
+                "video_url": "3435045"
+            },
+            {
+                "episode_number": 21,
+                "name": "Görüntü Oluşumunun Rinascimento'su -phoenix'in Dönüşü-",
+                "overview": "Uzun ve meşakkatli bir yolculuğa çıkan Okabe, umudunu yeniden alevlendirmenin ve herkesin yok olduğunu sandığı şeyleri yeniden canlandırmanın peşindedir.",
+                "air_date": "2018-09-12",
+                "still_path": "/mn2PrCyZwUENWckLpsjHjVsVMhN.jpg",
+                "video_url": "3439017"
+            },
+            {
+                "episode_number": 22,
+                "name": "Projeksiyonun Rinascimento'su -project Amadeus-",
+                "overview": "Zaman makinesini kurtarma mücadelesi veren laboratuvar üyeleri, yakınsamayı atlatmak için beyin fırtınası yapar ancak bunun fedakarlık yapmadan yapılamayacağını anlar.",
+                "air_date": "2018-09-19",
+                "still_path": "/6I0xNNgEOZJRSo0zsxIj2UOJkSl.jpg",
+                "video_url": "3452504"
+            },
+            {
+                "episode_number": 23,
+                "name": "Sonsuzluktaki Noktanın Ark Işığı -gökyüzünün Ark Işığı-",
+                "overview": "Okabe ve arkadaşları, Steins Gate'i bulmak ve laboratuvar üyelerini kesin olarak yeniden bir araya getirmek için geçmişte, günümüzde ve gelecekte kadere karşı savaşmak zorundadır.",
+                "air_date": "2018-09-26",
+                "still_path": "/m5qBHFbRw5tC34EnjOrfu0jp2Gw.jpg",
+                "video_url": "3456904"
+            }
+        ]
+    }
+}

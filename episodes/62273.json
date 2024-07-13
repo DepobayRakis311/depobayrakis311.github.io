@@ -1,0 +1,735 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2015-04-04",
+        "poster_path": "/cxzDZUeJqp7YrCr4rIUlxAz8wDk.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Sonsuz Bir Çorak Toprak",
+                "overview": "Yukihira, bir gün şef olarak babasını geride bırakma umuduyla Yukihira Soma'nın yardım ettiği popüler bir mahalle restoranıdır. Ancak kara köpekbalıkları restoranın peşindedir ve bir gün Soma onlara, müşterilerine tatmin edici yemek sunamazlarsa restoranın kapanacağını söyler. Kara köpekbalıkları restoranın buzdolabını sabote etmekten çok mutlular ve neşeyle Soma'ya kendilerine et yemeği servis etmesini emrediyorlar...",
+                "air_date": "2015-04-04",
+                "still_path": "/teITQPJ2yIKnLE91t1OYXQU554O.jpg",
+                "video_url": "4239960"
+            },
+            {
+                "episode_number": 2,
+                "name": "Tanrı Dili",
+                "overview": "Soma, babasının emriyle Japonya'nın en iyi aşçılık okullarından biri olan Togetsu Çay Evi Aşçılık Akademisi'ne geçmeye çalışır. Sınav görevlisi Nakiri Erina, insanlığın en iyi damak tadına sahip olduğu söylenen bir öğrencidir: Tanrı Dili.",
+                "air_date": "2015-04-11",
+                "still_path": "/oyo3SO01PHsz49M5ebja7uNmyCe.jpg",
+                "video_url": "4239961"
+            },
+            {
+                "episode_number": 3,
+                "name": "O Şef Asla Gülümsemez",
+                "overview": "Akademinin geçiş sınavını zar zor geçebilen Soma, tüm sınıfın önünde küstah bir konuşma yaparak açılış töreninde kargaşaya neden olur. Daha ilk sınıfında, okuldan atılma tehlikesiyle karşı karşıya olan ve hayatta kalabilmek için dikkat çekmemeye kararlı bir kız olan Tadokoro Megumi ile eşleşir.",
+                "air_date": "2015-04-18",
+                "still_path": "/bZoPC5a2I7av8h9WFGzVCZ1mqQd.jpg",
+                "video_url": "4239962"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kutup Yıldızı'nın Madonna'sı",
+                "overview": "Soma, Kutup Yıldızı Yurdu'na büyük beklentilerle gelir ama orayı ürkütücü ve köhne bir yer olarak görür. Daha sonra yurt müdürü Daimido Fumio ona ancak yemekleriyle onu etkiledikten sonra yurtta yaşayabileceğini bildirir. Soma zorlu mücadeleye hazırlanıyor!",
+                "air_date": "2015-04-25",
+                "still_path": "/NEIPIDIv4LDeMoiRxhjdIRwJWS.jpg",
+                "video_url": "4239963"
+            },
+            {
+                "episode_number": 5,
+                "name": "Buz Kraliçesi ve Bahar Fırtınası",
+                "overview": "Isshiki Satoshi, Kutup Ayısı Yurdu'ndaki lise bölümünden ikinci sınıftaki tek öğrencidir. Elit On'a katılma hırsıyla dolu olan Soma, Isshiki'ye hemen meydan okur, ancak resmi bir mücadelenin gerçekleşmesi için yerine getirilmesi gereken birçok kural olduğunu öğrenir...",
+                "air_date": "2015-05-02",
+                "still_path": "/2HuPngqvVV96Vqn8ktQ3HhXTj7V.jpg",
+                "video_url": "4239964"
+            },
+            {
+                "episode_number": 6,
+                "name": "Et İstilacısı",
+                "overview": "Soma, akademinin birçok aşçılık kulübünden biri olan Donmono Araştırma Topluluğu'na ilgi duyar ve bunu kontrol etmesi için Megumi'yi de yanına alır. Ancak sadece kulübünün Erina'nın elindeki yakın ölümü nedeniyle perişan olan kulüp lideri Konishi'yi bulurlar.",
+                "air_date": "2015-05-09",
+                "still_path": "/7ho0e2TAhj3lSWH78kwbhHj2WM3.jpg",
+                "video_url": "4239967"
+            },
+            {
+                "episode_number": 7,
+                "name": "Sessiz Don, Etkili Don",
+                "overview": "Mito Ikumi ve Yukihira Soma arasındaki Shokugeki başladı! Erina dahil herkes Et Ustası Ikumi'nin kazanacağına inanıyor. Soma ise sahaya girdiği anda alkışlarla karşılanıyor. Soma, Don RS'i kurtarabilecek mi?",
+                "air_date": "2015-05-16",
+                "still_path": "/pRHqJDK7VJQ8PPa1nKlzlXFNBEd.jpg",
+                "video_url": "4239969"
+            },
+            {
+                "episode_number": 8,
+                "name": "İlham ve Hayal Gücü Konçertosu",
+                "overview": "Eğitim kampı, Totsuki'nin lise bölümündeki öğrenciler için ilk ateşle imtihan olarak kabul edilir. Her gün düzinelerce öğrencinin atılıp gönderildiği ve kampın sonuna doğru öğrenci sayısının yarıdan az olduğu söylenir. Hayatta kalmaya kararlı olan Soma ve arkadaşları, Totsuki Resorts'un otellerinden birinde cehennem kampına doğru yolculuklarına başlarlar.",
+                "air_date": "2015-05-23",
+                "still_path": "/krh1DVqsARsrrQSZebG3IOhQaDU.jpg",
+                "video_url": "4239972"
+            },
+            {
+                "episode_number": 9,
+                "name": "Dağları Süsleyecek Ekmek",
+                "overview": "Totsuki mezunu Inui Hinako, Soma'nın grubuna bölgedeki mevcut malzemeleri kullanarak bir Japon yemeği yapma görevi verdi. Çeşni ve baharat dışındaki her şeyin yakın çevreden temin edilmesi gerekmektedir. Takumi Aldini'nin meydan okumasıyla kışkırtılan Soma, bir anlık ilham alır ve yemekleri için gerekli malzemeleri bulmak üzere Megumi ile birlikte yola çıkar!",
+                "air_date": "2015-05-30",
+                "still_path": "/pc2wBJi330vA6u9UgFfYUfXcQhS.jpg",
+                "video_url": "4239974"
+            },
+            {
+                "episode_number": 10,
+                "name": "Göksel Recette",
+                "overview": "Polar Star üyeleri kampın ilk gününde hayatta kalmayı başardılar. Megumi, Soma'yı başarıyla destekleyerek kendine güven kazanmaya başlar. Ama şimdi o ve Soma, ikinci günde, bir gün önce 30'dan fazla öğrenciyi okuldan atmış olan Fransız mutfağının dehası Shinomiya ile yüzleşmek zorundalar...",
+                "air_date": "2015-06-06",
+                "still_path": "/8Ce61s7L9fGsHVHuVn8d5iMVlNJ.jpg",
+                "video_url": "4239975"
+            },
+            {
+                "episode_number": 11,
+                "name": "Doğudan Gelen Büyücü",
+                "overview": "Soma, Megumi'yi sınır dışı etme kararını geri alması için Shinomiya'yı pervasızca bir Shokugeki'ye davet eder. Shinomiya reddeder, ancak Dojima onu yarı yarıya kabul etmeye zorlar. Ancak Dojima, Soma ve Megumi'ye de bir şart koyuyor: Megumi baş şef olmalı! Kaybetmeleri halinde Soma da ihraç edilecek. Resmi olmayan Shokougeki başlamak üzere!",
+                "air_date": "2015-06-13",
+                "still_path": "/xO9vtHG8CldNWWNPZ4oOgnnJHAZ.jpg",
+                "video_url": "4239976"
+            },
+            {
+                "episode_number": 12,
+                "name": "Bir Yemeğin Anısı",
+                "overview": "Shinomiya ve Megumi-Soma çifti arasındaki resmi olmayan Shokugeki başladı. İhraçla ilgili yargılama sürüyor. Megumi'nin ana şef olarak ilk yemeği, Shinomiya'nın görevlendirdiği dokuz sebzeli terrine, yedi çeşit sebzeden yapılan Rainbow Terrine'e kendi yaklaşımıdır!",
+                "air_date": "2015-06-20",
+                "still_path": "/1OIiI9vqun69GboybvmdSodc7AL.jpg",
+                "video_url": "4239977"
+            },
+            {
+                "episode_number": 13,
+                "name": "Şafaktan Önce Yumurtalar",
+                "overview": "Kampın üçüncü gecesi. Soma ve diğerleri zorlu sınavlardan geçmeyi başarır. Ama şimdi ertesi sabah için yeni bir denemeyle karşı karşıyalar: yumurta kullanan bir menü maddesi bulmaları.",
+                "air_date": "2015-06-27",
+                "still_path": "/tiEl8uL6SuSJskajiGpAW3OUNU5.jpg",
+                "video_url": "4283087"
+            },
+            {
+                "episode_number": 14,
+                "name": "Metamorfoz",
+                "overview": "Öğrencilere açık büfe için yumurta bazlı bir kahvaltı menüsü oluşturma görevi verildi ve konukları iki saat geçmeden 200 porsiyon tüketmeye ikna etmeleri gerekiyor. Soma'nın sufle omletleri, misafirler yemeği alamadan sönmeye devam ediyor. Yalnızca 30 dakika kala, Soma 10'dan az misafire hizmet verdi; yenilgi yaklaşırken Soma, Joichiro'nun tavsiyesini hatırlar ve geri dönüş yapmak için son çare olarak çaba göstermeye karar verir!",
+                "air_date": "2015-07-04",
+                "still_path": "/bzuYYf9JFPMQciBUh5nw6N7EV2b.jpg",
+                "video_url": "4239983"
+            },
+            {
+                "episode_number": 15,
+                "name": "Şeytan Denilen Adam",
+                "overview": "Kampın bitmesiyle hayatta kalan öğrenciler Totsuki Akademisi'ne geri döner. Soma otobüsünü kaçırmayı başarır ama Erina da öyle, bu yüzden sonunda aynı arabayla geri dönerler. Garip sohbetler sürerken Soma, Erina'dan Sonbahar Seçimlerinin yaklaştığını öğrenir...",
+                "air_date": "2015-07-18",
+                "still_path": "/in63R1ebLTnm19FsjTsJM9xTiIk.jpg",
+                "video_url": "4239985"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bin Fersahı Aşan Şef",
+                "overview": "Soma'nın babası Joichiro aniden Polar Yıldız Yurdu'nun kapısında belirdiğinde Soma, babasının Totsuki Akademisi ve Polar Yıldız Yurdu mezunu olduğunu öğrenir. Joichiro, oğlunun ne kadar ilerlediğini öğrenmek için Soma'yı yemek pişirme düellosuna davet eder. Aile düellosu nasıl sonuçlanacak?",
+                "air_date": "2015-07-25",
+                "still_path": "/ip4ATkTSnoP8u3fmNJWrIQlAnjt.jpg",
+                "video_url": "4239988"
+            },
+            {
+                "episode_number": 17,
+                "name": "Baştan Çıkarıcı Karaage",
+                "overview": "Soma, uzun bir aranın ardından uzun bir aradan sonra ilk kez evine dönüyor. Yukihira'nın yeniden açılmasını bekleyen insanların akınına uğrayan Soma, müşterilerine hizmet vermeye karar verir. Ancak aralarında, Soma'ya tren istasyonundaki yeni bir alışveriş kompleksinin tüm müşterilerini çaldığı için alışveriş bölgesinin son nefesini verdiğini söyleyen alışveriş bölgesinin liderleri de var...",
+                "air_date": "2015-08-01",
+                "still_path": "/y5GR8054EimQzibNrrPHuIktm4S.jpg",
+                "video_url": "4239990"
+            },
+            {
+                "episode_number": 18,
+                "name": "Gençliğin Karaajı",
+                "overview": "Diner Yukihira'ya ev sahipliği yapan Sumire Avenue Alışveriş Bölgesi, karaage özel mağazası Mozuya'nın tüm müşterilerini çekmesinin ardından son demlerini yaşıyor. Soma, müşterilerin telafisini sağlayacak bir plan hazırlamaya yardımcı olmaları için Kurase ve Nikumi'yi işe alır: Yürü-Ye-Karaage. Yaz karaage kampanyası başlıyor!",
+                "air_date": "2015-08-08",
+                "still_path": "/c8xSxLSm12bJE90XmLccswDyg8q.jpg",
+                "video_url": "4239991"
+            },
+            {
+                "episode_number": 19,
+                "name": "Seçilmiş Kişi",
+                "overview": "İlk dönem sona ererken Sonbahar Seçimlerine katılacak öğrencilerin isimleri Totsuki Akademisi'nde yayınlanıyor. Görevlendirilen konu köri yemeğidir ve Soma, Joichiro'nun kendisine bahsettiği belirli bir mezunu aramaya başlar.",
+                "air_date": "2015-08-15",
+                "still_path": "/oiecgCRxq8kBIve36os8ucrGXhL.jpg",
+                "video_url": "4239992"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ejderha Yatar ve Göklere Yükselir",
+                "overview": "Hayama ile karşılaşmalarının ne kadar derin bir köri olabileceğinin bilincinde olan Soma ve Megumi, yazın geri kalanında Sonbahar Seçimlerine hazırlanmak için diğer birinci sınıflara katılır. Artık ön elemelerin zamanı geldi...",
+                "air_date": "2015-08-22",
+                "still_path": "/hQkDVv64IvaI9KGf9HfPj8BjCgm.jpg",
+                "video_url": "4239993"
+            },
+            {
+                "episode_number": 21,
+                "name": "Bilinmeyen Bilinen",
+                "overview": "Sonbahar Seçimleri ön hazırlıkları nihayet başladı! Her gruptan yalnızca dört öğrenci ana turnuvaya katılabilir. Soma'nın A Grubu'nda Soma'nın çalışmaları devam ederken tüm dikkatler favori adaylarda toplanıyor. Bu sırada Grup B'de Megumi'nin ilgi çekici olmadığı herkes tarafından görmezden gelinir, ancak sonra aniden benzersiz bir malzeme çıkarır...",
+                "air_date": "2015-08-29",
+                "still_path": "/gOhs2KU2KWsW8bWaVh0FZLnpfAr.jpg",
+                "video_url": "4239994"
+            },
+            {
+                "episode_number": 22,
+                "name": "Sıradanlığı Aşan",
+                "overview": "Sonbahar Seçimleri ön elemeleri her grup için değerlendirme aşamasına girdi! Hisako, Takumi, Alice ve diğerlerinin jüri önünde büyük puanlar alması nedeniyle B Grubu arenasında heyecan hakim. Değerlendirilecek son yemek, kimsenin büyük umutlar beslemediği Megumi'ye ait. Yemeği nasıl olacak?",
+                "air_date": "2015-09-05",
+                "still_path": "/5twk7ZVxQ0nVjNfePth0AykO37U.jpg",
+                "video_url": "4239995"
+            },
+            {
+                "episode_number": 23,
+                "name": "Çiçek Açan Bireylerin Rekabeti",
+                "overview": "Sonbahar Seçimleri ön hazırlıklarında mücadele devam ediyor. B Grubundan Alice, Hisako, Takumi ve Megumi başarıyı yakaladı. Bu arada A Grubu'nda Sendawara Natsume yarışmacılara 0'lar vermeye devam ediyor ve hiç kimse yüksek genel puan alamadı. Sonra Alice'in yardımcısı Kurokiba Ryo ayağa kalkıyor. Gizemli şef sonunda gerçek yüzünü ortaya çıkarıyor!",
+                "air_date": "2015-09-12",
+                "still_path": "/oP1ZjGl0t0wj7XgOFa7NCl2y8lG.jpg",
+                "video_url": "1897920"
+            },
+            {
+                "episode_number": 24,
+                "name": "Savaşçıların Ziyafeti",
+                "overview": "Güçlü kokusunun yanı sıra kutsal fesleğen ve yoğurdun gücünü de kullanan Akira'nın yemeği, jüriden 94 puan alır ve bunlardan ikisi ona tam 20 verir. Son olarak, Soma kendi koku bombasını sunar ve geçmişteki iki başarısızlığını, lezzeti derinleştiren bir mango çutneyi içeren bir köri risotto omurice'de birleştirir. Yemek, Soma'ya 93 puan kazandırır ve onu Akira'nın ardından ikinci sıraya yerleştirir, ancak beş jüriden üçünün yemeği Akira'nınkinden daha yüksek puanladığı belirtilir. Yarışmacılar, elemelerdeki zaferlerini ve yenilgilerini kutlayan ve yas tutan bir afterparty düzenlerken, Soma yemek pişirme ustalığını geliştirmeye kararlı hale gelir.",
+                "air_date": "2015-09-26",
+                "still_path": "/iW2MUNhIwJr8YM5qdpNrc2Cdy8V.jpg",
+                "video_url": "4239997"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2016-07-02",
+        "poster_path": "/nyIJkgbGpVRRkfNI32gGQP1mujW.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kutuyu Ne Doldurur?",
+                "overview": "Soma, Sonbahar Seçimlerinde Alice ile karşı karşıya gelir. Tema: bento! Alice moleküler gastronomi konusunda uzmanlaşmıştır. Her biri en iyi bentoyu yaratmak için uzmanlıklarından nasıl yararlanacak?",
+                "air_date": "2016-07-02",
+                "still_path": "/jdb6h5Lzh6GCmXlgku9ZYNnDDyU.jpg",
+                "video_url": "4245032"
+            },
+            {
+                "episode_number": 2,
+                "name": "Işık ve Gölgenin Etkileşimi",
+                "overview": "İlk maçta Soma'nın galip gelmesinin ardından sıra Megumi'ye geldi. Tema ramendir ve rakibi Kurokiba Ryo'dur. Kişilikleri ve pişirme tarzları arasındaki bu tam zıtlıklar, ramen suyu için neyi seçecek?",
+                "air_date": "2016-07-09",
+                "still_path": "/qbf0hemVmvrEsSvEyTRwHg2n0Yz.jpg",
+                "video_url": "4245033"
+            },
+            {
+                "episode_number": 3,
+                "name": "Dahilerin Nesli",
+                "overview": "2. tur nihayet sona erdi; kim galip çıkacak? 3. tur da başlıyor ve favori aday Hayama Akira ile Nakiri Erina'nın yardımcısı Arato Hisako karşı karşıya geliyor!",
+                "air_date": "2016-07-16",
+                "still_path": "/wGPNQszTRKT15yQgacS8CA9nVXN.jpg",
+                "video_url": "4245034"
+            },
+            {
+                "episode_number": 4,
+                "name": "Takipçi",
+                "overview": "Takumi Aldini ile Mimasaka Subaru arasındaki 4. tur beklenmedik bir şekilde shokugeki'ye dönüşür. Takumi'nin incinmiş gururu, Mimasaka'yı yenme arzusunu ateşler, ancak Mimasaka, Takumi ile tamamen aynı yemeği yapmaya başlar...",
+                "air_date": "2016-07-23",
+                "still_path": "/dhHb8GzFKJ6dEeVu7TopwbH7s2C.jpg",
+                "video_url": "4245036"
+            },
+            {
+                "episode_number": 5,
+                "name": "İlk Lokmadaki Sır",
+                "overview": "Yukihira yarı finalde sadece Mimasaka ile karşılaşmayacak, aynı zamanda maç da bir shokugeki olacak! Yukihira, Mimasaka'ya maç için ne hazırlayacağını bile söylüyor; Mimasaka'nın mükemmel profilini nasıl yenmeyi planlıyor?",
+                "air_date": "2016-07-30",
+                "still_path": "/uFbRMdCddfhLpHeoun4eb2AAcAR.jpg",
+                "video_url": "4245037"
+            },
+            {
+                "episode_number": 6,
+                "name": "Şafak Tekrar Doğacak",
+                "overview": "Soma ve Mimasaka'nın dana yahnisi shokugeki nihayet başladı! Mimasaka, Soma'nın öküz kuyruğunu malzeme olarak kullanmasını kopyalamakla kalmadı, aynı zamanda eklediği değişiklikler de seyirciyi ve jüriyi etkilemeye başladı. Ancak Soma'nın hala elinde birkaç numara var...",
+                "air_date": "2016-08-06",
+                "still_path": "/iAH1KVQFvkgfFD3LKCFZ4Uw9e8Z.jpg",
+                "video_url": "4245039"
+            },
+            {
+                "episode_number": 7,
+                "name": "Birbirlerini Yiyen Canavarlar",
+                "overview": "Yarı finalin 1. turunda Soma'nın galibiyetinin ardından Kurokiba Ryo ile Hayama Akira arasındaki 2. tur başlıyor! Bunlardan hangisi finale yükselecek?",
+                "air_date": "2016-08-13",
+                "still_path": "/7cwLKYQUAxkcneyfSYIXIe2LfFn.jpg",
+                "video_url": "4245040"
+            },
+            {
+                "episode_number": 8,
+                "name": "Mevsimsellik Savaşı",
+                "overview": "Soma, ailesinin lokantasının uzun zamandır menüde Pasifik saury ile olan geçmişi nedeniyle finaller konusunda iyimserdir. Ancak, Hayama ve Kurokiba'nın balık pazarının sunabileceği en iyi Pasifik saury'yi seçmede çok daha yetenekli olduğunu fark ettiğinde özgüveni kısa sürede kırılır. Soma bu büyük dezavantajın üstesinden gelebilecek mi?",
+                "air_date": "2016-08-20",
+                "still_path": "/36PpeQC0w8oyIlrdmucm6H6JBa1.jpg",
+                "video_url": "4245042"
+            },
+            {
+                "episode_number": 9,
+                "name": "Sonbaharı İşaret Eden Kılıç",
+                "overview": "Sonbahar Seçimleri Finalleri, üç finalistin aynı anda tarihi bir karşılaşmasıyla nihayet geldi. Hayama ve Kurokiba kılıç gibi parıldayan taze pasifik saury'si üretirken, Soma'nın pasifik saury'si biraz farklı…",
+                "air_date": "2016-08-27",
+                "still_path": "/ny92yrU29NRcUueIVA6sN4m6pKE.jpg",
+                "video_url": "4245043"
+            },
+            {
+                "episode_number": 10,
+                "name": "Yeni Bir Dahi",
+                "overview": "Her ne kadar Kurokiba'nın cartoccio'su ve Hayama'nın carpaccio'sundan daha aşağı olduğu düşünülse de Soma'nın pasifik saury yemeği bir sır saklıyordu. Soma'nın stratejisi jüriyi etkilemeye yetecek mi?",
+                "air_date": "2016-09-03",
+                "still_path": "/4fhQLvFg16ZYuNSD8eznR4GXBhA.jpg",
+                "video_url": "4245044"
+            },
+            {
+                "episode_number": 11,
+                "name": "Stagiaire",
+                "overview": "Sonbahar Seçimleri'nin ardından kısa bir aradan sonra Soma'nın sınıfı, öğrencilerin eğitim aldıkları yerde görünür sonuçlar bırakmayı başarmaları gereken gerçek dünyadaki bir eğitim programı olan Stagiare'ye gönderilir. Soma, kendisini Arato'yla birlikte bir Batı restoranında bulur. Deneyiminden yararlanıyor ve mücadeleye kolayca adım atıyor, ancak bu Stagiare'yi geçmek için yeterli olacak mı?",
+                "air_date": "2016-09-10",
+                "still_path": "/yVASHD2d1UB5mxrquQlkfBQWN4s.jpg",
+                "video_url": "4245045"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sihirbaz Bir Kez Daha",
+                "overview": "İlk Stagiare'sini kolaylıkla temizleyen Soma, bir sonraki antrenman lokasyonuna doğru yola çıkar ve buranın eski shokugeki rakibi Shinomiya Kojiro tarafından açılacak yeni bir restoran olduğunu görür. Shinomiya'nın Fransız restoran mutfağında Soma'yı neler bekliyor?",
+                "air_date": "2016-09-17",
+                "still_path": "/1V2o3wHeI4qKNmpk72BYclo6FXD.jpg",
+                "video_url": "4245047"
+            },
+            {
+                "episode_number": 13,
+                "name": "Gösteriş ve Durum",
+                "overview": "SHINO'nun Tokyo'sunda Stagiaire olarak geçireceğimiz yalnızca bir gün daha. Soma, Fransız mutfağına dair çeşitli şeyler öğrenmeye devam ediyor ve çalışan yarışmasına katılabiliyor. Soma yemeğiyle Shinomiya'yı etkilemeyi başarabilecek mi ve Stagiaire kursunu geçebilecek mi?",
+                "air_date": "2016-09-24",
+                "still_path": "/eNd5lYcVxYBWMlqTc7WOlEAGbn.jpg",
+                "video_url": "4245048"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 24,
+        "air_date": "2017-10-04",
+        "poster_path": "/lrNMKNF7M998w9xGbpXo8do1my8.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Elite Ten'e Meydan Okumak",
+                "overview": "Soma, Totsuki'nin sonbaharın sonunda Ay Festivali adında bir okul festivali düzenlediğini öğrenir. Elit On'un 8. koltuğu Kuga, Soma'ya, eğer onu herhangi bir yemekte yenebilirse, ondan bir Shokugeki kabul edeceğini söyler ve Soma, ona meydan okuyabilmek için Ay Festivali'ne katılmaya karar verir. Daha sonra Kuga'nın Çin Yemeği RS'sine gider ve şunu görür...",
+                "air_date": "2017-10-04",
+                "still_path": "/sjBaEieldtThmIHDAF1LA1XsNAF.jpg",
+                "video_url": "3083052"
+            },
+            {
+                "episode_number": 2,
+                "name": "\"ma\" ve \"là\"",
+                "overview": "Çin Yemeği RS'yi gördükten sonra Soma, Kuga'ya meydan okumak için Ay Festivali'nde bir Çin mutfağı yemek standı açmaya karar verir. Bu sırada Alice, Kurokiba ve Hayama ile eşleşir ve diğerleri de Ay Festivali'ne hazırlanmaya başlar. Soma, Megumi'nin yardımıyla festivaldeki standı için yemek hazırlamaya başlar ama işler pek de yolunda gitmez...",
+                "air_date": "2017-10-11",
+                "still_path": "/hbrihBuw44WMNUeodGwI2WrlSa3.jpg",
+                "video_url": "3089777"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ay Festivali",
+                "overview": "Ay Festivali sonunda başlıyor! Soma'nın tezgahı için yapmaya karar verdiği yemek, taş fırında yapılan karabiberli domuz çörekleri. Ancak kalabalık, daha lüks Çin mutfağı olan RS'nin tezgahına gitmeye devam ediyor. Soma ilk gün kırmızıda kalıyor. Bu okul festivali sırasında kaybeden öğrenciler okuldan atılacağı için, Soma zaten başı dertte. İşleri tersine çevirebilecek mi?!",
+                "air_date": "2017-10-18",
+                "still_path": "/rineXhrCAfFNO2nnoRpbKjSgoyq.jpg",
+                "video_url": "3095892"
+            },
+            {
+                "episode_number": 4,
+                "name": "Genç Aslanların Gururu",
+                "overview": "Artık Ay Festivali'nin üçüncü günü! Ürün yelpazesine Sorta Danzi Noodles yemeğinin eklenmesi Soma'nın satışlarını artırmasına yardımcı olsa da, satış sıralamasında liderliğini sürdüren Chinese Cuisine RS'nin yanından bile geçemiyorlar. Soma yardım almaya karar verir ve yeni bir yemek daha sunmaya başlar: Çin Mutfağı RS'nin aynısı olan Mapo Tofu! Ancak onun versiyonunun şaşırtıcı bir sırrı var: Soma'nın stratejisi nedir?",
+                "air_date": "2017-10-25",
+                "still_path": "/sw2tooD1SZ1hPPOKGYdqCnlnV40.jpg",
+                "video_url": "4611989"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kararan Yemek Masası",
+                "overview": "Ay Festivali'nin son günü geldi. Soma ve Kuga'nın savaşı sonunda sona eriyor; kazanan kim olacak? Merkez Bölge'deki mağazayı kapattıktan sonra Soma ve Megumi, Rindo'nun Tsukasa Eishi'nin Yamanote Bölgesi'ndeki standına gitme davetini kabul eder! İlk koltukta ne tür yemekler servis edilecek?",
+                "air_date": "2017-11-01",
+                "still_path": "/lblCsdgqP3Nanvlr97ekvu28JuT.jpg",
+                "video_url": "3132247"
+            },
+            {
+                "episode_number": 6,
+                "name": "Tutuklu Kraliçe",
+                "overview": "Elit On Konseyi'nin yarısından fazlası Erina'nın babası Nakiri Azami tarafından dönüştürüldü ve onu Totsuki'nin yeni müdürü olarak atadı! Rejim değişikliği haberi tüm kampüste şok etkisi yaratırken, havada tedirginlik hakim. Soma bir gün odasına döndüğünde eski yönetmen Senzaemon'un kendisini beklediğini görür. Senzaemon, Soma'ya Erina'nın şok edici geçmişini anlatmaya başlar...",
+                "air_date": "2017-11-08",
+                "still_path": "/qSCoUqpPtUSgINSnH8dvSb5skOr.jpg",
+                "video_url": "3132250"
+            },
+            {
+                "episode_number": 7,
+                "name": "O Başlıyor",
+                "overview": "Erina, Alice ve Hisako'nun yardımıyla ailesinin evinden kaçarak Kutup Yıldızı Yurdu'na geldi. Bu arada Azami, üyelerinin yalnızca kendisinin değerli bulduğu öğrencilerden oluşacağı Merkez'i kurar. Ayrıca araştırma gruplarının, araştırma topluluklarının ve kulüplerin kapatılacağını da duyuruyor! Kutup Yıldızı Yurdu da listede...",
+                "air_date": "2017-11-15",
+                "still_path": "/1qyeaV7x9EYsjVY96jGQQa5d2Ln.jpg",
+                "video_url": "3134064"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kimyager",
+                "overview": "Soma ve Eizan, Kutup Yıldızı Yurdu'nun kaderini belirleyecek şokugeki'ye başlar. Şimdiye kadar daha çok yetenekli bir danışman olarak bilinen Eizan'ın bir şef olarak güçlü yönleri, sonunda tanınacak. Shokugeki'nin konusu Kagoshima vilayetinden Satsuma tavuğu. Ancak maç, Eizan'ın tüm hakemleri satın alması nedeniyle hileli. Soma'nın savaşma şansı var mı?",
+                "air_date": "2017-11-22",
+                "still_path": "/qPdo81V0hxlEdc3XHD9kQ0Cc5uh.jpg",
+                "video_url": "3146917"
+            },
+            {
+                "episode_number": 9,
+                "name": "Hayatta Kalanları Avlamak",
+                "overview": "Kutup Yıldızı Yurdu az farkla zafer kazansa da Azami yönetimi devrime devam ediyor. Isshiki (7. Koltuk), Megishima (3. Koltuk), Kuga (8. Koltuk) Elite Ten'den çıkarıldı. Dahası, yönetim, yönetimin kapatma kararını bozmaya çalışan diğer örgütleri ezmek için \"hayatta kalma avına\" başlıyor...",
+                "air_date": "2017-11-29",
+                "still_path": "/bhKlNqWZt4l0AQ0ppA3OEjPa8jd.jpg",
+                "video_url": "3151490"
+            },
+            {
+                "episode_number": 10,
+                "name": "Somon Dans Edecek",
+                "overview": "Cut Edge Cuisine RS'in hayatta kalmasıyla Kurokiba ve Kusunoki'nin shokugeki'si başlıyor. Kusunoki sadece ana malzeme olan somonu Kurokiba ile aynı beceriyle hazırlamakla kalmıyor, aynı zamanda buharlı konveksiyon fırınını da çıkarıyor. Kurokiba, Kusunoki'nin en ileri mutfak becerilerindeki uzmanlığına nasıl karşı koyacak?",
+                "air_date": "2017-12-06",
+                "still_path": "/hDLRbru4KE00TRczUjPi30GljKR.jpg",
+                "video_url": "3177441"
+            },
+            {
+                "episode_number": 11,
+                "name": "Der Weiße Ritter Der Tafel",
+                "overview": "Cut Edge Cuisine RS, Central'ı yenmeyi başardı. Ancak yenilgiye uğrayan diğer kuruluşlar kapatılarak Central'ın akademi üzerindeki kontrolü güçlendirildi. Bu sırada Birinci Koltuk, Soma'nın sınıfında yedek eğitmen olur ve Soma da onun asistanı olmaya gönüllü olur...",
+                "air_date": "2017-12-13",
+                "still_path": "/o0zpQerZZ6XkAT8Gl51adgRHPV6.jpg",
+                "video_url": "3183824"
+            },
+            {
+                "episode_number": 12,
+                "name": "Zirveyi Hedefleyen",
+                "overview": "Soma, Totsuki Elit On'un İlk Koltuğu Tsukasa ile savaşır. Soma kaybederse, Elit On'daki Central ve Tsukasa bahis koltuğuna katılmak zorunda kalacak. Konuları geyik eti kullanan Fransız mutfağı. Ancak Soma, beklenmedik bir malzeme ve tuhaf bir alet çıkarır. Bu savaşın jürileri, saklandıklarını sanan ama bulunan Erina, Megumi ve Hisako olur. Her ikisinin de hayatını büyük ölçüde değiştirebilecek bu savaşın galibi kim olacak?",
+                "air_date": "2017-12-20",
+                "still_path": "/bOuTPDnRmP0IThDQXegco1ttU9m.jpg",
+                "video_url": "3187380"
+            },
+            {
+                "episode_number": 13,
+                "name": "İlerleme Sınavı",
+                "overview": "Totsuki Aşçılık Enstitüsü'nün 1. sınıfları, 2. dönemin en büyük etkinliği olan “İlerleme Sınavı” ile karşı karşıya! Ancak Azami rejimine uymayanların eleneceği söylentileri nedeniyle Polar Star yurdunda hava kasvetli. Soma durumu düşünürken Erina onu ziyaret eder. Onun düşüncelerini duyunca bir “Yukihira yemeği” pişirmeye ve ona tattırmaya başlar…!",
+                "air_date": "2018-04-09",
+                "still_path": "/4lCPzMwngiRtP6R5fdf924b7DSK.jpg",
+                "video_url": "4245261"
+            },
+            {
+                "episode_number": 14,
+                "name": "Totsuki Treninde İleri",
+                "overview": "İlerleme sınavı geleneksel olarak her yıl Hokkaido'da yapılır. Sınavın temasının Hokkaido malzemeleri olması nedeniyle Erina, Polar Star üyelerine Hokkaido hakkında özel bir ders verecek. Ekstra sıkı eğitimlerle artık sınava hazırlar. Soma ve diğerleri Hakodate'ye varır. 1. sınav kısa süre sonra başlıyor; ancak zaten Merkezi Gurme Teşkilatı'nın müdahalesiyle karşı karşıyalar…!",
+                "air_date": "2018-04-16",
+                "still_path": "/2xOeIER5JLkxVHK3rWzsRTNv8Br.jpg",
+                "video_url": "4245262"
+            },
+            {
+                "episode_number": 15,
+                "name": "Jeanne D'arc Yükseliyor",
+                "overview": "Soma ve diğerleri 1. sınavı geçtikten sonra 2. sınava geçiyor! Bir sonraki tema “erişte yemeği”! Ancak Merkez'den başka bir engelle karşı karşıyalar! Yemek pişirme zamanı geldiğinde tüm erişteler tükenmişti. Her ne kadar yönetmelik \"eksik malzemeleri kendiniz temin etmek\" olsa da, kırsaldaki dağ yamacında mahsur kalmışlar ve aynı zamanda şiddetli kar nedeniyle toprak altında kalmış durumdalar! Soma ve arkadaşları bunu nasıl atlatacak!?",
+                "air_date": "2018-04-23",
+                "still_path": "/ocD2RrK41yB3zxZ389C4YY1C2R4.jpg",
+                "video_url": "4245265"
+            },
+            {
+                "episode_number": 16,
+                "name": "İntikam Maçı",
+                "overview": "Yükseliş sınavı devam ediyor. 3. sınavda öğrenciler Totsuki Elite Ten üyeleriyle mücadele edecek! Soma'nın rakibi ise konseye yakın zamanda katılan Hayama'dan başkası değil. Sınavları 3 gün sonra “ayı eti” temasıyla başlayacak. Soma denemelere giriyor ancak kendine özgü kokusu nedeniyle ayı etinin işlenmesinin daha zor olduğu kanıtlanıyor. Soma, ayı etiyle uğraşırken sonuçsuz kalırken yardımına beklenmedik bir kişi yetişir...!",
+                "air_date": "2018-04-30",
+                "still_path": "/hxmmrt1D3O4vc3lSACEbSowtibo.jpg",
+                "video_url": "4245266"
+            },
+            {
+                "episode_number": 17,
+                "name": "Umami İpi",
+                "overview": "Soma, Shiomi Semineri'nin kapatılmasının nedenlerini ve Hayama'nın neden kavga etmeden Merkez'e katıldığını düşünür. Hayama'nın Elite Ten'e neden katıldığını bilen Dojima, Soma'ya bunun Azami'nin kabloları arkadan çekmesi nedeniyle olduğunu söylüyor. Bu bilgiyle Soma, Hayama'nın olduğu yere doğru yola çıkar! Nihayet 3. sınavın günü geldi! Soma'nın intikam maçı başlıyor!!",
+                "air_date": "2018-05-07",
+                "still_path": "/x7ErFiceNzTUsos3rBUKP370pbE.jpg",
+                "video_url": "4245269"
+            },
+            {
+                "episode_number": 18,
+                "name": "Kimin için",
+                "overview": "Yükselme Sınavının 3. turu Soma ile Elite Ten'in yeni üyesi Hayama arasındaki karşılaşmayla başlıyor! Soma, sahip olduğu her şeyi, zaten kazanan bir yemek gibi görünen, son derece lezzetli Ayı Menchi Katsu'ya harcıyor. Bu durumda Hayama'nın ayı eti yemeği sonunda ortaya çıkıyor! Hayama'nın son derece keskin koku alma duyusu ile hazırlanan ayı yemeği, jüriyi şaşkına çeviriyor, hatta Soma'nın yemeğinden daha üstün olduğunu itiraf etmelerini bile sağlıyor! Ancak Soma'nın gözleri hala umutla parlıyor. Bir sonraki hamlesi ne olacak?",
+                "air_date": "2018-05-14",
+                "still_path": "/8VC7mds8NIkaoTIdoQdak2GHHNM.jpg",
+                "video_url": "4245272"
+            },
+            {
+                "episode_number": 19,
+                "name": "Savaş Ilanı",
+                "overview": "Hisako, Alice ve Kurokiba üçüncü sınavda başarısız oldular ve okuldan atıldılar! Çaresizlik içinde olan Erina, Azami ile doğrudan pazarlık yapar ancak ricaları ciddiye alınmaz. Soma ayrıca Elite Ten'deki koltuk için Azami'ye de meydan okuyor. Erina gibi onun da meydan okuması bir kenara bırakılır ancak olay yerine belli bir kişi geldiğinde durum tamamen değişir!",
+                "air_date": "2018-05-21",
+                "still_path": "/cofb2UW5kcZHtYTRCyFylOtq1eZ.jpg",
+                "video_url": "4245276"
+            },
+            {
+                "episode_number": 20,
+                "name": "Erina'nın Gayretli Çalışmaları",
+                "overview": "Yaklaşan Régiment du Cuisine'e hazırlanmak amacıyla Soma ve diğerleri, antrenman savaşı için 2 takıma ayrılır. Kural gereği konuşmalarına izin verilmese de takım lideri Dojima bir yemek hazırlar ama herkesin kafasını karıştıracak şekilde tariften doğaçlama yapar. Takumi, Dojima'nın niyetini anlamaya çalışırken Stagiaire Challenge'daki olayları hatırlıyor...",
+                "air_date": "2018-05-28",
+                "still_path": "/z9gdYmYiaVUc8mwF7hk4eoeMedS.jpg",
+                "video_url": "4245278"
+            },
+            {
+                "episode_number": 21,
+                "name": "Çorak Toprakların Öncüsü",
+                "overview": "23 yıl önce, Saiba Joichiro ve Dojima Gin liderliğindeki Polar Star yurdu, Totsuki Akademisi'nin en güçlüsü olarak biliniyordu. Joichiro'nun yaratıcı yemekleri birçok yarışma kazandı ve birçok kişi tarafından tanındı, ancak içinde huzursuz edici bir his vardı...",
+                "air_date": "2018-06-04",
+                "still_path": "/paQkqt7n1rPn9siAWGl8Iw5wMKq.jpg",
+                "video_url": "4245279"
+            },
+            {
+                "episode_number": 22,
+                "name": "Son Savaş Alanına",
+                "overview": "Regiment de Cuisine'in günü geldi! Soma, Merkez'i yenmek için en iyi 8 üyeyi seçti! Azami ve Erina'nın tartışmasının ardından 1. MAÇ'ta Soma, Isshiki ve Megishima'nın mücadele etmesine karar verildi. Soma, Merkez'in 6. koltuğu olan ve aynı zamanda \"soba\" eriştesi uzmanı Kinokuni Nene ile karşı karşıya! Shokugeki teması ne olacak!?",
+                "air_date": "2018-06-11",
+                "still_path": "/k5HurPxQ6FeNb1t9r7XuPBsmd9W.jpg",
+                "video_url": "4245281"
+            },
+            {
+                "episode_number": 23,
+                "name": "Rulman Kutup Yıldızı Yurdu",
+                "overview": "Jüri Regiment de Cuisine'in yapılacağı mekana vardığında heyecan artıyor. Isshiki, 8. sıradaki İtalyan mutfağı uzmanı Shiratsu Julio ile karşı karşıya! Isshiki'ye olan rekabeti ortada ama bunun arkasındaki sebep nedir? Önce Julio'nun yemeği hazır! Jürinin tepkisi ne olacak?",
+                "air_date": "2018-06-18",
+                "still_path": "/wNqtl4z3zskqC6ciHXEIjGGQenq.jpg",
+                "video_url": "4245283"
+            },
+            {
+                "episode_number": 24,
+                "name": "Gücün Temeli",
+                "overview": "Soma ve Nene arasındaki 3. ve son mücadele, ellerindeki her şeyi tabağa koyarken kızışıyor! Shokugeki'nin teması soba olduğu için Nene kendi atmosferindedir ve birinci bitirir. Yemeği jüri tarafından büyük beğeni topladı, peki Soma durumu tersine çevirmek için ne hazırlayacak?",
+                "air_date": "2018-06-25",
+                "still_path": "/9zxRSm17MNOkMrZ4Pcrh0UauWfy.jpg",
+                "video_url": "3387708"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 12,
+        "air_date": "2019-10-12",
+        "poster_path": "/kGVzTa1NNjPcpCf98p84yUZ2YUS.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Korumak İstediklerimiz",
+                "overview": "Azami Nakiri liderliğindeki Central Gourmet organizasyonuyla Régiment du Cuisine devam ediyor. 1. MAÇI Soma ve isyancılar kazandı! İsyancılar ivmeyi sürdürmek ve daha fazla galibiyet elde etmek için bir sonraki kartlarına Kuga, Mimasaka ve Megishima'yı koyuyor. Öte yandan Merkez, Birinci koltuğa gönderir; Tsukasa, İkinci koltuk; Rindo ve Dördüncü koltuk; Saito. Her iki takımın da en iyi üyelerinin yer aldığı 2. MÜSABAKA bazı kıvılcımlar yaratacak!",
+                "air_date": "2019-10-12",
+                "still_path": "/6k4nVVpdEqo5wvvmqXSWRAfwoas.jpg",
+                "video_url": "3721099"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kamera Flaşı",
+                "overview": "Régiment du Cuisine'in 2. MÜSABAKASI Megishima & Rindo, Mimasaka & Saito ve Kuga & Tsukasa arasında! Her takımın teması \"Biber\", \"Ton Balığı\" ve \"Yeşil Çay\"dır. Mimasaka, bir takımda birlikte çalışarak geliştirdiği yeni becerisini sergiliyor. Asi ekibi, yeni bulunan Totsuki Elite Ten'i yenmek için birleşiyor! Hem yemekleri hazır, hem de yargılama başlıyor...!",
+                "air_date": "2019-10-19",
+                "still_path": "/zxtD6ncl9IyBjK3xcwNBLXgi8mT.jpg",
+                "video_url": "3724583"
+            },
+            {
+                "episode_number": 3,
+                "name": "Dayanışmada Umut",
+                "overview": "Elite Ten'in yeni ve eski üyeleri arasındaki 2. BOUT devam ediyor. Megishima ve Mimasaka sadece bir kısımla kaybetti. Kuga neden Tsukasa'da bu kadar ısrarcı? \"Yeşil çay\" kullanarak ne tür bir yemek yapacaklar? 2. BOUT sona eriyor! İsyancılar kısa bir molanın tadını çıkarıyorlar ancak Elite Ten'in 3. koltuğu olan Momo onları ziyaret ediyor...",
+                "air_date": "2019-10-26",
+                "still_path": "/mWK90fW0FOh7xlKSiy63XLTBitM.jpg",
+                "video_url": "3729710"
+            },
+            {
+                "episode_number": 4,
+                "name": "Zaferi Hedefle!",
+                "overview": "Régiment du Cuisine 3. MÜSABAKA'ya giriyor! Sonraki turda Soma-Saito, Takumi-Eizan ve Megumi-Momo karşı karşıya gelecek. Asilerin 3 üyesi ünlü şeflerin yanında çalışıyor ve Megumi ile Shinomiya ilgileniyor. Ancak onunla yaşadığı geçmiş deneyimler travmatik anıları canlandırır ve elinden gelenin en iyisini yapamaz. Onu kendine getiren şey... shojo çizgi romanlarıydı!?",
+                "air_date": "2019-11-02",
+                "still_path": "/fyVAUyk0XOOisBeu2KzYoS8Sz0W.jpg",
+                "video_url": "4476554"
+            },
+            {
+                "episode_number": 5,
+                "name": "Bitirdin",
+                "overview": "Megumi ve Momo arasında, Régiment du Cuisine'in 3. MAÇI'nda kim anlaşacak? Bu arada, Takumi ve Eizan \"sığır eti\" temalı yemeklerine hazırlanıyor. Takumi, Japon geleneksel yemeği \"shigureni\"nin kendi versiyonu üzerinde çalışırken, Eizan avantaj elde etmek için onun arkasından pis işler çeviriyor! Köşeye sıkışan Takumi'nin gizli planı nedir?",
+                "air_date": "2019-11-09",
+                "still_path": "/bHfzp2IDfi9bSk0tVT3KBZIZ512.jpg",
+                "video_url": "4476557"
+            },
+            {
+                "episode_number": 6,
+                "name": "Tek Bıçak",
+                "overview": "Takumi ve Eizan arasındaki maç sona eriyor ve geriye tek bir çift kalıyor: Soma, Mimasaka'nın Perfect Trace'ini yenen Saito ile karşı karşıya! Savaşlarının teması olan “tereyağı” kullanarak ne pişirecekler?",
+                "air_date": "2019-11-16",
+                "still_path": "/5Tc4QSyx7dCuoC2Zi0HuHVXJrgR.jpg",
+                "video_url": "3747321"
+            },
+            {
+                "episode_number": 7,
+                "name": "İki Kraliçe",
+                "overview": "Hararetli savaş 4. MÜSABAKA'ya giriyor! Kalan 3 Merkez üyesi Tsukasa, Rindo ve Momo'dur. Riskin en yüksek olduğu asi ekip de ellerinden gelenin en iyisini yapıyor: Isshiki, Takumi ve Erina! Erina sonunda savaşa katılıyor ve Momo'ya karşı çıkıyor! Kaybedilemez savaş başlıyor..!",
+                "air_date": "2019-11-23",
+                "still_path": "/pMiqGYCUoXohBxogzT5lLMvGarU.jpg",
+                "video_url": "3755391"
+            },
+            {
+                "episode_number": 8,
+                "name": "Yanından İzlemek",
+                "overview": "Azami Nakiri savaş alanına geliyor ve bu turda jüri olarak yer alacağını duyuruyor! İsyancılar öfkeleniyor ama onların tarafında olması gereken Senzaemon bile bu değişikliği kabul ediyor. Herkesin kafası karışıkken Takumi ve Rindo'nun yemekleri servise hazır!",
+                "air_date": "2019-11-30",
+                "still_path": "/1H0jezLy17nGsFrUE30HZ3rTyHd.jpg",
+                "video_url": "4476570"
+            },
+            {
+                "episode_number": 9,
+                "name": "Birinci ve İkinci Koltuklar",
+                "overview": "Merkez için bir galibiyet, isyancılar için bir galibiyet! Isshiki ve Tsukasa arasındaki shokugeki doruğa ulaşıyor! Tema klasik bir Fransız malzemesi olan tavşan etiydi. Isshiki'nin yemeği jüriyi etkilemeyi başarıyor ama Tsukasa kayıtsız görünüyor. Tsukasa, Isshiki'nin süper agresif yemeğini geçebilecek mi?",
+                "air_date": "2019-12-07",
+                "still_path": "/hs67pASPZaktBFy3EUCcUcRx21i.jpg",
+                "video_url": "4476573"
+            },
+            {
+                "episode_number": 10,
+                "name": "Uzmanlık Alanı Nasıl Oluşturulur?",
+                "overview": "Son Régiment du Cuisine başlıyor! SON MÜCADELE için, takımın her üyesi bir ana yemeği tamamlamak için 1 ana yemek ve 1 ana yemeği tamamlamalıdır. Bu mücadelede takım çalışması çok önemli olsa da, Soma ve Erina çekişmeye devam ediyor. Öte yandan, yenilmez ikili Tsukasa ve Rindo yemeklerini sunmaya hazır…!",
+                "air_date": "2019-12-14",
+                "still_path": "/59r6KVkBp1JOaepDF7ejaq2wNUm.jpg",
+                "video_url": "4476576"
+            },
+            {
+                "episode_number": 11,
+                "name": "Umut Şarkısı",
+                "overview": "NİHAİ MAÇ sırasında Soma, Erina'yı Shokugeki'ye davet eder. Bunun arkasında gizli bir amaç var: Soma, Erina'nın elindeki her şeyi \"Katil Yemeği\"ne koymasını istiyor... Zaman sınırı yaklaşırken Erina, Soma'nın meydan okumasını üstlenir ve yeni bir yemek hazırlamaya başlar! Erina \"Öldürücü Yemek\" olarak ne sunacak?",
+                "air_date": "2019-12-21",
+                "still_path": "/oB1dEw0CYCRToSffwrUvRiLOLji.jpg",
+                "video_url": "4476578"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yeni \"totsuki Elit On\"",
+                "overview": "FİNAL MÜSABAKININ kazananını belirlemenin zamanı geldi! Sonunda isyancı takım savaşı kazanır! Azami, Merkez'in yenilgisini kabul eder ve tek kelime etmeden mekanı terk eder. Ancak eski arkadaşları Joichiro ve Dojima tarafından durdurulur. Aynı zamanda Soma ve diğerleri Elit On konseyinin masasına kimin oturacağına karar vermek için toplandılar...",
+                "air_date": "2019-12-28",
+                "still_path": "/4F0At0JsHTzLJrJkKiQQhKZnhm3.jpg",
+                "video_url": "4476583"
+            }
+        ]
+    },
+    "season_5": {
+        "season_number": 5,
+        "name": "Sezon 5",
+        "episode_count": 13,
+        "air_date": "2020-04-11",
+        "poster_path": "/62oNFgMYxmJ9Dlkne1yOXOZbKXE.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Final Sınavları",
+                "overview": "Mevsim yaz! Soma ve arkadaşları ikinci sınıfın ilk dönemini tamamladılar ve şimdi final sınavlarıyla karşı karşıyalar. Test, turistlerle dolu bir plajda bir \"Sahil Evi\" işletmek ve 3 günde 3 milyon yenlik satış elde etmektir! Soma ve Elit On'un diğer üyeleri, ancak bu sınavın kötü yanını öğrenene kadar kendilerini güvende hissediyorlardı... Onlar için hazırlanan restoran neredeyse terk edilmiş bir evden başka bir şey değildi! Soma ve diğerleri final sınavını geçebilecek mi?",
+                "air_date": "2020-04-11",
+                "still_path": "/rkEehlQwKiPVMtqACCKTBPH7c2Z.jpg",
+                "video_url": "4021987"
+            },
+            {
+                "episode_number": 2,
+                "name": "Mavi̇ Ön Elemeler",
+                "overview": "Dünya çapında bir yemek yarışması olan \"THE BLUE\"nun yapılacağı duyuruldu. Totsuki Culinary Institute için üç yer mevcuttu. Bu koltuk için, akademideki tüm öğrencilere açık bir \"Blue Prequel\" düzenlenecek! Herkes katılmaya davetliydi, bu yüzden birçok öğrenci başvuruda bulunmaktan memnundu. 99 jüri tarafından seçilen ilk 3 kazanan kim olacak? Şefler arasında \"Çorba Yemekleri\" teması üzerine bir battle royale başlamak üzere...!",
+                "air_date": "2020-04-18",
+                "still_path": "/nnpTI2skCuKExTVlXIV8qXCXm5J.jpg",
+                "video_url": "4022619"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kara",
+                "overview": "Yeni eğitmen Suzuki, Soma'ya savaşta meydan okuyor...! Resmi bir savaş olmasa da Suzuki kendi \"sırrına\", Soma ise \"mutfak bıçağına\" bahse girecek. Tema “Yemek laboratuvarının buzdolabında bulunan malzemelerden yapılmış ürünler” idi. Soma, Yukihira'nın tekniklerine göre domuz pirzolası servis ederken Suzuki beklenmedik bir hamle yapar... Maçın ardından Soma, Suzuki'den şok edici bir gerçeği öğrenir.",
+                "air_date": "2020-07-18",
+                "still_path": "/g4gH37VWz6BFoJe8ful7RVz4P1m.jpg",
+                "video_url": "4023631"
+            },
+            {
+                "episode_number": 4,
+                "name": "Son Akşam Yemeği",
+                "overview": "MAVİ'nin ilk günü geldi. Mekanda Asahi'nin liderliğini yaptığı Les Cuisiniers Noirs da dahil olmak üzere çok sayıda genç yetenekli şef var. Yemek yarışması başlar ve Soma, Megumi, Takumi ve Erina belirlenen mekana doğru yola çıkar. Soma'ya verilen ilk meydan okuma “Son Akşam Yemeği”dir!? Bu görevin üstesinden nasıl gelecek?",
+                "air_date": "2020-07-25",
+                "still_path": "/gFppjNfWjHF44kraZYVAXagHuFn.jpg",
+                "video_url": "4028050"
+            },
+            {
+                "episode_number": 5,
+                "name": "Market Kavgası",
+                "overview": "İlk mücadeleyi tamamlayan Soma, ikinci mekana doğru yola çıkıyor. Orada beklenmedik biriyle karşılaşır. İkinci meydan okuma başlıyor ve teması \"markette satılan ürünlerle değeri 100 doların üzerinde bir şeyler pişirmek\"! Soma temadan emin ama sunduğu her yemek jüri tarafından reddediliyor! Sebebi ne olabilir?",
+                "air_date": "2020-08-01",
+                "still_path": "/iFdGVcvx32IXUgi3xkaaiXDJiiS.jpg",
+                "video_url": "4786118"
+            },
+            {
+                "episode_number": 6,
+                "name": "Bir Yaz Ortası Noel'i",
+                "overview": "Soma üçüncü mücadelenin kapısına geldiğinde, aynı zamanda WGO'nun zirvesi olan BLUE'nun organizatörü, kendisi gibi normal şeflerden hiçbir beklentisinin olmadığını söyler. Yeraltı şefleri, gerçekte ne kadar güçlü olduklarını kanıtlamak için mutfak becerilerini gösterecekler. Seçilen şeflerden biri, elektrikli testere olduğu ortaya çıkan bir aşçılık aleti çıkarıyor!? Soma ve diğerleri, yeraltı şeflerinin sıra dışı ama inkar edilemez becerilerine tanık oluyor. Onlara karşı koymanın herhangi bir yolu var mı?",
+                "air_date": "2020-08-08",
+                "still_path": "/4iUFo4VJRjWdmkfRXf0XUqD2gbs.jpg",
+                "video_url": "4516616"
+            },
+            {
+                "episode_number": 7,
+                "name": "Çapraz Bıçaklar",
+                "overview": "Soma, yeraltı şeflerinden biri olan Çavuş ile yüzleşecek ve mücadelenin teması Noel pastası olacak. Soma'nın pastası ve onun gizli hilesi, Çavuş'un ağız sulandıran \"Pasta Bombası Pastası\"na karşı koyabilecek kadar iyi mi? Kazanan kim olacak!? Bu sırada Tsukasa'nın ilk savaşı başlar. Asahi Saiba'ya karşı çıkıyor! Totsuki Akademisi'nin eski 1'incisi ile yeraltı şeflerinin liderinin savaşı başlıyor!",
+                "air_date": "2020-08-15",
+                "still_path": "/jSqxhkUS8MfHDbNmVwzu0otw474.jpg",
+                "video_url": "4786137"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ay'ın Kayıp Yarısı",
+                "overview": "Takumi Don Calma'ya karşı, yeraltı şeflerine üye olun! Savaşın teması takımda eğlendirmek. Ancak Takumi'ye yardım etmesi gereken Isami mekana gelmez. Don Calma'nın dostları tarafından kaçırıldığı ortaya çıktı. Takumi'nin sırtı duvara dayalıyken Soma beklenmedik bir şekilde ortaya çıkar!",
+                "air_date": "2020-08-22",
+                "still_path": "/gUVKkpoHft99C6tvMfzTcWWObSx.jpg",
+                "video_url": "4087343"
+            },
+            {
+                "episode_number": 9,
+                "name": "Tanrı Dilinin Umutsuzluğu",
+                "overview": "Soma, Erina'nın diğerlerinden çok daha zorlu görevlerle karşı karşıya olduğunu fark eder. Protesto etmek için etkinliğin organizatörünü görmeye giderler. Ancak bunun yerine şaşırtıcı gerçeği keşfederler! Son seçimin ikinci turunda Megumi, Asahi ile, Takumi ise Erina ile karşılaşacak! Kazanılması gereken savaşlar başlıyor!",
+                "air_date": "2020-08-29",
+                "still_path": "/bEESNJ9gqb07MyrxSjsxpSYMDVD.jpg",
+                "video_url": "4087345"
+            },
+            {
+                "episode_number": 10,
+                "name": "Babayı Aşmak",
+                "overview": "Soma istikrarlı bir şekilde yükselişe geçiyor ve bir sonraki savaşta Asahi ile karşı karşıya gelecek! Erina'nın annesine karşı duyduğu endişe, Asahi'nin yarışmayı kazanmasının belki de herkes için en iyisi olacağını düşünmesine neden olur. Onun şüphesinin sebebi, insanların “Allah dili”ne sahip olma sırrıdır. Bu arada Joichiro Japonya'ya döner ve Dojima'ya Soma'nın annesiyle nasıl tanıştığını ve Asahi ile nasıl ilişki kurduğunu anlatır.",
+                "air_date": "2020-09-05",
+                "still_path": "/gChP6pgE4WpxxoMYaoy96mTaUR0.jpg",
+                "video_url": "4087348"
+            },
+            {
+                "episode_number": 11,
+                "name": "Başarısızlığın Tadı",
+                "overview": "Soma ve Asahi'nin savaşı başlıyor! Savaşın teması dünyanın 5 mutfağının unsurlarını içeren bir yemek pişirmektir. Savaş durumu, yemeğini çapraz bıçak tekniğini kullanarak ilk tamamlayan Asahi'nin lehine görünüyor. Ancak Soma'nın hazırladığı yemek bir “lokanta yemeği” miydi!? Yemeği, “Tanrının Dili” tarafından tanınan bir tabakla eşleşecek mi?",
+                "air_date": "2020-09-12",
+                "still_path": "/dKBQJaVSSbn4LqmfdIjT9OgRo8M.jpg",
+                "video_url": "4087350"
+            },
+            {
+                "episode_number": 12,
+                "name": "Mükemmel Kayalar",
+                "overview": "Asashi'nin yemeği gibi Soma'nın yemeği de mekanda Mana'nın \"Hediye Verme\" yeteneğini tetikler. Kim kazanacak ve ilerleyecek!? Soma ve Asahi'nin savaşı sonunda sona eriyor! Bu sırada Azami Nakiri, Mana'yı ziyaret eder. Azami ve Mana'nın geçmişi ilk kez ortaya çıkıyor...",
+                "air_date": "2020-09-19",
+                "still_path": "/xWY26o1JknUUw0q9wrItepfnurM.jpg",
+                "video_url": "4087355"
+            },
+            {
+                "episode_number": 13,
+                "name": "Gıda Savaşları",
+                "overview": "MAVİ, Soma ve Erina'nın son mücadelesiyle doruğa ulaşır. Ancak Erina, Mana'yı kurtarma görevine fazlasıyla odaklanmıştır. Soma onun yerine Erina'ya yemek pişirmeye karar verir! Onların savaşı ne olacak!?",
+                "air_date": "2020-09-26",
+                "still_path": "/nJlCYNe3CMoNaWrecv4De2xTAh4.jpg",
+                "video_url": "4786184"
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2023-04-12",
+        "poster_path": "/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Anne ve Çocuklar",
+                "overview": "Hikayeler eğlendirmek için söylenen yalanlardır ve idoller inanmaya istekli hayranlara yalan söyler. Bu Ai'nin hikayesi. Bu bir yalandır ama aynı zamanda doğrudur.",
+                "air_date": "2023-04-12",
+                "still_path": "/rvy4W28wYkct3IFxU0RGF2uHppG.jpg",
+                "video_url": "5110923"
+            },
+            {
+                "episode_number": 2,
+                "name": "Üçüncü Seçenek",
+                "overview": "Ruby hem kendisi hem de kanserden ölen küçük kızı için bir idol olmak istiyor. Ancak gerçek dünya büyük hayalleri umursamıyor: Aqua'nın çok iyi bildiği bir şey bu.",
+                "air_date": "2023-04-19",
+                "still_path": "/klFBxM7QHRtYvuqBcHGSoJaY5ES.jpg",
+                "video_url": "5110865"
+            },
+            {
+                "episode_number": 3,
+                "name": "Manga Tabanlı Tv Draması",
+                "overview": "Aqua, Kana'nın isteğini kabul eder, ancak istediği sebepten dolayı değil. Masaya Kaburagi ile Ai arasında Aqua'yı cevaplar bulmak üzere bir TV dizisinin setine yönlendiren bir bağlantı vardır.",
+                "air_date": "2023-04-26",
+                "still_path": "/gRmEOAKLkF2qWUT0GB4QQcI2X1q.jpg",
+                "video_url": "5118267"
+            },
+            {
+                "episode_number": 4,
+                "name": "Aktörler",
+                "overview": "Kana'nın kararlılığı, itibarının zedelenmesine rağmen hâlâ güçlü. Aqua, senaryoyu tersine çeviren cesur bir hamleyle sahneyi hazırlıyor ve bu da her ikisi için de fırsatlara yol açıyor.",
+                "air_date": "2023-05-03",
+                "still_path": "/h44DwOqXqq44KzNHOzkNpcTRVRR.jpg",
+                "video_url": "5126642"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gerçeklik Buluşma Şovu",
+                "overview": "Farklı motivasyonlara rağmen Aqua, Ruby ve Kana'nın eğlence sektöründeki başarısının anahtarı aynı; Hedeflerine ulaşmak için oyunu oynamaları gerekiyor.",
+                "air_date": "2023-05-10",
+                "still_path": "/bmIyVqU5c5iw1g1S8ENY5bKpf4P.jpg",
+                "video_url": "5142403"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ego Sörfü",
+                "overview": "İnternetteki haklı öfkenizde ne söylediğinizi hatırlıyor musunuz? Bunun sonuçları oldu. Onları hiç görmedin ama bu onları daha az gerçek kılmadı ya da seni daha az sorumlu kılmadı.",
+                "air_date": "2023-05-17",
+                "still_path": "/dTnNfowpkkjSG8fxDprhHxJD465.jpg",
+                "video_url": "5147351"
+            },
+            {
+                "episode_number": 7,
+                "name": "Vızıltı",
+                "overview": "Hemen sonrasında sersemlemiş durumda kalan Akane'nin rol arkadaşları, dostluk ve amaç doğrultusunda birleşir: Arkadaşlarının adını temize çıkaracaklardır. Ona daha azını borçlu değiller.",
+                "air_date": "2023-05-24",
+                "still_path": "/culBlCRSAeAbCmOqw6QnCo0z7td.jpg",
+                "video_url": "5153141"
+            },
+            {
+                "episode_number": 8,
+                "name": "İlk Kez",
+                "overview": "İntikam odaklı Aqua, Akane'yi hafife aldı ve yetenekli oyuncuya kalbini kazanmanın bir yolunu verdi. Eğer aşk bir oyunsa, Akane oyunu sonuna kadar oynuyor ve Kana geride kalıyor.",
+                "air_date": "2023-06-07",
+                "still_path": "/7tOzcBf8qjQcnocGGadFAXAJOdq.jpg",
+                "video_url": "5165593"
+            },
+            {
+                "episode_number": 9,
+                "name": "B Komachi",
+                "overview": "MEM-cho, ikinci şansının boşa gitmesine izin vermez ve nüfuzunu B Komachi'nin markasını büyütmek için kullanır. Bu arada Aqua'nın Ai'nin geçmişine ilişkin araştırması meyve verir.",
+                "air_date": "2023-06-14",
+                "still_path": "/hGvzVPKuNBUThYsBlpxGMFkuueU.jpg",
+                "video_url": "5183233"
+            },
+            {
+                "episode_number": 10,
+                "name": "Basınç",
+                "overview": "B Komachi'nin ilk performansı yaklaşıyor, ancak grubun hala pratik yapması gerekiyor ve Kana merkez olmayı reddediyor. Belki de belirli bir uzman koreograf onların parlamasına yardımcı olabilir mi?",
+                "air_date": "2023-06-21",
+                "still_path": "/aNYlFnW3TsubWgi3GphiBdI0WgZ.jpg",
+                "video_url": "5194387"
+            },
+            {
+                "episode_number": 11,
+                "name": "İdol",
+                "overview": "MEM-cho'nun hayranları var. Ruby'nin görünüşü var. Ama Kana'nın...? Herhangi birinin yıldızı olabilmesi için önce cevabı bulması gerekecek. Daha sonra yeni bir fırsat Aqua'yı intikam için yeni bir yola sokar.",
+                "air_date": "2023-06-28",
+                "still_path": "/rPjI9wOlKxzbfjiBjFDdjuKmkwt.jpg",
+                "video_url": "5194391"
+            },
+            {
+                "episode_number": 12,
+                "name": "Tokyo Kılıcı",
+                "overview": "Sahne ayarlandı. Aktörler hazır. Ve Tokyo Blade adlı oyunun perdesi açılıyor. Ancak oyunun dışında başka bir hikaye daha var: oyuncuların kendi hikayesi.",
+                "air_date": "2024-07-03",
+                "still_path": "/tKpuKGWtCIrR6XBGyr6lqrOiIwn.jpg",
+                "video_url": "5583990"
+            },
+            {
+                "episode_number": 13,
+                "name": "Telefon Oyunu",
+                "overview": "Tokyo Blade'in yaratıcısı, mangasının sadakatsiz uyarlamasından memnun değil ve tüm senaryonun revize edilmesini talep ediyor. Ancak açılışına yalnızca yirmi gün kaldı.",
+                "air_date": "2024-07-10",
+                "still_path": "/tYPdMObN5OskrhIBmTMqNHrNm14.jpg",
+                "video_url": "5591960"
+            }
+        ]
+    }
+}

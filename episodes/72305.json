@@ -1,0 +1,212 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2017-07-01",
+        "poster_path": "/qooJlDrpFFVI1tEneGHnwqkXKwM.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yumeko Jabami Adındaki Kadın",
+                "overview": "Sınıfın son kumar şampiyonu Mary, hiçbir şeyden haberi olmayan transfer öğrenci Yumeko Jabami'yi yüksek riskli bir taş-kağıt-makas oyununa sokmaya çalışır.",
+                "air_date": "2017-07-01",
+                "still_path": "/wrQOqpqaD6U9EBae5j1SBVCSKF5.jpg",
+                "video_url": "2967172"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sıkıcı Kadın",
+                "overview": "Mary, kaybının ardından kumar hiyerarşisinin en alt seviyelerine düşer. Öğrenci kurulu üyesi Itsuki, Yumeko'yu çiftler oyununa davet eder.",
+                "air_date": "2017-07-08",
+                "still_path": "/11XxR1G3vIvBjVfWUWw939WqtII.jpg",
+                "video_url": "2974741"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yarık Gözlü Kadın",
+                "overview": "Mary, statüsünü yeniden kazanmak için öğrenci kurulu üyesi Yuriko ile \"yaşam ya da ölüm\" oyununda düelloya tutuşur. Mary'nin ezici yenilgisinin ardından Yumeko, sıradaki oyuncu olmayı teklif eder.",
+                "air_date": "2017-07-15",
+                "still_path": "/k6gWjVHvztBB4g9eVVrRC2Zqbls.jpg",
+                "video_url": "2986766"
+            },
+            {
+                "episode_number": 4,
+                "name": "Hayvancılığa Dönüşen Kadın",
+                "overview": "Yumeko ve Mary, kendilerine devasa kumar borçlarını azaltma şansı verilmesinin ardından Hint pokerinde diğer iki kişiyle karşı karşıya gelir.",
+                "air_date": "2017-07-22",
+                "still_path": "/iGdtOju4XdKP3weRPasNJbvgywi.jpg",
+                "video_url": "2990983"
+            },
+            {
+                "episode_number": 5,
+                "name": "İnsan Olan Kadın",
+                "overview": "Yumeko ve Mary oyunda blöf yaparken Kiwatari kaybetmeye devam eder, ancak nihai sonuç Tsubomi'ye bağlıdır.",
+                "air_date": "2017-07-29",
+                "still_path": "/ns5IofYPGzGOh8snSYgqORrEvIq.jpg",
+                "video_url": "2998635"
+            },
+            {
+                "episode_number": 6,
+                "name": "Baştan Çıkarıcı Kadın",
+                "overview": "Yumeko, öğrenci kurulu başkanını oynamadan önce Rus ruletini içeren bir ESP kart oyununda Güzelleştirme Komitesi Başkanı Midari ile yüzleşmek zorundadır.",
+                "air_date": "2017-08-12",
+                "still_path": "/hMWZInFVyOgwGNfY3LKH3W5yugH.jpg",
+                "video_url": "3031490"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kadınları Reddetmek",
+                "overview": "Ölümcül ESP kart oyununa derin bir şekilde dalmış olan Midari, Yumeko'ya öğrenci kurulu başkanı Kirari ile yaptığı hararetli maçı anlatır.",
+                "air_date": "2017-08-19",
+                "still_path": "/jo6VfYIeSKacBddHqDNM3nU2BlP.jpg",
+                "video_url": "3038298"
+            },
+            {
+                "episode_number": 8,
+                "name": "Aşk-dans Eden Kadın",
+                "overview": "Kirari'nin yokluğunda, pop idolü Yumemi, Yumeko'ya karşı oynamayı teklif eder ve ondan hayatının tüm kontrolünü ele geçirmeyi teklif eder.",
+                "air_date": "2017-08-26",
+                "still_path": "/7YfdtmpZNXkPf4LiaXSWVe7e8xA.jpg",
+                "video_url": "3043181"
+            },
+            {
+                "episode_number": 9,
+                "name": "Rüya Gören Kadın",
+                "overview": "Pop idolü kariyeri tehlikede olan öfkeli Yumemi, skandal yaratan bir ses kaydının pazarlık kozu olarak kullanılmasının ardından Yumeko'yu mahvetmeye çalışır.",
+                "air_date": "2017-09-02",
+                "still_path": "/jwGb8wmSGdTzSG0vQoZyth99E8f.jpg",
+                "video_url": "3050095"
+            },
+            {
+                "episode_number": 10,
+                "name": "Seçici Kadın",
+                "overview": "Yumeko, iyi finanse edilen öğrenci kurulu saymanı Manyuda'ya orijinal bir poker oyununda meydan okuduğunda şansı ona karşı yükselir.",
+                "air_date": "2017-09-09",
+                "still_path": "/gtHdSwmbKfAUWPe9E0S2O95ulQ9.jpg",
+                "video_url": "3058069"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hayatına Bahse Giren Kadın",
+                "overview": "Artık Manyuda'nın kontrolü altında olmak istemeyen Itsuki, Yumeko'nun all-in yapıp önceki elde kaybetmesinin ardından 100 fişi yatırmayı teklif ediyor.",
+                "air_date": "2017-09-16",
+                "still_path": "/zUH4StVMfyDxzBrZLljWqQo2Tnd.jpg",
+                "video_url": "3065000"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kumarbaz Kadın",
+                "overview": "Yumeko ve öğrenci kurulu başkanı Kirari, Ryota'nın oyunlarının nihai sonucunun anahtarı haline gelmesiyle kendilerini akademiden atacaklarına dair bahse girerler.",
+                "air_date": "2017-09-23",
+                "still_path": "/mR8BdywB0Aj8BUS8dr7TUbWUOh3.jpg",
+                "video_url": "3072962"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2019-01-09",
+        "poster_path": "/4fzb0csujgPXAMmUS3Avq53mTqe.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kompulsif Kumar Kızları Redux",
+                "overview": "Erimi, Yumeko ve Midari'yi sadist bir parmak kesme aletinin yer aldığı acımasız bir oyuna davet eder.",
+                "air_date": "2019-01-09",
+                "still_path": "/eHKTkI9lqHSNzvYuZj48lSUMsoi.jpg",
+                "video_url": "4405704"
+            },
+            {
+                "episode_number": 2,
+                "name": "Momobami Klanının Kızları",
+                "overview": "Kirari, seçim galibinin ailelerinin liderliğini devralacağını açıkladığında Momobami klanı üzülür.",
+                "air_date": "2019-01-16",
+                "still_path": "/rS9KxP2vILUJPUhfjlrexdGe11V.jpg",
+                "video_url": "4405708"
+            },
+            {
+                "episode_number": 3,
+                "name": "Dokunulmaz Kız",
+                "overview": "Seçim komitesi başkanı Runa Yomotsuki'nin başkanlığında eski Başkan Yardımcısı Ririka, Miyo ve Miri'yi Yumeko'yla karşı karşıya getirir.",
+                "air_date": "2019-01-23",
+                "still_path": "/28bbLSVpRn4E96RPgh3UCCR3jMa.jpg",
+                "video_url": "4405713"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bağlantılı Kızlar",
+                "overview": "Yumeko'nun yerinde oynayan Mary, Ryota'ya kartlarını göstermesini emreder; Miyo, Ryota'yı kartlarını kendisine saklaması konusunda ikna etmeye çalışır.",
+                "air_date": "2019-01-30",
+                "still_path": "/5FLBbwqHCoZzvlNHxFVomrN0z6f.jpg",
+                "video_url": "4405717"
+            },
+            {
+                "episode_number": 5,
+                "name": "Değişen Kız",
+                "overview": "Yumemi, daha fazla fiş kazanmak için Yumeko'yu kendisine katılmaya ikna eder; Bir Hollywood yıldızının katılımı riski artırıyor.",
+                "air_date": "2019-02-06",
+                "still_path": "/kGlDaahyQ7uiNDl7VSfT5Lf8ACi.jpg",
+                "video_url": "4405720"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hollywood'un Kızı",
+                "overview": "İlk rauntta Kawaru Natari tarafından alt edilen Yumemi, ikinci rauntta all-in yapıyor.",
+                "air_date": "2019-02-13",
+                "still_path": "/30t0gEPIGg73Ujx8sFAU9fjNMaW.jpg",
+                "video_url": "4405722"
+            },
+            {
+                "episode_number": 7,
+                "name": "Hain Kız",
+                "overview": "Kirari hızla oy toplarken, Yumeko ve diğer oyuncular jeton sayılarını artırmak veya hepsini kaybetmek için kendi aralarında kumar oynarlar.",
+                "air_date": "2019-02-20",
+                "still_path": "/7HZttX9h2mbtmkfi8AWZLASy7jQ.jpg",
+                "video_url": "4405725"
+            },
+            {
+                "episode_number": 8,
+                "name": "Yenilmez Kız",
+                "overview": "İhanetle suçlanan Yumeko oyunu iptal etmekle tehdit eder; Itsuki, Manyuda'yı test etmek için büyük bir risk almaya karar verir.",
+                "air_date": "2019-02-27",
+                "still_path": "/yiC5uXIlDb0583EWGAPVCCVe3RK.jpg",
+                "video_url": "4405729"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yandaki Kız",
+                "overview": "Her birinin değer verdiği her şey tehlikede olan Sayaka, Yumeko'yu bir oyuna davet eder.",
+                "air_date": "2019-03-06",
+                "still_path": "/qMnRTtlmj6ejllEk1Iv8Svwijyc.jpg",
+                "video_url": "4405732"
+            },
+            {
+                "episode_number": 10,
+                "name": "Mantıksal Kız",
+                "overview": "Sayaka ilerlemek için mantığı kullanır; Yumeko'nun merakı onu alternatif bir rota izlemeye yönlendirir.",
+                "air_date": "2019-03-13",
+                "still_path": "/3WMrG55SYF2UY4ss86mU5UldFc.jpg",
+                "video_url": "4405734"
+            },
+            {
+                "episode_number": 11,
+                "name": "X Kızı",
+                "overview": "Seçkin bir yarışmacı grubu bir açık artırmada teklif vermeye davet edilir; Yumeko, akıl almaz bir teklif sunarak kuralları değiştirir.",
+                "air_date": "2019-03-20",
+                "still_path": "/oBvpn3H4EUtOICF6nAdzF5Vsm8x.jpg",
+                "video_url": "4405738"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sıfır Kız",
+                "overview": "Düşmanca davranan Rei, seçimi kazanacağını ve görevi devralacağını söyler ancak Yumeko onun önünde durur.",
+                "air_date": "2019-03-27",
+                "still_path": "/wUcNz6BaOSLXqUlg72GdmwNnona.jpg",
+                "video_url": "4405740"
+            }
+        ]
+    }
+}

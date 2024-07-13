@@ -1,0 +1,454 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2005-12-27",
+        "poster_path": "/3MhIDyWIE06LbVi79rbrNu4OpJb.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ve Sonra 10 Kişi Vardı",
+                "overview": "Ortalama bir çocuk, on yaşındaki Ben Tennyson, büyükbabası Max ve kuzeni Gwen'in yaz macerası, Ben'in Dünya'nın çok yukarısındaki uzaylı uzay aracından fırlatılan saate benzer bir nesneyi keşfetmesiyle tuhaf bir hal alır.",
+                "air_date": "2005-12-27",
+                "still_path": "/q1Cq9PtxkpOlryI8T2ydVvhiTSv.jpg",
+                "video_url": "4371570"
+            },
+            {
+                "episode_number": 2,
+                "name": "Washington M.ö.",
+                "overview": "Ben, DNA değiştiren bir cihaza sahip çılgın bilim adamı Dr. Animo ile savaşmak zorundadır.",
+                "air_date": "2006-01-13",
+                "still_path": "/jEcPBRs2Ae8URGH3SQzGzSQatLS.jpg",
+                "video_url": "4371572"
+            },
+            {
+                "episode_number": 3,
+                "name": "Krakken",
+                "overview": "Ben'in elleri dev bir deniz canavarı ve kötü bir kaçak avcıyla doludur.",
+                "air_date": "2006-01-14",
+                "still_path": "/78WIuyLWSAXoxhZt5cRR2gJIe6G.jpg",
+                "video_url": "4371574"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kalıcı Emeklilik",
+                "overview": "Ben, şekil değiştiren uzaylılar tarafından rehin tutulan teyzesini ve büyükbabasını kurtarmak zorundadır.",
+                "air_date": "2006-01-21",
+                "still_path": "/q9l3y7cI6lbveFDXUw6LFey0J3v.jpg",
+                "video_url": "4371575"
+            },
+            {
+                "episode_number": 5,
+                "name": "Avlandı",
+                "overview": "Ben, Omnitrix'i çalmak için Vilgax tarafından gönderilen üç ödül avcısı tarafından takip edilir.",
+                "air_date": "2006-01-28",
+                "still_path": "/cXbah21hfEakwLFdWsIlrQQiEBL.jpg",
+                "video_url": "4371577"
+            },
+            {
+                "episode_number": 6,
+                "name": "Turist Tuzağı",
+                "overview": "Ben yanlışlıkla elektrik enerjisinden yapılmış yaratıkları serbest bırakır ve onları yeniden yakalamak için kendi güçlerini kullanmak zorundadır.",
+                "air_date": "2006-02-04",
+                "still_path": "/82JUBGjHRClvl6hAEDVCKfMamzC.jpg",
+                "video_url": "4371579"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kevin 11",
+                "overview": "Ben, her türlü enerjiyi emebilen ve Omnitrix'in peşinde olabilecek bir mutantla tanışır.",
+                "air_date": "2006-02-11",
+                "still_path": "/1g2G6uE2AkT5livq2BguKuOlyn9.jpg",
+                "video_url": "4371583"
+            },
+            {
+                "episode_number": 8,
+                "name": "İttifak",
+                "overview": "Ben, kısmen cyborg haline gelen bir kadın çete üyesiyle çatışır.",
+                "air_date": "2006-02-18",
+                "still_path": "/7PAIpke6fpBbYOkuY6MQokIhNLz.jpg",
+                "video_url": "4371585"
+            },
+            {
+                "episode_number": 9,
+                "name": "Son Gülüş",
+                "overview": "Ben, Zombozo adında psişik bir vampir palyaçonun yönettiği şeytani bir sirk keşfeder.",
+                "air_date": "2006-02-25",
+                "still_path": "/hQQeOP4XWW5f6lP66HtynSaQBx7.jpg",
+                "video_url": "4371587"
+            },
+            {
+                "episode_number": 10,
+                "name": "Şanslı Kız",
+                "overview": "Ben, bir dizi tılsıma sahip bir büyücüyle savaşır ve tılsımlardan biri Gwen'in eline geçtiğinde aniden bir süper kahramana dönüşür.",
+                "air_date": "2006-03-04",
+                "still_path": "/fGTDiWZSjZK3wq8u6F4GbCkkCQ5.jpg",
+                "video_url": "4371590"
+            },
+            {
+                "episode_number": 11,
+                "name": "Küçük Bir Problem",
+                "overview": "Ben, lunaparkta kendisine binmek için çok küçük olduğunu söyleyen bir görevliden intikam alır.",
+                "air_date": "2006-03-11",
+                "still_path": "/f1ttezyemlDV4cNfxfnKqPc2kf0.jpg",
+                "video_url": "4371593"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yan Etkiler",
+                "overview": "Ben'in yaz soğuğu, uzaylı kişiliğinde tuhaf fiziksel değişikliklere neden olur.",
+                "air_date": "2006-03-18",
+                "still_path": "/xrBsnkBLPvmlUBJdt9OvEmELRRP.jpg",
+                "video_url": "4371594"
+            },
+            {
+                "episode_number": 13,
+                "name": "Sırlar",
+                "overview": "Vilgax, Omnitrix'i kendisi için almaya çalışırken Büyükbaba Max'in garip geçmişi ortaya çıkar ve Vilgax ile Tennyson ailesi arasında bir hesaplaşmaya yol açar.",
+                "air_date": "2006-03-25",
+                "still_path": "/7qgTpsNovdo9GJ65hVRXPkWuYX9.jpg",
+                "video_url": "4371598"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2006-05-29",
+        "poster_path": "/yDdmR1PkZntzlq990kgZYA6Y83Y.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Gerçek",
+                "overview": "Vilgax ile olan savaştan sonra, Büyükbaba Max geçmişiyle ilgili hikayesini Ben'e tekrar anlatır. Varlığı bilinmeyen, \"The Plumbers\" olarak adlandırılan, dünya dışı yaşamı takip eden bir grup insandan oluşan bir organizasyondaydı. Bu arada, Büyükbaba Max'in eski bir ortağı olan Phil ile tanışırlar. Ancak kısa süre sonra, Büyükbaba Max'in, tek başına serbest bıraktığı uzaylıları yakalamak için görünerek para kazanmak amacıyla, Null Void Projector adlı bir cihazı çaldığını öğrenirler.",
+                "air_date": "2006-05-29",
+                "still_path": "/hmLRcbKWkrbzAFjJfdNFdw3sDkK.jpg",
+                "video_url": "4371601"
+            },
+            {
+                "episode_number": 2,
+                "name": "Büyük Kene",
+                "overview": "Yellowstone Park'ta Ben ve Gwen, yanlışlıkla Omnitrix'te yeni bir form keşfederler: Cannon Bolt, Ben'in pek hoşlanmadığı armadillo benzeri bir uzaylı. Kısa bir süre sonra, içinde gezegeni yok eden, kene benzeri bir uzaylının bulunduğu bir meteor parka düşer. Üstelik, onunla birlikte üç uzaylı daha gelir ve ona kurtarıcıları olan \"Yüce Olan\" olarak taparlar. Gezegen yiyiciyi normal formlarıyla durdurma gücü olmayan Ben, hakkında hiçbir şey bilmediği yeni bir forma güvenmek zorundadır.",
+                "air_date": "2006-05-30",
+                "still_path": "/1RJnpbMP5F0sC15SwBXIwhjNotF.jpg",
+                "video_url": "4371604"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çerçeveli",
+                "overview": "Bir şehirde Ben, Gwen ve Büyükbaba Max, yeni çıkan Sumo Slammer video oyununu satın almak için bir video oyunu mağazasının önünde bekliyorlar. Gwen ve Büyükbaba Max kitapçıya giderler, ancak onu kontrol etmek için geri döndüklerinde Dört Kol mağazadan zorla çıkar. Karavana dönerler ve Ben'in zaten orada olduğunu görürler. Gwen, yaptığı şey için Ben'e bağırıyor ama onun neden bahsettiğine dair hiçbir fikri yok. Ancak Four Arms'ın şehre saldırdığına dair doğrudan kanıt sunduğunda Ben, bir kahraman olarak mevcut itibarını zedelemek için uzaylıların kimliğini kullanarak faili bulmak için yola çıkar.",
+                "air_date": "2006-05-31",
+                "still_path": "/nlzGyMosqqw3BZwNKQ63UIGodx.jpg",
+                "video_url": "4371606"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gwen 10",
+                "overview": "Bu \"nasıl?\" Bölümde Gwen, Omnitrix'i ve onunla birlikte gelen gücü alıyor.",
+                "air_date": "2006-06-01",
+                "still_path": "/7tphbctcnd90nDMGRRqmfS7cL5r.jpg",
+                "video_url": "4371607"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kin Maçı",
+                "overview": "Hiçliğin ortasında Ben, Diamond Head rolünde, hâlâ mutasyona uğramış formunda olan Kevin 11 ile savaşır. Onlar savaşırken, farklı uzaylılar arasında bir savaşın yapıldığı bir gemiye götürülürler. Ancak Slix adlı mekanik bir droid, Ben ve Kevin ile ekip olarak bir bağ kurmaya karar verdiğinde, onun fikrini hemen reddederler. Ancak başka çareleri olmadığından bir çıkış yolu bulmaları gerekir. Ben ve Kevin ekip çalışmasının önemini öğrenebilecekler mi?",
+                "air_date": "2006-06-07",
+                "still_path": "/inO8YWxnh8kNmitUXmJXH1GWhVt.jpg",
+                "video_url": "4371611"
+            },
+            {
+                "episode_number": 6,
+                "name": "Galaktik Uygulayıcılar",
+                "overview": "Ben bir müzede oturup bir çizgi roman okur ve kendisinin bir süper kahraman olduğunu hayal eder. Gwen onun sözünü keserken Ben'in sanat eserine davranış tarzından memnun değildir. Günü sıkıcı geçmiştir, ancak bir uzaylı gemisi geldiğinde, Volcanus adında bir uzaylı ve ödül avcısı Sixsix, tüm güneş sistemini yok edecek kadar güçlü bir bomba oluşturmak için Element X ile bir karışımı tamamlamak üzere Biocenthium alaşımının peşine düşer. Aniden Ben, davranış kuralları kapsamında galaksiyi korumaya hizmet eden üç kişilik bir grup olan Galaktik Uygulayıcılarla tanışır. Onların kahramanca görünümleri Ben'in ilgisini çekiyor ama bunlar gerçekten örnek alınacak bir şey mi?",
+                "air_date": "2006-06-13",
+                "still_path": "/iF7MD6NWPZ1oX7NjrcjIczanigI.jpg",
+                "video_url": "4371613"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kamp Korkusu",
+                "overview": "Ben ve Gwen önümüzdeki birkaç ay içinde gerçekleşecek bir doğum günü partisi hakkında tartıştıklarında, Büyükbaba Max kavgalarıyla dikkati dağılır ve neredeyse küçük bir çocuk kampçıya çarpar. Çocuğun hayatını garantiye almak için Camp Opinicon'a giderler, ancak etrafta hiç insan bulamazlar. Binaları araştırırken, cansız kampla bağlantısı olabilecek bir şeyden saklanan ikizlerle karşılaşırlar. Büyükbaba Max çocuklarla birlikte bölgeden ayrılmaya hazırlanır, ancak karavanın motorunun gizemli bir mantarla tıkandığını görür. Çocuklar yakındaki bir kulübede sığınırken, Büyükbaba Max yakalanır. Şimdi Ben, yeni bir uzaylı formunu ve kötü uzaylı Myceloid Canavarları ve Mantar Ustalarını yok etmenin bir yolunu keşfetmek ve paylaşmanın neler yapabileceğini öğrenmek için kurtarmaya gelmelidir.",
+                "air_date": "2006-06-21",
+                "still_path": "/g0eg4xvusspU1b2EY97ncrUtaaA.jpg",
+                "video_url": "4371615"
+            },
+            {
+                "episode_number": 8,
+                "name": "Nihai Silah",
+                "overview": "Teksas'ta bir grup adam, Maya ölüm ve yıkım tanrısı Ah Puch'a ait gizemli bir maske keşfeder. Maske, Ekchuah Kılıcı olarak bilinen dünyadaki en büyük silahın anahtarıdır. Ancak, Büyükbaba Max ve torunları maskenin bulunduğunu öğrendiklerinde, yanlış ellere geçmemesi için sabırsızlıkla maskeyi almaya koyulur. Ne yazık ki, The Organization'dan Enoch'un da peşinde olduğunu öğrenirler. Çocuklar Büyükbaba Max'in nasıl bir hale geldiğinden endişelenirler, ancak Enoch'un yolunda olmasıyla Büyükbaba Max kılıcı önünde bulabilecek midir?",
+                "air_date": "2006-07-06",
+                "still_path": "/mknRv77lo0q2a1GbOiWBsobcE6.jpg",
+                "video_url": "4371617"
+            },
+            {
+                "episode_number": 9,
+                "name": "Zor Şans",
+                "overview": "Hex'in yeğeni Charmcaster, onu hücresinden çıkarmak için tutulduğu yer altı hapishanesine girer. Hex, onun yardımıyla büyülü asasını aldıktan sonra güçlerinin çoğunu geri kazanmayı başardı. Bu sırada Ben, Gwen ve Büyükbaba Max, Las Vegas'ta düzenlenen bir sihir kongresine giderler ve orada Gwen, efsanevi Bazell'in Kilit Taşını bulur. Bununla birlikte Şanslı Kız'ın güçlerini bir kez daha kazanır, ancak Hex ve yeğeninin onun peşinde olduğunu öğrendikten sonra bu durum devam edecek mi?",
+                "air_date": "2006-07-12",
+                "still_path": "/nZKDcXN1gdg6noD366HFZMZgmkX.jpg",
+                "video_url": "4371620"
+            },
+            {
+                "episode_number": 10,
+                "name": "Aşağıda Gizleniyorlar",
+                "overview": "Kahramanlarımız, Büyükbaba Max'in su altı tesisi sahibi eski dostu Donovan Grand Smith'e ait bir jete biniyor. Girişte Donovan tarafından sıcak bir şekilde karşılanırlar, ancak misafirleri konusunda pek de heyecanlı görünmeyen torunu Edwin ile de tanışırlar. Daha sonra Edwin, Ben ve Gwen dev bir denizaltı olan Undersea Manta Ray'e girdiklerinde tüm tesisi yok etme tehdidinde bulunan tuhaf uzaylılarla karşılaşırlar. Çocuklar kendilerini cezbeden kaynağı bulmak için birbirleriyle işbirliği yapmanın bir yolunu bulurken Donovan da torunuyla nasıl daha iyi bağ kurabileceğine dair birkaç ders alır.",
+                "air_date": "2006-07-18",
+                "still_path": "/15mGsAqVnw3VilfZPh4zRUBHx8t.jpg",
+                "video_url": "4371621"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hayalet Çıldırdı",
+                "overview": "Gwen'in katılmak istediği önemli bir akademi turu, esrarengiz uzaylının tezahürleri ve Asit Nefesi, Frightwig ve Thumbskull'un tuhaflıkları nedeniyle bozulduğundan, Ghostfreak'in dehşet verici kabusu, cesareti kırılmış Ben için sorunun yarısı kadardır.",
+                "air_date": "2006-07-25",
+                "still_path": "/exUeoiqRHN4T4pEbbiauYLmaRtr.jpg",
+                "video_url": "4371624"
+            },
+            {
+                "episode_number": 12,
+                "name": "Dr. Animo ve Mutant Ray",
+                "overview": "Tennyson'lar bir bataklığa varır ve burada ertesi gün ilk iş olarak Gatorfest şenlikleri başlar. Gwen, Ben'i Omnitrix'le oynarken bulur ve bunun olağandışı sorunlar yaratabileceği konusunda onu uyarır. Max ve Gwen'in uyarısını dikkate almadan yüzü dışarı çıkarır ve Omnitrix harekete geçer. Hemen bir şeyler ters gitti, ama en azından ertesi güne kadar fark edilmedi. Timsah festivali iyi gidiyordu ama Dr. Animo'nun dev kurbağası gelip bu festivali bozdu. Dr. Animo geri döndü ve Ben'den intikam almak istiyor. Ancak Ben uzaylıya gittiğinde dengesiz özelliklere sahip melez bir uzaylıya dönüşür. Ben bir değişiklik olsun diye dinleme konusunda dersini alabilecek mi?",
+                "air_date": "2006-08-25",
+                "still_path": "/7AnVeQ8KDwzzzHDdE7ahpr0LU4I.jpg",
+                "video_url": "4371628"
+            },
+            {
+                "episode_number": 13,
+                "name": "İntikamla Geri Döndüm",
+                "overview": "Megacruiser uzayda tek başına uçuyor ve içinde Kevin, uzayda bulunan dev buz bloğunu inceliyor. Kitlenin içinde Vilgax vardı ve Kevin mevcut durumunu hafife almıştı. Oldukça hayatta ve iyiydi ve ikisinin de aynı kişinin peşinde olduğunu öğrendikten sonra kısa süre sonra bir ortaklık kurarlar. Ben, Dünya'da Omnitrix'i kontrol etmenin daha iyi bir yolunu bulmayı umarak onunla oynuyor. Sonunda Omnitrix'in ana kontrolünü bulur ve bu ona uzaylılar arasında geçiş yapma ve bir formla süresini uzatma yeteneği verir. Bu keşfi ona daha büyük bir avantaj sağlasa da, ileride yatan tehlikeyi durdurmaya yetecek mi?",
+                "air_date": "2006-10-09",
+                "still_path": "/cLov5u0cgXN7GX2mOr4SbHyqJA5.jpg",
+                "video_url": "4371630"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 13,
+        "air_date": "2006-11-25",
+        "poster_path": "/vbSasBwHfIMrkXBxvZIT7MJL8vV.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ben 10.000",
+                "overview": "Gwen kaçırıldığında Ben, XLR8 olarak onu kaçıran kişiyi geleceğe kadar takip eder ve burada onu kaçıran kişinin gelecekteki Gwen olduğunu keşfederler ve onun Ben ve Büyükbaba Max'in gelecekteki versiyonunu keşfederler. Gelecekte Dr. Animo, Vilgax'ı canlandırır ve Null Void odasını açmak için planlar yapar. Her iki Ben de onları durdurmak için birlikte çalışmalıdır.",
+                "air_date": "2006-11-25",
+                "still_path": "/yb0p4ikGP9Ciw1z6eFwZgcsbx2W.jpg",
+                "video_url": "4371633"
+            },
+            {
+                "episode_number": 2,
+                "name": "Gece Yarısı Delilik",
+                "overview": "Ben hipnotize edildiğinde uyurgezerlik yaparak kanunları çiğnemeye başlar. Sublimino adlı şeytani hipnozcu, emrindeki uzaylıları keşfettiğinde, yüzlerce insanı sonsuza kadar kontrolü altına almak için planlar yapar.",
+                "air_date": "2006-12-02",
+                "still_path": "/tuV9KMpEhoHH4if16qPUu0nyrpp.jpg",
+                "video_url": "4371635"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yüz Değişikliği",
+                "overview": "Geçmişlerini onurlandırmak için Hacılar gibi giyinirken Salem, MA, Ben, Gwen ve Büyükbaba Max sokaklarında yakındaki bir binanın patlamasına tanık olurlar. Ancak Ben aceleyle kurtarmaya gittiğinde Charmcaster, Ben'in vücudunu ve Omnitrix'i ele geçirmek için bir büyüyle orada bekliyor. Ancak işler ters gider ve Gwen ile Charmcaster vücut değiştirir. Gwen hapse girer ve büyücü, Omnitrix'i ele geçirmek için bir plan hazırlamaktadır. Şimdi Gwen hapisten çıkmanın yolunu bulmalı, ailesini Charmcaster'a karşı uyarmalı ve her türlü numarayı kullanarak kendi bedenini geri almalı... ya da Charmcaster'ın.",
+                "air_date": "2006-12-09",
+                "still_path": "/qwybCfWcZfbjLQIWTIO1u8JKWA.jpg",
+                "video_url": "4371638"
+            },
+            {
+                "episode_number": 4,
+                "name": "Mutlu Noeller",
+                "overview": "Ben, Büyükbaba Max ve Gwen, Büyükbaba Max'in Noel Baba olduğunu düşünen ve onu tuzağa düşürmeye çalışan kötü bir varlık tarafından yönetilen tuhaf bir Noel tema parkına rastlarlar.",
+                "air_date": "2006-12-11",
+                "still_path": "/cKGXU7qFDODW5nYMpLdVak84EBG.jpg",
+                "video_url": "4371642"
+            },
+            {
+                "episode_number": 5,
+                "name": "Benkurt",
+                "overview": "Ben, Wildvine olarak kötü bir kurt adama karşı savaşıyor ve ısırılıyor. Omnitrix zaman aşımına uğrar ve Ben insan formuna geri döner. Daha sonra kurt adam Omnitrix'e çarptığında ortalığı karıştırmaya ve tuhaf davranmaya başlar. Tüm bunların ardından Ben, tanıştığı bir kıza aşık olmaya başlar. Ancak Ben yavaş yavaş kurt adama dönüşmeye başlayınca işler değişir.",
+                "air_date": "2007-02-17",
+                "still_path": "/gIKiMqsJxWiinSQARWlQOYnkHGg.jpg",
+                "video_url": "4371644"
+            },
+            {
+                "episode_number": 6,
+                "name": "Oyun Bitti",
+                "overview": "Dışarıda yağmur yağarken Tennyson'lar evde kalıyor ve Ben, vakit geçirmek için video oyunu oynuyor. Gwen katılmaya karar verdiğinde Ben, onun çok daha üstün bir oyuncu olduğunu kıskanır. Bunun yerine Ben, Yükseltme'ye dönüşmeye karar verir ve oyun konsoluyla birleşir. Gwen onu başından savmaya çalışır ama aniden bir yıldırım düşmesi onların video oyununa geçmesine neden olur. Ben'in Omnitrix'i kullanabilmesinin tek yolu, üzerinde farklı uzaylıların olduğu paraları bulmaktır. Dışarı çıkmak için, kötü bir varlığın onu gerçek dünyaya kaçmak için kullanmadan önce Yükseltme parasını bulmaları gerekiyor.",
+                "air_date": "2007-02-24",
+                "still_path": "/jIvBxo2RWNb5i3WYXWBDBz3dMMW.jpg",
+                "video_url": "4371647"
+            },
+            {
+                "episode_number": 7,
+                "name": "Süper Uzaylı Kahraman Buddy Maceraları",
+                "overview": "Ben'in uzaylı kahramanları, Süper Uzaylı Kahraman Buddy Maceraları adlı aptal bir ağ çizgi filminde başrol oynuyor ve en sevdiği aksiyon kahramanı Kanguru Komando da aynı kanal tarafından yayından kaldırıldı, bu yüzden Ben onu televizyona geri döndürmeye ve uzaylı kahramanların övgüsünü almaya çalışıyor. .",
+                "air_date": "2007-03-03",
+                "still_path": "/avPpTxqZvbFEzphDyD9wMyP5PaL.jpg",
+                "video_url": "4371648"
+            },
+            {
+                "episode_number": 8,
+                "name": "Sarılmış",
+                "overview": "Büyükbaba Max, Ben ve Gwen'in sıkı çalışmanın değerini öğrenmesi için onları bir çiftliğe götürür. Bu sırada uzaylı bir mumya, nadir ve tehlikeli bir unsuru ortaya çıkarmak için gelir.",
+                "air_date": "2007-03-10",
+                "still_path": "/hHRuEbLfYHzAsJ0qsBej6bmZVBW.jpg",
+                "video_url": "4371652"
+            },
+            {
+                "episode_number": 9,
+                "name": "Doğal Olmayanlar",
+                "overview": "Kendi takımının maçını izlemek için Küçükler Ligi Dünya Serisi'ne katılan Ben, rakiplerin aslında çocuk gibi davranan robotlar olduğunu keşfeder. Ayrıca Başkanın yerine başka birini getirme planları da var.",
+                "air_date": "2007-03-17",
+                "still_path": "/56Xj9OIYXJljDGc0arky7P7lub7.jpg",
+                "video_url": "4371655"
+            },
+            {
+                "episode_number": 10,
+                "name": "Canavar Hava Durumu",
+                "overview": "Büyükbaba Max, çocukları en sevdiği gruplardan biri olan Shag Carpeting'i izlemeye Chicago'ya götürür. Çocuklar, S.A.M adlı bir robotla hava durumunu tahmin eden bir hava durumu muhabiriyle tanışır. Yağmur yaratmak için robotu kullanıyor ama dev bir yaratık oluşuyor! Ben hızla ilgilenir. Muhabir S.A.M.'yi yok etmeye çalışır, ancak onu bunu yapmamaya ikna eder. SAM. sonra gökyüzüne çıkar ve kaos yaratmaya başlar. Muhabir bunu tekrar durdurmaya çalışır ancak artık kontrol elinde değildir. Ben robotu yok edip şehri felaketten kurtarabilecek mi?",
+                "air_date": "2007-03-24",
+                "still_path": "/4d7l7pV2cj6ZD6IKRQSLg0VLZdq.jpg",
+                "video_url": "4371658"
+            },
+            {
+                "episode_number": 11,
+                "name": "Geri Dönüş",
+                "overview": "Florida otoyolunda giderken, kaçan suçlulardan oluşan bir otobüs karavana çarpıyor. Ben, Stinkfly'a dönüşür (kasıtlı olarak olmasa da) ve onları durdurmaya çalışır. Büyükbabanın becerikli araba sürme becerisinin biraz yardımıyla ve Gwen'in büyüsüyle suçlular tekrar hapse atılır. Haberlerde, Tennyson'lar mor yıldırımın uzay mekiğinin fırlatılmasını geciktirdiğini duyuyor. Kurt adam ve mumya uzaylılarla karşılaştıklarında şimşekleri hatırlayarak Cape Canaveral'a doğru yola çıkarlar. Uzay Merkezi'nde Ben, kurt adam ve mumya uzaylıların ve yeni Frankenstein uzaylısının saldırısına uğrar. Peki mor şimşek neden ortaya çıkıyor ve eski bir \"dost\" ile ne gibi bağları var?",
+                "air_date": "2007-04-07",
+                "still_path": "/8K3HoL3G9Bqcsww1QWidFLZM953.jpg",
+                "video_url": "4371660"
+            },
+            {
+                "episode_number": 12,
+                "name": "Karanlıktan Korkun",
+                "overview": "Ghostfreak'in dönüşü kahramanlarımız için felaket anlamına gelir. Büyükbaba Max ve Gwen uzaydaki mumya uzaylıyla uğraşırken Ben, Dünya'da Ghostfreak ve Dr. Vicktor'la uğraşır. Ghostfreak daha sonra ana planını açıklıyor: Güneş ışığının gezegene ulaşmaması ve kendisinin hükmetebilmesi için Dünya'yı Coronium ile örtmeyi planlıyor. Nöbetteki yeni uzaylının gücüyle Ben, Ghostfreak'i durdurup Büyükbaba ile Gwen'i kurtarabilecek mi?",
+                "air_date": "2007-04-14",
+                "still_path": "/rzfClOTqdBLmgnBoSz9LWPPjwXv.jpg",
+                "video_url": "4371662"
+            },
+            {
+                "episode_number": 13,
+                "name": "Ziyaretçi",
+                "overview": "Kar motosikleti sürerken iki adam yanlışlıkla Xylene adlı bir uzaylıyı garip bir konteynırdan serbest bırakır. Bir parkta Ben (Wildmutt rolünde) Gwen'in uçurtmasını çalar ve Gwen, köpeklerin ona çekilmesini sağlayacak bir büyü yapar. Büyükbaba Max, karısıyla orada tanıştığı için St. Louis'de olduğu için üzgün görünüyor. Ksilen saldırır ve Büyükbaba Max savunmaya gelir, ancak onu tanır. Xylene, Vilgax gemisine saldırdığında onu kaybettiğinden beri Omnitrix'i bulmaya geldiğini açıklar. Büyükbaba Max ve Xylene geçmişten bahsederken Xylene'in olduğu bölgeden bir robot çıkar ve Ben ve Gwen'e saldırır. Mechadroid, Büyükbaba Max'i de yanına alarak iki kez saldırır. Şimdi Ben, Büyükbaba Max'i kurtarmak için (dehşete kapılarak) Xylene ile birlikte çalışmalıdır.",
+                "air_date": "2007-04-21",
+                "still_path": "/i3BgpfRae7YjxRBbKuIYMp9LfsA.jpg",
+                "video_url": "4371664"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 13,
+        "air_date": "2007-07-07",
+        "poster_path": "/lHukjj4afvyDCWC5bx2sk2kbskV.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Mükemmel Gün",
+                "overview": "Enoch ve Sonsuz Şövalyeler geri döner ve Ben, mükemmel bir gün geçirmesi için kandırıldığı bir rüya dünyasına girer. Ancak gördüğü rüya kısa sürede kabusa dönüşür.",
+                "air_date": "2007-07-07",
+                "still_path": "/84b9iA410GtAGSYdXkeWhkvuuQ7.jpg",
+                "video_url": "4371667"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bölünmüş Durumdayız",
+                "overview": "Ben, Ditto adını verdiği başka bir Omnitrix kahramanı kazanır. Gwen, çoğalan Ditto'ların yanında olmaya dayanamaz ve sonunda baş ağrısına neden olurlar. Ancak Ditto'lar, Ditto'nun DNA'sının bir kısmını çıkardıktan sonra Dr. Animo'ya ve onun çoğalan Kokulu Sineklerine karşı gerçekten yararlı olduklarını kanıtlarlar.",
+                "air_date": "2007-07-14",
+                "still_path": "/nEPVsX1LIzI1aiVq7qOoJBaA3fU.jpg",
+                "video_url": "4371669"
+            },
+            {
+                "episode_number": 3,
+                "name": "Suyu İçmeyin",
+                "overview": "Büyükbaba Max ve Ben, Gençlik Çeşmesi'nden gelen suyla temas ettikten sonra yeniden çocuk olurlar. Artık Hex'in çeşmenin kaynağını bulmasını engellerken onlarla ilgilenmek Gwen'e kaldı.",
+                "air_date": "2007-07-21",
+                "still_path": "/hHPT7Arodaf3J6FJr9BGi5NoH7W.jpg",
+                "video_url": "4371671"
+            },
+            {
+                "episode_number": 4,
+                "name": "Büyük Şişman Uzaylı Düğünü",
+                "overview": "Ben, Gwen ve Büyükbaba Max bir aile düğününe katılırlar. Tören sırasında garip bir uzaylı saldırır. İkisi bu garip düğünü tamamlayabilecek mi?",
+                "air_date": "2007-07-28",
+                "still_path": "/u8sTIwwePMuj86EeTPdekL8LLyJ.jpg",
+                "video_url": "4371675"
+            },
+            {
+                "episode_number": 5,
+                "name": "Omnitrix'in Sırrı (1)",
+                "overview": "Dr. Animo ile yapılan bir savaş sırasında Omnitrix kazara kendi kendini yok edecek şekilde ayarlanır. Ben, Gwen ve Tetrax, bunu durdurmak için uzayda seyahat ederek Omnitrix'in yaratıcısı Azmuth'un izini sürer.",
+                "air_date": "2007-08-04",
+                "still_path": "/5UoMR5PIkpsAto7ajsuL7D853ou.jpg",
+                "video_url": "4371679"
+            },
+            {
+                "episode_number": 6,
+                "name": "Omnitrix'in Sırrı (2)",
+                "overview": "Dr. Animo ile yapılan bir savaş sırasında Omnitrix kazara kendi kendini yok edecek şekilde ayarlanır. Ben, Gwen ve Tetrax, bunu durdurmak için uzayda seyahat ederek Omnitrix'in yaratıcısı Azmuth'un izini sürer.",
+                "air_date": "2007-08-04",
+                "still_path": "/2bhqf24f6gfNjQ5BoAzDXaWGHLt.jpg",
+                "video_url": "4371680"
+            },
+            {
+                "episode_number": 7,
+                "name": "Omnitrix'in Sırrı (3)",
+                "overview": "Dr. Animo ile yapılan bir savaş sırasında Omnitrix kazara kendi kendini yok edecek şekilde ayarlanır. Ben, Gwen ve Tetrax, bunu durdurmak için uzayda seyahat ederek Omnitrix'in yaratıcısı Azmuth'un izini sürer.",
+                "air_date": "2007-08-04",
+                "still_path": "/hTv8YF6fkXMvRPfcLBzdqpl2e2q.jpg",
+                "video_url": "4371682"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ben 4 İyi Arkadaş",
+                "overview": "Çölde bir otoyolda karavan, onu soygun yapmak için kullanan bir grup günümüz korsanı tarafından çalınır.",
+                "air_date": "2007-09-22",
+                "still_path": "/dA8RzkQJ2utc6sJ7wdurfBVUnSx.jpg",
+                "video_url": "4371684"
+            },
+            {
+                "episode_number": 9,
+                "name": "Gürlemeye Hazır",
+                "overview": "Ben, yanlışlıkla Gwen'in dizüstü bilgisayarını kırınca, Gwen'in kırılan dizüstü bilgisayarının yerine yeni bir dizüstü bilgisayar almak için para ödülünü almak amacıyla Dört Kol olarak \"Ultimate Wrestling Competition\"a katılır.",
+                "air_date": "2007-09-29",
+                "still_path": "/cTIRCsa8GNANeTImH3oZhhdObYZ.jpg",
+                "video_url": "4371686"
+            },
+            {
+                "episode_number": 10,
+                "name": "Ken 10",
+                "overview": "Gelecekte Ben, oğlu Ken'e 10. yaş günü için bir Omnitrix verir. Ancak Ben'in bu güç konusunda ona güvenmeyi öğrenmesi gerekecek.",
+                "air_date": "2007-10-06",
+                "still_path": "/7nHAMThsvbVIXd5MIe278ckD3bM.jpg",
+                "video_url": "4371691"
+            },
+            {
+                "episode_number": 11,
+                "name": "Ben 10, Negatif 10'a Karşı (1)",
+                "overview": "Ben, Gwen, Cooper ve Büyükbaba Max, karşılaştıkları kötü adamlara karşı son savaşlarıyla karşı karşıya kalacaklar ve dünyanın en güçlü enerji kaynağını elde etmek için savaşacaklar.",
+                "air_date": "2008-03-09",
+                "still_path": "/8UUltQOFSsJ2YXrKsEttSzB4nXX.jpg",
+                "video_url": "4371692"
+            },
+            {
+                "episode_number": 12,
+                "name": "Ben 10, Negatif 10'a Karşı (2)",
+                "overview": "Sonsuza Kadar Kral planını harekete geçirir ve dünyanın en güçlü enerji kaynağını çalmak için Ben'in karşılaştığı en güçlü düşmanları işe alır.",
+                "air_date": "2008-03-09",
+                "still_path": "/3AkXj4Ptn286vYQgqcYZXeIqU6J.jpg",
+                "video_url": "4371694"
+            },
+            {
+                "episode_number": 13,
+                "name": "Güle Güle ve Geçmiş Olsun",
+                "overview": "Nihayet yaz bitiyor. Ben ve Gwen'in normal hayatlarına dönmeleri gerekiyor. Büyükbaba Max, Ben'e Omnitrix'i herkesten, hatta ebeveynlerinden bile bir sır olarak saklamasını söyler. Ben de aynı fikirde ama Vilgax gelir ve Omnitrix'i almak için hiçbir şeyden vazgeçmeyecektir.",
+                "air_date": "2008-04-15",
+                "still_path": "/fU6AcVrQVnbTtDYWmgKBBjo9wif.jpg",
+                "video_url": "4371695"
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2012-01-10",
+        "poster_path": "/jqYxDsjTZu2UAJogV33DyJVfTAx.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kaba Taslak",
+                "overview": "Kouichi Sakakibara, Yomiyama'ya yeni geldi ve akciğer çökmesi nedeniyle çoktan hastaneye kaldırıldı. Yerel ortaokula neredeyse bir ay geç katıldıktan sonra, hastanedeyken tanıştığı biriyle, gözü bantlı, sessiz bir kızla arkadaş olur.",
+                "air_date": "2012-01-10",
+                "still_path": "/gL1dsaldUwMnkoyT5QS8JwnTKSI.jpg",
+                "video_url": "4521166"
+            },
+            {
+                "episode_number": 2,
+                "name": "Taslak",
+                "overview": "Kouichi'nin Mei ile arkadaşlığı tek taraflı gibi görünüyor. Onunla konuşmak için her fırsatı değerlendiriyor ama kadın onun ne dediğini hiç anlamıyor gibi görünüyor. Cevapları gün geçtikçe daha şifreli görünüyor ve sınıf arkadaşları giderek şüphelenmeye başlıyor.",
+                "air_date": "2012-01-17",
+                "still_path": "/A3WzOjjmHqPU14DFDCUIxJGD5Ps.jpg",
+                "video_url": "4521167"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kemik Çalışması",
+                "overview": "Eski bebeklerle dolu bir stüdyo, Mei'nin Kouichi'ye 26 yıl önce üç öğrencinin gizemli ölümünün hikayesini anlatması için mükemmel bir yerdir. Sınıf arkadaşlarından daha fazla bilgi almak zor olsa da teyzesi Reiko ona daha fazlasını anlatmaya hazırdır.",
+                "air_date": "2012-01-24",
+                "still_path": "/gdji6G79NQFlOGCwvLdvlrHKCdK.jpg",
+                "video_url": "4521169"
+            },
+            {
+                "episode_number": 4,
+                "name": "Eti Koy",
+                "overview": "\"3. Sınıf Laneti\" söylentisi, bir öğrencinin ani ve kaza sonucu ölümüyle ün kazanır. Daha fazlasını öğrenmek için çaresiz kalan Kouichi, ona başka bir şey söylemeyi reddeden Mei'ye döner. Karşı önlemlerin şefi Izumi Akazawa, Sınıf 3 ile ilgili soruşturmaya başlar.",
+                "air_date": "2012-01-31",
+                "still_path": "/o165YyA0LbT3rMPS3oY9m5ulOmB.jpg",
+                "video_url": "4521172"
+            },
+            {
+                "episode_number": 5,
+                "name": "Uzuvlar Oluşturun",
+                "overview": "Mizuno'nun tuhaf kazasının ardından 3. Sınıfta gerilim yükselir ve Izumi, Kouichi'nin haberi olmadan yeni Sınıf Subayı olarak seçilir. Söylentiler yayılıyor ama kimse bir şey söylemeye yanaşmıyor.",
+                "air_date": "2012-02-07",
+                "still_path": "/1UH7aX14V3wJvTvboKHF24pRsm3.jpg",
+                "video_url": "4521173"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yüz Yüze",
+                "overview": "Son 26 yıldır Sınıf 3'te daha fazla felaket olayını önlemek için bir büyü yaratıldı. Kouchi çevresinde olup biteni kabullenmeye başlar. Ancak bunu mantıksız buluyor ve Mei ile daha fazla zaman geçirmeye başlıyor.",
+                "air_date": "2012-02-14",
+                "still_path": "/24L58UoU0wYY37vcebgyHVsRo8c.jpg",
+                "video_url": "4521174"
+            },
+            {
+                "episode_number": 7,
+                "name": "Küre Eklemi",
+                "overview": "Taze kan dökülür ve 3. Sınıf lanetin durmadığını fark eder. Büyü ritüelleri iptal edildi. Herkes gergin ve aralarında kimin gerçekten öldüğünü merak ediyor. Bu sırada Kouichi, 15 yıl önceki bir olayı öğrenir.",
+                "air_date": "2012-02-21",
+                "still_path": "/hCkAlvlzPmqqdXbK2auvmt7bxSU.jpg",
+                "video_url": "4521177"
+            },
+            {
+                "episode_number": 8,
+                "name": "Saç Teli",
+                "overview": "Bir tatil oteli, Kouichi, Reiko ve Matsunaga'nın buluşma noktasıdır. Kumsalda güneşlenerek bir gün geçirirlerken yakınlarda kalan Mei ile karşılaşırlar.",
+                "air_date": "2012-02-28",
+                "still_path": "/uPz4FnOHLh3luzWTN6MHVObSORS.jpg",
+                "video_url": "4521178"
+            },
+            {
+                "episode_number": 9,
+                "name": "Vücut Boyası",
+                "overview": "Yomiyama'nın dışında beklenmedik bir kaza, Sınıf 3'ü bir kez daha gergin hale getirir. Matsunaga'nın belirsiz fısıltıları sınıfa işaret ettikten sonra Kouichi, eski okul binasındaki eski 3. Sınıf sınıfını araştırmaya karar verir.",
+                "air_date": "2012-03-06",
+                "still_path": "/xQbLWVyHlBFZnmLke54OQMHiTAP.jpg",
+                "video_url": "4521180"
+            },
+            {
+                "episode_number": 10,
+                "name": "Cam Göz",
+                "overview": "Yaralı sayısı artmaya devam ediyor ve Kouichi'nin Matsunaga'nın kasetini araması başarılı oluyor. Sınıf gezisi sırasında arkadaşlar dinlemek ve Matsunaga'nın laneti durdurmak için ne yaptığını öğrenmek için bir araya gelir.",
+                "air_date": "2012-03-13",
+                "still_path": "/oSwBSqkncyLbajEThhmsht3CMkO.jpg",
+                "video_url": "4521183"
+            },
+            {
+                "episode_number": 11,
+                "name": "Makyaj Yapmak",
+                "overview": "Matsunaga'nın kaseti sonunda laneti durdurmak için gereken sırları ve önlemleri ortaya çıkardı. Kouichi ve arkadaşları, kaset aniden ortadan kaybolunca daha fazla felaketi nasıl önleyeceklerini bulmaya çalışırlar.",
+                "air_date": "2012-03-20",
+                "still_path": "/ekDiOXRXDWnzb2z2sYQKF4ksjmt.jpg",
+                "video_url": "4521184"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kendi Başına Kalmak",
+                "overview": "Öğrenciler çaresizce 3. Sınıf Laneti tamamen durdurmanın anahtarını ararken, lojman koridorlarında kaos kol geziyor. Kouichi, başka bir kurban iddia edilmeden önce cevabı bulabilecek mi?",
+                "air_date": "2012-03-27",
+                "still_path": "/p1aIh99v6r5Uy8ThrqUljP5S6sZ.jpg",
+                "video_url": "4521186"
+            }
+        ]
+    }
+}

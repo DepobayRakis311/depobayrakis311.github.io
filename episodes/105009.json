@@ -1,0 +1,411 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 50,
+        "air_date": "2021-04-11",
+        "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yeniden Doğmak",
+                "overview": "Hanagaki Takemichi çöplükte olan değersiz bir yarı zamanlı işçidir. Takemichi, eski kız arkadaşının öldürüldüğü haberi karşısında şok olur, ancak aniden demiryolu raylarına itilince günlük hayatına devam eder.",
+                "air_date": "2021-04-11",
+                "still_path": "/6FcmZTXklg6ONMC11H0sqiMBpZ7.jpg",
+                "video_url": "4291173"
+            },
+            {
+                "episode_number": 2,
+                "name": "Direnmek",
+                "overview": "Takemichi, Naoto ile el sıkıştıktan sonra günümüze geri döner ve artık polis memuru olan Naoto ile yeniden bir araya gelir. Naoto, Takemichi'den zamanda geriye gitmesini ve Tokyo Manji Çetesi'nin iki liderinin buluşmasını engellemesini ister.",
+                "air_date": "2021-04-18",
+                "still_path": "/f0ZhZ7fc7kWafyugqHbX7CoWhfO.jpg",
+                "video_url": "4296017"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çözmek",
+                "overview": "Takemichi, biraz zayıf olan arkadaşı Yamamoto Takuya'yı korumak için Kiyomasa'yı dövüşe davet eder. Takemichi'nin ezilmesine rağmen geri adım atmaması Kiyomasa'yı paniğe sürüklemeye başlar. Ardından Tokyo Manji Çetesi'nin komutanı ve komutan yardımcısı Sano Manjiro, AKA Mikey ve Ryuguji Ken, AKA Draken ortaya çıkıyor.",
+                "air_date": "2021-04-25",
+                "still_path": "/3egxb6LOeuuxOmtFJijFr9Va5h.jpg",
+                "video_url": "4301461"
+            },
+            {
+                "episode_number": 4,
+                "name": "Geri Dönmek",
+                "overview": "Takemichi, ortaokul günlerinde Hinata ile mutlu zamanlar geçirir ama sonra aniden şimdiki zamana geri döner.",
+                "air_date": "2021-05-02",
+                "still_path": "/bJAhezqKrwaL14vnxZxISHR5ptk.jpg",
+                "video_url": "4306747"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yeniden Sıçrama",
+                "overview": "Takemichi bir kez daha zamanda geriye giderek kararlılığını tazeler, ancak gözlerini açtığında, tanımadığı bir kızın sadece iç çamaşırını giyerek ona baktığını görür.",
+                "air_date": "2021-05-09",
+                "still_path": "/mR9h9yI9jr5n10QRpGw4deQStnD.jpg",
+                "video_url": "4311077"
+            },
+            {
+                "episode_number": 6,
+                "name": "Pişmanlık",
+                "overview": "Pah-chin'in arkadaşı Moebius tarafından vahşice saldırıya uğradığından Tokyo Manji Çetesi Moebius'la savaşmaya karar verir. Naoto'ya göre Draken, Moebius ile olan çatışma nedeniyle değil, Tokyo Manji Çetesi arasındaki bir iç çatışma nedeniyle ölüyor. Takemichi, o gün gerçekte ne olduğunu öğrenmek için Moebius'un lideri Osanai ile konuşmak için günümüze geri döner.",
+                "air_date": "2021-05-16",
+                "still_path": "/6vC4aDuRfpHiyoNdqhW4KCWRYpz.jpg",
+                "video_url": "4316034"
+            },
+            {
+                "episode_number": 7,
+                "name": "Canlandırmak",
+                "overview": "Takemichi geçmişe döner ve Tokyo Manji Çetesi ile Moebius arasında yaklaşan çatışmayı durdurmaya çalışır, ancak Mikey ve Pah-chin fikirlerini değiştirmeyi reddeder. Bu sırada Osanai, sürpriz bir saldırı başlatmak için Moebius üyeleriyle birlikte içeri girer. Pah-chin, Osanai'yi bire bir karşılaşmaya davet eder, ancak Osanai ondan iki yaş büyüktür ve onu ezip geçer. Buna rağmen Mikey müdahale etmiyor ve olup biteni izlemeye devam ediyor...",
+                "air_date": "2021-05-23",
+                "still_path": "/w0Ivwpsw4kc0kIhy9D23DTVqUSK.jpg",
+                "video_url": "4320061"
+            },
+            {
+                "episode_number": 8,
+                "name": "Değiştir",
+                "overview": "Moebius'un başının başlattığı saldırının ardından Mikey ve Draken birbirleriyle anlaşmazlığa düşer ve ardından yaralanan Takemichi'yi ziyarete gider. Takemichi, ikisi kavga edip onun değerli eşyalarından bazılarını yok edince çileden çıkar. Akkun ve diğerleri onu durdurmaya çalışır, ancak Takemichi gözyaşlarına boğularak Toman'ın kendisi için ne kadar önemli olduğunu söyler. Sözleri Mikey ve Draken'ı etkiliyor ve barışmaları sayesinde görev başarılı olmuş gibi görünüyor, ama...",
+                "air_date": "2021-05-30",
+                "still_path": "/qNkYATNFMbApgvATdk2fU4w3zYa.jpg",
+                "video_url": "4324194"
+            },
+            {
+                "episode_number": 9,
+                "name": "Isyan",
+                "overview": "Naoto'dan bazı bilgiler alan Takemichi, Draken'in ölmesi gereken otoparka gider. Draken'ın Moebius'la tek başına mücadele ettiğini görür. Takemichi ve Mitsuya, Draken'a yardım etmeye çalışır, ancak Moebius üyelerinin sayısından bunalırlar. İşte o zaman \"Draken avının\" arkasındaki kişi kendini gösterdi.",
+                "air_date": "2021-06-06",
+                "still_path": "/4WYP6vds19yH7CqGvsLUhy51QfJ.jpg",
+                "video_url": "4328569"
+            },
+            {
+                "episode_number": 10,
+                "name": "Yeniden Doğuş",
+                "overview": "Toman ile Moebius arasındaki mevcut liderleri Hanma Shuji liderliğindeki savaş tüm hızıyla devam ederken Draken, Kiyomasa tarafından bıçaklanır. Mikey ağır yaralanan Draken'a ulaşmaya çalışır ama Hanma yoluna çıkmaya devam eder. Mikey daha sonra Takemichi'den onunla ilgilenmesini ister. Ambulans beklerken Kiyomasa ve haydutları yollarına çıkar. Takemichi, Draken'ı korumak için Kiyomasa'ya bire bir meydan okur ve onunla sorunları kesin olarak halletmeye çalışır.",
+                "air_date": "2021-06-13",
+                "still_path": "/n6vwasg7CIjbAvtLIBwaMdSi7Dc.jpg",
+                "video_url": "4333039"
+            },
+            {
+                "episode_number": 11,
+                "name": "Saygı",
+                "overview": "Takemichi, büyük bir azimle Kiyomasa'yı bire bir yenmeyi başarır ve Akkun ve diğerlerinin yardımıyla Draken'ı ambulansa götürene kadar koruyabilirler. Ancak Draken hâlâ bilinçsizdir. Bu arada Toman ile Moebius arasındaki kavga da sona erdi. Hanma ayrılırken Mikey'yi Valhalla'nın yaratılışı ve kendisinin bu yeni çetenin komutan yardımcısı olduğu konusunda uyarır.",
+                "air_date": "2021-06-20",
+                "still_path": "/1X0VRPm7hCzFxqD2r9X0owXNmtu.jpg",
+                "video_url": "4336953"
+            },
+            {
+                "episode_number": 12,
+                "name": "İntikam",
+                "overview": "Takemichi, Draken'in hayatını kurtardıktan sonra geleceğe döner ve Akkun'un kuaför olma hayallerinin gerçekleştiğini ve Toman'ın Hina'yı öldüren kazasının asla gerçekleşmediğini öğrenir. Naoto ile yeniden bir araya geldikten sonra Hina'nın hayatta olduğunu öğrenir ve onu görmeye giderler. Takemichi onu görmeleri gerektiğinden hemen önce bazı şüpheler yaşamaya başlar çünkü hiç değişmediği gerçeğinden utanır ve aniden onu görmek istemediğini söyler.",
+                "air_date": "2021-06-27",
+                "still_path": "/5JjriIqwqK5i3BhGlyFDSOWA0EE.jpg",
+                "video_url": "4340242"
+            },
+            {
+                "episode_number": 13,
+                "name": "Döküntüler",
+                "overview": "Hinata'nın cenazesinin ardından Takemichi, kederli Naoto'ya bundan sonra ne yapmayı planladığını anlatır. Draken Mikey'nin yanında kalmasına rağmen neden aynı gelecek yaşandı? Takemichi, Draken'ı görmeye gidip kendisine sormak istediğine karar verir, ancak onun artık bu dünyada Toman'da olmadığını ve idam edilmek üzere olduğunu öğrenirler.",
+                "air_date": "2021-07-04",
+                "still_path": "/r7IfbXvxQ8NGmNdhJXquYtCqnje.jpg",
+                "video_url": "4345404"
+            },
+            {
+                "episode_number": 14,
+                "name": "Ayrılmak",
+                "overview": "Tokyo Manji Çetesi, Üçüncü Ligleri için yeni bir kaptanı karşıladı ve bu, Moebius'un eski üyesi Kisaki'ydi. Bazı üyeler şüphelerini dile getiriyor, ancak Mikey, yeni tehditleri Valhalla ile yüzleşmek için Kisaki'nin gücüne ihtiyaçları olduğunu açıklıyor. Ancak Takemichi, Kisaki'nin Toman'ın yavaş yavaş kötülüğe dönüşmesinin ve Hina ile Akkun'un hayatlarını kaybetmesinin sebebi olduğunu biliyordu, bu yüzden kendini tutamadı ve...",
+                "air_date": "2021-07-11",
+                "still_path": "/vsELfbgRw3Ez7MvdjIEFAdvpJgb.jpg",
+                "video_url": "4352940"
+            },
+            {
+                "episode_number": 15,
+                "name": "Emeksiz Yemek Olmaz",
+                "overview": "Mikey, Takemichi'den eski Birinci Lig Kaptanı Baji Keisuke'yi Valhalla'dan getirmesini ister. Mikey, Takemichi bu görevde başarılı olursa Kisaki'nin Toman'dan ayrılmasını kabul eder, ancak başarısız olursa onu öldürmekle de tehdit eder. Takemichi, suçlular hakkında bilgi sahibi olan Yamagishi'den Valhalla hakkında bir ders alırken Valhalla'nın 3 Nolu Hanemiya Kazutora karşılarına çıkar.",
+                "air_date": "2021-07-18",
+                "still_path": "/vhjIqpf7K75fAGIpH9PJVI8YKyP.jpg",
+                "video_url": "4360944"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bir Zamanlar",
+                "overview": "2 yıl önce, Mikey, Draken, Baji, Mitsuya, Pah-chin ve Kazutora çete üniformalarını yaptırdılar ve hepsi motosikletleriyle Kanagawa'ya doğru bir yolculuğa çıktılar. Bu arada, komutanları Mikey mopedi Street Hawk'ı sürüyordu. Yerel bir motorcu çetesi tarafından çevrelenirler, ancak Mikey korku göstermez ve daha yaşlı çete üyelerine Street Hawk'ına bir parmak bile dokundururlarsa onları öldüreceğini söyler.",
+                "air_date": "2021-07-25",
+                "still_path": "/pQFZAaNPfOuEqMFdwzCJTFSDZ0l.jpg",
+                "video_url": "4368124"
+            },
+            {
+                "episode_number": 17,
+                "name": "Mümkün Değil",
+                "overview": "Takemichi, Baji ve Kazutora'nın geçmişini öğrenir ve Baji'yi Toman'a geri getirmenin ne kadar zor olacağını anlar. Ertesi gün Takemichi, Mikey'ye verdiği söz konusunda ne yapacağını bulmaya çalışırken Baji'nin ikinci komutanı Matsuno Chifuyu karşısına çıktı. Chifuyu, Baji'nin Valhalla'ya Toman'ı ezmek için değil, Valhalla'ya sızmak ve Kirisaki'yi ifşa etmek için katıldığına inanıyor gibi görünüyor.",
+                "air_date": "2021-08-01",
+                "still_path": "/7xJjcQDAXp02UYtbqPaoDAWTxPJ.jpg",
+                "video_url": "4375493"
+            },
+            {
+                "episode_number": 18,
+                "name": "Ateş Aç",
+                "overview": "Günümüzde Draken, Takemichi'ye Kazutora'nın Kanlı Cadılar Bayramı'nda Baji'yi, Toman ve Valhalla'ya karşı mücadeleyi ve Mikey'nin Kazutora'yı öldürdüğünü söyler. Bu nedenle Mikey karanlığa düşer ve Toman, Valhalla tarafından ele geçirilir ve bu da şu anda Kisaki tarafından yönetilen şeytani organizasyona yol açar. Takemichi yeni bir görevle geçmişe dönüyor: Bu trajedinin yaşanmaması için Baji'yi korumak.",
+                "air_date": "2021-08-08",
+                "still_path": "/wVdKa97ErBzEa2FbBuFpF6i2EUz.jpg",
+                "video_url": "4380756"
+            },
+            {
+                "episode_number": 19,
+                "name": "Arkanı Dön",
+                "overview": "Toman'ın Valhalla tarafından ele geçirilmesiyle sonuçlanan Kanlı Cadılar Bayramı çatışması nihayet başladı. Hanma ve suçlulardan oluşan ordusu, Toman'ı alt ederken Draken diğer Toman üyelerini korumak için elinden geleni yapar ve onu dezavantajlı duruma düşürür. Ancak Toman üyeleri, Takemichi'nin ne kadar çaresizce Baji ve Mikey'yi kurtarmaya çalıştığını görüyor ve onların savaşma ruhlarını bir kez daha alevlendiriyor.",
+                "air_date": "2021-08-15",
+                "still_path": "/zvzHveT5QouqOUCCRmw6FcmgIzV.jpg",
+                "video_url": "4387257"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ölü Ya Da Diri",
+                "overview": "Kanlı Cadılar Bayramı sırasında Mikey, uzuvları bağlı olarak Kagetora'ya karşı 1'e 3'lük bir dövüşe girdi. Kazutora pipoyla kafasına vurduktan sonra Mikey dizlerinin üzerine çöker. Valhalla üyeleri bunu Yenilmez Mikey'nin işini bitirmek ve ona ulaşmaya çalışmak için bir şans olarak görüyor. Draken ve Takemichi, Mikey'yi kurtarmaya çalışır ama çok uzaktadırlar. Ama sonra oldukça şaşırtıcı bir kişi Mikey'nin yardımına geldi.",
+                "air_date": "2021-08-22",
+                "still_path": "/1BwUPV4RHuxUVeQC1ZzOLuYMs5C.jpg",
+                "video_url": "4393594"
+            },
+            {
+                "episode_number": 21,
+                "name": "Biricik",
+                "overview": "Baji, Kisaki'ye ulaşabilmek için Valhalla'ya sızmıştı. Şiddetli bir savaşın ardından Kisaki'ye ulaşmayı başarır ama kan kusar ve yere düşer. Mikey bunu görür ve bir saniye içinde Hanma'yı dışarı çıkarır ve Kazutora'ya acımasızca defalarca yumruk atmaya başlar. Bu, gelecekteki Draken'ın Takemichi'ye anlattığı sahneydi. Bu gidişle Mikey, Kazutora'yı öldürecek, Kisaki Toman'ı ele geçirecek ve trajik gelecek yine yaşanacak. Takemichi onu durdurmaya çalışır ama Mikey'nin öfkesi çok büyüktür ve...",
+                "air_date": "2021-08-29",
+                "still_path": "/AnrF7wDI5CvLXxQuFEH8CUfDCo0.jpg",
+                "video_url": "4399831"
+            },
+            {
+                "episode_number": 22,
+                "name": "Hepsi için Bir",
+                "overview": "İki yıl önce Mikey, Kazutora'nın motosiklet çetesi Kara Ejderhalar ile çekiştiğini öğrenir ve onlarla da savaşmaya karar verir. Ancak bir motosiklet çetesiyle mücadele etmek için geçerli bir amaç duygusu istiyordu. Baji daha sonra kendi motosiklet çetelerini kurmalarını önerir. Hepsinin birbirleri için hayatlarını tehlikeye atabilecekleri bir çete yaratmak istiyorlar. Baji, çetelerini kurdukları ve paralarını bir trafik güvenliği büyüsü satın almak için bir araya getirdikleri gün verdikleri sözü korumak için tek başına mücadele ediyordu.",
+                "air_date": "2021-09-05",
+                "still_path": "/qK25ayIJZKY0HTmBXGbHnbdJcCZ.jpg",
+                "video_url": "4407671"
+            },
+            {
+                "episode_number": 23,
+                "name": "Savaşın Sonu",
+                "overview": "Toman ile Valhalla arasındaki Kanlı Cadılar Bayramı olarak adlandırılan çatışma Toman'ın zaferiyle sonuçlanır, ancak Baji öldürülür ve Kazutora tutuklanır. Takemichi fazla bir şey yapamadığı için üzgün ama Mikey'nin Kazutora'yı öldürmesini engellemeyi başardılar. Draken ile Kazutora'yı ziyarete gittikten sonra Draken'in evine giderler.",
+                "air_date": "2021-09-12",
+                "still_path": "/41Ocdf3HTe0iPAoR320PvKcW0EY.jpg",
+                "video_url": "4414087"
+            },
+            {
+                "episode_number": 24,
+                "name": "Ağlayan Bebek",
+                "overview": "Takemichi ilk Toman toplantısına ceketini giymiş bir şekilde gider ve Valhalla'nın yardımcı komutanı Hanma ve Chifuyu'nun Mikey'nin yanında durduğunu görünce şaşırır. Sadece bu değil, tüm bunları ayarlayanın Kisaki Tetta olduğunu öğrenir. Takemichi, Baji'nin Toman'ı korumak için kendi hayatını feda etmesine rağmen geleceği tekrar değiştiremediğini anlayınca umutsuzluğa kapılır. Ve sonra, Chifuyu der ki...",
+                "air_date": "2021-09-19",
+                "still_path": "/bQH23udylJmaQByLhUo7RMejQzX.jpg",
+                "video_url": "4420869"
+            },
+            {
+                "episode_number": 25,
+                "name": "Neyse Ne",
+                "overview": "Günümüzde Takemichi, Toman'da subay olduğunu öğrenince şaşkına döner. Kisaki onu kandırmak için bir fırsat yakalar ve Takemichi kendini bir silahın namlusuna bakarken bulur.",
+                "air_date": "2023-01-08",
+                "still_path": "/cbyFfJCGC8HK19veH775EZ2w5TC.jpg",
+                "video_url": "5015084"
+            },
+            {
+                "episode_number": 26,
+                "name": "Gitmeliyim",
+                "overview": "Geçmişte Takemichi, Hakkai ve Yuzuha Shiba ile tanışır ve dostane bir bağ kurar. Shiba'nın evine giderken Kara Ejderha ile şans eseri karşılaşması şiddete dönüşür.",
+                "air_date": "2023-01-15",
+                "still_path": "/8YEksZz1ScqME9nJ3ICfFuC07FK.jpg",
+                "video_url": "5093315"
+            },
+            {
+                "episode_number": 27,
+                "name": "Yalnız Kal",
+                "overview": "Takemichi is beaten to a pulp by Taiju Shiba. In order to save Takemichi, Hakkai proposes a bargain to Taiju.",
+                "air_date": "2023-01-22",
+                "still_path": "/gxbRYBKhBAXTBO4hiR2hXnc5DLb.jpg",
+                "video_url": "5093317"
+            },
+            {
+                "episode_number": 28,
+                "name": "Aile Bağları",
+                "overview": "Hakkai, Black Dragon'a katılmayı teklif ettiğinde felaket önlenir. Ancak Mitsuya, Hakkai'nin Toman'dan ayrılmasına izin vermez ve Taiju ile yüzleşir.",
+                "air_date": "2023-01-29",
+                "still_path": "/skQXNMiZAhL0YVm4DyIC6kRUX67.jpg",
+                "video_url": "5093318"
+            },
+            {
+                "episode_number": 29,
+                "name": "Noel Arifesi",
+                "overview": "Kisaki ve Hanma, Hakkai'yi kurtarmak ve Kara Ejderhayı yok etmek için Takemichi ve Chifuyu'ya yardım teklif eder. Takemichi ve Chifuyu bir karara varır.",
+                "air_date": "2023-02-05",
+                "still_path": "/qyHveCWXnnoTuBr6bsTaYHLaYC2.jpg",
+                "video_url": "5093322"
+            },
+            {
+                "episode_number": 30,
+                "name": "Moralinizi Yükseltin",
+                "overview": "İttifak üyeleri, her birinin kendi dürtüleriyle hareket ederek Noel gecesi kiliseye gider.",
+                "air_date": "2023-02-12",
+                "still_path": "/5vfXhIm9BP9KgzHbzmsyfgn8WS5.jpg",
+                "video_url": "5093327"
+            },
+            {
+                "episode_number": 31,
+                "name": "Kardeş Rekabeti",
+                "overview": "Yuzuha'nın Taiju'ya yaptığı sürpriz saldırı amacına ulaşamaz. Takemichi, Yuzuha'nın geleceği değiştirmenin anahtarı olduğunu anlar ve kavgaya geri döner.",
+                "air_date": "2023-02-19",
+                "still_path": "/vo9aaS5l8HcNx8iwU8GdPCtqYYZ.jpg",
+                "video_url": "5093329"
+            },
+            {
+                "episode_number": 32,
+                "name": "Birlikte Çabalayın",
+                "overview": "Mitsuya kiliseye gelir ancak sürpriz bir saldırıda ciddi şekilde yaralanır. Kendini başka bir çıkmazın içinde bulan Takemichi, kendini toplar ve Black Dragon'un geleceğine ilişkin cesur bir açıklama yapar. Taiju onu alt etmeye devam etse de Takemichi onunla tekrar yüzleşmeye devam ediyor.",
+                "air_date": "2023-02-26",
+                "still_path": "/cxZKJG6Sp2uiJ4wHX6r7GNhun07.jpg",
+                "video_url": "5093333"
+            },
+            {
+                "episode_number": 33,
+                "name": "Yeni Bir Çağın Doğuşu",
+                "overview": "Sırrını açıklayan Hakkai, kardeşine karşı korkusunu yener ve Takemichi ile Taiju'yla yüzleşir. Tam da yenilginin eli kulağında olduğu sırada, tanıdık bir bisiklet motorunun sesi Mikey'nin kiliseye gelişinin habercisidir. Ancak onda bir tuhaflık var gibi görünüyor.",
+                "air_date": "2023-03-05",
+                "still_path": "/qnmwsRVFYdugSWoKAZrNMyYvNVI.jpg",
+                "video_url": "5093338"
+            },
+            {
+                "episode_number": 34,
+                "name": "Hayatımın Işığı",
+                "overview": "Takemichi, Black Dragon'u yendikten sonra kendisini Mikey tarafından Hina'nın evine, bir gün önce ayrıldığı kızla yüzleşmeye götürülürken bulur.",
+                "air_date": "2023-03-12",
+                "still_path": "/ro1Gf1EeJUpWifYfBKPCMtNqVrW.jpg",
+                "video_url": "5093339"
+            },
+            {
+                "episode_number": 35,
+                "name": "Eve Gidiş Yolunda",
+                "overview": "Tokyo Manji Gang'ın yılın ilk toplantısında Black Dragon'a karşı zaferini ilan eden Mikey, beklenmedik bir duyuru yapar.",
+                "air_date": "2023-03-19",
+                "still_path": "/wgV2RCDBcqyT6QEg8gChITrIlnM.jpg",
+                "video_url": "5093340"
+            },
+            {
+                "episode_number": 36,
+                "name": "Son Sipariş",
+                "overview": "Geleceği değiştirdiğinden emin olan Takemichi, bugüne geri döner. Ancak, geri döndüğü zaman çizelgesi şimdiye kadarki en kötüsüdür.",
+                "air_date": "2023-03-26",
+                "still_path": "/r7rIYoXutpFGE8sHUcjzmKYUc9v.jpg",
+                "video_url": "5093341"
+            },
+            {
+                "episode_number": 37,
+                "name": "Yağmur Yağdığında, Yağar",
+                "overview": "Takemichi, korkunç yeni zaman çizelgesini değiştirmek için geçmişe döner. Takemichi, Chifuyu ile tanıştıktan sonra ne yapması gerektiğini anlar.",
+                "air_date": "2023-04-02",
+                "still_path": "/iWd9msf4GrU8JQv3QvvtOkCZvRK.jpg",
+                "video_url": "5100327"
+            },
+            {
+                "episode_number": 38,
+                "name": "En Uzun Gün",
+                "overview": "Toman'ı ezmek isteyen Yokohama çetesi Tenjiku, Takemichi ve arkadaşlarını Shibuya'da pusuya düşürür. Eski bir düşman ve Tenjiku'nun Dört Büyüklerinden biri ortaya çıkınca durum Takemichi için umutsuz bir hal alır.",
+                "air_date": "2023-10-04",
+                "still_path": "/gwngJ9yqZHoaBLBP89LioHY6INd.jpg",
+                "video_url": "5354990"
+            },
+            {
+                "episode_number": 39,
+                "name": "Ölümcül Düşman",
+                "overview": "Dördüncü Bölümün Kaptanı ve Kaptan Yardımcısı Smiley and Angry, Takemichi ve arkadaşlarının kurtarılmasına gelir. İntikam almak için Tenjiku'nun saklandığı yere giderler. Burada Takemichi, kendisine rahatsız edici bilgiler veren bir çocukluk arkadaşıyla karşılaşır.",
+                "air_date": "2023-10-11",
+                "still_path": "/jPdsvCcWw51ayQtZVrY7UvQfjty.jpg",
+                "video_url": "5354991"
+            },
+            {
+                "episode_number": 40,
+                "name": "Sabrın Bitti",
+                "overview": "Günümüzde Takemichi ve Naoto, Taiju Shiba ile buluşur ve Toman'ı esasen kimin yönettiğini öğrenir. Sonra Inupi ve Koko aniden oraya daldılar. Takemichi ve Naoto kaçmaya çalışırlar ancak sonunda kızartma tavasından ateşe atlarlar.",
+                "air_date": "2023-10-18",
+                "still_path": "/AclCQ8NZlmaweNqOWwy7WdvQ8LB.jpg",
+                "video_url": "5354993"
+            },
+            {
+                "episode_number": 41,
+                "name": "Hayata Geri Dön",
+                "overview": "Şu andaki trajedi yüzünden bunalıma giren Takemichi'nin kararlılığı, Hinata'nın sözleriyle yeniden alevlenir. Daha sonra Mikey ile Izana arasındaki bağlantıyı öğrenir ve Birinci Lig'in geri kalanı sonraki adımları hakkında konuşmak için gelirken, başka bir Toman kaptanı sürpriz bir ziyaretle karşılaşır.",
+                "air_date": "2023-10-25",
+                "still_path": "/xCUYd0DcuaXEBu7kG2bqJLuZHeQ.jpg",
+                "video_url": "5354998"
+            },
+            {
+                "episode_number": 42,
+                "name": "Kötü Bir Önsezi",
+                "overview": "Yıpranmış ve kanlı Takemichi, Koko'yu korumak için bir S-62 Nesli üyesine direnerek gerçekte nelerden yapıldığını gösterir. Takemichi'nin kahramanlığına tanık olduktan sonra, Inupi inanılmaz bir istekte bulunur. Daha sonra, Takemichi Mikey'e bir Toman yüzbaşısının ihanetini bildirir.",
+                "air_date": "2023-11-01",
+                "still_path": "/wc5EhpZ5FvPZL17bPAkJUSbwiTo.jpg",
+                "video_url": "5355002"
+            },
+            {
+                "episode_number": 43,
+                "name": "Başkaldırmak",
+                "overview": "Mikey trajik bir olaydan sonra umutsuzluğa düşer. Takemichi de yıkılır ve artık geçmişi değiştirmek için yapabileceği hiçbir şey olmadığını anlayınca umutsuzluğa kapılır. Şimdi Toman'ı kim yönetecek?",
+                "air_date": "2023-11-08",
+                "still_path": "/503Gfap73e9jLHnt07IksS6OGsZ.jpg",
+                "video_url": "5355009"
+            },
+            {
+                "episode_number": 44,
+                "name": "Gelgiti Tersine Çevirmek",
+                "overview": "Tenjiku, Büyük Dörtlü'yle birlikte savaşa hazır bir şekilde Yokohama iskelesinde beklerken Toman'ın üyeleri, kendilerini bekleyen umutsuz görünen savaşa girmekten çekinirler. İlk iki sıradaki Mikey ve Draken'ın yokluğunda Takemichi, Toman'ı ateşlemeye çalışır.",
+                "air_date": "2023-11-15",
+                "still_path": "/l3tuupu8Y7aDWmKTD2y3RgqhKjH.jpg",
+                "video_url": "5355016"
+            },
+            {
+                "episode_number": 45,
+                "name": "Kafamda Biliyorum",
+                "overview": "Toman ile Tenjiku arasındaki kavga başlarken Birinci Lig, Takemichi'nin Kisaki'ye ulaşabilmesi için yolu açmak için elinden geleni yapar. Savaşın ortasında Inupi, Koko'yu öfkelendiren tek bir isim söyler.",
+                "air_date": "2023-11-22",
+                "still_path": "/xnL5eEZNfx3Dh0aavgGDYHp37UU.jpg",
+                "video_url": "5355023"
+            },
+            {
+                "episode_number": 46,
+                "name": "Mavi Ogre",
+                "overview": "Mikey ve Draken'in varlığını fena halde özleyen Takemichi ve Toman'ın diğer üyeleri, Tenjiku'ya karşı muazzam bir mücadeleyle karşı karşıya kalır. Tenjiku'nun Dört Büyük'ünden biri de dahil olmak üzere Haitani Kardeşler muhteşem bir kombinasyon halinde çalışıyorlar. Hakkai ve Angry bu zorlu ikilinin üstesinden nasıl geleceklerini bulmalılar.",
+                "air_date": "2023-11-29",
+                "still_path": "/hDBKQMg20ERIKQPqXJvzEGynzP3.jpg",
+                "video_url": "5355030"
+            },
+            {
+                "episode_number": 47,
+                "name": "Cesur Yürek",
+                "overview": "Toman ve Tenjiku arasındaki savaş bir ileri bir geri gidiyor, ancak Toman'ın en zorlu savaşçıları birer birer artık devam edemiyor. Yine de Takemichi, Kakucho onu ne kadar yenerse yensin tekrar ayağa kalkmaya devam ediyor. Kisaki daha sonra işleri bitirmek için devreye girer, ancak Takemichi çekinmez.",
+                "air_date": "2023-12-06",
+                "still_path": "/q4IVp5BSPpYx8u0IUnC2RrjwbtH.jpg",
+                "video_url": "5378158"
+            },
+            {
+                "episode_number": 48,
+                "name": "Hiçbir Şey Kalmadı",
+                "overview": "Mikey ve Draken, umutsuzluğun derinliklerinde olmalarına rağmen iskeleye gelirler. Artık Mikey, kardeşi Izana ile yüzleşir ve Toman ile Tenjiku'nun liderleri arasındaki savaş başlar.",
+                "air_date": "2023-12-13",
+                "still_path": "/rIVtmmExm6bkhTAAvvpmBturt2f.jpg",
+                "video_url": "5367955"
+            },
+            {
+                "episode_number": 49,
+                "name": "Cennet Kaybetti",
+                "overview": "Izana, Mikey'e karşı mücadelesinde üstünlük sağlıyor gibi görünse de Mikey'nin tekmeleri Izana'nın vücuduna da zarar verir. Izana çaresizlik içinde aceleci önlemler alır ve durum kontrolden çıkar.",
+                "air_date": "2023-12-20",
+                "still_path": "/9rGHKXUUjJ9a2Gj1U5spdQHCtbl.jpg",
+                "video_url": "5374244"
+            },
+            {
+                "episode_number": 50,
+                "name": "Kaderiyle Tanışın",
+                "overview": "Durum sona yaklaşırken Izana şaşırtıcı bir itirafta bulunur. Hanma ile Kisaki kaçarlar. Kisaki'nin geleceği tehdit etmeye devam edeceğinden korkan Takemichi ve Draken, yağan karda peşlerine düşer.",
+                "air_date": "2023-12-27",
+                "still_path": "/ulNJV64WEy6t5TfxyRIY3odgtv6.jpg",
+                "video_url": "5379299"
+            }
+        ]
+    }
+}

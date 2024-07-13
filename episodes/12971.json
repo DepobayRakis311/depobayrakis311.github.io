@@ -1,0 +1,2411 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 39,
+        "air_date": "1989-04-26",
+        "poster_path": "/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yeni Tehdit",
+                "overview": "Goku'nun ailesi ve arkadaşlarıyla olan sakin hayatı kesintiye uğramak üzeredir. Yeni bir tehdit, güçlü ve kötü niyetli bir uzaylı, Dünya'ya doğru geliyor.",
+                "air_date": "1989-04-26",
+                "still_path": "/vsI19Gvmbym9URI36Yjiiq6o8r0.jpg",
+                "video_url": "3664421"
+            },
+            {
+                "episode_number": 2,
+                "name": "Toplantılar",
+                "overview": "Goku ve Gohan, Roshi'nin adasında bir araya gelirler ve Goku, oğlunu tüm eski arkadaşlarıyla tanıştırır. Ancak, beklenmedik bir ziyaretçi - Raditz - adaya indiğinde gülümsemeler hızla kaybolur.",
+                "air_date": "1989-05-03",
+                "still_path": "/lMUpkDBI9LOLr7CS5oriaUsmZef.jpg",
+                "video_url": "3666694"
+            },
+            {
+                "episode_number": 3,
+                "name": "Muhtemel İttifak",
+                "overview": "Raditz, Gohan'ı kaçırdı ve Goku, kötü niyetli Saiyan'a katılmayı kabul etmediği sürece oğlunu bir daha asla göremeyebilir! Ancak ikinci bir ziyaretçinin gelmesiyle tüm umutlar kaybolmaz ve Goku beklenmedik bir ittifak kurar!",
+                "air_date": "1989-05-10",
+                "still_path": "/uqW2WhwTfc876mQ1KblPwqclind.jpg",
+                "video_url": "3667295"
+            },
+            {
+                "episode_number": 4,
+                "name": "Piccolo'nun Planı",
+                "overview": "Piccolo'nun Raditz'i, yani Makankosappo'yu durdurmanın bir yolu olabilir! Tek bir sorun var. Patlama için enerji toplamak için zamana ihtiyacı var, bu da Goku'nun Raditz ile tek başına savaşması gerektiği anlamına geliyor!",
+                "air_date": "1989-05-17",
+                "still_path": "/pTFtIMuQfZKypAUNM96qqCbrPPd.jpg",
+                "video_url": "3667865"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gohan'ın Öfkesi",
+                "overview": "Gohan, Radtiz'in bile karşı koyamayacağı güçlü bir saldırı başlatır! Ancak gücü ortaya çıktığı anda yok olur. Raditz karşılık vermeye hazırlanırken Goku, oğlunu kurtarmak için en büyük fedakarlığı yapmak zorundadır!",
+                "air_date": "1989-05-24",
+                "still_path": "/yNMMBFbdgQEomihmlONagASUVMD.jpg",
+                "video_url": "3668490"
+            },
+            {
+                "episode_number": 6,
+                "name": "Anı Yaşamak Gibisi Yok",
+                "overview": "Piccolo, zorlu bir eğitim programı için Gohan'ı vahşi doğaya götürür. Bu sırada Goku, efsanevi Kral Kai'ye ulaşmak için sonsuz Yılan Yolu'nda seyahat ederken sonraki dünyada yeni bir maceraya atılıyor!",
+                "air_date": "1989-06-07",
+                "still_path": "/dN2WoZ8wFNpjvaG8kLt3Jqs6wbM.jpg",
+                "video_url": "3670036"
+            },
+            {
+                "episode_number": 7,
+                "name": "1.gün",
+                "overview": "Gohan, Piccolo'nun eğitimindeki ilk gününe başlar. Vahşi doğada yalnız başına, hızla kendine bakmayı öğrenmesi gerekiyor. Ancak yorgunken, açken ve kana susamış dinozorlar tarafından kovalanırken bu hiç de kolay değil!",
+                "air_date": "1989-06-14",
+                "still_path": "/9aLEPVL2XNxssYwJfnK8Xu9BXVO.jpg",
+                "video_url": "3677324"
+            },
+            {
+                "episode_number": 8,
+                "name": "Gohan Muza Gidiyor!",
+                "overview": "Korin, Krillin, Yamcha, Tien ve Chiaotzu'nun özel eğitim için rapor vermesini istiyor! Bu sırada Gohan'ın meşakkatli eğitimi onun şok edici bir dönüşüm geçirmesine neden olur!",
+                "air_date": "1989-06-21",
+                "still_path": "/isEBEgyQSpxvE9XHGqX3D3rNHi5.jpg",
+                "video_url": "1771044"
+            },
+            {
+                "episode_number": 9,
+                "name": "En Garip Robot",
+                "overview": "Gohan, bir vahşi hayvan sürüsünden kaçmak için eski bir mağaraya girer ve burada eski bir Capsule Corp robotuyla tanışır. Robot 30 yılı aşkın süredir mağarada yalnız yaşıyor ve ziyaretçi gelmesinden pek memnun değil!",
+                "air_date": "1989-06-28",
+                "still_path": "/nlIXKanb2Td2fnPg1VUVw8TOu3O.jpg",
+                "video_url": "1771046"
+            },
+            {
+                "episode_number": 10,
+                "name": "Yeni Bir Arkadaş",
+                "overview": "Gohan'ın vahşi doğa macerası yeni bir dinozor arkadaşı edinerek devam ediyor! Sonunda tüm dinozorların dost canlısı olmadığı kendisine sert bir şekilde hatırlatılana kadar bir arkadaş edinebildiği için mutludur!",
+                "air_date": "1989-07-05",
+                "still_path": "/xhk4zW3c4du1h6p41dazuoRXKpR.jpg",
+                "video_url": "4087771"
+            },
+            {
+                "episode_number": 11,
+                "name": "Arlia'da Terör",
+                "overview": "Arlia gezegeninde Vegeta ve Nappa, gezegeni yöneten zalim kralın esiri olur. Canavar Yeddy ile kısa bir çekişmenin ardından Arlianlar, iki Saiyan'ın başa çıkamayacaklarından fazlası olduğunu fark eder.",
+                "air_date": "1989-07-12",
+                "still_path": "/4KIrCXoV2WhvKEz3l6NykIW5146.jpg",
+                "video_url": "4087773"
+            },
+            {
+                "episode_number": 12,
+                "name": "Küresel Eğitim",
+                "overview": "Gohan, gününü bir T-Rex'e eziyet ederek geçirir. Gezegenin her yerinde Tien ve Chiaotzu, eğitimlerinin Fırlatma nedeniyle kesintiye uğradığını fark eder. Bu sırada Goku, Yılan Yolu'nda Kral Kai'yi bulmaya çalışır.",
+                "air_date": "1989-07-19",
+                "still_path": "/kB1qu3ATdIZUeEUe8dl81571z9j.jpg",
+                "video_url": "1771052"
+            },
+            {
+                "episode_number": 13,
+                "name": "Göz ve Mez",
+                "overview": "Goku, kahramanı oyuncak olarak kullanmaktan başka bir şey istemeyen iki dev devle karşılaşır! Eğer bu zorlukları yenebilirse canavarlar ona Yılan Yolu'na dönüş yolunu göstermeye yemin ederler.",
+                "air_date": "1989-07-26",
+                "still_path": "/kzpBnRmI6l0IKchJubXpUDAeZNT.jpg",
+                "video_url": "1768174"
+            },
+            {
+                "episode_number": 14,
+                "name": "Prenses Yılan",
+                "overview": "Snake Way'e geri dönen Goku, Kral Kai'ye ait olabileceğini düşündüğü bir eve rastlar! Ne yazık ki, evde Prenses Snake yaşamaktadır ve Goku'yu sonsuza dek tutsak tutmak için her şeyi yapacaktır!",
+                "air_date": "1989-08-02",
+                "still_path": "/8gf8uVYuNAkx1iT5J9r0psMdSDt.jpg",
+                "video_url": "1768171"
+            },
+            {
+                "episode_number": 15,
+                "name": "Düello Yapan Piccolo'lar",
+                "overview": "Piccolo, Raditz'le kavgası sırasında elinden uçup ikiye ayrılıyor! Bu sırada Gohan, annesini ziyaret etmek için denizin üzerinden salla geçmeye karar verir, fırtınaya yakalanır ve aniden yüzme bilmediğini hatırlar!",
+                "air_date": "1989-08-09",
+                "still_path": "/vO4WNTAbUFmdt3tt3Yvvdj6grLI.jpg",
+                "video_url": "1768173"
+            },
+            {
+                "episode_number": 16,
+                "name": "Çocukların Durumu",
+                "overview": "Gohan, her şeye burnunu sokan yetişkinlerden kaçan bir yetim çetesinin yanına sığınır. Grubun lideri, çocukları daha güvenli bir saklanma yerine götürmek için bir plan yapar, ancak polis ortaya çıktığında her şey ters gider!",
+                "air_date": "1989-08-16",
+                "still_path": "/c7IGri0d1Dtk7ajAPIOjEi3EIgc.jpg",
+                "video_url": "1768152"
+            },
+            {
+                "episode_number": 17,
+                "name": "Sarkaç Odası Tehlikesi",
+                "overview": "Dünyanın en iyi savaşçıları geçmişin, bugünün ve geleceğin bir arada yaşadığı Kami'nin Sarkaç Odası'nı ziyaret ediyor. Zamanda geriye doğru yaptıkları bir yolculuğun ardından, yaklaşan Saiyan'lara karşı bir şans yakalamak için daha sıkı eğitim almaları gerektiğini fark ederler.",
+                "air_date": "1989-08-30",
+                "still_path": "/zPSFXzQzdmU6DFuLZAavXgrz5aM.jpg",
+                "video_url": "1768148"
+            },
+            {
+                "episode_number": 18,
+                "name": "Yılan Yolunun Sonu",
+                "overview": "Gohan eğitime devam ediyor, ancak dolunay genç Saiyan'ın kontrolden çıkmasına neden oluyor! Bu sırada Goku, Yılan Yolu'nun sonuna kadar ulaşır ve Bubbles adlı dost canlısı bir maymunu Kral Kai sanır!",
+                "air_date": "1989-09-06",
+                "still_path": "/pSb8q4Ypw5sXPLF5krdpObY04EG.jpg",
+                "video_url": "1768150"
+            },
+            {
+                "episode_number": 19,
+                "name": "Meydan Okuyan Yerçekimi",
+                "overview": "Kral Kai'nin gezegeninin yoğun yerçekimi, Goku'nun eğitimini zorlaştırır, ancak Saiyanların zorlu savaş koşullarına alışkın olduklarını öğrenince Goku, elinden geleni yapma konusunda ilham alır. Yeterli olacak mı?",
+                "air_date": "1989-09-13",
+                "still_path": "/ai1ll0zXv906YoEuCVm7fzbNjhQ.jpg",
+                "video_url": "1768018"
+            },
+            {
+                "episode_number": 20,
+                "name": "Goku'nun Ataları",
+                "overview": "Goku, Gregory'yi çekiçle ezmeye çabalayınca Kral Kai, ona Saiyan ırkının hikayesiyle ilham verir ve onu kişisel olarak eğitmeyi teklif eder! Yaklaşan Saiyan istilasını durdurmak yeterli olacak mı?",
+                "air_date": "1989-09-20",
+                "still_path": "/4LCafBags0Y38X2qzj1Eg0Itqwv.jpg",
+                "video_url": "1768021"
+            },
+            {
+                "episode_number": 21,
+                "name": "Geri Saymak",
+                "overview": "Goku'nun eğitimi tamamlandığında ekip, onun hayata dönmesini dilemek için Ebedi Ejderha'yı çağırır. Saiyanların gelmesine sadece bir gün kaldı. Ne yazık ki Goku'nun geri dönmesi iki gün sürecek!",
+                "air_date": "1989-09-27",
+                "still_path": "/vPt6gRU5AzL20xmaKf8TxzlQvNr.jpg",
+                "video_url": "1768024"
+            },
+            {
+                "episode_number": 22,
+                "name": "En Karanlık Gün",
+                "overview": "Vegeta ve Nappa, gelişlerini bütün bir şehrin yok edilmesiyle kutluyor! Z-Savaşçıları onlarla yüzleştiğinde kahramanlar, Saiyanların komutası altındaki Saibamen'in saldırısıyla yüzleşmek zorunda kalacak.",
+                "air_date": "1989-10-11",
+                "still_path": "/7SdxU3MbnFpL1AWgMgpt4BmlH2f.jpg",
+                "video_url": "1768016"
+            },
+            {
+                "episode_number": 23,
+                "name": "Saibamen Saldırısı!",
+                "overview": "Krillin, Piccolo ve Gohan, uğursuz Saiyanlar ve onların şeytani yandaşlarıyla karşı karşıya gelir. Kötü adamlar zaten korkunç derecede güçlü olduklarını kanıtladılar. Dünya'nın kahramanları Goku gelene kadar dayanabilecekler mi?",
+                "air_date": "1989-10-18",
+                "still_path": "/AfPZRiuG7IrpBuVBg1FO40tkrjx.jpg",
+                "video_url": "1767967"
+            },
+            {
+                "episode_number": 24,
+                "name": "Nappa'nın Gücü",
+                "overview": "Yamcha'yı kaybetmenin öfkesine kapılan Krillin, manyak Saibamen'i sonsuza dek yok edecek güçlü bir saldırı başlatır. Artık Dünya'nın savunucuları, Nappa'dan başlayarak Saiyan'larla bizzat savaşmalı.",
+                "air_date": "1989-10-25",
+                "still_path": "/x2zyoFBApW5Y7r9INkq6xkfmi1.jpg",
+                "video_url": "1767964"
+            },
+            {
+                "episode_number": 25,
+                "name": "Kurban Etmek",
+                "overview": "Chiaotzu, arkadaşlarını Nappa'dan kurtarmak için kendini feda eder, ancak duman dağıldığında kötü adam hâlâ ayaktadır! Neyse ki Tien'in Saiyan savaşçısını sonsuza kadar susturabilecek bir numarası kaldı!",
+                "air_date": "1989-11-01",
+                "still_path": "/1x6OfPBXif8rz4tI3VM8HNqtOCM.jpg",
+                "video_url": "1767965"
+            },
+            {
+                "episode_number": 26,
+                "name": "Nappa'nın Saldırısı",
+                "overview": "Vegeta çatışmayı durdurma çağrısında bulundu ve Nappa bu zamanı öfkeye kapılmak için kullanıyor! Bu sırada Goku, Yılan Yolu'nun sonuna ulaşır ve arkadaşlarına yeniden katılmak için yarışır; ama çok mu geç kalmıştır?",
+                "air_date": "1989-11-08",
+                "still_path": "/fx8RlNSButbvUOxtHormgFM4V36.jpg",
+                "video_url": "1767960"
+            },
+            {
+                "episode_number": 27,
+                "name": "Nimbus Hızı",
+                "overview": "Piccolo, Gohan ve Krillin, Saiyanların Ejder Toplarını bulmasını engellemek için ellerinden geleni yapar. Bu arada Goku, her zamankinden daha fazla güçle donanmış olarak Uçan Nimbus'la Dünya'ya geri dönüyor!",
+                "air_date": "1989-11-22",
+                "still_path": "/cixtMak9tVwvUEzgw3xlR3PmFFX.jpg",
+                "video_url": "1767961"
+            },
+            {
+                "episode_number": 28,
+                "name": "Goku'nun Gelişi",
+                "overview": "Piccolo, Gohan'ı öfkeli Saiyanlardan kurtarmak için en büyük fedakarlığı yapar. Her şey kaybedilmiş gibi göründüğü anda, Goku inanılmaz yeni bir güç seviyesiyle Dünya'ya döner ve işgalcilerle yüzleşir.",
+                "air_date": "1989-11-29",
+                "still_path": "/sVeRyqmCLC0xg6klvGcZN6CyzR0.jpg",
+                "video_url": "1767958"
+            },
+            {
+                "episode_number": 29,
+                "name": "Bir Numaralı Ders",
+                "overview": "Saiyans'larla savaşa giren Goku, Nappa'ya Kral Kai'den aldığı eğitimin acımasız bir gösterisini sunar. Kırılmış ve yenilmiş olan Nappa, şimdi Vegeta'nın vahşi gazabıyla yüzleşmek zorundadır!",
+                "air_date": "1989-12-06",
+                "still_path": "/apLeFbT5b8fxIGq3qsrVUQG1s47.jpg",
+                "video_url": "1767956"
+            },
+            {
+                "episode_number": 30,
+                "name": "Goku, Vegeta'ya Karşı",
+                "overview": "Goku, güçlü Vegeta'yı tek başına alt etmeye karar verir! İkisi birbirine eşit görünüyor ama ikisi de gerçek güçlerini gizliyor. Destansı savaş sürüyor; hangi güçlü savaşçı zaferi ilan edecek?",
+                "air_date": "1989-12-13",
+                "still_path": "/637VS7fJd82IoD3MnvKmncyTnVU.jpg",
+                "video_url": "1767957"
+            },
+            {
+                "episode_number": 31,
+                "name": "Saiyan Boyutlu Sır",
+                "overview": "Vegeta ve Goku acımasız darbeler indirmeye devam ediyor, ancak Vegeta, Saiyanların gizli gücünü ortaya çıkardığında aksiyon yoğunlaşıyor: dev, gezegeni yok eden bir maymuna dönüşme yeteneği!",
+                "air_date": "1989-12-20",
+                "still_path": "/7NNu0dactXn0dxk5VDdFrU8gLg4.jpg",
+                "video_url": "1767955"
+            },
+            {
+                "episode_number": 32,
+                "name": "Ruh Bombası Uzakta!",
+                "overview": "Goku, Vegeta'nın tamamen farkına vardığı Saiyan gücünün darbesini hissediyor! Dünyanın en büyük kahramanının Ruh Bombasını kullanmaktan başka seçeneği kalmadı. Saldırısı başarısız olursa kendini tamamen mahvolmuş halde bulabilir!",
+                "air_date": "1990-01-17",
+                "still_path": "/rv9GK9wBZ2iaPUDc7jQRuRPcEIf.jpg",
+                "video_url": "1767954"
+            },
+            {
+                "episode_number": 33,
+                "name": "Gölgelerdeki Kahraman",
+                "overview": "Goku, dev maymun Vegeta'nın pençesine düşerken Krillin, Destructo Disk'iyle saldırır! Çabaları yetersiz kalınca beklenmedik bir kahraman gölgelerden dışarı çıkar!",
+                "air_date": "1990-01-24",
+                "still_path": "/s2oEfRkMeDPCgytDaluSFMkiso5.jpg",
+                "video_url": "1767951"
+            },
+            {
+                "episode_number": 34,
+                "name": "Krillin'in Saldırısı",
+                "overview": "Goku, Ruh Bombasının gücünü Krillin'e aktarır ve Krillin, Kral Kai'nin rehberliğinde bombayı Vegeta'ya fırlatır. Saiyan gökyüzüne uçarak gönderilir, ancak kötü savaşçı gerçekten tamamen ortadan kaybolmuş mudur?",
+                "air_date": "1990-01-31",
+                "still_path": "/7DLotUvCkIM0e3xJiWHjJOjgeiq.jpg",
+                "video_url": "1767952"
+            },
+            {
+                "episode_number": 35,
+                "name": "Merhamet",
+                "overview": "Vegeta, Gohan'ın dev maymun formunun tüm ağırlığı altında eziliyor! Saiyan hırpalanmış ve yenilmişken, Krillin Saiyan'ı son bir darbeyle bitirmek için harekete geçiyor - ancak Goku'nun başka planları var.",
+                "air_date": "1990-02-07",
+                "still_path": "/v3ZLfF4ZB0iQceMy9yFO4YhMpcH.jpg",
+                "video_url": "5223877"
+            },
+            {
+                "episode_number": 36,
+                "name": "Parçaları Toplamak",
+                "overview": "Çete, Yamcha, Tien, Chiaotzu ve Piccolo'nun kaybının yasını tutuyor. Kami'nin gitmesiyle birlikte Dünya'nın Ejder Topları da ortadan kayboldu. Hayatta kalan kahramanlar, düşmüş arkadaşlarının hayata dönmesini dilemenin bir yolunu bulabilecek mi?",
+                "air_date": "1990-02-14",
+                "still_path": "/7UpfI5c7htFAOTSvQbQZz5bExUG.jpg",
+                "video_url": "1767949"
+            },
+            {
+                "episode_number": 37,
+                "name": "Kalkış Planları",
+                "overview": "Bulma yanlışlıkla Saiyan uzay gemisini yok eder! Şans eseri Bay Popo, Namek'e ulaşabilecek başka bir geminin varlığını ortaya çıkarır. Onu zamanında bulabilecekler mi ve eğer bulurlarsa eski gemi hâlâ çalışacak mı?",
+                "air_date": "1990-02-21",
+                "still_path": "/7upnZJpiYFORNofJwSLHRt1xeP2.jpg",
+                "video_url": "1767948"
+            },
+            {
+                "episode_number": 38,
+                "name": "Hemşirelik Yaraları",
+                "overview": "Goku, Krillin ve Gohan, Saiyanların dönüşüne hazırlanır. Bu sırada Bulma ve Bay Popo, onu Namek Gezegeni'ne taşıyabilecek ikinci bir uzay gemisi arıyor.",
+                "air_date": "1990-02-28",
+                "still_path": "/9QKFZLxc6UWLXpoJI7RvxMRT3We.jpg",
+                "video_url": "1767938"
+            },
+            {
+                "episode_number": 39,
+                "name": "Arkadaşlar Mı, Düşmanlar Mı?",
+                "overview": "Gohan, Bulma ve Krillin, sihirli Dragon Ball'ları aramak için Namek Gezegeni'ne doğru yola çıkarlar, ancak uzay boşluğunda tuhaf bir durumla karşılaştıklarında yolculukları hızla kaotik bir hal alır!",
+                "air_date": "1990-03-07",
+                "still_path": "/mb9KszOUDAvaBaUzN1jbnUzYtNv.jpg",
+                "video_url": "1767944"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 35,
+        "air_date": "1990-03-14",
+        "poster_path": "/zE4HN3kAVFNHRE6gI2LNnWyp9cr.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Esir Tutulan",
+                "overview": "Bulma, Gohan ve Krillin, Frieza'nın arkadaşları sanılır ve öfkeli bir çocuk ordusu tarafından esir alınır! Özgürlüklerini yeniden kazanmak ve görevlerine devam etmek için çetenin çocukları masum olduklarına ikna etmesi gerekir.",
+                "air_date": "1990-03-14",
+                "still_path": "/yOeNcW0KeS7LNbnOG4uBeeOaz2G.jpg",
+                "video_url": "1767946"
+            },
+            {
+                "episode_number": 2,
+                "name": "Aşağıya Bakmak",
+                "overview": "Bulma, Gohan ve Krillin'in yedi Ejder Topu'nu bulmalarına yardım etmeyi kabul eden iki dost Namekian tarafından kurtarılmasıyla ölümcül bir inişin ardından umut ışığı doğar.",
+                "air_date": "1990-03-21",
+                "still_path": "/t0xSKgvCFaMPW3HqVoheRiEDZHx.jpg",
+                "video_url": "1767931"
+            },
+            {
+                "episode_number": 3,
+                "name": "Arama Devam Ediyor",
+                "overview": "Gohan, Krillin ve Bulma, yeni arkadaşları Zaacro'nun yardımıyla Dragon Balls'u aramaya devam ediyor. Goku, Dünya'ya döndüğünde Vegeta ile yapacağı yeniden maç için antrenmana başlamak üzere hastaneden kaçtı.",
+                "air_date": "1990-04-04",
+                "still_path": "/owMsUzxIIQM4uf046cXD0B5ovrF.jpg",
+                "video_url": "1767927"
+            },
+            {
+                "episode_number": 4,
+                "name": "Dostça Bir Sürpriz",
+                "overview": "Bulma, Krillin ve Gohan Dragon Ball'ların sonuncusuna yaklaşırken Namekian arkadaşları hakkında şok edici bir sırrı ortaya çıkarırlar. Bu sırada Goku gücünü artırmaya çalışır ve Vegeta intikama gözünü diker!",
+                "air_date": "1990-04-11",
+                "still_path": "/hpiMS7gh6VYldoO6NSmsuTIvv8X.jpg",
+                "video_url": "1767923"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kötülük Kulluğu",
+                "overview": "Bulma, Krillin ve Gohan nihayet yedi Dragon topunun tamamını bulma arayışlarına devam ediyorlar. Ne yazık ki ekip çok geçmeden büyülü küreleri arayanların yalnızca kendileri olmadığını keşfeder!",
+                "air_date": "1990-04-18",
+                "still_path": "/orcTVCuerLd4pa10hE1EsIXu5rY.jpg",
+                "video_url": "1767918"
+            },
+            {
+                "episode_number": 6,
+                "name": "Frieza Saldırıyor!",
+                "overview": "Krillin, Gohan ve Bulma, Vegeta'nın uzay kapsülünün Namek Gezegenine indiğini görünce dehşete düşerler, ancak Saiyan Prensi sorunlarının en küçüğüdür. Bir başka destansı kötü adam Dragon Balls'u aramak için Namek'e geldi!",
+                "air_date": "1990-04-25",
+                "still_path": "/7BP9linPOkY4ex9mR4FmWE60oCc.jpg",
+                "video_url": "1767913"
+            },
+            {
+                "episode_number": 7,
+                "name": "Emirlere Karşı Çıkmak",
+                "overview": "Şanslar hızla onlara karşı artarken, Krillin ve Gohan, Dragon Balls'u Frieza ve yandaşlarından kurtarmayı umuyorlarsa ciddi yardıma ihtiyaç duyacaklar.",
+                "air_date": "1990-05-02",
+                "still_path": "/oKfvBBMHKzJgRtXyR1UNcJy8NvI.jpg",
+                "video_url": "1767916"
+            },
+            {
+                "episode_number": 8,
+                "name": "Namek'in Savunması",
+                "overview": "Kötü adam, yandaşlarını hiçbir şeyden haberi olmayan Namek köyüne saldığında, Krillin ve Gohan, Frieza'nın zulmüne ilk kez tanık olurlar. Frieza beşinci Dragon Ball'u istiyor ve ne pahasına olursa olsun onun yerini öğrenmeye hazır!",
+                "air_date": "1990-05-09",
+                "still_path": "/eRUqcPv60j6GsG1KIZwMf3d7dHi.jpg",
+                "video_url": "1767911"
+            },
+            {
+                "episode_number": 9,
+                "name": "Avlanan",
+                "overview": "Gohan, bir Namek çocuğunu Frieza'nın kötü adamlarının pençesinden kurtarmak için hayatını riske atar. Artık Gohan ve Krillin'in önünde daha da büyük bir sorun var: Dodoria onları kovalıyor ve intikamını alana kadar durmayacak!",
+                "air_date": "1990-05-16",
+                "still_path": "/oG7Gi5cYhnnrRDFzWSRylUgtQYW.jpg",
+                "video_url": "1767906"
+            },
+            {
+                "episode_number": 10,
+                "name": "Prens Karşı Mücadele Ediyor",
+                "overview": "Dodoria'nın Krillin ve Gohan'ı arayışı onu beklenmedik bir düşmanla karşı karşıya getirir: Vegeta! Saiyan prensinin Dodoria'yla çözmesi gereken bir hesap var ve bu iki güçlü kötü adam arasındaki son hesaplaşmanın zamanı geldi!",
+                "air_date": "1990-05-23",
+                "still_path": "/tKjSWKiKzafJQm2KoUMcwx4KbYu.jpg",
+                "video_url": "1767908"
+            },
+            {
+                "episode_number": 11,
+                "name": "Beklenmeyen Sorun",
+                "overview": "Goku'nun Namek'e olan yolculuğu, uzay gemisinin bir asteroit tarafından rotasından çıkmasıyla beklenmedik bir yoldan sapar! Goku, gemisini tekrar rayına oturtmak için hızlı hareket etmek zorunda çünkü doğruca bir yıldızın ateşli merkezine doğru gidiyor!",
+                "air_date": "1990-05-30",
+                "still_path": "/ofxcK1nuMU1VWJgdeg4n2DzQht0.jpg",
+                "video_url": "4885260"
+            },
+            {
+                "episode_number": 12,
+                "name": "Vegeta'nın Bir Topu Var",
+                "overview": "Vegeta yeni yetenekleriyle hızla bir Dragon Ball daha bulur ve zorla ele geçirir. Şimdi, bulunması gereken tek bir sihirli küre kalmıştır ve Dende bunun kimde olduğunu bilir - En Yaşlı Namekian!",
+                "air_date": "1990-06-06",
+                "still_path": "/eTqACDQ5h9WQ7GNEVcJ1NAyNM5w.jpg",
+                "video_url": "1767898"
+            },
+            {
+                "episode_number": 13,
+                "name": "Geçmiş ve Gelecek",
+                "overview": "Kral Kai, Goku'nun acımasız Frieza ile çatışma rotasında olduğunu öğrenince endişelenir. Bu arada Namek Gezegeni'nde Vegeta ile Zarbon arasındaki savaş başladı!",
+                "air_date": "1990-06-20",
+                "still_path": "/gAVx3JeCCenwXJwNL6NNDCsK7td.jpg",
+                "video_url": "1767901"
+            },
+            {
+                "episode_number": 14,
+                "name": "Zarbon'un Sürprizi",
+                "overview": "Zarbon gerçek gücünü ortaya çıkarırken Vegeta'nın son savaşı kızışıyor: canavarca bir canavara dönüşme yeteneği! Artan boyutu ve gücüyle Zarbon, Saiyan Prensi'nin üzerindeki ışıkları kalıcı olarak kapatmaya hazır görünüyor!",
+                "air_date": "1990-06-27",
+                "still_path": "/1PDrqWGuFGE94jWf9HPhkDgbPhW.jpg",
+                "video_url": "1767894"
+            },
+            {
+                "episode_number": 15,
+                "name": "Guru'nun Hediyesi",
+                "overview": "Krillin, En Yaşlı Namekian'la konuştuğunda çifte bir sürprizle karşılaşır! Sadece Dragon Ball'u almakla kalmıyor, aynı zamanda içinde uyuyan güçler de uyanıyor! Krillin'in inanılmaz yeni gücü arkadaşlarını kurtarmaya yetecek mi?",
+                "air_date": "1990-07-04",
+                "still_path": "/neoJoMCCfTK9pI2NY5Hwzgt8S38.jpg",
+                "video_url": "1767896"
+            },
+            {
+                "episode_number": 16,
+                "name": "Piccolo Herkese Karşı",
+                "overview": "Yamcha, Tien ve Chiaotzu antrenmana devam ediyor, ancak Piccolo onları üçe bir maça davet ettiğinde antrenmanları yoğunlaşıyor! Namek'e döndüğümüzde Frieza'nın adamları, kayıp Dragon Ball'u elde etmek için Vegeta'yı canlandırmaya çalışır.",
+                "air_date": "1990-07-18",
+                "still_path": "/lKFhttec0L17BteLP0eARFbxZ1n.jpg",
+                "video_url": "1767892"
+            },
+            {
+                "episode_number": 17,
+                "name": "Zarbon'un Misyonu",
+                "overview": "Vegeta, Frieza'nın pençesinden kaçar ve bu sırada Dragon Ball'ları çalar! Başka bir yerde, gemisi güçlü bir manyetik fırtınaya yakalandığında Goku'nun uzaydaki yolculuğu tehlikeli bir hal alıyor!",
+                "air_date": "1990-08-01",
+                "still_path": "/qlaBiKNKS1FNRBkLidL3bzXxvyP.jpg",
+                "video_url": "1767886"
+            },
+            {
+                "episode_number": 18,
+                "name": "Avlanan Gohan",
+                "overview": "Krillin, En Yaşlı Namekian'la yaptığı toplantıdan döndüğünde yalnızca bir çift istenmeyen ziyaretçi tarafından karşılanır: Vegeta ve Zarbon! Bu sırada Gohan yedinci ve son Dragon Ball'u keşfeder!",
+                "air_date": "1990-08-08",
+                "still_path": "/6LG4FepOoE80H2LAvOkQxOX0Uqf.jpg",
+                "video_url": "1767889"
+            },
+            {
+                "episode_number": 19,
+                "name": "Bilinmeyen Düşmanlar",
+                "overview": "Ginyu Gücü, Dragon Balls'un aranmasına yardım etmek için Namek Gezegenine gönderildi. Bu yeni tehdidin farkında olmayan Krillin ve Gohan, yedinci Dragon Ball'un Vegeta'nın kötü ellerine düşmesini engellemeye çalışır.",
+                "air_date": "1990-08-22",
+                "still_path": "/kzVFt7BfYX6puGlovwQjHzscMa1.jpg",
+                "video_url": "1767884"
+            },
+            {
+                "episode_number": 20,
+                "name": "Destinasyon: Guru",
+                "overview": "Krillin ve Gohan, En Yaşlı Namekian'ı ziyaret ederken yedinci Dragon Ball'u gizli kamplarında bırakırlar. Dragon Ball gizemli bir şekilde ortadan kaybolunca Bulma, onu geri almak için cesur bir su altı macerasına atılmalıdır!",
+                "air_date": "1990-08-29",
+                "still_path": "/2nYiVBnn31lO1iNFXGN6gQMuxOi.jpg",
+                "video_url": "4089615"
+            },
+            {
+                "episode_number": 21,
+                "name": "Bulma'nın Büyük Günü",
+                "overview": "Bulma, Frieza'nın kötü yandaşları tarafından rehin alınır ve onu Dragon Balls'a yönelik bir su altı arayışına liderlik etmeye zorlar. Onu kurtaracak Gohan ve Krillin olmayınca, onu kaçıranları zekasıyla alt etmek zorunda kalacak ya da balıklarla yatmak zorunda kalacak!",
+                "air_date": "1990-09-05",
+                "still_path": "/1fvomecEChZsXazVK0PO8rkQH2e.jpg",
+                "video_url": "1767881"
+            },
+            {
+                "episode_number": 22,
+                "name": "Gizli Güç",
+                "overview": "Krillin ve Gohan, Guru'nun evine olan yolculuklarını tamamlarlar ancak çok az şey biliyorlar, Vegeta peşlerindedir! Guru, öfkeli Saiyan'ın gazabını durdurmak için Gohan'ın gizli güçlerini zamanında çözebilecek mi?",
+                "air_date": "1990-09-12",
+                "still_path": "/bD3vMOT0pIyj1E0gT7ZQxuqM2S6.jpg",
+                "video_url": "1768479"
+            },
+            {
+                "episode_number": 23,
+                "name": "Yeni Müttefik, Yeni Sorun",
+                "overview": "Ginyu Gücü Namek Gezegenine ulaştı! Şimdi Vegeta, Krillin ve Gohan, evrendeki en vahşi beş savaşçıyla karşı karşıya gelirken huzursuz bir ittifak kurmak zorundalar!",
+                "air_date": "1990-09-19",
+                "still_path": "/zcO2Ksn69EBiZqMsRCpdwQYD6AD.jpg",
+                "video_url": "1768477"
+            },
+            {
+                "episode_number": 24,
+                "name": "Guldo'nun Zihni Bağlanıyor",
+                "overview": "Gohan ve Krillin, Guldo'ya patlayıcı enerji patlamaları yağdırırken Ginyu Gücü ile savaş başlıyor! Kahramanlar, Guldo'nun Zihin Körleme tekniği nedeniyle çaresiz kalıyor ve bu sefer onları kurtaracak kimse yok!",
+                "air_date": "1990-09-26",
+                "still_path": "/silzXKCKIz57QzGxaaYIWZd6Pkt.jpg",
+                "video_url": "1768474"
+            },
+            {
+                "episode_number": 25,
+                "name": "Serbest Bırakıldı",
+                "overview": "Guldo'yla olan savaş bitmiş olabilir ama asıl kabus daha yeni başlıyor! Ginyu Gücünün en devasa üyesi Recoome savaşmaya hazır ve kudretli Vegeta'nın saldırılarının bile bu canavar düşman üzerinde hiçbir etkisi yok!",
+                "air_date": "1990-10-24",
+                "still_path": "/cD7lovB0izzXQI1nzSPQbIX8DpP.jpg",
+                "video_url": "1768472"
+            },
+            {
+                "episode_number": 26,
+                "name": "Savaş Başlasın",
+                "overview": "Krillin ve Vegeta'nın hizmet dışı kalmasıyla Recoome'a ​​karşı mücadeleyi sürdürecek yalnızca Gohan kaldı! Genç Saiyan, bu güçlü düşmanla yüzleşmek için gücünün ve cesaretinin her zerresini toplamalıdır.",
+                "air_date": "1990-10-31",
+                "still_path": "/bPErlj2c95X7JQS0l6bChTok7kR.jpg",
+                "video_url": "1768469"
+            },
+            {
+                "episode_number": 27,
+                "name": "Goku'nun Yeni Gücü",
+                "overview": "Goku, kaybedecek bir saniyesi olmadan Namek Gezegenine ulaştı! Gohan ve Krillin, Ginyu Gücü'nün insafına kalmış bir pamuk ipliğine bağlı! Goku'nun 100 kat yerçekimindeki eğitimi onu bu güçlü düşmanlarla yüzleşmeye hazırladı mı?",
+                "air_date": "1990-11-07",
+                "still_path": "/9eVw23qwbYNFdSRPSV4zM1VYUrd.jpg",
+                "video_url": "1768463"
+            },
+            {
+                "episode_number": 28,
+                "name": "Bir Efsane Ortaya Çıktı",
+                "overview": "Vegeta, Krillin ve Gohan izlerken, Goku, Güç'ün en vahşi savaşçılarından ikisi olan Jeice ve Burter'ın saldırılarını kolayca savuşturur. Goku, Vegeta'nın sadece bir efsane olduğunu düşündüğü bir şeye mi dönüşmüştü: Bir Süper Saiyan?",
+                "air_date": "1990-11-14",
+                "still_path": "/uqdhagamaNFa7nEtHYNXZkHR8gB.jpg",
+                "video_url": "4816444"
+            },
+            {
+                "episode_number": 29,
+                "name": "Ginyu Saldırısı",
+                "overview": "Goku, Burter ve Jeice'nin kendi başlarına halledemeyecekleri kadar çok şey kanıtlayınca Jeice, takviye bulmak için geri çekilir. Artık Goku ve yeni edindiği güçler için gerçek sınav, Kaptan Ginyu'nun savaşa girmesiyle başlamak üzere!",
+                "air_date": "1990-11-21",
+                "still_path": "/r5PKbYVwJWOKKrpTM1CBW48Kzzx.jpg",
+                "video_url": "1768459"
+            },
+            {
+                "episode_number": 30,
+                "name": "İnanılmaz Güç!",
+                "overview": "Goku ile Kaptan Ginyu arasındaki savaş tüm hızıyla devam ederken Gohan ve Krillin, korumasız Dragon Ball'ları Frieza'nın gemisinden çalar. Bu zamana karşı bir yarış ve kahramanlarımız çok geç olmadan Dragon Balls'un gücünü açığa çıkarmalı!",
+                "air_date": "1990-11-28",
+                "still_path": "/pygjzV3a6DnsruiP9vBm0tOHTYW.jpg",
+                "video_url": "1768456"
+            },
+            {
+                "episode_number": 31,
+                "name": "Frieza Yaklaşımları",
+                "overview": "Goku, inanılmaz yeni güçleriyle Kaptan Ginyu'yu şaşkına çeviriyor, ancak Kaptan'ın hâlâ elinde birkaç numara var! Bu sırada Frieza, En Büyük Namek'in evine gelir ve asil savaşçı Nail ile bir savaşa başlar!",
+                "air_date": "1990-12-05",
+                "still_path": "/g9bkMY1wiqVx5GrWvWv41DVtdfS.jpg",
+                "video_url": "1768455"
+            },
+            {
+                "episode_number": 32,
+                "name": "Goku Ginyu'dur ve Ginyu Goku'dur",
+                "overview": "Yaşlı'yı kurtarmak isteyen Nail, acımasız Frieza'ya karşı umutsuz bir savaşa girer. Bu arada, Goku'nun üstün yeteneklerine rakip bulamayan Kaptan Ginyu, nihai saldırısı olan Vücut Değiştirme Tekniği'ni başlatır!",
+                "air_date": "1990-12-12",
+                "still_path": "/auZ1aOkLIbog7jePRLbESBdTG2O.jpg",
+                "video_url": "4696857"
+            },
+            {
+                "episode_number": 33,
+                "name": "Ebedi Ejderhayı Çağırmak",
+                "overview": "Dragon Radar'la silahlanan Gohan ve Krillin, yedi Dragon Ball'u saklandıkları yerden kurtarır. Ancak dileklerini yerine getirmek için Ebedi Ejderhayı çağırmadan önce, yeni ve güçlü bir düşmanla karşı karşıya kalırlar: Goku?!",
+                "air_date": "1990-12-19",
+                "still_path": "/coBwyVNv3quN6sRX2729038dDA2.jpg",
+                "video_url": "1768447"
+            },
+            {
+                "episode_number": 34,
+                "name": "Gohan, Babanı Yen!",
+                "overview": "Kaptan Ginyu, Goku'nun vücudunun kontrolünü ele geçirdikten sonra dikkatini Gohan ve Krillin'e çevirir! Goku, Kaptan'ın kırık bedeninde sıkışıp kalmışken, öfkeli Ginyu'yu durdurmak Gohan'a kalmış!",
+                "air_date": "1991-01-16",
+                "still_path": "/pBwFaYnTIL0hZsl7a3hOfHcfdjS.jpg",
+                "video_url": "1768442"
+            },
+            {
+                "episode_number": 35,
+                "name": "Kaptan Ginyu... Kurbağa",
+                "overview": "Kaptan Ginyu ile Vegeta arasındaki kavga kızışırken Goku, son gücünü toplar ve düşmanını Vücut Değiştirme Tekniğini tersine çevirmesi için kandırır. Şimdi Goku, Krillin ve Gohan, Frieza ile savaşmak için Vegeta ile güçlerini birleştirmelidir.",
+                "air_date": "1991-01-23",
+                "still_path": "/z9o0GGOj9jlpkRsXLz2iHViombz.jpg",
+                "video_url": "1768438"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 33,
+        "air_date": "1991-01-30",
+        "poster_path": "/a2L4vWPp2NFHBALWBPyVH5vPk6e.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Şifre Porunga Mı",
+                "overview": "Yedi Namekian Dragon Ball'un tamamını elde eden Krillin ve Gohan, ejderhayı çağırmaya ve dileklerini yerine getirmeye hazır. Tek bir sorun var: Şifreyi bilmiyorlar!",
+                "air_date": "1991-01-30",
+                "still_path": "/k3VhNv3xhgRzKxcrIi0PTCh6hQL.jpg",
+                "video_url": "1768436"
+            },
+            {
+                "episode_number": 2,
+                "name": "Piccolo'nun Dönüşü",
+                "overview": "Genç Dende'nin yardımıyla Krillin ve Gohan, kendilerine üç dileğin yerine getirileceğini öğrenir! Ancak Krillin ve Gohan ejderhayı çağırırken Vegeta, ölümlülüğü dileme göreviyle olay yerine koşar!",
+                "air_date": "1991-02-06",
+                "still_path": "/kQEL9vNE1EhobgCcwtokwimtndN.jpg",
+                "video_url": "1768431"
+            },
+            {
+                "episode_number": 3,
+                "name": "Füzyon",
+                "overview": "Dragon Balls'un gitmesi ve planının mahvolmasıyla Frieza, öfkesini Vegeta, Gohan ve Krillin'e salıverir. Başka bir yerde, yeni canlanan Piccolo kendisini Namek Gezegeninde bulur. Onun gelişi gidişatı değiştirmeye yetecek mi?",
+                "air_date": "1991-02-13",
+                "still_path": "/xnNSmYLoYoBaUin2uyJ4cGyRqkW.jpg",
+                "video_url": "1768430"
+            },
+            {
+                "episode_number": 4,
+                "name": "Dövüş Gücü: Bir Milyon?",
+                "overview": "Frieza, Vegeta'nın geçmişinden karanlık bir sırrı açığa çıkarır, ancak kötü adamın Z-savaşçıları için çok daha şok edici bir sırrı vardır! Canavarın güç seviyesi dehşet verici yeni boyutlara yükselirken, evrene dair tüm umutlar kaybolmuş gibi görünüyor!",
+                "air_date": "1991-02-20",
+                "still_path": "/dTOcbAAVWv39JTsLxrmb1ttWWcB.jpg",
+                "video_url": "1768426"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gohan Saldırıları",
+                "overview": "Frieza, ilk kurbanı Krillin'i ve Gohan'ın arkadaşını kurtarmak için gücünün her zerresini toplaması gerektiğini iddia ediyor. Genç Saiyan, Freiza'nın acımasız saldırısına son verebilecek mi, yoksa bir sonraki kurban o mu olacak?",
+                "air_date": "1991-02-27",
+                "still_path": "/jmWvL1OhGXEqm7CGfqZfuA0qVWj.jpg",
+                "video_url": "1768417"
+            },
+            {
+                "episode_number": 6,
+                "name": "Süper Namek Piccolo",
+                "overview": "Gohan ve Krillin, Frieza'nın ezici güçlerine karşı mücadelelerine devam ediyor, ancak mücadele zirveye ulaştığında, onlara yardım etmek için savaş alanına yeni bir savaşçı geliyor!",
+                "air_date": "1991-03-06",
+                "still_path": "/mqT621T5L2LKpIjWIBzf6o5Gh5y.jpg",
+                "video_url": "5308160"
+            },
+            {
+                "episode_number": 7,
+                "name": "Deja Vu",
+                "overview": "Piccolo, Frieza ile olan savaşın kontrolünü hızla ele geçirir ve kokuşmuş mor canavar, rakibinin güçlerinin ardındaki sırrı öğrenince şok olur!",
+                "air_date": "1991-03-13",
+                "still_path": "/bOzSpChdHHPE2YFPkJjBM4pH2pP.jpg",
+                "video_url": "1768407"
+            },
+            {
+                "episode_number": 8,
+                "name": "Frieza'nın İkinci Dönüşümü",
+                "overview": "Tam Piccolo üstünlüğü ele geçirmiş gibi görünürken, Frieza ikinci canavarca dönüşümünü açığa çıkararak tüm zafer umutlarını hızla yerle bir ediyor!",
+                "air_date": "1991-03-20",
+                "still_path": "/gscfe2tJoFFfwjGqdDKYu00YMxX.jpg",
+                "video_url": "1768402"
+            },
+            {
+                "episode_number": 9,
+                "name": "Başka Bir Dönüşüm Mü?",
+                "overview": "Piccolo'nun Frieza'dan etkilenmesini izleyemeyen Gohan, harekete geçer! Bu sırada Vegeta, kendisini bir Süper Saiyan'a dönüştürmek için riskli bir plan yapar!",
+                "air_date": "1991-03-27",
+                "still_path": "/t2fdZDgKwOrgsiYnrPvPcXsPUvA.jpg",
+                "video_url": "1768388"
+            },
+            {
+                "episode_number": 10,
+                "name": "Dende'nin Ölümü",
+                "overview": "Nihai formuna ulaşan Frieza, kalan Z-savaşçılarını birer birer yok etmeye kararlı, ancak Vegeta cesurca Frieza'nın zalim saltanatının sona erdiğini duyuruyor! Vegeta'nın iddiaları doğru mu? Süper Saiyan mı oldu?",
+                "air_date": "1991-04-03",
+                "still_path": "/vBbb7JfTIdjLsa4EZERtGPATPDP.jpg",
+                "video_url": "1768384"
+            },
+            {
+                "episode_number": 11,
+                "name": "Yenilenen Goku",
+                "overview": "Yeni güçlerine rağmen Vegeta, Frieza'ya rakip olamaz! Bu arada Goku'nun gençleştirme odasındaki zamanı neredeyse tamamlandı! Arkadaşlarını kurtarmak için savaş alanına zamanında ulaşabilecek mi?",
+                "air_date": "1991-04-10",
+                "still_path": "/r73KPUj1e56xJhM3cIbxp0lfit1.jpg",
+                "video_url": "1768381"
+            },
+            {
+                "episode_number": 12,
+                "name": "Vegeta'nın Sonu",
+                "overview": "Goku, savaş alanında arkadaşlarına yeniden katılır, ancak Vegeta, Frieza'ya yenilmeden önce! Saiyan Prensi hayata pamuk ipliğiyle tutunurken şiddet içeren geçmişinin sırlarını açığa çıkarır.",
+                "air_date": "1991-04-17",
+                "still_path": "/mSqPnAnxlTbPBnPjCsIjoBGVszI.jpg",
+                "video_url": "1768376"
+            },
+            {
+                "episode_number": 13,
+                "name": "Nihai Savaş",
+                "overview": "Azalan Saiyan ırkıyla yeni bir bağ kurduğunu hisseden Goku, canavar Frieza'ya savaş açar! Mücadele yoğunlaştıkça, Frieza enerji patlamalarını Namek'e yönlendirerek gezegeni lav püskürten bir savaş bölgesine dönüştürüyor!",
+                "air_date": "1991-04-24",
+                "still_path": "/w7mH75Cf0OsqubBNMJ741pAGoKQ.jpg",
+                "video_url": "1768372"
+            },
+            {
+                "episode_number": 14,
+                "name": "Süper Güçlerin Çatışması",
+                "overview": "Goku ve Frieza destansı savaşlarına devam ediyor! Bir su altı saldırısı Goku'yu zirveye çıkarır, ta ki Frieza onu bir enerji topuna hapsedene kadar! Frieza için eğlence ve oyundur ama patlayan top Goku için ölümcül olabilir!",
+                "air_date": "1991-05-01",
+                "still_path": "/c4ph94nHJ6ZjKBup4vfHlW0wJNk.jpg",
+                "video_url": "1768371"
+            },
+            {
+                "episode_number": 15,
+                "name": "Frieza'nın Övünmesi",
+                "overview": "Frieza, Goku'yu ellerini kullanmadan yenmeye yemin eder, ancak kudretli Saiyan çok geçmeden canavara sözlerini yedirir! Başka bir yerde Kaptan Ginyu, Vücut Değiştirme Tekniğini Bulma üzerinde kullanarak onu bir kurbağanın vücudunda sıkışıp bırakıyor!",
+                "air_date": "1991-05-08",
+                "still_path": "/gVTu9sKLykPDjAn70mVWjB5f4Mn.jpg",
+                "video_url": "1768366"
+            },
+            {
+                "episode_number": 16,
+                "name": "Cesur ve Korkusuz",
+                "overview": "Kaptan Ginyu, Bulma'nın bedeninde savaş alanına geri dönüyor! Piccolo, Krillin ve Gohan bu Femme Fatale'in üstesinden gelebilecek mi? Daha sonra Frieza maksimum gücünün yüzde ellisine kadar güç verir ve Goku kendisini tamamen rakipsiz bulur!",
+                "air_date": "1991-05-15",
+                "still_path": "/zSm3WPvP0WWRCX8TNrAJgteVFfO.jpg",
+                "video_url": "1768364"
+            },
+            {
+                "episode_number": 17,
+                "name": "Ateşin Tecessümü",
+                "overview": "Goku'nun güçlü Kaio-Ken saldırısının, hâlâ gücünün yalnızca yüzde ellisiyle savaşan Frieza üzerinde hiçbir etkisi yok! Frieza savaşı kazanmış gibi göründüğü gibi, rüya gibi bir vizyon Goku'nun daha yüksek bir güç ve güç seviyesine yükselmesine yardımcı olur!",
+                "air_date": "1991-05-22",
+                "still_path": "/2AVQNMydb3ZdU6u5KPXSnUcxb8z.jpg",
+                "video_url": "1768362"
+            },
+            {
+                "episode_number": 18,
+                "name": "Koz",
+                "overview": "Goku bir kez daha bir vizyon tarafından kurtarılır! Bu sefer Vegeta, yeni umut ve cesaret sunmak için Goku'yla mezarın ötesinden konuşur! Ancak Goku, Frieza'ya karşı savaşın boşuna olduğunu anladığında son çaresine başvurur: Ruh Bombası!",
+                "air_date": "1991-05-29",
+                "still_path": "/7gyusmCWR2s3mRy1KmWE3IpNwJY.jpg",
+                "video_url": "1768359"
+            },
+            {
+                "episode_number": 19,
+                "name": "Şansı Canlı Tutun",
+                "overview": "Ginyu Gücü Kral Kai'nin gezegenini işgal ettiğinde Yamcha, Tien ve Chiaotzu'nun başı ciddi belada bulur! Bu sırada Frieza, Goku'nun Ruh Bombası için enerji toplama çabalarını engellerken Piccolo'nun savaşa girmesi gerekir!",
+                "air_date": "1991-06-05",
+                "still_path": "/qs5yVHCOUbAR9mtK0BLv1XRK5t1.jpg",
+                "video_url": "1768357"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ruhun Gücü",
+                "overview": "Z-savaşçıları Ginyu Gücü'yle savaşırken Kral Kai'nin gezegeninde kaos patlak veriyor! Namek Gezegeni'nde Piccolo ve Frieza arasındaki ölüm kalım mücadelesi devam ediyor ve Goku Ruh Bombası'nı tamamlıyor!",
+                "air_date": "1991-06-12",
+                "still_path": "/lhE5ppw9Al0m4uNkHbO6WWuZT1v.jpg",
+                "video_url": "1768342"
+            },
+            {
+                "episode_number": 21,
+                "name": "Sonunda Dönüştürüldü",
+                "overview": "Frieza yeniden ortaya çıkınca zafer kutlaması sona erer! Hiçbir rezervi kalmayan Goku, Frieza'nın öfkesini Piccolo ve Krillin'e yöneltmesini çaresizce izliyor. Arkadaşlarını kaybetmenin öfkesine kapılan Goku, çılgın bir dönüşüm yaşıyor!",
+                "air_date": "1991-06-19",
+                "still_path": "/8YaHGuS0tG7YKZJMmNseXUX8jkZ.jpg",
+                "video_url": "1768340"
+            },
+            {
+                "episode_number": 22,
+                "name": "Öfke Patlaması",
+                "overview": "Altın ışıkla yutulan Goku, artık bir Süper Saiyan olduğunu duyurur! Frieza bundan etkilenmedi; ta ki dövüş başlayana kadar! Şiddetli bir savaşta Frieza, Goku'nun artık her bakımdan kendisinden üstün olduğunu anlayınca dehşete düşer!",
+                "air_date": "1991-06-26",
+                "still_path": "/y2nLLqIVH8fm47iOdDsUT6Vmo0F.jpg",
+                "video_url": "1768337"
+            },
+            {
+                "episode_number": 23,
+                "name": "Namek'in Yıkımı",
+                "overview": "Goku'ya rakip bulamayan Frieza, Namek Gezegenine saldırır! Zamanında tepki veremeyen Goku, ateşli patlamanın Namek'in çekirdeğini delip geçmesini çaresizce izlemek zorunda kalır! Böylesine inanılmaz bir yıkımdan sağ çıkabilecek olan var mı?",
+                "air_date": "1991-07-03",
+                "still_path": "/6ksLpjRV4tGrOOhKdvOw6CX8rJz.jpg",
+                "video_url": "1768336"
+            },
+            {
+                "episode_number": 24,
+                "name": "Son Saldırı",
+                "overview": "Gezegenin patlamasına sadece birkaç dakika kala Frieza maksimum gücüne ulaşır! Bu arada Gohan ve Bulma, Goku'nun uzay gemisine geri dönerler. Goku, Frieza'yı zamanında yenerek oğluna katılıp güvenli bir yere uçabilecek mi?",
+                "air_date": "1991-07-10",
+                "still_path": "/tLgjBAMbmpW6wofArlCJRp458z4.jpg",
+                "video_url": "1768329"
+            },
+            {
+                "episode_number": 25,
+                "name": "Yıkıma Yaklaşıyoruz",
+                "overview": "Goku ve Frieza arasındaki savaş tüm hızıyla sürüyor! Dünya'ya döndüğümüzde, yedi Ejder Topu geri getirildi, ancak Namek'in yok edilmesi yaklaşırken Kami ve Bay Popo, çok geç olmadan Ebedi Ejderhayı çağırabilecekler mi?",
+                "air_date": "1991-07-17",
+                "still_path": "/3ZkhUpk3mUxDkVy25bHHou66GGb.jpg",
+                "video_url": "1768324"
+            },
+            {
+                "episode_number": 26,
+                "name": "Gohan Geri Dönüyor",
+                "overview": "Frieza'nın kurbanlarının hayata dönmesi dileği ile, onlar ayağa kalkmaya başladıkça, Frieza'nın yıkıcı saldırısı karşısında şaşkına dönen Goku düşer. Babasının yenilgisini hisseden Gohan, evrenin son umudu olarak olay yerine koşar.",
+                "air_date": "1991-07-24",
+                "still_path": "/vbucETrN1vXrsKhcnANvSdvYRqQ.jpg",
+                "video_url": "5308290"
+            },
+            {
+                "episode_number": 27,
+                "name": "Son Dilek",
+                "overview": "Guru ve Namek halkı hayata geri döndürüldü ve ejderha Porunga, üç dileğin sonuncusunu yerine getirmek için yeniden ortaya çıktı. Yeni öfkelenen Goku, şeytani Frieza'ya karşı saldırısına devam ederken Dende son dileğini yerine getirmek için yarışır!",
+                "air_date": "1991-07-31",
+                "still_path": "/gfmC1gIxLqYxT3YYkmYMnheS0uf.jpg",
+                "video_url": "1768307"
+            },
+            {
+                "episode_number": 28,
+                "name": "Kaybolan Gezegende Düello",
+                "overview": "Goku geride kalmayı ve Frieza ile olan mücadelesini bitirmeyi seçer. Namek'in her an patlamaya hazır olması nedeniyle Goku'nun Frieza'yı yenip zamanında kaçması mümkün görünmüyor! Süper Saiyan hayatının en büyük hatasını mı yaptı?",
+                "air_date": "1991-08-07",
+                "still_path": "/gSPKHdBA6EThLHJ0TPnkLJM4056.jpg",
+                "video_url": "1768303"
+            },
+            {
+                "episode_number": 29,
+                "name": "Frieza'nın Pathos'u",
+                "overview": "Her geçen saniye Namek'i nihai yıkıma yaklaştırdıkça Goku için zaman daralıyor. Süper Saiyan'ın gücü her darbede artarken, görünüşe göre Frieza ile olan destansı savaşı sonunda sonuca ulaşmış!",
+                "air_date": "1991-08-14",
+                "still_path": "/hbTw1BN55ywcK39Mtk8KPM6do8j.jpg",
+                "video_url": "1768300"
+            },
+            {
+                "episode_number": 30,
+                "name": "Frieza Yenildi!!",
+                "overview": "Frieza kör bir öfkeyle saldırıyor ve pervasız bir enerji saldırıları yaylım ateşi açıyor. Goku'nun üstün gücü karşısında, kötü tiranın en büyük korkusu sonunda gerçekleşti: Süper Saiyan'ın elinde yenilgi!",
+                "air_date": "1991-08-21",
+                "still_path": "/n0sjiTRmSfFQmnSyCinoYUh7syq.jpg",
+                "video_url": "1768297"
+            },
+            {
+                "episode_number": 31,
+                "name": "Güçlü Öfke Patlaması",
+                "overview": "Frieza, kendi enerji diski tarafından parçalara ayrıldıktan sonra bile evren üzerindeki hakimiyetinden kurtulmaya hazır değil. Frieza, elinde kalan azıcık güçle, savaş alanını terk eden Goku'nun ardından son bir enerji patlaması başlatır!",
+                "air_date": "1991-08-28",
+                "still_path": "/pB47dFtVGvWTKIjePpBUkzEHTbd.jpg",
+                "video_url": "1768295"
+            },
+            {
+                "episode_number": 32,
+                "name": "Namek'in Patlaması... Goku'nun Sonu Mu?",
+                "overview": "Goku patlayan Namek gezegeninde mahsur kalmış gibi görünse de Dende'nin kutlamak için iyi bir nedeni var: Dragon Ball'ların Goku'yu geri getirme gücü var! Ama eğer durum buysa, neden herkes hala bu kadar üzgün görünüyor?",
+                "air_date": "1991-09-04",
+                "still_path": "/maDhu2iesdN2P9RvRWOVrEwE3Nm.jpg",
+                "video_url": "1768293"
+            },
+            {
+                "episode_number": 33,
+                "name": "Goku Hayatta!!",
+                "overview": "Uzun zamandır ortalıkta olmayan eski dostların sonunda Dragon Balls'la evlerine dönmeleri, neşeli buluşmaların zamanıdır! Krillin ve Yamcha ruhlar dünyasından geri getirilir, ancak Namekian ejderhası Porunga'nın Goku hakkında şaşırtıcı haberleri vardır!",
+                "air_date": "1991-09-11",
+                "still_path": "/42M3a6qsSlUTTMSOkKXkz4U3k6l.jpg",
+                "video_url": "1768291"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 32,
+        "air_date": "1991-09-18",
+        "poster_path": "/tB5YM9eFFF3OmLg3zsR67oNUfAF.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Gökler Titriyor",
+                "overview": "Gohan balığa gidiyor, Krillin bir kız arkadaş buldu ve sanki barış bir kez daha Dünya'ya geri dönmüş gibi görünüyor. Ancak bu sakin yüzeyin altında korkunç bir kötülük gizleniyor: Garlic Junior, Ölü Bölge'den kaçtı!",
+                "air_date": "1991-09-18",
+                "still_path": "/kr1T6l4lgDWhvSAIMTBNvVlpc0O.jpg",
+                "video_url": "1768287"
+            },
+            {
+                "episode_number": 2,
+                "name": "Terörün Kara Sisi",
+                "overview": "Garlic Junior, Spice Boys'un yardımıyla hiçbir şeyden haberi olmayan bir dünyaya Kara Su Sisi'ni salıyor. Korkunç sis yayıldıkça Garlic Junior'ın Dünya üzerindeki kontrolü de artıyor!",
+                "air_date": "1991-09-25",
+                "still_path": "/52QYmLVGNh44BuPjIKPvkJEoLVN.jpg",
+                "video_url": "1768281"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kami'nin Gözetleme Noktasında Savaş",
+                "overview": "Piccolo, Spice Boys'u ve hastalıklı Z Savaşçılarını uzak tutmaya çalışırken Gohan ve Krillin, Kara Su Sisi'nin etkilerini tersine çevirebilecek tek şeyi geri almak için Kami'nin Gözetleme Noktası'na doğru yarışır: Kutsal Su!",
+                "air_date": "1991-10-02",
+                "still_path": "/9Yyiwq2oy9aB53KOF4TcxJ6t6zS.jpg",
+                "video_url": "1768669"
+            },
+            {
+                "episode_number": 4,
+                "name": "Piccolo ile Mücadele",
+                "overview": "Piccolo'nun Kara Su Sisi'nden etkilendiği ve Kami'nin bir cam şişeye hapsolduğu Garlic Jr., Spice Boys'un Dünya'nın kahraman savunucularıyla \"spor yapmasına\" izin veriyor. Spice'ın enerji patlaması Krillin'in sonunu getirecek mi?",
+                "air_date": "1991-10-09",
+                "still_path": "/e0UhQ1XjKrR0GlinMYTA5SrY0Fj.jpg",
+                "video_url": "4680512"
+            },
+            {
+                "episode_number": 5,
+                "name": "Restorasyon Çağrısı",
+                "overview": "Krillin, Spice Boys'un dayak yemesinin ardından Kami ve Bay Popo'yu kurtarmaya çalışır, ancak kısa süre sonra Kara Su Sisi'nin kurbanı olur. Gohan, Dünya'yı kurtarabilecek tek kahramandır, ancak iki en iyi arkadaşına karşı bunu başarabilecek midir?",
+                "air_date": "1991-10-16",
+                "still_path": "/290UlcgqhBGzKP8NcPF8pWsFuWF.jpg",
+                "video_url": "1768670"
+            },
+            {
+                "episode_number": 6,
+                "name": "İntihar Kursu",
+                "overview": "Piccolo ve Krillin tuzaklarını kurarlar ve Kara Su Sisi'nden etkilenmiş gibi davrandıklarını ortaya çıkarırlar! Öfkelenen Sarımsak Jr., Makyo Yıldızının enerjisini kullanarak dönüşür ve Kutsal Suyun etkisinin yakında sona ereceği konusunda uyarır.",
+                "air_date": "1991-10-23",
+                "still_path": "/eHJQe6v7sbCQfYg2fWbF5N9rvU4.jpg",
+                "video_url": "1768671"
+            },
+            {
+                "episode_number": 7,
+                "name": "Aşırı Önlemler",
+                "overview": "Garlic Junior ve Spice Boys, her zamankinden daha güçlü olmak için Makyo Star'ın şeytani gücünden yararlanıyor, ancak Gohan, Krillin ve Piccolo bu yeni tehdide karşı savaşmaya hazır!",
+                "air_date": "1991-10-30",
+                "still_path": "/9JjOQ19dMey5YVkTriFqYyUwXA6.jpg",
+                "video_url": "1768682"
+            },
+            {
+                "episode_number": 8,
+                "name": "Dünya Uyanıyor",
+                "overview": "Gohan, arkadaşlarını kurtarmak için son bir çabayla Garlic Junior'a topyekun bir saldırı başlatır! Bu sırada Gözcü'nün derinliklerinde Kami ve Bay Popo, Eski Muhafızlar tarafından kuşatma altındadır!",
+                "air_date": "1991-11-06",
+                "still_path": "/jygq660vy0oEXvgtcZVS1oJLeA4.jpg",
+                "video_url": "1768683"
+            },
+            {
+                "episode_number": 9,
+                "name": "Zafer İçin Kısa Bir Şans",
+                "overview": "Öfkeden gözleri kör olan ve düşmanlarını yok etme konusunda çaresiz kalan Garlic Junior, gücünü Ölü Bölge'yi açmak için kullanıyor! Piccolo ve Krillin'in hizmet dışı kalmasıyla, onu durdurabilecek tek kişi Gohan kaldı!",
+                "air_date": "1991-11-13",
+                "still_path": "/wxtjqh1oIQYNAGoFRI1wQ3oKCU6.jpg",
+                "video_url": "1768699"
+            },
+            {
+                "episode_number": 10,
+                "name": "Krillin'in Teklifi",
+                "overview": "Dünya'da barış sağlanmış olsa da Krillin şimdiye kadarki en zorlu mücadelesiyle karşı karşıya: Maron ile bir alışveriş gezisinde hayatta kalmak! Ve bir gelinlik seçiyor gibi görünüyor! Krillin ve Maron evlenmeyi mi planlıyor?",
+                "air_date": "1991-11-20",
+                "still_path": "/ptFdg3uvXZSuASUz9X8U7oYA7E6.jpg",
+                "video_url": "1768710"
+            },
+            {
+                "episode_number": 11,
+                "name": "Frieza'nın Karşı Saldırısı",
+                "overview": "Gohan kitapları kırıyor ve yeni öğretmeni de kırbacı şaklatıyor! Ancak çalışma zamanı neredeyse bitti, çünkü güçlü bir kötülük Dünya'ya doğru hızla yaklaşıyor! Gohan'ın en büyük korkuları gerçeğe dönüştü: Frieza hayatta kaldı!",
+                "air_date": "1991-11-27",
+                "still_path": "/6oZfJDdJFoN12txm2QELnMTGim9.jpg",
+                "video_url": "1768711"
+            },
+            {
+                "episode_number": 12,
+                "name": "Gizemli Gençlik",
+                "overview": "Frieza ve babası King Cold hızla yaklaşırken, Dünya en karanlık saatiyle karşı karşıya! Goku'nun onlara yardım edememesi nedeniyle Z-Fighters, evrenin şimdiye kadar tanıdığı en güçlü kötülüğe karşı umutsuz bir saldırı başlatmaya hazırlanıyor!",
+                "air_date": "1991-12-04",
+                "still_path": "/4mI775GodivvMr5qxZh2eYfGqG2.jpg",
+                "video_url": "1768712"
+            },
+            {
+                "episode_number": 13,
+                "name": "Başka Bir Süper Saiyan Mı?",
+                "overview": "Frieza ve King Cold Dünya'ya inerler, ancak gizemli bir savaşçı onların şeytani intikam planlarını bozmaya gelir. Bu küstah genç kahraman, kötülüğün bu ikiz devlerine karşı koyabilecek güce sahip mi?",
+                "air_date": "1991-12-11",
+                "still_path": "/v1jQbRYqnUa6GhEc5H48upQCeSE.jpg",
+                "video_url": "1768713"
+            },
+            {
+                "episode_number": 14,
+                "name": "Tekrar Hoş Geldin Goku",
+                "overview": "Frieza ve King Cold'u yendikten sonra gizemli yabancı, Goku'nun Dünya'ya gelişinin tam zamanını ve yerini duyurur. Bu genç Süper Saiyan gerçekten geleceği tahmin edebilir mi?! Gohan ve diğerleri bunu öğrenmeye kararlılar!",
+                "air_date": "1991-12-18",
+                "still_path": "/hxOUyekPR0B0b7RQYXVVEeeY9is.jpg",
+                "video_url": "1768714"
+            },
+            {
+                "episode_number": 15,
+                "name": "Gizem Ortaya Çıktı",
+                "overview": "Goku'yu savaşta test eden gizemli yabancı, gerçek kimliğini ortaya koyuyor! Onun zamanında gelişi ne anlama geliyor? Gelecekten gelen bu güçlü kahraman, Goku ile yaptığı şaşırtıcı sohbette her şeyi anlatıyor!",
+                "air_date": "1992-01-15",
+                "still_path": "/f2KwbqnxwLpU9FrxLNwFirvH0Eu.jpg",
+                "video_url": "1768715"
+            },
+            {
+                "episode_number": 16,
+                "name": "Goku'nun Özel Tekniği",
+                "overview": "Gelecek yazıldı mı, yoksa yazıldı mı? Goku ve diğer Z-Fighters'ın, Trunks'ın uğursuz uyarısını duyunca karar vermesi gereken şey budur. Android'ler geliyor! Ve dünyanın sonunu da beraberlerinde getiriyor olabilirler!",
+                "air_date": "1992-01-22",
+                "still_path": "/s3HjEUCeXqs308jdFpBxdGqpuDM.jpg",
+                "video_url": "1768716"
+            },
+            {
+                "episode_number": 17,
+                "name": "Z Savaşçıları Hazırlanıyor",
+                "overview": "Gohan bazı yeni numaralar öğreniyor, Vegeta kendini kırılma noktasına zorluyor ve herkes yaklaşmakta olan Android tehdidiyle yüzleşmeye hazırlanırken Yamcha buna ayak uydurmak için mücadele ediyor! Peki tüm hazırlıkları yeterli olacak mı?",
+                "air_date": "1992-01-29",
+                "still_path": "/b1EItExBgHvJKwVxlsFi4yBfmqL.jpg",
+                "video_url": "1768717"
+            },
+            {
+                "episode_number": 18,
+                "name": "Goku'nun Çilesi",
+                "overview": "ChiChi bir araba istiyor! Goku ve Piccolo, sürücü kursuna kaydolmak için eğitimden bir gün izin alır. Bu iki kudretli savaşçı, Dünya'nın hayatta kalmak için tek şansı olabilir ama paralel park etmeyi öğrenme şansları nedir?",
+                "air_date": "1992-02-05",
+                "still_path": "/pZj9tICjTB9IldRoHHGH31XoE09.jpg",
+                "video_url": "1768718"
+            },
+            {
+                "episode_number": 19,
+                "name": "Androidler Ortaya Çıkıyor",
+                "overview": "Üç yıl geçti, geçti ve sonunda hesap günü geldi! Android'ler burada ve hiçbir şeyden haberi olmayan bir şehri kasıp kavuruyorlar! Goku ve arkadaşlarının artık eğitimlerini test etmeleri gerekiyor!",
+                "air_date": "1992-02-12",
+                "still_path": "/aZ111hQCXh3GED46a1vGnnmmFmF.jpg",
+                "video_url": "1768719"
+            },
+            {
+                "episode_number": 20,
+                "name": "Kullanışlı Bir Hile",
+                "overview": "Yamcha, acımasız Android 20'nin insafına kalmıştır ve Goku ile diğerleri, arkadaşlarına yardım etmek için yarışmak zorundadır. Güçlerinin çok daha üstün olduğuna inanan Androidler, şehrin yarısını yerle bir ederek Goku'nun öfkesini kışkırtıyor!",
+                "air_date": "1992-02-19",
+                "still_path": "/sGf54iok6o6phuHByskWOmHIx5Y.jpg",
+                "video_url": "1768720"
+            },
+            {
+                "episode_number": 21,
+                "name": "Goku için Çifte Sorun",
+                "overview": "Goku'nun Android 19'a karşı topyekün bir saldırı başlatmasıyla Android'lerle savaş başlıyor. Süper Saiyan, savaşı kontrol altına almış gibi görünüyor, ancak bir şeyler korkunç bir şekilde ters gitmek üzere!",
+                "air_date": "1992-02-26",
+                "still_path": "/pCgqBvO95gHASy51V5j6qSS78BL.jpg",
+                "video_url": "1768721"
+            },
+            {
+                "episode_number": 22,
+                "name": "Super Saiyan'a Yükseltme",
+                "overview": "İçeriden felç edici bir virüs tarafından saldırıya uğrayan Goku, çılgın Android 19'a karşı çaresizdir. Ancak tam da Goku için sonun yaklaştığı sırada Vegeta sahneye çıkar! Ve Androidler için birkaç büyük sürprizi vardır!",
+                "air_date": "1992-03-04",
+                "still_path": "/yNg533UT7dEFurbGZGIb4zN94sM.jpg",
+                "video_url": "1768722"
+            },
+            {
+                "episode_number": 23,
+                "name": "Dr. Gero'nun Sırrı",
+                "overview": "Vegeta, Süper Saiyan olarak ilk dövüşünde savaş alanının kontrolünü ele geçirir ve Android 19'u ikna edici bir şekilde yener! 19'un kaderini paylaşmak istemeyen Android 20, dağlarda saklanmak için koşuyor!",
+                "air_date": "1992-03-11",
+                "still_path": "/pTOInCJvmEtDJEmVy1f2HPqGUnF.jpg",
+                "video_url": "1768723"
+            },
+            {
+                "episode_number": 24,
+                "name": "Daha Fazla Android Mi?",
+                "overview": "Vegeta, Piccolo ve Gohan, Android 20 için dağlarda kapsamlı bir araştırmaya öncülük ediyor. Ancak avcılar aynı zamanda avdır! Android 20 saldırmaya hazır şekilde gölgelerde gizleniyor ve görünüşe göre Piccolo onun ilk hedefi!",
+                "air_date": "1992-03-18",
+                "still_path": "/vLAtrzFiVwvtzSi1JF1rlMWQHej.jpg",
+                "video_url": "1768724"
+            },
+            {
+                "episode_number": 25,
+                "name": "Dr. Gero'yu Takip Edin",
+                "overview": "Kahramanlarımız şaşırtıcı bir keşifte bulunuyor: Android 20, Dr. Gero'dan başkası değil! Bu yeni bilgiye göre harekete geçmeden önce şeytani doktor, daha fazla katil android'i uyandırmayı planladığı gizli laboratuvarına kaçar!",
+                "air_date": "1992-03-25",
+                "still_path": "/v8jxBDLL7u9Iin0FpnNO9pBjcve.jpg",
+                "video_url": "1768725"
+            },
+            {
+                "episode_number": 26,
+                "name": "Kabus Gerçekleşiyor",
+                "overview": "Z-Fighter'lar çılgınca Dr. Gero'nun gizli laboratuvarını ararken yarış devam ediyor! Ancak Vegeta, androidleri etkinleştirilmeden önce durdurmak yerine bir meydan okuma istiyor! Trunks'un uyarısına rağmen androidlerle tek başına savaşmayı seçiyor",
+                "air_date": "1992-04-01",
+                "still_path": "/4kl1fleb85Sb2uRe4R62Npb18vl.jpg",
+                "video_url": "1768726"
+            },
+            {
+                "episode_number": 27,
+                "name": "Goku'nun Suikastçısı",
+                "overview": "Dr. Gero dağdaki sığınağına kaçar ve katil androidlerine hayat verir. Goku'nun yardımı olmadan tüm umutlar kaybolmuş görünüyor. Dr. Gero nihai intikama bir adım daha yaklaşmış gibi görünüyor, ancak onun şeytani yaratımlarının da kendilerine ait bir kan davası var!",
+                "air_date": "1992-04-08",
+                "still_path": "/a2zJJBu1vPF6ScmWlUpiOM13Di6.jpg",
+                "video_url": "1768730"
+            },
+            {
+                "episode_number": 28,
+                "name": "Ölümcül Güzellik",
+                "overview": "Vegeta ve Android 18 otoyolda karşı karşıya geliyor. Trunks ve diğerleri yardıma hazır ama Saiyan prensi rakibiyle insandan androide savaşmakta ısrar ediyor! Vegeta'nın aşırı özgüveni onun sonu mu olacak?",
+                "air_date": "1992-04-15",
+                "still_path": "/aPdsuHOpJCOHddGEW8bQtVgIjQm.jpg",
+                "video_url": "1768732"
+            },
+            {
+                "episode_number": 29,
+                "name": "Androidlere Karşı Bir Rakip Yok",
+                "overview": "Dünyayı sarsan bir savaşta güzel Android 18, Vegeta'ya diz çöktürüyor. Ancak son darbeyi indirmeden önce Trunks yardım etmek için devreye girer. Yakında iyiyle kötü arasında topyekün bir savaş başlar ve androidler üstünlük sağlar.",
+                "air_date": "1992-04-22",
+                "still_path": "/772dYzSLEm2FepE7Uyil1Uxs8jE.jpg",
+                "video_url": "1768733"
+            },
+            {
+                "episode_number": 30,
+                "name": "Son Hendek Çabası",
+                "overview": "Vegeta, Trunks, Tien ve Piccolo acı bir gerçeğin farkına varır: Güçlerini hızlı bir şekilde artırmadıkça androidlere karşı hiçbir şansları olmayacaktır. Piccolo sert bir hareketle Kami'nin Gözetleme Noktası'na uçar ve hiç beklenmedik bir teklifte bulunur!",
+                "air_date": "1992-04-29",
+                "still_path": "/94oNXSpcHnYZYJy2cUgLKz9uziz.jpg",
+                "video_url": "1768734"
+            },
+            {
+                "episode_number": 31,
+                "name": "Yaklaşıyor",
+                "overview": "Androidler Goku'nun peşinde yola çıkarlar ancak bazı hiperaktif serseriler tarafından geciktirilirler. Krillin ve Trunks, Goku'yu daha güvenli bir saklanma yerine taşımak için yarışır. Kami, Piccolo'nun zor teklifiyle boğuşur.",
+                "air_date": "1992-05-06",
+                "still_path": "/6DNTbfBqqqGJhdGoVSopVOf6rVq.jpg",
+                "video_url": "1768735"
+            },
+            {
+                "episode_number": 32,
+                "name": "İstenmeyen Keşif",
+                "overview": "Z-savaşçıları bir sonraki hamlelerini planlamak için Usta Roshi'nin evine çekilirler. Bu arada, Bulma şaşırtıcı bir keşif yapar: ikinci bir zaman kapsülünün enkazı! Nereden geldi ve daha da önemlisi, içinde kim vardı?",
+                "air_date": "1992-05-13",
+                "still_path": "/zbM6AVgMwq4veYlvuV8kM4tAE6o.jpg",
+                "video_url": "1768736"
+            }
+        ]
+    },
+    "season_5": {
+        "season_number": 5,
+        "name": "Sezon 5",
+        "episode_count": 26,
+        "air_date": "1992-05-19",
+        "poster_path": "/iIzYMnpLtBTh9Vg8yj91RhjQMFy.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Korkuyla Ele Geçirildi",
+                "overview": "Trunks ve Krillin, gizemli zaman kapsülünün kaza mahallinde Bulma'ya katılır ve ürkütücü bir ipucu bulur: büyük, çekirge benzeri bir yaratığın kabuğu! Zaman kapsülüne gelen şey insan değil ve ortalıkta dolaşıyor!",
+                "air_date": "1992-05-20",
+                "still_path": "/rEz2B5W76ajJKm0Lvt3yiyVUNXv.jpg",
+                "video_url": "1768737"
+            },
+            {
+                "episode_number": 2,
+                "name": "Birleşme",
+                "overview": "Böceğe benzeyen bir canavar, Gingertown'u korkunç bir mezarlığa çevirmekle tehdit ediyor! Bu yeni tehdide yanıt olarak Kami, Piccolo ile birleşir ve ortaya çıkan Süper Namekian, epik boyutlarda bir hesaplaşma için Gingertown'a uçar!",
+                "air_date": "1992-05-27",
+                "still_path": "/4Fpjd1rxDzO8XC8CMh21kb831EQ.jpg",
+                "video_url": "1768738"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ödünç Alınan Güçler",
+                "overview": "Piccolo, Cell'le yüzleşirken Gingertown bir savaş alanına dönüşür. Gelecekten gelen bu canavar, gücünü kurbanlarının hayatlarını emerek kazanıyor! Ancak yaratığın tek yeteneği bu değil. Ayrıca Kamehameha Dalgasını da biliyor!",
+                "air_date": "1992-06-03",
+                "still_path": "/oP9CovYNAdkwsLteek7Q3UIlPVc.jpg",
+                "video_url": "1768739"
+            },
+            {
+                "episode_number": 4,
+                "name": "Onun Adı Hücre",
+                "overview": "Ağır zırhlı tanklar Cell'in saldırısını durduramaz ve şimdi canavarı durdurmak Piccolo'ya kalmıştır! Namekian hayatta kalmak için savaşırken, Cell aslında bir android olduğunu ortaya çıkarır, Dr. Gero'nun en büyük başarısı!",
+                "air_date": "1992-06-10",
+                "still_path": "/3asH3jTiijDOmBj8dBG0FJxAiq9.jpg",
+                "video_url": "1768741"
+            },
+            {
+                "episode_number": 5,
+                "name": "Piccolo'nun Çılgınlığı",
+                "overview": "Piccolo, Cell'in kolunu yenileyecek kadar akıllıca dikkatini dağıtır. Namekian yeni bir tura hazır ve Krillin ile Trunks destek sağlamak için geldiler! Şansı aleyhine artan Cell, taktiksel bir karar verir.",
+                "air_date": "1992-06-17",
+                "still_path": "/lYLKcydmrRALtm97EwtbOXkqLr3.jpg",
+                "video_url": "1768743"
+            },
+            {
+                "episode_number": 6,
+                "name": "Laboratuvar Bodrumu",
+                "overview": "Geleceği kurtarma umuduyla Trunks ve Krillin, Dr. Gero'nun laboratuvarını yok etmek için yarışır. Bu sırada Piccolo ve Tien, bulunması zor Hücre'yi arar. Peki her hareketini bilen bir düşmanı nasıl durdurabilirler?",
+                "air_date": "1992-06-24",
+                "still_path": "/qQcJiFuzIvtw0117URnl0HlufKc.jpg",
+                "video_url": "1768745"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kahramanımız Uyanıyor",
+                "overview": "Cell, South City'de daha fazla sivilin arasından geçiyor ve yanlışlıkla Krillin'e çarpıyor! Goku nihayet ayağa kalkabiliyor ama Cell ve diğer androidler tüm hızıyla ilerlerken Saiyan kahramanı hâlâ bir fark yaratabilecek mi?",
+                "air_date": "1992-07-01",
+                "still_path": "/7SccLw124iGsLaVi6VkdLOjFJ5S.jpg",
+                "video_url": "1768747"
+            },
+            {
+                "episode_number": 8,
+                "name": "Zaman Odası",
+                "overview": "Cell ölümcül yürüyüşüne devam ederken Goku, bir yıllık eğitimi yalnızca bir güne sığdırmak için bir plan yapar! Usta Roshi'ye döndüğümüzde, android üçlüsü Goku'yu aramak için gelir! Piccolo, Saiyanlar dönene kadar onları oyalayabilecek mi?",
+                "air_date": "1992-07-08",
+                "still_path": "/1tZ6yLoNk2Dz7zuD5gsIT00Qei4.jpg",
+                "video_url": "1768748"
+            },
+            {
+                "episode_number": 9,
+                "name": "Canavar Geliyor",
+                "overview": "Hiperbolik Zaman Odası'nın kapalı kapıları ardında Vegeta ve Trunks, Süper Saiyan seviyesini aşmaya çalışıyor! Piccolo, Dünya'da Android 17'yi savaşa davet ediyor!",
+                "air_date": "1992-07-15",
+                "still_path": "/7jwzPZeMxR1194AHPHI77OHYb7y.jpg",
+                "video_url": "1768750"
+            },
+            {
+                "episode_number": 10,
+                "name": "O Burada",
+                "overview": "Kami ile birleştikten sonra her zamankinden daha güçlü olan Piccolo, androidlere karşı saldırıya öncülük ediyor! Görünüşe göre Süper Namekian, Cell savaş alanına gelene kadar her şeyi kontrol altında tutuyor! Bu iğrenç canavarı durdurabilecek var mı?",
+                "air_date": "1992-07-22",
+                "still_path": "/yaA8jGOCQJqavcRhr5sFHvdr6Ns.jpg",
+                "video_url": "1768752"
+            },
+            {
+                "episode_number": 11,
+                "name": "Piccolo'ya Kadar",
+                "overview": "Cell, Android 17'yi benimsemek üzereyken Piccolo cesurca devreye giriyor ve canavarın planını bozuyor! Süper Namekian'ın gerçekten Cell'i tek başına durdurma şansı var mı?! Yoksa sadece kaçınılmaz olanı erteliyor mu?",
+                "air_date": "1992-07-29",
+                "still_path": "/AmaH9eWL3kdZ2vwBxCWTYTyDviK.jpg",
+                "video_url": "1768755"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sessiz Savaşçı",
+                "overview": "Android 16'nın Cell kadar güçlü olduğunu iddia etmesi çılgınca bir övünme gibi görünüyor! Ancak Cell'i iplere fırlatacak bir saldırı başlattıktan sonra, büyük androidin sözlerini destekleyecek güce sahip olduğu ortaya çıkıyor!",
+                "air_date": "1992-08-05",
+                "still_path": "/8bfZRHli5995GAr5aYsjCGvfcMM.jpg",
+                "video_url": "1768758"
+            },
+            {
+                "episode_number": 13,
+                "name": "Elveda Deyin, 17",
+                "overview": "16'sı Cell ile çatışırken, Android'e karşı Android var. Android 16 daha güçlü bir savaşçı ama Cell artık durdurulamayacak kadar azimli! Cell, gizli bir saldırıyla korkunç dönüşümüne bir adım daha yaklaşıyor!",
+                "air_date": "1992-08-12",
+                "still_path": "/6ocAd5E7RcxqinELGrGI5nWr6v4.jpg",
+                "video_url": "1768762"
+            },
+            {
+                "episode_number": 14,
+                "name": "Kurban Etmek",
+                "overview": "Tien, psişik patlamaların saldırısıyla Android 16 ve 18'e kaçma şansı verir, ancak güçlü saldırı, gücünü hızla tüketir. Tien androidleri kurtarmış olabilir ama kendini kurtarabilecek mi?",
+                "air_date": "1992-08-19",
+                "still_path": "/kxyuUFbkG0KKCokCi19L0yDsBCQ.jpg",
+                "video_url": "1768765"
+            },
+            {
+                "episode_number": 15,
+                "name": "Saiyanlar Ortaya Çıkıyor",
+                "overview": "Trunks ve Vegeta, bir yıllık yoğun eğitimin ardından zaman odasından çıkıyor. Goku ve Gohan odanın yanındadır ama Cell nihai formuna yaklaşırken dövüşçüler bir gün daha beklemeyi göze alabilecekler mi?",
+                "air_date": "1992-08-26",
+                "still_path": "/qhQJRqv8TwV0WKogot5d5KGQ1HU.jpg",
+                "video_url": "1768772"
+            },
+            {
+                "episode_number": 16,
+                "name": "Süper Bitkisel",
+                "overview": "Cell, Android 18'i ararken bir adalar zincirini yok ediyor! Zaman odasından yeni çıkan Vegeta, yeni gücünü canavara karşı test etmeye hazır ama gerçekten bir Süper Saiyan'dan daha güçlü mü?",
+                "air_date": "1992-09-02",
+                "still_path": "/xJnbPZsKy6OpqMumvxAwbgxGRE7.jpg",
+                "video_url": "1768773"
+            },
+            {
+                "episode_number": 17,
+                "name": "Prensin Önünde Eğilin",
+                "overview": "Vegeta için bir yıllık eğitimin ne kadar fark yaratabileceğini gösteren bir gösteri ve anlatım! Bu arada, zaman odasında Gohan bir Süper Saiyan olmak için mücadele ediyor.",
+                "air_date": "1992-09-09",
+                "still_path": "/jid61vKwfgMX82YxlSDTnoFVJPK.jpg",
+                "video_url": "1768774"
+            },
+            {
+                "episode_number": 18,
+                "name": "Günaha Saat",
+                "overview": "Vegeta, Cell'i hızla 1,8 metre yere gömüyor! Sırtını duvara dayayan canavar android, Vegeta'nın en zayıf noktasına saldırıyor: kibri! Saiyan Prensi, Cell'in baştan çıkarıcı meydan okumasına direnebilecek mi?",
+                "air_date": "1992-09-16",
+                "still_path": "/hBGPDUfvaza4ckQun583nZ6x0nU.jpg",
+                "video_url": "1768775"
+            },
+            {
+                "episode_number": 19,
+                "name": "Krillin'in Kararı",
+                "overview": "Güzel Android 18'i gözünün önünde bulunduran Krillin, onu sonsuza dek kapatacak olan kumandayı sıkı sıkı tutuyor. Ancak o an geldiğinde küçük adam tereddüt eder! Bu arada Cell, mükemmelliğe aç bir şekilde tepemizde beliriyor!",
+                "air_date": "1992-09-23",
+                "still_path": "/n6dFkPl55gNrheNKvJ8WOS9k6eb.jpg",
+                "video_url": "1768776"
+            },
+            {
+                "episode_number": 20,
+                "name": "Son Savunma",
+                "overview": "Uzaktan kumanda parçalanan Krillin ve Trunks, Android 18'i Cell'in güce aç pençesinden kurtarmak zorunda. Ancak Vegeta'nın aklında başka planlar var. Trunks insanlığı kurtarmak için kendi babasına mı saldıracak?",
+                "air_date": "1992-09-30",
+                "still_path": "/9DMrCmlBWEtIexyIVL82OTex9Rn.jpg",
+                "video_url": "1768777"
+            },
+            {
+                "episode_number": 21,
+                "name": "Hücre Tamamlandı",
+                "overview": "Dünyanın en büyük korkusu gerçek oldu: Hücre tamamlandı! Android kabusunu son mükemmel haliyle durdurabilecek var mı? Kahramanlar gergin bir şekilde sıraya girerken yukarıdan bir umut ışığı parlıyor. Gohan bir Süper Saiyan!",
+                "air_date": "1992-10-14",
+                "still_path": "/ovF5OcGys6GMjr3isg4zlnLepZh.jpg",
+                "video_url": "1768779"
+            },
+            {
+                "episode_number": 22,
+                "name": "Vegeta Ödemeli",
+                "overview": "Cell'in son formuna ulaşmasına izin verdikten sonra Vegeta, kendisine söz verilen mücadeleye hazırdır. Ancak Cell, Saiyan'ın her darbesini kolaylıkla savuşturduğundan, Vegeta'nın elinde umduğundan daha fazla şeyin olduğu açık!",
+                "air_date": "1992-10-21",
+                "still_path": "/xetZn55lGoD4iFmgYA0xZrxVoIO.jpg",
+                "video_url": "1768835"
+            },
+            {
+                "episode_number": 23,
+                "name": "Sandıklar Yükseliyor",
+                "overview": "Enerjisinin en derin kuyularından yararlanan Vegeta, son bir saldırıyı çağırıyor: Son Flaş! Bu sırada Trunks, babasına yardım edip etmeme konusunda karar vermekte zorlanır. Vegeta'nın gururu tehlikede ama hayatı da tehlikede!",
+                "air_date": "1992-10-28",
+                "still_path": "/A2Dulu8sNknHgGWd2yS4rWTXbmE.jpg",
+                "video_url": "1768837"
+            },
+            {
+                "episode_number": 24,
+                "name": "Tasarruf Atışı",
+                "overview": "Vegeta, Cell ile olan savaşından sonra baygın bir şekilde yatar ve Trunks babasının hayatını kurtarmak için gizli güçlerini serbest bırakır. Goku ve Gohan hala eğitim görürken, Trunks kötü androidin yolunda duran tek kişidir.",
+                "air_date": "1992-11-04",
+                "still_path": "/meTuvjotU4xUkayYHqrLI0s2Nlp.jpg",
+                "video_url": "1768838"
+            },
+            {
+                "episode_number": 25,
+                "name": "Yarından Gelen Hayaletler",
+                "overview": "Trunks geleceğin tekerrür etmesini engellemeye yemin ediyor; Cell geleceğin ortaya çıkmasını bekleyemez. İki savaşçı savaşa hazırlanırken her şey ele geçirilmeye hazırdır. Yalnızca bir gelecek hayatta kalacak. Kimin olacak?",
+                "air_date": "1992-11-11",
+                "still_path": "/gKAMUvYUQFFXiztUUXnCWxiOvkU.jpg",
+                "video_url": "1768841"
+            },
+            {
+                "episode_number": 26,
+                "name": "Hücre Oyunları",
+                "overview": "Güçlerinin rakibine rakip olamayacağını anlayan Trunks yenilgiyi kabul eder, ancak Cell bir turnuva teklif ettiğinde ona ikinci bir şans verilir! Cell gerçekten rekabetle ilgileniyor mu, yoksa kötü bir amacı mı var?",
+                "air_date": "1992-11-18",
+                "still_path": "/m5poYZjYpNX2FZxSwlIgKbfdhsN.jpg",
+                "video_url": "1768843"
+            }
+        ]
+    },
+    "season_6": {
+        "season_number": 6,
+        "name": "Sezon 6",
+        "episode_count": 29,
+        "air_date": "1992-11-25",
+        "poster_path": "/381gFEyW91dgBUu09NMSvkI2Rac.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Turnuva Nedir?",
+                "overview": "Trunks, Cell'in bir turnuva düzenleme planlarını diğerlerine anlatırken şeytani android, bir dövüş arenası inşa ederek yarışma hazırlıklarına başlar. Z-Fighters'ın şansı var mı, yoksa bu yalnızca Cell'in kazanabileceği bir yarışma mı?",
+                "air_date": "1992-11-25",
+                "still_path": "/oi7WNSieKSjEq1E5XY0bX6oPgE0.jpg",
+                "video_url": "1768845"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kıyamet Yayını",
+                "overview": "Cell kelimenin tam anlamıyla şov dünyasına giriyor! Kötü niyetli android, \"Hücre Oyunlarını\" dünyaya duyurmak için bir televizyon kanalını kaçırıyor! Peki ringe çıkacak güce ve cesarete sahip rakipler kaldı mı?",
+                "air_date": "1992-12-02",
+                "still_path": "/yEhmiIpNq5zHyYMq7IfCeoIPHcx.jpg",
+                "video_url": "1768846"
+            },
+            {
+                "episode_number": 3,
+                "name": "Benimle Ringte Buluş",
+                "overview": "Paniğe kapılan Dünyalılar, Cell'in gazabından kaçmak için evlerinden kaçarlar ama tüm umutları kaybolmaz! Gözcü'ye döndüğümüzde Goku ve Gohan nihayet Zaman Odası'ndan çıkar. Rekabeti değerlendirmek için kısa bir yolculuğun ardından Goku, Cell ile savaşmaya hazır!",
+                "air_date": "1992-12-09",
+                "still_path": "/ktCa741zatjZNckFxSaCyfkcGNF.jpg",
+                "video_url": "1768847"
+            },
+            {
+                "episode_number": 4,
+                "name": "Burada Endişelenmeyin",
+                "overview": "Cell'in turnuvasının başlamasına dokuz gün kala Vegeta, Piccolo ve Trunks, Hiperbolik Zaman Odası'na dönmeyi planlıyor. Ancak Goku kendisinin ve Gohan'ın yeterince eğitim aldığına karar verir! Goku diğerlerinin bilmediği ne biliyor?",
+                "air_date": "1992-12-16",
+                "still_path": "/ikLXqTG1mZISrK9CljqlEvCf6Q1.jpg",
+                "video_url": "1768848"
+            },
+            {
+                "episode_number": 5,
+                "name": "Lime Adında Bir Kız",
+                "overview": "Gohan, yakındaki bir sığınağa sığınmış bir köye rastlar ve sığınak sahibinin köylülerin Cell korkusundan faydalandığını keşfettiğinde soruna Süper Saiyan bir çözüm bulur!",
+                "air_date": "1993-01-13",
+                "still_path": "/kulK11cnpi501M7cKDuPIOPcEei.jpg",
+                "video_url": "5278709"
+            },
+            {
+                "episode_number": 6,
+                "name": "Gohan'ın Anıları",
+                "overview": "Hücre Oyunları yaklaşırken Goku, kalan zamanını arkadaşları ve ailesiyle geçiriyor! Önce Krillin'le balık tutar, sonra Chichi ile anılar arasında dolaşır ve sonunda çok özel bir çocuğun mumları söndürme zamanı gelir!",
+                "air_date": "1993-01-20",
+                "still_path": "/qWVcyD9P337RUbOJ8PWIAff4fI8.jpg",
+                "video_url": "1768851"
+            },
+            {
+                "episode_number": 7,
+                "name": "Yeni Bir Muhafız",
+                "overview": "Kraliyet Ordusu aptalca Cell'i sıradan silahlarla durdurmaya çalıştığında, saldırı hızla bir intihar görevine dönüşür! Goku, ölen askerleri diriltmeye kararlı ama bunun için yeni Dragon Ball'lar gerekecek!",
+                "air_date": "1993-01-27",
+                "still_path": "/mbOwj2BCgw8l7YQRXYK2N7gQyD0.jpg",
+                "video_url": "1768852"
+            },
+            {
+                "episode_number": 8,
+                "name": "Dende'nin Ejderhası",
+                "overview": "Goku, Kral Kai'nin yardımıyla Dünya için yeni bir koruyucu bulmak üzere Namek'e gider! Namekian'ların çoğu teklifi reddediyor ama gitmek için sabırsızlanan küçük bir adam var! Dende geri döndü ve yeni bir Ejderha yaratacak!",
+                "air_date": "1993-02-03",
+                "still_path": "/kqGvaE18EnNnGSJTGkMr5s7TPGw.jpg",
+                "video_url": "1768854"
+            },
+            {
+                "episode_number": 9,
+                "name": "General Tao'nun Bulmacası",
+                "overview": "Goku eski bir düşmanla yüz yüze gelir: General Tao! Dragon Balls arayışı Goku'yu yaşlanan generale götürür, ancak Süper Saiyan kurnaz kötü adamın bulmacasını çözemezse, arama boşa gidebilir!",
+                "air_date": "1993-02-10",
+                "still_path": "/dImTjDHiCqT0KgvOk4jfqwnWM0p.jpg",
+                "video_url": "1768855"
+            },
+            {
+                "episode_number": 10,
+                "name": "Oyunlar Başlıyor",
+                "overview": "Bekleyiş bitti ve Hücre Oyunları başlamaya hazır! Z-Fighter'lar ring kenarına vardıklarında, zaten olay yerinde olan başka bir rakibi keşfederler. Bu, Dünya Dövüş Sanatları Şampiyonu Bay Şeytan'dan başkası değil!",
+                "air_date": "1993-02-17",
+                "still_path": "/qJCQVhvOe0r0xCN2jncIatssRrn.jpg",
+                "video_url": "1768856"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kaybedenler Önce Savaşır",
+                "overview": "Bay Şeytan'ın en iyi öğrencileri Caroni ve Pirozhki ringe muhteşem bir giriş yaparlar ama gerçekten Cell'le uğraşmaya hazırlar mı? Eğlencenin bir dakikasını bile kaçırmayın çünkü bu dövüş çok çabuk bitebilir!",
+                "air_date": "1993-03-03",
+                "still_path": "/wvyLeScADe4tFhzIZ60ERTjUTVR.jpg",
+                "video_url": "1768858"
+            },
+            {
+                "episode_number": 12,
+                "name": "Goku Hücreye Karşı",
+                "overview": "Ana etkinlik başlıyor! Artık dikkati dağılmayan Goku, Cell'le yüzleşmek için ringe çıkıyor. Bu kudretli süper savaşçılar çarpışırken dünya sallanıyor ve gökler titriyor! Ve bu sadece ısınma!",
+                "air_date": "1993-03-10",
+                "still_path": "/ifmFdie77qJEuV80hDoOnv01nXr.jpg",
+                "video_url": "4786751"
+            },
+            {
+                "episode_number": 13,
+                "name": "Hücrenin Hile Çantası",
+                "overview": "Cell, Goku'ya göz kamaştırıcı bir dizi hareketle saldırır: Destructo Disk, Özel Işın Topu, hatta Kamehameha Dalgası! Goku şu ana kadar Cell'in darbesine karşılık vermeyi başardı, ancak Süper Saiyan böylesine ölümcül bir cephaneliğe karşı nasıl başa çıkacak?",
+                "air_date": "1993-03-17",
+                "still_path": "/fh7xhKsJQ4tQVXCOpdMrvTMybvy.jpg",
+                "video_url": "1768864"
+            },
+            {
+                "episode_number": 14,
+                "name": "Artık Kural Yok",
+                "overview": "Mücadele yoğunlaştıkça Cell, turnuva için yarattığı kurallardan hızla sıkılır. Android, parmağının bir hareketiyle yüzüğü yok eder ve Hücre Oyunlarını anında sonuna kadar ölümcül bir mücadeleye dönüştürür!",
+                "air_date": "1993-03-31",
+                "still_path": "/uAL1z4xJtwQ8wNFr7WtcNiVFrDe.jpg",
+                "video_url": "1768868"
+            },
+            {
+                "episode_number": 15,
+                "name": "Mücadele Bitti",
+                "overview": "Goku, Cell'i bir Kamehameha Dalgasıyla patlatır ve bu da androidi kül yığınına dönüştürür, ancak zaferi kısa ömürlü olur. Canavar, kendisini tamamen yenileyerek inanılmaz dayanıklılığını gösteriyor!",
+                "air_date": "1993-04-07",
+                "still_path": "/73i6iYfv6ADPgzxqACtSQg6ycFH.jpg",
+                "video_url": "1768871"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bir Çocuğa İnanç",
+                "overview": "Cell'e teslim olduktan sonra Goku, Cell Oyunları'na katılacak bir sonraki yarışmacıyı adlandırır: Gohan! Goku, oğlunun yeteneklerine büyük bir güven duymaktadır, ancak genç Saiyan'ın hayatta kalmak için babasının güveninden çok daha fazlasına ihtiyacı olacaktır!",
+                "air_date": "1993-04-14",
+                "still_path": "/lWu30Yr16vAqt1pglxATUOIjGsu.jpg",
+                "video_url": "1768873"
+            },
+            {
+                "episode_number": 17,
+                "name": "Gohan'ın Savunması",
+                "overview": "Gohan ve Cell arasındaki mücadele yoğunlaşıyor, ancak kötü adamın saldırıları çocuk üzerinde hiçbir etki yaratmıyor gibi görünüyor! Genç kahraman gerçekten kötü androidi bir kez ve sonsuza dek yenme gücüne sahip olabilir mi?",
+                "air_date": "1993-04-21",
+                "still_path": "/g7gqH0KC4aCuNgAfPYk6GU3hCeV.jpg",
+                "video_url": "1768876"
+            },
+            {
+                "episode_number": 18,
+                "name": "Android Patlaması",
+                "overview": "Cell, Gohan'ın tüm potansiyelini ortaya çıkarmaya kararlıdır, ancak çocuk dövüşmeyi reddeder ve androidin bunun yerine Gohan'ın arkadaşlarına işkence etmesine neden olur! Sonra, Cell, Z-Fighters'a saldırmak için minyatür Cell'ler üreterek düşünülemez olanı yapar!",
+                "air_date": "1993-04-28",
+                "still_path": "/pWYXuxGpmiyJrV9QvcYIjctdWcm.jpg",
+                "video_url": "1768881"
+            },
+            {
+                "episode_number": 19,
+                "name": "Hücre Gençleri Saldırıyor!",
+                "overview": "Cell Junior'lar Z-Fighters'ı kasıp kavururken Gohan öfkeyle kaynar. Çocuk kavga etme dürtüsüne direnmeye çabalıyor ama o patlamayı bekleyen bir barut fıçısı ve Android 16 fitili ateşlemeye hazır görünüyor!",
+                "air_date": "1993-05-05",
+                "still_path": "/3HlopuKTPhtv8ny2g2psxyO1SSd.jpg",
+                "video_url": "1768890"
+            },
+            {
+                "episode_number": 20,
+                "name": "Uyanış",
+                "overview": "Android 16'nın ölmekte olan sözleriyle teşvik edilen Gohan'ın gizli gücü nihayet serbest kalıyor! Gohan, yeni gücü ve hızıyla kötü Cell Junior'ları kolayca yok eder, ancak gözü daha büyük bir hedefe dikilmiştir!",
+                "air_date": "1993-05-12",
+                "still_path": "/4oNMvbDU9W89hNr7MID2Ih16oRv.jpg",
+                "video_url": "4795769"
+            },
+            {
+                "episode_number": 21,
+                "name": "Durdurulamayan Gohan",
+                "overview": "Gohan'ın gücünün tüm öfkesini açığa çıkarmasıyla Cell'in savaş arzusu bir kabusa dönüşür. Kötü android maksimum seviyeye kadar güçleniyor ama bu onu Süper Saiyan'ın gazabından kurtarmaya yetecek mi?",
+                "air_date": "1993-05-19",
+                "still_path": "/ljRRY6zzVLRD2FLQYQr5fJA5y9u.jpg",
+                "video_url": "1768906"
+            },
+            {
+                "episode_number": 22,
+                "name": "Hücrenin Parçalanması",
+                "overview": "Gohan'ın Süper Saiyan gücünün sınırı yok gibi görünüyor ve genç kahraman o kadar şiddetli bir darbe indiriyor ki Cell'in Android 18'i öksürmesine neden oluyor! Canavarın gücü tükenirken Gohan, savaşı kesin olarak bitirmeye hazırlanıyor!",
+                "air_date": "1993-05-26",
+                "still_path": "/nBZrrXBCwc216lVquTZlOfcbFCN.jpg",
+                "video_url": "1768911"
+            },
+            {
+                "episode_number": 23,
+                "name": "Bir Kahramanın Vedası",
+                "overview": "Gohan tarafından açıkça alt edilen Cell, son savunma hattını başlatır: tüm gezegeni havaya uçuracak bir kendini imha programı! Sadece birkaç saniyesi kalan Goku, Cell'i Dünya'dan uzaklaştırmak için her şeyi riske atar.",
+                "air_date": "1993-06-02",
+                "still_path": "/9MMsV0POzXqPEm6xntZ9BcTZU7h.jpg",
+                "video_url": "1768922"
+            },
+            {
+                "episode_number": 24,
+                "name": "Hücre Geri Dönüyor!",
+                "overview": "Kabus devam ediyor! Hücre patlıyor, ancak çekirdeğinin bir parçacığı patlamadan sağ çıkıyor ve androidin kendini yenilemesi için gereken her şeyi sağlıyor! Nihai formuna geri dönen Hücre, her zamankinden daha güçlü bir şekilde Dünya'ya geri dönüyor!",
+                "air_date": "1993-06-16",
+                "still_path": "/zGHQP2fRNS6e4t82kccy6C2Qri8.jpg",
+                "video_url": "4795893"
+            },
+            {
+                "episode_number": 25,
+                "name": "Korku Bitmeyecek",
+                "overview": "Cell, hem Trunks'ı hem de Vegeta'yı kolayca dağıttıktan sonra yeni bir plan duyurur. Önce Dünya'yı yok edecek, ardından bir sonraki hedefi Evren olacak! Bu nihai yıkım silahı durdurulabilir mi?",
+                "air_date": "1993-06-23",
+                "still_path": "/22meUnJbEWteTcTkXKxS86bKasu.jpg",
+                "video_url": "1768935"
+            },
+            {
+                "episode_number": 26,
+                "name": "Dünyayı Kurtar",
+                "overview": "Son hesaplaşma başlıyor! Goku, Öteki Dünya'dan Gohan'a telepatik olarak koçluk yaparken, Z-Fighter'lar beş yönlü bir saldırı için devreye giriyor! Gohan'ın içinde potansiyel var ama Goku ona bu potansiyeli nasıl açığa çıkaracağını gösterebilir mi?",
+                "air_date": "1993-06-30",
+                "still_path": "/kdeS7Xqf0eEPUVykjwO2MFdFq5X.jpg",
+                "video_url": "1768940"
+            },
+            {
+                "episode_number": 27,
+                "name": "Goku'nun Kararı",
+                "overview": "Cell sonunda yenildi ama Z-Fighters'ın hâlâ çözmesi gereken çok şey var! Ağır yaralanan Gohan'ı iyileştirmek için Gözcü'ye zamanında varabilecekler mi? Android 18 hâlâ bir tehdit mi? Peki kahramanlarımız Goku'yu geri getirmenin bir yolunu bulabilecek mi?",
+                "air_date": "1993-07-07",
+                "still_path": "/sK98iPUbSZZUXaWSJMkERehs8io.jpg",
+                "video_url": "1768948"
+            },
+            {
+                "episode_number": 28,
+                "name": "Bir Dilek Daha",
+                "overview": "Goku'nun öbür dünyada kalma kararının ardından Krillin, Android 18'i kurtarmak için son arzusunu kullanıyor ama gerçek duygularını açığa çıkaracak cesarete sahip mi? Peki Goku'nun Chichi'ye ölüm haberini verecek kadar cesur olan var mı?!",
+                "air_date": "1993-07-14",
+                "still_path": "/qyPWHftMDrv2M8k4ECzVhajmFHE.jpg",
+                "video_url": "1768956"
+            },
+            {
+                "episode_number": 29,
+                "name": "Geleceği Özgürleştirin",
+                "overview": "Şu anda Dünya'da barış ve düzen yeniden sağlandı, ancak Trunks'ın gelecekteki dünyası hâlâ karanlık ve umutsuzlukla dolu bir yer! Eve vardığında gelecek sonsuza kadar değişecek!",
+                "air_date": "1993-07-21",
+                "still_path": "/tsR85hF0JIe3TMP7CUvOpWwzA0K.jpg",
+                "video_url": "1768966"
+            }
+        ]
+    },
+    "season_7": {
+        "season_number": 7,
+        "name": "Sezon 7",
+        "episode_count": 25,
+        "air_date": "1993-07-28",
+        "poster_path": "/w2x8LhWuoXyFp2i2syagpTbrfcR.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ölülerin Savaşçıları",
+                "overview": "Goku, Büyük Kai olarak bilinen bir dövüş sanatları ustasının adını duyunca, bir ders almak için onunla buluşmak için acele eder! Bu arada Cell, Frieza, King Cold ve Ginyu Force, Diğer Dünya'nın kontrolünü ele geçirmek için bir araya geldi!",
+                "air_date": "1993-07-28",
+                "still_path": "/vuQvxNYYUeWy23hQt0mMc7PeSwW.jpg",
+                "video_url": "1768970"
+            },
+            {
+                "episode_number": 2,
+                "name": "Turnuva Başlıyor",
+                "overview": "Goku'nun Büyük Kai'nin yanında eğitim alabilmesi için 10.000 yıl eğitim alması gerekiyor! Ancak Batı, Güney ve Doğu Kai bir Diğer Dünya Turnuvası düzenlemeye karar verdiğinde Goku şansını yakalar! Tek yapması gereken, tüm zamanların en büyük dövüşçülerini yenmek!",
+                "air_date": "1993-08-11",
+                "still_path": "/zU31NfrHLtrEeR6tQlyOIxkWj7m.jpg",
+                "video_url": "1768972"
+            },
+            {
+                "episode_number": 3,
+                "name": "Su Savaşı",
+                "overview": "Öteki Dünya Turnuvası Çeyrek Finallere ilerliyor ve savaşlar bu dünyanın dışında! Goku'nun rakibi Arqua korkak gibi görünür ama yüzüğün tamamını suya dönüştürdüğünde işler hızla değişir!",
+                "air_date": "1993-08-18",
+                "still_path": "/3S83KcWcw55G8TO9I8j8I1vC4Jg.jpg",
+                "video_url": "1768975"
+            },
+            {
+                "episode_number": 4,
+                "name": "Final Turu",
+                "overview": "Goku, savaşçı Pikkon'la karşılaşacağı turnuvanın son turuna çıkıyor! Dövüşçüler şampiyonluk için savaşırken enerji kıvılcımları uçuşuyor! Pikkon, Piccolo benzeri bir sırrı açığa çıkardığında Goku'nun çıtayı yükseltmesi gerekir! Şimdi Süper Saiyan zamanı!",
+                "air_date": "1993-08-25",
+                "still_path": "/AmSn0UD8R3vAVK8bdA4WGhS8SB9.jpg",
+                "video_url": "1768978"
+            },
+            {
+                "episode_number": 5,
+                "name": "Goku, Pikkon'a Karşı",
+                "overview": "Goku bir Süper Saiyan olabilir ama Pikkon'un inanılmaz Yıldırım Yıldırım Saldırısına dayanabilecek mi?! Ve hepsi bu değil! Goku Diğer Dünya'da savaşırken Dünya'da yedi yıl geçti, Gohan artık bir genç!",
+                "air_date": "1993-09-01",
+                "still_path": "/t0cLsxSoSeRVj2ADASnaMOLIOT6.jpg",
+                "video_url": "1768980"
+            },
+            {
+                "episode_number": 6,
+                "name": "Gohan Liseye Gidiyor",
+                "overview": "Gohan, lisedeki ilk gününde Süper Saiyan'ı çevirerek bir kamyon dolusu banka soyguncusunu durdurur. Artık şehir bu gizemli \"Altın Savaşçı\" hakkında konuşmayı bırakamıyor! Gohan gizli kimliğini açıklamadan dersi geçebilecek mi?",
+                "air_date": "1993-09-08",
+                "still_path": "/kw3hiEpDPzYEDYsKERQriR94Enh.jpg",
+                "video_url": "5356718"
+            },
+            {
+                "episode_number": 7,
+                "name": "Ben Saiyaman'ım!",
+                "overview": "Sınıf arkadaşları tarafından tanınacağından korkan Gohan, Bulma'ya anında etkinleştirebileceği geri çekilebilir bir süper kahraman kostümü tasarlatır. Gohan'a veda edin ve Saiyaman'a merhaba deyin!",
+                "air_date": "1993-09-15",
+                "still_path": "/2O7zMOWJwuGw8LoF7bYSGlP6pvC.jpg",
+                "video_url": "1768991"
+            },
+            {
+                "episode_number": 8,
+                "name": "Gohan'ın İlk Tarihi",
+                "overview": "Gohan süper kahraman olmanın çok kolay olduğunu düşünür, ta ki Angela adında güzel bir kız onun sırrını keşfedene kadar. Angela, onunla çıkmadığı takdirde her şeyi anlatmakla tehdit ettiğinde, Gohan'ın hayatı birdenbire her zamankinden daha karmaşık hale gelir!",
+                "air_date": "1993-09-29",
+                "still_path": "/kNkwfaaLHW02cGO5fsNqDUnFUgE.jpg",
+                "video_url": "5356722"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kurtarma Videl",
+                "overview": "Kızıl Köpekbalığı Çetesi belediye başkanını kaçırıp Bay Şeytan'la hesaplaşma talep ettiğinde bu meydan okumaya cevap verecek kişi Videl olur. Gohan, Videl'in haddini aştığını biliyor ama kimliğini açığa çıkarmadan ona yardım etmek için sınıfından ayrılamaz!",
+                "air_date": "1993-10-20",
+                "still_path": "/68YcOcXaa30ZY1uR0duLIrEMbTn.jpg",
+                "video_url": "5356726"
+            },
+            {
+                "episode_number": 10,
+                "name": "Şantaj",
+                "overview": "Açgözlü bir sirk organizatörü bir bebek dinozoru kaçırdığında, gördüğü tek şey dolar işaretleridir! Dinozorun Büyük Saiyaman'ın yakın, kişisel bir arkadaşı olduğunu bilmez!",
+                "air_date": "1993-10-27",
+                "still_path": "/jlowwQYMoj9AfQYtOCHpGF8VkIJ.jpg",
+                "video_url": "1769007"
+            },
+            {
+                "episode_number": 11,
+                "name": "Ben De Savaşacağım!",
+                "overview": "Işıklar! Kamera! Aksiyon! Büyük Saiyaman bir film yıldızı olmak üzere! Ancak kahramanın yıldızlığa yaklaşması uzun sürmese iyi olur çünkü acele etmeli ve tüm eski arkadaşlarına büyük haberi vermeli: Goku geri dönüyor!",
+                "air_date": "1993-11-03",
+                "still_path": "/xgON8d8ULYjaLfKx1lFL71BLOVe.jpg",
+                "video_url": "5356742"
+            },
+            {
+                "episode_number": 12,
+                "name": "En Yeni Süper Saiyan",
+                "overview": "Yaklaşan turnuva için antrenman yapan Gohan, Goten'in çoktan Süper Saiyan seviyesine ulaştığını keşfeder! Kardeşler dövüştüğünde kıvılcımlar uçuşur ama asıl olay Videl'in Chichi ile ilk kez karşılaşmasıyla gerçekleşir!",
+                "air_date": "1993-11-10",
+                "still_path": "/tmqj1QbhTMHznEXAHV4c9pOnZkz.jpg",
+                "video_url": "1769009"
+            },
+            {
+                "episode_number": 13,
+                "name": "Uçuşa Geç, Videl",
+                "overview": "Turnuva hızla yaklaşırken Videl ve Goten'in uçmayı öğrenmesi gerekiyor! Kilometrelerce uzakta, Vegeta kendi antrenmanını yapıyor ve küçük oğlu Trunks'un onu büyük bir sürprizi var.",
+                "air_date": "1993-11-17",
+                "still_path": "/3iKhmOM0tcrX7XUdk0d6nQSH8pJ.jpg",
+                "video_url": "5356750"
+            },
+            {
+                "episode_number": 14,
+                "name": "Turnuva için Toplanın",
+                "overview": "Videl uçmayı öğrenir. Gohan ve Goten, Süper Saiyan becerilerini son dakikada geliştirmeye çalışır. Turnuvanın yapılacağı adaya özel bir konuk geliyor! Yedi yıldır ölü olan bir kahramana ne dersin?",
+                "air_date": "1993-11-24",
+                "still_path": "/9rHepQxcnfhNvgAvhrVHsBl2HCR.jpg",
+                "video_url": "5356756"
+            },
+            {
+                "episode_number": 15,
+                "name": "Kameradan Utanan",
+                "overview": "Lise sporcusu Sharpner, hoşlandığı Videl'in gizemli Büyük Saiyaman'a aşık olduğunu keşfeder! Değiştirilmeyi reddeden Sharpner, pelerinli dövüşçünün gerçek kimliğini ortaya çıkarıp onu filme alarak onu mahvetmeye ant içer!",
+                "air_date": "1993-12-08",
+                "still_path": "/nzmih9fDZK6eFB8wvipaXczx6JY.jpg",
+                "video_url": "5356761"
+            },
+            {
+                "episode_number": 16,
+                "name": "Dünya Turnuvası",
+                "overview": "Aksiyon, Dünya Dövüş Sanatları Turnuvası'nın Gençler Klasmanı ile açılışıyla başlıyor! Otuz beş genç dövüşçü ödül için yarışıyor, ancak maçlar rekabetten çok komediye dönüşüyor - ta ki Trunks ringe çıkana kadar!",
+                "air_date": "1993-12-15",
+                "still_path": "/4nuLgMffvXXSSorP8S0kfCET7QG.jpg",
+                "video_url": "5356768"
+            },
+            {
+                "episode_number": 17,
+                "name": "Trunks Goten'a Karşı",
+                "overview": "Goten ve Trunks, kendilerini finalde karşı karşıya gelinceye kadar turnuvanın Gençler Klasmanında hızla ilerliyorlar! Bu heyecanlı maçı kim kazanacak? Bu kaçırmak istemeyeceğiniz bir şampiyonluk mücadelesi!",
+                "air_date": "1993-12-22",
+                "still_path": "/nffqVPRTGydXdP14et3sKYAsY8S.jpg",
+                "video_url": "1769196"
+            },
+            {
+                "episode_number": 18,
+                "name": "Erkeklerin En İyisi",
+                "overview": "Gençler Bölümü Dünya Şampiyonası maçı Goten ve Trunks'ın şampiyonluk için mücadelesiyle devam ediyor! Bu son düellonun galibi yeni Dünya Şampiyonu oluyor! Goten kurnaz Trunks'ı alt edebilecek mi?",
+                "air_date": "1994-01-12",
+                "still_path": "/iAwvMRxBEZJvwQ5LGqbhjo6oq1j.jpg",
+                "video_url": "1769200"
+            },
+            {
+                "episode_number": 19,
+                "name": "Büyük Bela, Küçük Sandıklar",
+                "overview": "Şampiyonayı kazandıktan sonra Trunks, Bay Şeytan'a karşı bir gösteri maçı yapar! Şampiyon, dünyanın en güçlü dövüşçüsü olma ününü koruyabilir mi? Bu sırada iki gizemli figür kendilerini Goku'ya gösterir!",
+                "air_date": "1994-01-19",
+                "still_path": "/bah3ivjZgm6Qq2aAAXeQJbn6t7n.jpg",
+                "video_url": "1769205"
+            },
+            {
+                "episode_number": 20,
+                "name": "Kim Kimle Savaşacak?",
+                "overview": "Trunks ve Gohan, Mighty Mask kılığına girerek turnuvadaki yetişkinler yarışmasına sızar. Günün maçları için eşleşmeler seçilir. İlk dövüşen: Krillin, Pintar'a karşı, Krillin'in kolaylıkla on katı büyüklüğünde bir adam!",
+                "air_date": "1994-01-26",
+                "still_path": "/xVAGZEl44sV96erEl2MaauySh9Y.jpg",
+                "video_url": "1769210"
+            },
+            {
+                "episode_number": 21,
+                "name": "Piccolo'nun Kaybedilmesi",
+                "overview": "Piccolo, ilk yumruk atılmadan önce gizemli rakibine teslim olarak kalabalığı şaşkına çeviriyor! Ringin yanında devasa Spopovitch'le yüzleşmesi gereken Videl var. Acaba bu kadar büyük bir işin üstesinden gelebilecek mi?",
+                "air_date": "1994-02-02",
+                "still_path": "/pUu5HvRmWvBDbAze5PfF3eX8Knw.jpg",
+                "video_url": "1769212"
+            },
+            {
+                "episode_number": 22,
+                "name": "Karanlık ve Gizli Bir Güç",
+                "overview": "Videl, Spopovitch'e karşı kolay bir zafer olması beklenen bir zafer için ringe çıkıyor. Elindeki her şeyle bu devasa canavara vuruyor ama saldırılarının hiçbir etkisi yok. Görünüşe göre Spopovitch doğaüstü bir gücün elinde!",
+                "air_date": "1994-02-09",
+                "still_path": "/u95Bdwd0qpbHBjsbUaXV4DJkqmk.jpg",
+                "video_url": "1769214"
+            },
+            {
+                "episode_number": 23,
+                "name": "Videl Ezildi",
+                "overview": "Herkesin dehşetine, Spopovitch kaçınılmaz zaferini Videl'e işkence etmek amacıyla geciktirir! Kaslı haydut onu öldürene kadar durmayacak gibi görünüyor! Videl ringden canlı çıkabilecek mi?",
+                "air_date": "1994-02-16",
+                "still_path": "/dKSfJCUMa0ADqy0IG1BaF4KHMd5.jpg",
+                "video_url": "1769215"
+            },
+            {
+                "episode_number": 24,
+                "name": "Kimlikler Açığa Çıktı",
+                "overview": "Gohan'ın kimliği nihayet turnuva sahasındaki yerini alırken keşfedilir ancak endişelenmesi gereken daha önemli şeyler vardır. Rakibi Kibito onun bir Süper Saiyan'a dönüşmesini görmeye kararlı!",
+                "air_date": "1994-02-23",
+                "still_path": "/3xM6hO0CkXw8VtZqdt56QtXgE07.jpg",
+                "video_url": "1769216"
+            },
+            {
+                "episode_number": 25,
+                "name": "Enerji Boşalması",
+                "overview": "Gohan bir Süper Saiyan'a dönüştüğünde Spopovitch ve Yamu harekete geçer! Gizemli bir enerji tüketen cihazla donanmış olan ikili, altın saçlı gence bir saldırı başlatır.",
+                "air_date": "1994-03-02",
+                "still_path": "/ibRGw5EBXE3ASf4y1QSen1RdnK2.jpg",
+                "video_url": "1769219"
+            }
+        ]
+    },
+    "season_8": {
+        "season_number": 8,
+        "name": "Sezon 8",
+        "episode_count": 34,
+        "air_date": "1994-03-09",
+        "poster_path": "/AksanoqLDDqpr615GU037m0zSKV.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Büyücünün Laneti",
+                "overview": "Z-Fighters, Babidi'nin dostlarının, korkunç Majin Buu'yu diriltmek için kullanılacak saf enerjiyi sağlamasını engellemek için yarışır. Babidi'nin gizli uzay gemisini zamanında bulabilecekler mi?",
+                "air_date": "1994-03-09",
+                "still_path": "/AdhFy23WoUlp6iCaYPEVZEcZ15B.jpg",
+                "video_url": "1769220"
+            },
+            {
+                "episode_number": 2,
+                "name": "Şeytanların Kralı",
+                "overview": "Piccolo ve Krillin, Dabura tarafından taşa çevrildi! Arkadaşlarını kurtarmaya kararlı olan Goku, Gohan ve Vegeta, Babidi'nin gemisine binerler ancak kendilerini kapana kısılmış halde bulurlar! Arkadaşlarını kurtarıp çıkış yolunu bulabilecekler mi?",
+                "air_date": "1994-03-16",
+                "still_path": "/b22R4fyWOUfBR23uabDX2UERp9d.jpg",
+                "video_url": "1769223"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bitki Saldırıları",
+                "overview": "Babidi'nin gemisinin her aşamasında Goku, Gohan ve Vegeta, her biri bir öncekinden daha güçlü, korkunç bir savaşçıyla yüzleşmek zorundadır. Hataya yer yok! En ufak bir hata bile Babidi'nin enerjisini Majin Buu için çalmasına neden olacaktır!",
+                "air_date": "1994-03-23",
+                "still_path": "/bpgyKMOummpfZ9n1xNOUTRvszfC.jpg",
+                "video_url": "1769225"
+            },
+            {
+                "episode_number": 4,
+                "name": "Sıradaki Goku",
+                "overview": "Babidi, Majin Buu için Z-Fighters'ın enerjisini çalmak amacıyla canavarı Yakon'u serbest bırakır. Yakon evrendeki en korkunç yaratıklardan biri olduğundan İkinci Aşama'daki savaşın çok yoğun olacağı kesin!",
+                "air_date": "1994-04-13",
+                "still_path": "/35T8XDFdj4CLSM2nWZgvE9tGSl2.jpg",
+                "video_url": "1769226"
+            },
+            {
+                "episode_number": 5,
+                "name": "En Yüksek Savaş",
+                "overview": "Dünya Dövüş Sanatları Turnuvasında kalan beş yarışmacı, topyekun bir Battle Royale için ringe çıkıyor! 18 Numara, Kudretli Maske ve Bay Şeytan, bir sonraki Dünya Şampiyonunun kim olacağına karar vermek için kapışırken yumruklar havada uçuşuyor!",
+                "air_date": "1994-04-20",
+                "still_path": "/tWnNsZulz9vT5fQikpRNwAbY7Cz.jpg",
+                "video_url": "1769227"
+            },
+            {
+                "episode_number": 6,
+                "name": "Onsekiz Maskeyi Kaldırma",
+                "overview": "18 Numara ve Mighty Mask'in mücadelesini göklere taşımasıyla savaş kızışıyor! 18 Numara ona elinden gelen her şeyi veriyor ama saldırıları maskeli rakibine karşı işe yaramaz. Kazanmak için ihtiyaç duyduğu avantajı bulabilecek mi?",
+                "air_date": "1994-04-27",
+                "still_path": "/rFQHz4TkVS09hqgAAU8rRgMWSRs.jpg",
+                "video_url": "1769228"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kazanmak için Öde",
+                "overview": "Turnuvanın son maçı devam ederken, Number 18, dövüşü feda etmeyi teklif ederek savunan şampiyonu bir döngüye sokuyor! Bu arada, Babidi, 3. Aşama için savaşçısını seçti: Şeytan Dünyası'nın Kralı Dabura!",
+                "air_date": "1994-05-04",
+                "still_path": "/9LABsSkApcMdQLP0cX54Vw0InLb.jpg",
+                "video_url": "1769229"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Kötü Adamın Kalbi",
+                "overview": "Gohan ve Dabura arasındaki yoğun mücadele devam ediyor, ancak 3. Aşama çatışması tam da hararetli bir zirveye ulaştığında, Dabura mücadeleyi durduruyor! Kötü dev neden pes etti ve iddia ettiği büyük keşif nedir?",
+                "air_date": "1994-05-18",
+                "still_path": "/iI8GlFcY1lyQ2qSCENh3Gua62C2.jpg",
+                "video_url": "1769230"
+            },
+            {
+                "episode_number": 9,
+                "name": "Karanlık Prens Geri Dönüyor",
+                "overview": "Vegeta'ya karşı topyekün bir saldırıda Babidi, hiçbir şeyden şüphelenmeyen Prens'i içeriden bozmak için gücünü kullanır! Vegeta, kötü büyücü tarafından iyi niteliklerinden arındırılır ve bir zamanlar olduğu gibi kalpsiz bir savaşçıya dönüşür!",
+                "air_date": "1994-05-25",
+                "still_path": "/yhlxBilfyELEZKZ6wIZhl04lu2B.jpg",
+                "video_url": "1769231"
+            },
+            {
+                "episode_number": 10,
+                "name": "Vegeta'nın Gururu",
+                "overview": "Kötü Vegeta, Goku'ya bir ültimatom veriyor: savaşın ya da onun daha fazla masum hayatı yok etmesini izleyin! Goku, aralarındaki meseleyi kesin olarak çözeceğine yemin eder, ancak Yüce Kai cesur bir beyanla Saiyanların arasına girer!",
+                "air_date": "1994-06-15",
+                "still_path": "/1m563HMkOwASmdEUUHhVFhzYa2x.jpg",
+                "video_url": "1769232"
+            },
+            {
+                "episode_number": 11,
+                "name": "Uzun Zamandır Beklenen Mücadele",
+                "overview": "Goku ve Vegeta arasındaki savaş başladı! Babidi'nin büyüsü zaten inanılmaz olan gücünü artırırken Vegeta, Goku'nun hamlesine karşılık veriyor, ancak Saiyan Prensi'nin indirdiği her darbe Majin Buu için bir destek oluyor!",
+                "air_date": "1994-06-22",
+                "still_path": "/cR1ljLnBhxdazqyTiJsHo2JJAEx.jpg",
+                "video_url": "1769234"
+            },
+            {
+                "episode_number": 12,
+                "name": "Buu'nun Sihirli Topu",
+                "overview": "Goku ve Vegeta arasındaki mücadele Majin Buu'ya büyük miktarda enerji sağlarken, kaybedecek bir an yok! Gohan, çok geç olmadan kötü büyücüyü durdurmak için gücü toplayabilecek mi?",
+                "air_date": "1994-06-29",
+                "still_path": "/kP2nDjLjGWoRlMNeU3QqbUQ6ulR.jpg",
+                "video_url": "1769235"
+            },
+            {
+                "episode_number": 13,
+                "name": "Buu Yumurtadan Çıktı",
+                "overview": "Buu'yu saran mühür sonunda kırıldı! Supreme Kai geri çekilmek konusunda ısrar ediyor, ancak Gohan reddediyor ve inanılmaz bir enerji saldırısı serisi başlatıyor. Kabuk açıldığında, içeride hiçbir şey yok! Ancak Gohan kutlama zamanı olmadığını biliyor.",
+                "air_date": "1994-07-06",
+                "still_path": "/2Ok4X2y1aaqlPENzT1taO3Qfs9m.jpg",
+                "video_url": "1769236"
+            },
+            {
+                "episode_number": 14,
+                "name": "Kayıplar Başlıyor",
+                "overview": "Kocaman pembe göbeği ve çocuksu davranışlarıyla Buu, galaksi yok edicisi olmaya pek uygun değil; ta ki Dabura'yı tek bir darbeyle uçuruma fırlatana kadar! Gohan sınırsız bir gücü hissediyor ve Yüce Kai bunun son olduğu konusunda ısrar ediyor!",
+                "air_date": "1994-07-13",
+                "still_path": "/idLF1uD5YBsUXgVQwPykpukejpR.jpg",
+                "video_url": "1769237"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bay Buu'nun Terörü",
+                "overview": "Yüce Kai, Buu'yu uzakta tutmak için benzersiz dövüş güçlerini kullanmalı veya hayatını kaybetmelidir! Bir mil uzakta, Goten ve Trunks, hâlâ taş içinde donmuş olan Piccolo'ya rastlarlar ve kazara onu parçalara ayırırlar! Ve dahası da var! Şeytanların Kralı geri dönüyor!",
+                "air_date": "1994-07-27",
+                "still_path": "/dVkdKxtE4GfUtSqgGl9V8futpVQ.jpg",
+                "video_url": "1769238"
+            },
+            {
+                "episode_number": 16,
+                "name": "Yemek Zamanı",
+                "overview": "Babidi'nin pençesinden kurtulan Vegeta, canavar Majin Buu'yu yok ederek intikamını almaya karar verir. Gohan'ın doymak bilmez kötü adamın kurbanı olduğunu varsayan Süper Saiyan çılgına döner. Vegeta Buu'yu devirebilecek mi?",
+                "air_date": "1994-08-03",
+                "still_path": "/kAyxpzcEg0Yq47yCJwkSMomIEi6.jpg",
+                "video_url": "1769239"
+            },
+            {
+                "episode_number": 17,
+                "name": "Savaşçının Kararı",
+                "overview": "Goku ve Gohan'ın ortadan kaybolmasıyla Majin Buu'nun terör saltanatını sona erdirmek Vegeta'ya düşer. Saiyan prensi elinden geleni yapıyor ama Buu'nun güçleri başa çıkamayacağı kadar fazla olabilir!",
+                "air_date": "1994-08-17",
+                "still_path": "/37TOuqubTcQi2MnxaTCjKFsYBux.jpg",
+                "video_url": "1769241"
+            },
+            {
+                "episode_number": 18,
+                "name": "Son Kefaret",
+                "overview": "Trunks ve Goten, Vegeta'yı vahşi bir dayaktan kurtarır, ancak gururlu prens, Majin Buu'yu tek başına yok etmeye kararlıdır. Vegeta bu düşmanı yenmek için her şeyi riske atmaya hazır ama gerçekten kendi hayatından vazgeçmeye hazır mı?",
+                "air_date": "1994-08-24",
+                "still_path": "/xm3LRZgroV9irmfCp0tDb9AzSM9.jpg",
+                "video_url": "1769242"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kötülük Yaşamaya Devam Ediyor",
+                "overview": "Majin Buu'nun bedeni savaş alanına dağılmış durumda ama onun mistik gücü, canavarı tek bir ölümcül parçaya dönüştürüyor! Piccolo'nun saldırısından kıl payı kurtulan Babidi de iyileşiyor!",
+                "air_date": "1994-08-31",
+                "still_path": "/eSdcVmWCFIL1vqfEHjpXrK5ndHL.jpg",
+                "video_url": "1769243"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ejder Toplarını Bul",
+                "overview": "Vegeta'nın neden olduğu katliamı geri alma konusunda endişeli olan Bulma ve diğerleri çılgınca yedi Dragon Ball'u arıyor! Bu sırada yaralı Goku nihayet uyanır ve Dende, onu tekrar hıza kavuşturmak için iyileştirme güçlerini kullanır!",
+                "air_date": "1994-09-07",
+                "still_path": "/apsCZVwA6CTTWwMKemsjvtSinAe.jpg",
+                "video_url": "1769244"
+            },
+            {
+                "episode_number": 21,
+                "name": "Canlanma",
+                "overview": "Goku, Majin Buu: Fusion'ı yenmek için bir plan yapar! Eşit büyüklükte ve güçte iki dövüşçüyü birleştirerek tamamen yeni bir dövüşçü yaratılabilir. Ancak geriye böyle bir çift kaldı: Goten ve Trunks! Genç yarı Saiyanlar dünyayı kurtarabilecek mi?",
+                "air_date": "1994-09-21",
+                "still_path": "/lyYxK25ZyCoqY52M84Z8RLfg68g.jpg",
+                "video_url": "1769245"
+            },
+            {
+                "episode_number": 22,
+                "name": "Küresel Duyuru",
+                "overview": "Babidi, Piccolo, Goten ve Trunks'tan intikam almak istiyor! Herkesin aklına imajlar yerleştiren Babidi, üçlü öne çıkana kadar insanlığı terörize etmekle tehdit ediyor! Bu sırada Gohan, Yüce Kai'nin dünyasına götürülür!",
+                "air_date": "1994-09-28",
+                "still_path": "/qV2h3fJpNa7R1ovLxdusHoMhHsF.jpg",
+                "video_url": "1769247"
+            },
+            {
+                "episode_number": 23,
+                "name": "Fuse'u Öğrenin!",
+                "overview": "Goku, Goten ve Trunks'ı Füzyon sanatı konusunda eğitmeye başlar. Bu sırada Yüce Kai'nin dünyasında iyileşen Gohan, Majin Buu'ya karşı mücadelede kullanmak üzere efsanevi Z-Kılıcını çıkarmaya çalışır!",
+                "air_date": "1994-10-12",
+                "still_path": "/7KdxV5fIKNBFZ20vlpixijHXDlO.jpg",
+                "video_url": "1769249"
+            },
+            {
+                "episode_number": 24,
+                "name": "Z Kılıcı",
+                "overview": "Majin Buu bir beslenme çılgınlığına girerek tüm kasabanın nüfusunu çikolataya dönüştürüyor! Gohan kadim Z-Kılıcı'nı çekiyor, Goku, Goten ve Trunks'a Füzyon sanatını öğretmek için çabalıyor ve sıra dışı bir kahramandan savaşa katılması isteniyor!",
+                "air_date": "1994-10-19",
+                "still_path": "/rzzxylHENKBsb146RV4Pi7YbsIG.jpg",
+                "video_url": "1769261"
+            },
+            {
+                "episode_number": 25,
+                "name": "Capsule Corp'a Yarış",
+                "overview": "Goten ve Trunks, hain Majin Buu'yu durdurmak için antrenman yaparken Idasa'nın bitkin annesi, Babidi'ye Trunks'ın tam olarak nerede yaşadığını söyler! Z-Fighters'ın artık kötü büyücüyü Capsule Corp'a ulaşmadan önce durdurmanın bir yolunu bulması gerekiyor!",
+                "air_date": "1994-11-02",
+                "still_path": "/7VfoH6BOro0kZpDz4Js52WgBnKL.jpg",
+                "video_url": "1769355"
+            },
+            {
+                "episode_number": 26,
+                "name": "Süper Saiyan 3 Mü?",
+                "overview": "Trunks çılgınlar gibi kayıp ejderha radarını arar ve Goku, hayal edilemeyecek bir seviyeye kadar güçlenir: Super Saiyan 3! Bu yeni keşfedilen güç, Majin Buu'nun Batı Şehri'ni yok etmesini engellemeye yetecek mi?",
+                "air_date": "1994-11-09",
+                "still_path": "/sE5hxFp0GeelkXQQvLyciJNEpwx.jpg",
+                "video_url": "1769357"
+            },
+            {
+                "episode_number": 27,
+                "name": "Buu'nun İsyanı",
+                "overview": "Goku, kötü Majin Buu ile savaşmak için yeni Super Saiyan 3 yeteneklerini kullanıyor ve kayıp Dragon Radar'ı bulmak için ihtiyaç duyduğu zamanı Trunks'a satın alıyor. Ama artık Goku kavgaya başladığına göre kaçamayabilir!",
+                "air_date": "1994-11-16",
+                "still_path": "/wBblVnWBotFWhaaoyuHDkflgBv.jpg",
+                "video_url": "1769358"
+            },
+            {
+                "episode_number": 28,
+                "name": "Füzyon Dansı",
+                "overview": "Efendisinden kurtulan Majin Buu, eskisinden daha da yıkıcı hale geliyor ve birkaç saniye içinde tüm şehirleri yok ediyor! Dünyanın tek umudu artık iki genç savaşçının omuzlarında: Goten ve Trunks!",
+                "air_date": "1994-11-23",
+                "still_path": "/aYAnjsKxCgtiGJNmq21DpreISL6.jpg",
+                "video_url": "1769359"
+            },
+            {
+                "episode_number": 29,
+                "name": "Goku'nun Zamanı Doldu",
+                "overview": "Majin Buu ile düelloları yaklaşırken Goten ve Trunks için gerilim yükselir. Bu arada Buu, kendine bir ev inşa ederek yaklaşan savaşa hazırlanıyor! Goku, sonunda Diğer Dünya'ya dönerken başka bir yerde dokunaklı bir veda eder.",
+                "air_date": "1994-11-30",
+                "still_path": "/ibznF0J6sdQrjYqWLDRnzjUlABt.jpg",
+                "video_url": "4089613"
+            },
+            {
+                "episode_number": 30,
+                "name": "Diğer Dünyaya Dönüş",
+                "overview": "Trunks ve Goten, Füzyon Tekniğini mükemmelleştirme arayışlarına devam ederken Gohan, Z-Kılıcında ustalaşmaya çalışır. Dünya'ya döndüğümüzde, kör bir çocukla karşılaşmak, saldırgan Buu'nun başka bir tarafının daha olduğunu ortaya çıkarır!",
+                "air_date": "1994-12-07",
+                "still_path": "/wKYG0EZB5SxdOiMWlPcxEm8jNu6.jpg",
+                "video_url": "1769361"
+            },
+            {
+                "episode_number": 31,
+                "name": "Kırık Kılıçtan Çıkış",
+                "overview": "Gohan'ın yoğun eğitimi efsanevi Z-Kılıcı'nı kırınca, Yaşlı Kai ortaya çıkıp efsanevi silahtan çıkana kadar tüm umutlar tükenmiş görünüyor. Bu yaşlı adam kimdir ve sahip olduğunu iddia ettiği inanılmaz güce gerçekten sahip midir?",
+                "air_date": "1994-12-14",
+                "still_path": "/7NogDcpuL0hAfRCuHjA7xDklgi5.jpg",
+                "video_url": "1769362"
+            },
+            {
+                "episode_number": 32,
+                "name": "Gotenks Doğuyor",
+                "overview": "Birçok komik başarısızlığın ardından Trunks ve Goten sonunda Füzyon tekniğini mükemmelleştirir ve Gotenks doğar! Piccolo'nun emrine karşı gelen süper çocuk hemen Majin Buu ile dövüşmek için ayrılır! Gotenks genç hayatının dövüşüne hazır mı?",
+                "air_date": "1994-12-21",
+                "still_path": "/231QYhu4048oUAULaLN7mXmO10u.jpg",
+                "video_url": "1769363"
+            },
+            {
+                "episode_number": 33,
+                "name": "Beklenmedik Dostluk",
+                "overview": "Majin Buu insanlığı terörize etmeye devam ederken, tek bir kurtarıcı ortaya çıkar: Bay Şeytan! Megaton yumruğu canavarı durdurmaya yetmeyecek ama bu sıra dışı kahramanın Buu'yu birkaç sürprizi olabilir!",
+                "air_date": "1995-01-11",
+                "still_path": "/hMuNmEi1krBtHyXpC3uFfZILCZS.jpg",
+                "video_url": "1769364"
+            },
+            {
+                "episode_number": 34,
+                "name": "Artık Öldürmeyeceğim",
+                "overview": "Z-Fighter'lar Majin Buu ile yapacakları savaşa hazırlık eğitimine devam ederken Bay Şeytan, kötü adamı alt etmek için daha sinsi planlar yapar. Ama bunları gerçekleştirmesi gerekecek mi? Majin Buu fikrini mi değiştirdi?",
+                "air_date": "1995-01-25",
+                "still_path": "/kGAn3xv5t9obJYdHcu13YNPPutR.jpg",
+                "video_url": "1769365"
+            }
+        ]
+    },
+    "season_9": {
+        "season_number": 9,
+        "name": "Sezon 9",
+        "episode_count": 38,
+        "air_date": "1995-02-01",
+        "poster_path": "/ng5ikoqe4vU7gS5l42EB35rMEIX.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Erkeklerin Kötülüğü",
+                "overview": "Bay Şeytan, Majin Buu'ya kötü yollarından vazgeçmesi için ilham verdiğinde, görünüşe göre profesyonel sahtekar gerçekten dünyayı kurtarmış! Ancak dengesiz bir deli bir anda Buu'nun moralini bozunca pembe terör başka bir öfkeye kapılır!",
+                "air_date": "1995-02-01",
+                "still_path": "/ni7aKIrkqXUO4DxGtudlbfZ9W42.jpg",
+                "video_url": "1769366"
+            },
+            {
+                "episode_number": 2,
+                "name": "Buu Buu'ya Karşı",
+                "overview": "Majin Buu'nun kötü muadili ile savaşmasıyla Buus Savaşı başlıyor! İyi Buu çikolataya dönüştüğünde kendi ilacının tadına varıyor! Evil Buu onu yutar ve korkunç bir dönüşüm gerçekleşir! Kim bu radikal yeni Buu?",
+                "air_date": "1995-02-08",
+                "still_path": "/hVHUINWhJLzwc0Uvb80tcETrrLI.jpg",
+                "video_url": "1769369"
+            },
+            {
+                "episode_number": 3,
+                "name": "Boş Gezegen",
+                "overview": "Yeni ve geliştirilmiş Majin Buu, Gotenks'e meydan okumak için Gözcü'ye sürpriz bir ziyarette bulunduğunda, her saniye bir hayatta kalma sınavına dönüşür! Peki patlak veren kaos sırasında Trunks ve Goten nerede?... Derin uykudalar elbette!",
+                "air_date": "1995-02-15",
+                "still_path": "/bICIWsywjGCjYkg3wFj7wGoBBLY.jpg",
+                "video_url": "1769372"
+            },
+            {
+                "episode_number": 4,
+                "name": "Zaman Mücadelesi",
+                "overview": "Majin Buu, öfkesini geri kalan Z-Fighters'a salmadan önce, Hiperbolik Zaman Odası'na ikna edilir. İçeride Trunks ve Goten özenle çalışıyorlar ama Majin Buu gelmeden yeni hareketlerini mükemmelleştirmek için yeterli zamanları olacak mı?",
+                "air_date": "1995-02-22",
+                "still_path": "/t4oKY905NUff7jTy1gKZjajx1F7.jpg",
+                "video_url": "1769373"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gotenks'in Süper Hareketleri",
+                "overview": "Majin Buu ve Gotenks arasında uzun zamandır beklenen rövanş maçı başlıyor! Ancak Gotenks'in dövüş teknikleri yetersiz kalınca doğaçlama yapmak zorunda kalıyor ve bu da şimdiye kadarki en çılgın saldırı hareketlerinden bazılarına yol açıyor!",
+                "air_date": "1995-03-01",
+                "still_path": "/w6QclRLXYZxseK4khUhpnXLfsv9.jpg",
+                "video_url": "1769374"
+            },
+            {
+                "episode_number": 6,
+                "name": "Sonsuza Dek Tuzağa Düşmüş",
+                "overview": "Gotenks ve Majin Buu arasındaki savaş Hiperbolik Zaman Odası'nda tüm hızıyla sürüyor. Dışarıda aile ve arkadaşlar endişeyle Gotenks ve Piccolo'nun yeniden ortaya çıkmasını bekliyor. Majin Buu'yu başarıyla yenip hayatta kalmayı başarabilecekler mi?",
+                "air_date": "1995-03-08",
+                "still_path": "/l2ITBPQVBoPHstxpjX93TNnH3xm.jpg",
+                "video_url": "1769375"
+            },
+            {
+                "episode_number": 7,
+                "name": "Aşırı Beslenme",
+                "overview": "Doyumsuz açlığından güç alan Majin Buu, Hiperbolik Zaman Odası'ndan kaçarak Piccolo ve Gotenks'i içeride mahsur bırakır. Krillin ve ekibi, canavarla kendi başlarına savaşmak zorunda kalır. Buu sonunda iyi adamlardan yemek çıkarabilecek mi?",
+                "air_date": "1995-03-15",
+                "still_path": "/xXVHmSYFvYBzyJpjfjEG160K4UN.jpg",
+                "video_url": "1769376"
+            },
+            {
+                "episode_number": 8,
+                "name": "Gotenks Harika!",
+                "overview": "Süper Saiyan 3 Gotenks, Majin Buu ile mücadelesine devam ediyor ve Gözcü çapraz ateşte kalıyor! Gotenks gücü artırdıkça Majin Buu da güçleniyor - ve bittiğinde içlerinden biri kendini aşmış olacak!",
+                "air_date": "1995-03-22",
+                "still_path": "/ca09RwVm0AFBl3xi6rxQHjtfYCI.jpg",
+                "video_url": "1769395"
+            },
+            {
+                "episode_number": 9,
+                "name": "Şanssız Mola",
+                "overview": "Gohan, Kais'in Dünyası konusunda eğitimine devam ediyor. Bu arada Gotenks, teknikleri bozulmaya başlamadan önce Majin Buu'ya karşı savaşta kısa süreliğine üstünlük sağlar. Gohan devreye girip savaşı bitirmeye zamanında hazır olacak mı?",
+                "air_date": "1995-04-26",
+                "still_path": "/t6bafbR4xse9wjndU5IPU5aL3vn.jpg",
+                "video_url": "1769397"
+            },
+            {
+                "episode_number": 10,
+                "name": "Tamamen Yeni Bir Gohan",
+                "overview": "Gotenks'in füzyonu çözüldüğünde, Goten ve Trunks için sonun geldiği anlaşılıyor. Ancak işler en kötüye giderken, Gohan yeni uyanan güçleriyle sahneye çıkıyor! Sonunda, Majin Buu'nun durumu değişiyor!",
+                "air_date": "1995-05-03",
+                "still_path": "/d6DxoKlkAH0BekakmOyr5nMn1iy.jpg",
+                "video_url": "1769401"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hayatta Kalanları Ara",
+                "overview": "Savaş alanında egemenlik altına alındıktan sonra Majin Buu, Gohan'ı yok etmek için çaresiz bir girişimde kendini havaya uçurur! Ama bu sadece bir oyun mu? Gohan öyle düşünüyor gibi görünüyor! Majin Buu bir pusu mu planlıyor yoksa sadece biraz zaman mı kazanmaya çalışıyor?",
+                "air_date": "1995-05-17",
+                "still_path": "/4UKDQTR7SEbdzSruwHXDwAUoEiV.jpg",
+                "video_url": "1769403"
+            },
+            {
+                "episode_number": 12,
+                "name": "Majin-buu Dönüşümleri",
+                "overview": "Majin Buu, savaşa hazır bir şekilde yeniden ortaya çıkar, ancak Buu, Gohan'a karşı mücadelesine devam etmek yerine Gotenks ve Piccolo'yu absorbe etmek için akıllıca bir aldatmaca düzenler. Piccolo'nun bilgeliği ve Süper Saiyan Gotenks'in gücüyle Buu, \"Süper Buu!\"",
+                "air_date": "1995-05-24",
+                "still_path": "/4wuU9NB8qpPCRQuJE8SPHpgMvTF.jpg",
+                "video_url": "1769407"
+            },
+            {
+                "episode_number": 13,
+                "name": "Eski Kai'nin Silahı",
+                "overview": "Piccolo ve Gotenks'i bünyesine kattıktan sonra Majin Buu'nun güçleri katlanarak arttı! Bazı yeni numaralarla donanmış Majin Buu, küresel yıkıma hazırlanıyor. Artık Gohan yalnız ve zayıflamış durumdayken canavarı durdurabilecek biri var mı?",
+                "air_date": "1995-05-31",
+                "still_path": "/9qPYLgpqo6KUScKFmWXgUjHRpeu.jpg",
+                "video_url": "1769410"
+            },
+            {
+                "episode_number": 14,
+                "name": "Füze Olmaya Hazır Mısınız?",
+                "overview": "Majin Buu gözünü Gohan'a dikerken Goku çaresizce Diğer Dünya'dan izliyor. Şans eseri Yaşlı Kai, günü kurtarabilecek gizli bir güç kaynağını ortaya çıkarır. Goku, oğluyla bağ kurmaya ve Majin Buu'nun terör saltanatına son vermeye hazır mı?",
+                "air_date": "1995-06-07",
+                "still_path": "/cO7YMfDYePK4MwlfwvfcebnvnvF.jpg",
+                "video_url": "1769412"
+            },
+            {
+                "episode_number": 15,
+                "name": "Rakipler Birliği",
+                "overview": "Majin Buu, Gohan'ı bünyesine kattıktan sonra Goku'nun oğluyla güçlerini birleştirme planı mahvolur. Ancak beklenmedik bir müttefik sahneye çıkıyor: Vegeta! Saiyan Prensi farklılıklarını bir kenara bırakıp Goku ile birleşmeyi kabul edecek mi?",
+                "air_date": "1995-06-28",
+                "still_path": "/eEIaUz4c4M8pCYqg4zU0zt03zPr.jpg",
+                "video_url": "1769415"
+            },
+            {
+                "episode_number": 16,
+                "name": "Vegito'yla Tanışın",
+                "overview": "Goku ve Vegeta'nın bedenleri birleşerek yeni bir Saiyan savaşçısı oluşturur. Canavar Majin Buu, yeni rakibinin gücünden etkileniyor ancak onu ciddiye almayı reddediyor. Majin Buu'nun kibri onun sonu mu olacak?",
+                "air_date": "1995-07-05",
+                "still_path": "/tkZKy9hq20sHlFzvQGfUUQbgruB.jpg",
+                "video_url": "1769418"
+            },
+            {
+                "episode_number": 17,
+                "name": "Evrendeki Rip",
+                "overview": "Yeni oluşan Saiyan savaşçısı Super Vegito, Majin Buu'nun yumruk yumruğa rakibi. Ancak canavarın yeni rakibi, canavarın tam kalbinde kontrol edilemeyen bir öfke uyandırır. Majin Buu'nun çılgınlığı Dünya gezegeninin sonu anlamına mı gelecek?",
+                "air_date": "1995-07-12",
+                "still_path": "/aL0TnHaO8JaTZWCTBTyqZsaprH1.jpg",
+                "video_url": "1769422"
+            },
+            {
+                "episode_number": 18,
+                "name": "Vegito... Küçültüldü",
+                "overview": "Vegito ve Majin Buu arasındaki savaş tüm hızıyla sürüyor! Süper Saiyan Kombo mücadeleyi iyi yönetmiş gibi görünüyor. Peki Vegito, Buu'yla oynayarak kaderi baştan mı çıkarıyor? Kurnaz, pembe canavarın elinde hâlâ hangi korkunç numaralar var?",
+                "air_date": "1995-07-19",
+                "still_path": "/6YijMWDtoUDUlC928UlkCFWjN3U.jpg",
+                "video_url": "1769423"
+            },
+            {
+                "episode_number": 19,
+                "name": "İnanılmaz Dövüş Şekeri",
+                "overview": "Kahve aromalı bir şekere dönüşen Vegito'nun şeytani Majin Buu tarafından tüketilmesini hiçbir şey engelleyemez gibi görünüyor. Ancak sakız karşılık verdiğinde Buu savaşın bitmediğini fark eder!",
+                "air_date": "1995-07-26",
+                "still_path": "/qvhSmojTwJ5w08eGMV2YecHah9V.jpg",
+                "video_url": "1769425"
+            },
+            {
+                "episode_number": 20,
+                "name": "Buu'nun İç Kısımları",
+                "overview": "Majin Buu, Vegito'yu özümsediğinde, kaynaşmış Saiyan bir kez daha Goku ve Vegeta'ya ayrılır. Kötü adamın derinliklerinde Gohan ve diğerlerini kurtarma planlarını açığa çıkarırlar. İkili sindirim sürecini atlatıp görevlerini yerine getirebilecek mi?",
+                "air_date": "1995-08-02",
+                "still_path": "/4COsTxlifQVQNLFsGJYKsh1XWgc.jpg",
+                "video_url": "1769427"
+            },
+            {
+                "episode_number": 21,
+                "name": "Zihin Tuzağı",
+                "overview": "Goku ve Vegeta, Gohan'ı ve Majin Buu'nun cesedini aramaya devam ederken tehlikeler çoktur! Bazı iğrenç yatak arkadaşlarıyla tanıştıktan sonra Majin Buu'nun kafasına girerken sonunda aradıklarını bulurlar!",
+                "air_date": "1995-08-09",
+                "still_path": "/sEZduCqVpffmxpOaotb8fVbGCvs.jpg",
+                "video_url": "1769428"
+            },
+            {
+                "episode_number": 22,
+                "name": "Ölümcül Vizyon",
+                "overview": "Goku ve Vegeta, Majin Buu'nun saldırısına uğramak için diğerlerini yeniden bir araya getirir! Bu hesaplaşma, Buu'yla kendi kafasının içinde dövüşmenin akıl almaz bir deneyim olduğunu kanıtlar. Goku ve Vegeta, Buu'nun olduğu bu çarpık korku evinde hayatta kalabilecek mi?",
+                "air_date": "1995-08-16",
+                "still_path": "/gWcx7LTE3ojpZuVq6LTkezm0F5G.jpg",
+                "video_url": "1769431"
+            },
+            {
+                "episode_number": 23,
+                "name": "Kötü Çocuk Buu!",
+                "overview": "Super Buu'nun vücudu bir kez daha mutasyona uğramaya başlayınca Goku ve Vegeta'nın bir an önce oradan çıkması gerekir! Peki kaçmayı başarırlarsa onları neler bekliyor? Sinsi Buu bundan sonra neye dönüşecek?",
+                "air_date": "1995-08-23",
+                "still_path": "/ckLBGmwTi3TSHwK6BIFfQ1Y4Ykl.jpg",
+                "video_url": "1769435"
+            },
+            {
+                "episode_number": 24,
+                "name": "Dünyanın Sonu",
+                "overview": "Roly-poly Buu'ya bağlanma kordonları Vegeta tarafından kesildikten sonra Majin Buu'nun çok daha zayıf bir forma dönüşmesi gerekir. Ama bunun yerine daha da güçleniyor! Bu, Majin Buu'nun tuhaf geçmişini açıklayan Kibito Kai dışında herkesi şaşırtıyor!",
+                "air_date": "1995-09-06",
+                "still_path": "/itpg2HCFaxCxkleocskiyJ7YQiM.jpg",
+                "video_url": "1769437"
+            },
+            {
+                "episode_number": 25,
+                "name": "Gerçek Saiyanlar Tek Başına Savaşır",
+                "overview": "Dünya'nın varoluştan silinmesiyle Majin Buu, Goku ve Vegeta'yı aramaya başlar ve arkasında tüm dünyaları yok edilir. Ancak Buu'nun avı onu Kais'in Dünyasına götürdüğünde Goku ve Vegeta çizgiyi çeker!",
+                "air_date": "1995-09-13",
+                "still_path": "/b2W4gyYd5LiXvRIg4HY6wwQUTPL.jpg",
+                "video_url": "1769441"
+            },
+            {
+                "episode_number": 26,
+                "name": "Evren İçin Savaş Başlıyor",
+                "overview": "Majin Buu dövüşe hazırken Kibito Kai, Goku ve Vegeta'nın Taş, Kağıt, Makas oyunu oynadığını görünce şaşkına döner! İkili, güçlerini birleştirmek için Füzyon Tekniğini kullanmak yerine Buu ile teker teker savaşmaya karar verdi!",
+                "air_date": "1995-09-20",
+                "still_path": "/eH1WzdBrja0wn17A0igEcu0PSLu.jpg",
+                "video_url": "1769443"
+            },
+            {
+                "episode_number": 27,
+                "name": "Vegeta'nın Saygısı",
+                "overview": "Super Saiyan 3 Goku yorgunluktan yere yığılınca Vegeta kavgaya girer ama uzun süre dayanamaz! Tam Majin Buu öldürücü darbeyi indirmek üzereyken Goku geri dönüş yapıyor!",
+                "air_date": "1995-10-18",
+                "still_path": "/A7yEMRJqKHlf2xQOeLAvut4ZA3C.jpg",
+                "video_url": "1769445"
+            },
+            {
+                "episode_number": 28,
+                "name": "Umutsuzluk Dakikası",
+                "overview": "Goku'nun güçleri zayıflıyor ve çok geç olmadan savaşı bitirmesi gerekiyor! Goku'ya enerji toplamak için gereken zamanı satın almak amacıyla Buu ile şiddetli bir savaşa başlayan Vegeta'ya girin. Rakibi tarafından geride bırakılan Saiyan Prensi hayatta kalabilecek mi?",
+                "air_date": "1995-11-01",
+                "still_path": "/w8yDYm1M2UwGKWM5e6mfVAEwOD4.jpg",
+                "video_url": "1769448"
+            },
+            {
+                "episode_number": 29,
+                "name": "Eski Buu Ortaya Çıkıyor",
+                "overview": "Vegeta düştüğünde, Bay Satan meydan okumayı üstlenmek için devreye giriyor! Görünüşe göre, kahraman adayı ölüm fermanını imzalamış, ancak Buu saldırmaya çalıştığında, canavar acıdan sakat kalıyor!",
+                "air_date": "1995-11-08",
+                "still_path": "/uRsEjcinvBwy1w6FQbZpQCMo2BI.jpg",
+                "video_url": "1769450"
+            },
+            {
+                "episode_number": 30,
+                "name": "Dünya Yeniden Doğdu",
+                "overview": "İyi Majin Buu, kötü rakibine karşı topyekün bir savaş başlatırken Vegeta, Dende'den yeni Namek Gezegeni'nde Ejderhayı çağırmasını ister. İyi kalpli Buu'nun gücü azalırken Vegeta'nın planının son aşamasını gerçekleştirmek için yeterli zamanı olacak mı?",
+                "air_date": "1995-11-15",
+                "still_path": "/nrIZKyDPo8uGpCDlpyxKyEjbZ7J.jpg",
+                "video_url": "1769451"
+            },
+            {
+                "episode_number": 31,
+                "name": "Eylem Çağrısı",
+                "overview": "Goku, Ruh Bombasını canlandırmak için Dünyalıların kolektif enerjisinin gelmesini bekliyor, ancak enerji gelmiyor! Dünya insanları bu en kritik saatte Vegeta'nın yardım çağrısına kulaklarını tıkadılar mı?",
+                "air_date": "1995-11-22",
+                "still_path": "/bshyiu4WirMX1XENLddBYv5QFQQ.jpg",
+                "video_url": "1769453"
+            },
+            {
+                "episode_number": 32,
+                "name": "Dünyanın İnsanları Birleşin",
+                "overview": "Aptal Dünyalılar Goku'yu görmezden gelir, ancak Bay Şeytan yardım istediğinde insanların fikri değişir. Enerjilerinin dışarı taşması zamanında ulaşacak mı? Goku, Vegeta'nın Majin Buu'nun gücü altında parçalanmasını bekleyip izleyebilir!",
+                "air_date": "1995-11-29",
+                "still_path": "/xF0ktt2LZrcwkWXOKaAeqeas1ig.jpg",
+                "video_url": "1769455"
+            },
+            {
+                "episode_number": 33,
+                "name": "Ruh Bombası Muzaffer",
+                "overview": "İyi Buu ve Bay Şeytan'ı serbest bırakan Vegeta'nın ardından Goku, Ruh Bombasını fırlatır! Ne yazık ki yorgun Saiyan'ın patlamayı gerçekleştirecek gücü yok ve Buu onu ona geri gönderiyor! Goku kendi saldırısıyla yok edilecek mi?",
+                "air_date": "1995-12-13",
+                "still_path": "/bgfykemxup6e9AudPGgRC4zRSUE.jpg",
+                "video_url": "1769458"
+            },
+            {
+                "episode_number": 34,
+                "name": "Majin Buu ile Kutlamalar",
+                "overview": "Goku ve arkadaşları Majin Buu'yu yendikten sonra Dünya'ya döndüklerinde kollarını açarak karşılanırlar. Ama kimse iyi Buu'yu gördüğüne sevinmedi! Bay Şeytan'ın pembe arkadaşı topluma uyum sağlamayı başarabilecek mi? Yoksa dışlanmış biri olmaya mahkum mu?",
+                "air_date": "1995-12-20",
+                "still_path": "/mnM46kk7AmC4DoQz8zcpihnoRr2.jpg",
+                "video_url": "1769459"
+            },
+            {
+                "episode_number": 35,
+                "name": "O Her Zaman Geç Kalır",
+                "overview": "Goku'nun elleri dört ejderha yumurtasını vahşi doğanın tehlikelerinden korumakla meşgul, ancak yavru ejderhaları kurtarabilse bile çok geçmeden çok daha tehlikeli bir tehlikeyle karşı karşıya kalacak: kızgın Chi Chi!",
+                "air_date": "1996-01-10",
+                "still_path": "/En6fZR2ywI97EF3FxIccMJNVIJ.jpg",
+                "video_url": "1769461"
+            },
+            {
+                "episode_number": 36,
+                "name": "Torunu Pan",
+                "overview": "Kötü Majin Buu'nun ölümünün üzerinden on yıl geçti ve Dünya bir kez daha barışa kavuştu. Gohan bir bilim adamıdır. Trunks ve Goten güçlü, genç gençler! Vegeta ve Bulma'nın yeni bir kızı var! Ve Goku bir büyükbaba!",
+                "air_date": "1996-01-17",
+                "still_path": "/e2oP2FEzCpKvjnuuVMuMAxaTwet.jpg",
+                "video_url": "1769463"
+            },
+            {
+                "episode_number": 37,
+                "name": "Buu'nun Reenkarnasyonu",
+                "overview": "Yeni bir Dünya Turnuvası başlıyor! Goku, Majin Buu'nun yardımıyla kurada hile yapar ve finallerin ilk turunda gizemli bir dövüşçüyle karşı karşıya gelir! Uub adındaki bu ürkek, küçük köy çocuğu gerçekten Goku'nun düşündüğü kadar güçlü mü?",
+                "air_date": "1996-01-24",
+                "still_path": "/MChzpc7k4CDJxsXH1yCQTviWxK.jpg",
+                "video_url": "1769468"
+            },
+            {
+                "episode_number": 38,
+                "name": "Goku'nun Sonraki Yolculuğu",
+                "overview": "Savaş kızıştıkça Uub güçlenir ve kısa sürede Saiyan'ın eşiti haline gelir, ancak maçın kararı verilmeden önce Goku şaşırtıcı bir açıklama yapar! Planının ortaya çıkmasıyla Goku ve Uub, arkalarında şaşkın bir kalabalık bırakarak arenadan ayrılır.",
+                "air_date": "1996-01-31",
+                "still_path": "/6mhcczQxRGjrFANyyTptOkCPQsA.jpg",
+                "video_url": "1769470"
+            }
+        ]
+    }
+}

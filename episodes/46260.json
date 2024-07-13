@@ -1,0 +1,1798 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 52,
+        "air_date": "2002-10-03",
+        "poster_path": "/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Enter: Naruto Uzumaki!",
+                "overview": "Yaprakların Arasında Gizli Köy'e hoş geldiniz, burada ölümcül derecede ciddi Ninjalar manzarada dolaşıyor ve ciddi derecede yaramaz Naruto Uzumaki gittiği her yerde sorun çıkarıyor. Ancak mühürlemenin kadim parşömenini çaldığında, 12 yaşında bir çocukta nadiren görülen nadir bir gücü serbest bırakıyor!",
+                "air_date": "2002-10-03",
+                "still_path": "/7xOP0rKDniTZKEaRM7seKfY9SG8.jpg",
+                "video_url": "3642169"
+            },
+            {
+                "episode_number": 2,
+                "name": "Benim Adım Konohamaru!",
+                "overview": "Naruto sonunda Ninja Akademisi'nden mezun olur ve her şeyi bildiğini iddia eder. En azından Köyün yaşlısının küçük torunu Konohamaru'ya söylediği şey bu. Naruto, Konohamaru'nun öğretmeni ve akıl hocası Ebisu'yu dehşete düşürerek ona hormonal açıdan ölümcül olan \"Seksi Jutsu!\"",
+                "air_date": "2002-10-10",
+                "still_path": "/5e0sxZupgkWNRvEnSn8CtDaTNck.jpg",
+                "video_url": "3642170"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sasuke ve Sakura: Arkadaş Mı Düşman Mı?",
+                "overview": "Ninja olma yolunda Naruto, sınıf arkadaşları güzel Sakura ve oldukça ciddi Sasuke ile birlik olmak zorundadır...",
+                "air_date": "2002-10-17",
+                "still_path": "/AnET8GFEtsVkhZCvNDYdo1OhFUZ.jpg",
+                "video_url": "3642171"
+            },
+            {
+                "episode_number": 4,
+                "name": "Başarılı Veya Kaldı: Hayatta Kalma Testi",
+                "overview": "Artık Naruto, Sasuke ve Sakura bir takım olduklarından, sensei'leri esrarengiz ve mesafeli Kakashi ile tanışırlar.",
+                "air_date": "2002-10-24",
+                "still_path": "/754Qrt6RuRblgazi8LiZ26AkmzK.jpg",
+                "video_url": "3642172"
+            },
+            {
+                "episode_number": 5,
+                "name": "Hata Yaptın! Kakashi'nin Nihai Kararı",
+                "overview": "Başarısızlık tehdidi başlarının üzerinde asılıyken Naruto, Sasuke ve Sakura, zorlu hayatta kalma testini geçmek için bildikleri her şeyi denerler.",
+                "air_date": "2002-10-31",
+                "still_path": "/6DUDSdvZIq4ebWB56EXPWNIt7Yp.jpg",
+                "video_url": "3642173"
+            },
+            {
+                "episode_number": 6,
+                "name": "Tehlikeli Bir Görev! Dalgalar Ülkesine Yolculuk!",
+                "overview": "Zayıf görevler yapmaktan bıkmış olan Naruto, Hokage'den onlara zorlayıcı bir şey vermesini ister. Hokage pes eder ve onlara C rütbeli bir görev verir. Bir köprü inşaatçısının koruması olacaklardır. Basit bir görev gibi görünür, ta ki grup sıradan haydutlardan daha fazlası tarafından saldırıya uğrayana kadar... diğer ninjalar!",
+                "air_date": "2002-11-07",
+                "still_path": "/iFwElDN6atOMRNsTnO2xpGr9cfH.jpg",
+                "video_url": "3642174"
+            },
+            {
+                "episode_number": 7,
+                "name": "Sis Suikastçısı!",
+                "overview": "Naruto ve ekibi Dalgalar Ülkesi'ne varır ve Gato adında kötü bir iş adamının ülkeyi ele geçirdiğini öğrenir.",
+                "air_date": "2002-11-14",
+                "still_path": "/hCux6yOMEr0aTASISowEYR5HNm6.jpg",
+                "video_url": "3642175"
+            },
+            {
+                "episode_number": 8,
+                "name": "Acı Yemini",
+                "overview": "Kakashi'nin yakalanmasıyla Naruto, Sasuke ve Sakura'nın Zabuza'nın saldırılarına karşı savunma yapması gerekiyor. Naruto, Sasuke ile birlikte çalışmanın Kakashi'yi kurtarmanın tek yolu olabileceğini fark eder. İkisinin ortak çabaları Kakashi'yi serbest bırakmaya ve Zabuza'yı yenmeye yetecek mi?",
+                "air_date": "2002-11-21",
+                "still_path": "/aHB9h0MKT9SM56QDpFEAThWmfZw.jpg",
+                "video_url": "3642176"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kakashi: Sharingan Savaşçısı",
+                "overview": "Kakashi serbest kalınca, kendisi ve Zabuza arasındaki mücadele yeniden başlar. Kakashi, Zabuza'ya Sharingan'ın gerçekte ne yapabileceğini göstermeye karar verir. Kakashi'nin Sharingan'ı Zabuza'yı yenebilir mi? Ve mücadeleyi izleyen gizemli kişi kimdir?",
+                "air_date": "2002-11-28",
+                "still_path": "/2KRDqL0QJmf14U8Z4Ad6rKavmt.jpg",
+                "video_url": "3642177"
+            },
+            {
+                "episode_number": 10,
+                "name": "Çakra Ormanı",
+                "overview": "Zabuza'nın gitmesiyle işler düzeliyor ve Tazuna korkmadan gidip köprüyü inşa edebilir. Ya da herkes öyle düşünüyor. Kakashi, Zabuza'nın ölümünde bir sorun olduğuna inanır ve Naruto, Sakura ve Sasuke'ye çakralarını daha iyi kullanabilmeleri için eğitim vermenin bir yolunu öğretir. Zabuza gerçekten öldü mü?",
+                "air_date": "2002-12-05",
+                "still_path": "/xkruJON9BZ2g15LWHyICp1X4o2T.jpg",
+                "video_url": "3642178"
+            },
+            {
+                "episode_number": 11,
+                "name": "Bir Zamanlar Bir Kahramanın Yaşadığı Ülke",
+                "overview": "Naruto ve Sasuke antrenman yaparken Sakura, Tazuna'ya göz kulak olur. Güzel bir akşam yemeği sırasında Sakura, bir adamın yüzünün bir resimden koptuğunu fark eder. Adamın adı Kaiza'ydı ve ülkenin \"kahraman\" dediği kişiydi. Inari'nin bu kadar acı çekmesine neden olan ne oldu?",
+                "air_date": "2002-12-12",
+                "still_path": "/3H0QFqV4OI4CBu3H3ETlNZ3msee.jpg",
+                "video_url": "3642179"
+            },
+            {
+                "episode_number": 12,
+                "name": "Köprüde Savaş! Zabuza Geri Dönüyor!",
+                "overview": "Naruto ormanda Haku ile tehlikeli bir karşılaşma yaşar ama Haku sorun çıkarmak için mi oradadır? Zabuza hayatta olduğuna ve 2. tura geri döndüğüne göre Naruto ve Sasuke eğitimlerini tamamlasa iyi olur. Kakashi, Sasuke ve Sakura Sis Şeytanı'nı yenebilecek mi? Peki Naruto yardım etmek için zamanında varabilecek mi?",
+                "air_date": "2002-12-19",
+                "still_path": "/2gJKIqshW9J1geY8zjK7iasQIKD.jpg",
+                "video_url": "3642180"
+            },
+            {
+                "episode_number": 13,
+                "name": "Haku'nun Gizli Jutsu'su: Kristal Buz Aynaları",
+                "overview": "Zabuza ile ikinci tur başladı ama bu sefer... Zabuza'nın yanında Haku da savaşıyor. Haku ve Sasuke, Sasuke bir tekme atmayı başarana kadar geride kalırken, Naruto da Gato'nun yandaşlarından bazılarıyla uğraşır. Köprüde Haku gizli jutsusu Şeytani Buz Aynalarını kullanır. Bu jutsu Sasuke'ye ne getirecek? Naruto köprüye zamanında ulaşıp Tsunami ve Inari'yi de kurtarabilecek mi?",
+                "air_date": "2002-12-26",
+                "still_path": "/hJkcZCTPQ582HOaJcXffNch2IfT.jpg",
+                "video_url": "3642181"
+            },
+            {
+                "episode_number": 14,
+                "name": "Bir Numaralı Hiperaktif Knucklehead Ninja Dövüşe Katılıyor!",
+                "overview": "Naruto sonunda köprüdeki savaşa katılır. Ancak Naruto aptalca Haku'nun jutsusunun ortasında kaldığında, o ve Sasuke'nin kaçmak için birlikte çalışması gerekir. Kakashi, Sakura ve Tazuna'yı korumak için Zabuza ile uğraşmak zorunda olduğundan onlara yardım edemez. İkili buz aynalarından yardım almadan nasıl kaçacak?",
+                "air_date": "2003-01-09",
+                "still_path": "/pllWSA7MdhLRk4ltvXVBZQWEAZW.jpg",
+                "video_url": "3642182"
+            },
+            {
+                "episode_number": 15,
+                "name": "Sıfır Görünürlük: Sharingan Parçalanıyor",
+                "overview": "Naruto ve Sasuke, Haku ile savaşmaya devam ediyor ve kötü bir şekilde yeniliyorlar. Naruto'nun birkaç kez kaçmayı denemesinin ardından Sasuke bir düzen görmeye başladı. Bu sırada Kakashi ve Zabuza dışarıda kavga etmeye başlar. Naruto ve Sasuke, Haku'nun jutsu'sundan kaçabilecekler mi? Zabuza'nın Sharingan'ı yenmek için nasıl bir planı var?",
+                "air_date": "2003-01-16",
+                "still_path": "/wnhKYdQSvzA70eLPRRy1B2rI4XR.jpg",
+                "video_url": "3642183"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kırık Mühür",
+                "overview": "Naruto ve Sasuke, Haku'ya karşı zorlu savaşlarına devam ediyor. Haku savunmasız bir Naruto'yu hedef alınca Sasuke onu kurtarmak için her şeyi riske atar. Arkadaşının önünde yattığını gören Naruto'nun içinde güçlü bir güç uyanır. Kyubi serbest bırakıldı mı? Eğer öyleyse, kimse onu durdurabilir mi?",
+                "air_date": "2003-01-23",
+                "still_path": "/zZ0KPqgdUJk0QM74NTVyuEhTWld.jpg",
+                "video_url": "3642184"
+            },
+            {
+                "episode_number": 17,
+                "name": "Beyaz Geçmiş: Gizli Hırs",
+                "overview": "Naruto öfkesini hiç şansı olmayan Haku'dan çıkarır. Ancak Naruto, ormanda tanıştığı çocuğun Haku olduğunu anlar. Haku, Naruto'ya geçmişinin hikayesini anlatır ve Naruto'dan kendisine bir iyilik yapmasını ister... Naruto asla yapamayacağı tek şeyi Haku'nun istediği gibi yapacak mı?",
+                "air_date": "2003-01-30",
+                "still_path": "/mLWldx8ojmfm53Ad7AvCRUR1b8e.jpg",
+                "video_url": "3642185"
+            },
+            {
+                "episode_number": 18,
+                "name": "Shinobi Olarak Bilinen Silahlar",
+                "overview": "Kakashi, Zabuza'yı kesin olarak durdurmaya hazırlanır ama Haku'nun başka planları vardır. Zabuza'nın işvereni ortaya çıkıyor ve o, meseleyi kendi eline almaya karar veriyor...",
+                "air_date": "2003-02-06",
+                "still_path": "/3L6dbRR7SUwi9b9sQkAfY8kzn6p.jpg",
+                "video_url": "3642186"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kardaki Şeytan",
+                "overview": "Zabuza artık Kakashi'nin düşmanı değil ve Naruto'nun ninjaların nasıl olduğuna dair küçük bir konuşması sayesinde Zabuza, Gato'nun adamlarıyla tek başına mücadele ediyor. Gizli Sisin Şeytanı, Gato'dan ve onu takip edecek kadar aptal olan herkesten intikamını alır ve nazik küçük çocuğa yaptıklarından dolayı Haku'dan özür diler. Grup, Gato'nun diğer adamlarıyla ilgilendikten sonra Zabuza, Kakashi'den Haku'yu son bir kez görmesi için son bir istekte bulunur. Bu Zabuza'nın ağıtı.",
+                "air_date": "2003-02-13",
+                "still_path": "/ga7rxkcArXCfaCq7GJCIvgfvHM2.jpg",
+                "video_url": "3642188"
+            },
+            {
+                "episode_number": 20,
+                "name": "Yeni Bir Bölüm Başlıyor: Chūnin Sınavı!",
+                "overview": "Son görevleri tamamlandıktan sonra grubun bir kez daha vasat görevlere geri dönme zamanı geldi. Her şey bittikten sonra Konohamaru ve arkadaşları Naruto'yu ziyaret eder. Bunların hepsi Sakura tarafından kovalanmanızla sonuçlanır. İki gizemli ninja yollarını kapattığında herkes kısa sürede biter ve içlerinden biri Konohamaru'dan pek memnun değildir. Sasuke günü kurtarmak için gelir ama grubun lideri, Sasuke'yi bile şaşırtan gizlilik becerileriyle ortaya çıkar. Bu arada Üçüncü Hokage, Chuunin seçme sınavlarının zamanının geldiğini bir kez daha duyurur.",
+                "air_date": "2003-02-20",
+                "still_path": "/62JioRdktDas35vIhYAqJbiMi8u.jpg",
+                "video_url": "3642189"
+            },
+            {
+                "episode_number": 21,
+                "name": "Kendinizi Tanımlayın: Güçlü Yeni Rakipler",
+                "overview": "Üç ninja ayrıldıktan sonra Sasuke, dışarıda güçlü bir rakibi olduğunu fark eder. Ertesi gün Kakashi, Chuunin Sınavları için hepsini önerdiğini duyurur. Naruto ve Sasuke memnunken Sakura herkesi hayal kırıklığına uğratmaktan korkuyor. Ayrıca birisi hazır olmadığına karar verir ve yeteneklerini test etmeye karar verir.",
+                "air_date": "2003-02-27",
+                "still_path": "/cmnVctXPIbekqYIW8ZwLAtCF6tF.jpg",
+                "video_url": "3642190"
+            },
+            {
+                "episode_number": 22,
+                "name": "Chūnin Mücadelesi: Rock Lee, Sasuke'ye Karşı!",
+                "overview": "Rock Lee, Sasuke'yi bire bir dövüşe davet eder. Naruto sinirlenir ve ona saldırır, ancak tek saldırıda yenilir. Sasuke bu zorluğun farkına varır ve hevesle kabul eder. Peki Sasuke bu gizemli ninjaya aynı kolaylıkla yenilebilecek mi? Sasuke'nin tek avantajı Sharingan'ı gibi görünüyor ama o bile işe yaramadığında ne olacak?",
+                "air_date": "2003-03-06",
+                "still_path": "/viGIAxlhPskrqwMTzOMn8ODDj3z.jpg",
+                "video_url": "3642191"
+            },
+            {
+                "episode_number": 23,
+                "name": "Genin Yayından Kaldırma! Dokuz Çaylağın Hepsi Karşı Karşıya!",
+                "overview": "Hepsi Chuunin Sınavına girmeye hazırlanırken tüm çaylakların bir araya gelmesi pek de mutlu değildir. Etrafında bu kadar çok rakip varken, Naruto'nun ekibinin neyle karşı karşıya olduklarını bilmek için Kabuto adlı bir ninja arkadaşının yardımına ihtiyacı olacak. Grup sınava kadar dayanabilecek mi?",
+                "air_date": "2003-03-13",
+                "still_path": "/oiS7lfWGHJMSTQqQsUrjoIkuhaJ.jpg",
+                "video_url": "3642192"
+            },
+            {
+                "episode_number": 24,
+                "name": "Motorlarınızı Çalıştırın: Chūnin Sınavı Başlıyor!",
+                "overview": "Chuunin Sınavının ilk sınavı tam da bu, yazılı bir sınavdır. Ibiki katı kurallar koyduğunda Naruto, testin amacının yakalanmadan kopya çekmek olduğunu fark edemez. Naruto süre dolmadan gerçeği anlayabilecek mi? Peki ya onuncu soru?",
+                "air_date": "2003-03-20",
+                "still_path": "/tpvhLON3JjpNIyVOvmwOAeJg38G.jpg",
+                "video_url": "3642193"
+            },
+            {
+                "episode_number": 25,
+                "name": "Onuncu Soru: Ya Ya Hep Ya Hiç",
+                "overview": "Zaman ilerledikçe Naruto'nun testi geçmek için tek umudu son soruda yatıyor. Ancak son soruyu cevaplama zorunluluğu var. Cevap vermemeyi seçerseniz testi geçemezsiniz ve bir dahaki sefere tekrar deneyebilirsiniz. Ancak soruyu yanıtlamayı seçip yanlış yaparsanız, bir daha asla sınava giremezsiniz ve sonsuza kadar Genin olarak kalmalısınız! Naruto'nun seçimi ne olacak?",
+                "air_date": "2003-03-27",
+                "still_path": "/flzvD3rlM6XSYxVDDWXaXVC48xZ.jpg",
+                "video_url": "3642194"
+            },
+            {
+                "episode_number": 26,
+                "name": "Özel Rapor: Ölüm Ormanından Canlı Yayın!",
+                "overview": "Leaf Village'ın Üçüncü Hokage'sinin torunu Konohamaru, Chunin Sınavı alanına gelir. Ninja Akademisi'nin okul gazetesindeki olayları haber yapmak için Moegi ve Udon ile birlikte gelir. Konohamaru, Naruto'ya bir ağabey gibi bakıyor ve karakterlerle yaptığı röportajlar aracılığıyla onların şimdiye kadarki maceralarını özetliyor.",
+                "air_date": "2003-04-02",
+                "still_path": "/g6mdqmq0ftvqFmAMfJqBG9M63s7.jpg",
+                "video_url": "3642195"
+            },
+            {
+                "episode_number": 27,
+                "name": "Chunin Sınavı Aşama 2: Ölüm Ormanı",
+                "overview": "İkinci sınav başlamak üzere ve her ninjanın, ekibinin Cennet veya Dünya Parşömeni'ni alabilmesi için bir form imzalaması gerekiyor. Amaç her parşömenden bir tane alıp beş gün içinde kuleye ulaşmaktır. Gruplar parşömenlerini alır ve sınav başlar. Naruto, kendisi gibi davranan bir ninja tarafından pusuya düşürülür. Bu ninja, bunu hemen anlayan Sasuke'yi kandıramaz. Bu sırada yeni bir düşman onları aramaktadır ama bu düşman kimdir?",
+                "air_date": "2003-04-02",
+                "still_path": "/qwMeNmu4EXjCx2XFT3Vpj8ZZRDf.jpg",
+                "video_url": "3642196"
+            },
+            {
+                "episode_number": 28,
+                "name": "Ye Ya Da Yenil: Ormanda Panik",
+                "overview": "Sasuke, daha fazla sorun yaşamamak için dostu düşmandan ayırt edecek bir parola buluyor ama acaba her şey bu kadar basit mi olacak? Bu sırada Naruto'nun elleri dev bir yılanla doludur. Bunu tek başına halledebilecek mi? Peki ya Sasuke ve Sakura bu çetin sınavdan sağ çıkabilecekler mi?",
+                "air_date": "2003-04-09",
+                "still_path": "/bgfoBuenkQP0D8vqDeDWP5g8lbq.jpg",
+                "video_url": "3642198"
+            },
+            {
+                "episode_number": 29,
+                "name": "Naruto'nun Karşı Saldırısı: Asla Pes Etmeyin!",
+                "overview": "Sasuke pes edip parşömenlerini düşmana vermek üzereyken Naruto onu durdurup sahte olmakla suçladı. Naruto daha sonra dikkatini Çimen Ninja'ya çevirir... Savaş yoğundur ve Çimen Ninja üstünlüğü ele geçirdiğinde Sasuke savaşma cesaretini toplayabilecek mi?",
+                "air_date": "2003-04-16",
+                "still_path": "/1LKUprnRqkFwb6LrFFibxdWUf7j.jpg",
+                "video_url": "3642199"
+            },
+            {
+                "episode_number": 30,
+                "name": "Sharingan Yeniden Canlandı: Ejderha Alevi Jutsu!",
+                "overview": "Sasuke hala transında takılı kalmış durumda ve Sakura'nın yalvarışları bile onu normale döndüremiyor. Bu arada Anko, sahte çimen ninjasını arıyor. Takım üstünlük sağladığında sorulması gereken soru ortaya çıkıyor. Ninjalar gerçekten yenildi mi yoksa görünenden daha fazlası mı var?",
+                "air_date": "2003-04-23",
+                "still_path": "/aQLPWI6h2HY0rvA8vZrqQ3GLcQk.jpg",
+                "video_url": "3642200"
+            },
+            {
+                "episode_number": 31,
+                "name": "Bushy Brow'un Sözü: Ölümsüz Sevgi ve Koruma",
+                "overview": "Önceki savaşta yaralanmayan tek kişi Sakura olduğu için takım arkadaşlarına göz kulak olması ve onları koruması gerekiyor. Ancak kendisinin bilmediği, ağaçlardan izleyen düşmanlar vardır... Saldırırlar ama bir arkadaşı yardıma gelir. Yeterli olacak mı?",
+                "air_date": "2003-04-30",
+                "still_path": "/x4pK0593WCM1EslRWSveLW7LSmM.jpg",
+                "video_url": "3642201"
+            },
+            {
+                "episode_number": 32,
+                "name": "Sakura Çiçekleri!",
+                "overview": "Zayıflamış haliyle Lee, Dosu'yu yenmede zorluk yaşıyor. Sakura, şimdiye kadar herkesin onu koruduğunu ve onları koruma zamanının geldiğini fark eder! Lee'nin bile başarısız olduğu yerde Sakura başarılı olabilecek mi?",
+                "air_date": "2003-05-07",
+                "still_path": "/7OW5z0xvDyQjPePB6N8kADeAM90.jpg",
+                "video_url": "3642202"
+            },
+            {
+                "episode_number": 33,
+                "name": "Savaş Düzeni: Ino-shika-cho!",
+                "overview": "Sakura'nın yenilmesi ve kesin bir ölümle karşı karşıya kalmasıyla birlikte, daha fazla takviye mücadeleye katılıyor. Ancak, daha da büyük bir güç düzeyini hissediyorlar ve bu, ses üçlüsünden gelmiyor! Bu arada Sasuke, etrafını saran uğursuz karanlık bir aurayla ve vücuduna yayılan gizemli mühürle uyanır. Tek bir amacı var... düşmanlarına bunun bedelini ödetmek!",
+                "air_date": "2003-05-14",
+                "still_path": "/3KXzj9nbhhTJd5q0nhaikXFkdc5.jpg",
+                "video_url": "3642203"
+            },
+            {
+                "episode_number": 34,
+                "name": "Akamaru Titriyor: Gaara'nın Zalim Gücü!",
+                "overview": "Kiba, Shino ve Hinata, daha fazla parşömen alarak rakiplerini ortadan kaldırmaya karar verirler. Üç Yağmur ninjasının Gaara, Kankuro ve Temari ile savaştığı bir savaş alanına gelirler. Saklanırlar ve savaşı gözlemlerler, Yağmur ninjalarından birinin tehlikeli bir düşman olduğunu düşünürler. Gaara'nın inanılmaz yeteneklerini fark ettikten sonra, gerçekte kimin tehlikeli olduğunu keşfederler ve hayatlarını gizlice kaçırabilirlerse şanslı olacaklardır!",
+                "air_date": "2003-05-21",
+                "still_path": "/xcp9mAcNDtRQKdrv80RWfEcgzLA.jpg",
+                "video_url": "3642204"
+            },
+            {
+                "episode_number": 35,
+                "name": "Parşömenin Sırrı: Göz Atmaya İzin Yok",
+                "overview": "Naruto ve ekibi, Sound ninjasına karşı verdikleri savaşın ardından yaralarını sarmak için çok ihtiyaç duydukları dinlenmeyi alır. Ancak sınavın başlamasının üzerinden dört gün geçti ve sürenin dolmasına sadece bir gün kaldı.",
+                "air_date": "2003-05-28",
+                "still_path": "/vwhylZ902guN3bMWkdH0nRfYSWK.jpg",
+                "video_url": "3642205"
+            },
+            {
+                "episode_number": 36,
+                "name": "Klon ve Klon: Benimki Seninkinden Daha İyi!",
+                "overview": "Naruto'nun ekibi kuleye olan yolculuklarında Kabuto'ya katılır, ancak yolda Gizli Yağmur Köyü'nün genini (düşük rütbeli ninja), Oboro'nun ekibinin genjutsu (illüzyon tekniği) tarafından tuzağa düşürülürler.",
+                "air_date": "2003-06-04",
+                "still_path": "/zfZl97Fgg0PzB0gqtPEQC8NMX2m.jpg",
+                "video_url": "3642206"
+            },
+            {
+                "episode_number": 37,
+                "name": "Kesimden Hayatta Kalmak! Çaylak Dokuzlu Yeniden Bir Arada!",
+                "overview": "Sınav bitti ama gerçekten geçtiler mi? Eski bir arkadaş, endişesini açıklamak ve göstermek için gelir. Bu sırada Anko, ANBU'ya kendilerinin bile durduramadığı S Sınıfı suçlu Orochimaru hakkında bilgi verir. Daha sonra Üçüncü Hokage herkese üçüncü sınavın gerçekte ne anlama geldiğini açıklar....",
+                "air_date": "2003-06-11",
+                "still_path": "/d4OoTUTlANl6E4bXAvWpXCzspl5.jpg",
+                "video_url": "3642207"
+            },
+            {
+                "episode_number": 38,
+                "name": "Alanı Daraltmak: Ani Ölümün Ortadan Kaldırılması!",
+                "overview": "Bu kadar çok katılımcının kalması nedeniyle gruplara ön eleme maçlarında birbirleriyle karşı karşıya gelecekleri söylendi. Kabuto ayrılır ve ardından Sasuke'ye savaşması gerektiği söylenir. Lanetli mührün Sasuke'ye verildiğini ve bu mührün kontrolü ele geçirmesi halinde onu durduracaklarını biliyorlar. Sasuke, mührün yeniden yönetimi ele geçirmesine engel olup yine de kazanmayı başarabilecek mi?",
+                "air_date": "2003-06-18",
+                "still_path": "/zB7GqOH2QmeuarWagxNNufiDj2C.jpg",
+                "video_url": "3642168"
+            },
+            {
+                "episode_number": 39,
+                "name": "Bushy Brow'un Kıskançlığı - Aslanlar Yayılıyor!",
+                "overview": "Çakrasını Akado'ya karşı kullanamayan Sasuke, onu yenmek için eski moda taijutsuya güvenmek zorunda kaldı. Kakashi, Sasuke'de bir sorun olduğunu hisseder ve maçtan sonra onu alıp götürür.",
+                "air_date": "2003-07-02",
+                "still_path": "/mGI0kJ19cnC5fXIyYOiJEhXmwFS.jpg",
+                "video_url": "3642208"
+            },
+            {
+                "episode_number": 40,
+                "name": "Kakashi ve Orochimaru: Yüz Yüze!",
+                "overview": "Shino ve Zaku dövüşlerini bitirirken, Kakashi Sasuke'nin lanetli mührü üzerinde çalışır. Ancak, işleri mahvetmek için kötü niyetli biri ortaya çıkar, Kakashi Sasuke'yi bu yetenekli düşmandan koruyabilecek mi?",
+                "air_date": "2003-07-09",
+                "still_path": "/qRJKB3YLm8nTW8eFJ1XcAbn44m6.jpg",
+                "video_url": "3642209"
+            },
+            {
+                "episode_number": 41,
+                "name": "Kunoichi Rumble: Rakipler Ciddileşiyor!",
+                "overview": "Kankuro, Kabuto'nun takım arkadaşı Misumi ile hızlı bir savaşta karşı karşıya gelir ve Kum ninjalarının gerçekte ne kadar güçlü olduğunu kanıtlar. Ancak asıl maç Sakura ve Ino karşı karşıya geldiğinde gelir!",
+                "air_date": "2003-07-16",
+                "still_path": "/mP6WUD9AwJdyFC9UNHIXFUXDEEv.jpg",
+                "video_url": "3642210"
+            },
+            {
+                "episode_number": 42,
+                "name": "Nihai Savaş: Cha!",
+                "overview": "Sakura ve Ino, skoru kesin olarak belirlemeye hazırlanıyor! Ancak Sakura, Ino'nun Zihin-Beden Değişimi Justu'nun kurbanı olunca maçtan vazgeçmek zorunda kalacak mı?",
+                "air_date": "2003-07-23",
+                "still_path": "/aVlbpjuqZKo7b7h85G4ACRnUGsG.jpg",
+                "video_url": "3642211"
+            },
+            {
+                "episode_number": 43,
+                "name": "Katil Kunoichi ve Titrek Shikamaru",
+                "overview": "Kum Köyü'nden Temari, Yaprak Köyü'nden Tenten'e karşı savaşır. Savaştan sonra sıra Shikamaru'ya gelir ama hamlelerini daha önce görmüş olan bir rakibi yenebilecek mi?",
+                "air_date": "2003-07-30",
+                "still_path": "/cLINO6cgQw8KTcOjIB7C4YlfLxh.jpg",
+                "video_url": "3642212"
+            },
+            {
+                "episode_number": 44,
+                "name": "Akamaru Serbest Bırakıldı! Şimdi En İyi Köpek Kim?",
+                "overview": "Kiba ve Naruto arasındaki maç, Kiba'nın savaşta üstün olduğunu hemen kanıtlamasıyla başlar. Hinata, Kakashi ve Sakura dışında herkes hala Naruto'nun her zaman olduğu gibi zayıf bir ninja olduğuna inanıyor. Şimdi Naruto'nun parlama zamanı ve bu sefer... herkes onu izliyor olacak!",
+                "air_date": "2003-08-06",
+                "still_path": "/A4fHNTBaSCL0CX50dCz61bH7MYy.jpg",
+                "video_url": "3642213"
+            },
+            {
+                "episode_number": 45,
+                "name": "Sürpriz Saldırı! Naruto'nun Gizli Silahı!",
+                "overview": "Naruto ve Kiba arasındaki savaş, her birinin sahip olduğu her şeyi vermesiyle sona yaklaşıyor. Naruto tarafından kandırılan Kiba, artık Akamaru'nun yardımına güvenemez. Naruto artık yeni jutsusunu yayınlama zamanının geldiğine karar verir, ancak Kiba ona bunu hazırlaması için zaman vermez!",
+                "air_date": "2003-08-13",
+                "still_path": "/bpoMGQdFsmpL6EVSaTHwga4FjBB.jpg",
+                "video_url": "3642214"
+            },
+            {
+                "episode_number": 46,
+                "name": "Byakugan Savaşı: Hinata Cesurlaşıyor!",
+                "overview": "Kiba, götürülürken Hinata'ya sadece birkaç dövüşçünün kaldığını söyler. Ona Gaara ile dövüşürse hemen pes etmesi gerektiğini yoksa öldürülebileceğini söyler. Ayrıca Neji ile eşleşirse pes etmesini söyler çünkü Neji'nin onunla sorunları vardır. Tam o sırada tahtada bir sonraki dövüş gösterilir... Hinata ve Neji. Hinata kendini kanıtlamak için ne kadar ileri gidecek?",
+                "air_date": "2003-08-20",
+                "still_path": "/yyY4LmKupamVcLNe7oJYg1SPyAP.jpg",
+                "video_url": "3642215"
+            },
+            {
+                "episode_number": 47,
+                "name": "Bir Başarısızlık Uzun Durur!",
+                "overview": "Hinata bu kadar kolay pes etmeyecektir, özellikle de Naruto onu izlerken. Hinata kendini kanıtlamak için kendi hayatından vazgeçmeye razı mı olacak, yoksa Neji öldürücü bir hamle yapamadan maç durdurulacak mı?",
+                "air_date": "2003-08-27",
+                "still_path": "/cYTCNmUEyqvrMvYNl6JsPBSSI6F.jpg",
+                "video_url": "3642216"
+            },
+            {
+                "episode_number": 48,
+                "name": "Gaara, Rock Lee'ye Karşı: Gençliğin Gücü Patlıyor!",
+                "overview": "Sondan ikinci maç nihayet geliyor!  Rock Lee, daha önce bir kavgada hiç gerçek anlamda yaralanmadığı söylenen gizemli ve tehlikeli bir ninja olan Gaara ile yüzleşmek zorundadır.",
+                "air_date": "2003-09-03",
+                "still_path": "/tv1Ul2kZ6xSeheseN4HN5KPtrX9.jpg",
+                "video_url": "3642217"
+            },
+            {
+                "episode_number": 49,
+                "name": "Lee'nin Gizli Gücü: Yasak Gizli Jutsu!",
+                "overview": "Lee ve Gaara arasındaki savaş devam ederken Gai, Lee'nin ne kadar sıkı antrenman yaptığını ve Lee'nin neredeyse hiç ninjutsu veya genjutsu becerisine sahip olmadığını hatırlıyor. Lee de Naruto gibi okulu bırakmış biri. Gaara'yı yenmek için Lee'nin, Gai'nin kullanmasını yasakladığı hareketi kullanması gerekecek.",
+                "air_date": "2003-09-10",
+                "still_path": "/xH94lllpyM8OVbcFKUG2IsodnNj.jpg",
+                "video_url": "3642218"
+            },
+            {
+                "episode_number": 50,
+                "name": "Beşinci Kapı: Muhteşem Bir Ninja Doğuyor",
+                "overview": "Lee'nin son hamlesini yapmasıyla Gaara ve Lee arasındaki maç sona erer. Peki bu bile Gaara'yı yenmeye yetecek mi? Lee tek parça halinde kurtulsa bile onu daha da şok edici haberler beklemektedir.",
+                "air_date": "2003-09-17",
+                "still_path": "/darfd3HzNGenQ0vxl8StcX1AifI.jpg",
+                "video_url": "3642219"
+            },
+            {
+                "episode_number": 51,
+                "name": "Karanlıkta Bir Gölge: Tehlike Sasuke'ye Yaklaşıyor",
+                "overview": "Chouji, Dosu ile karşı karşıya gelirken Orochimaru, Kabuto'ya Sasuke'yi kaçırma emri verir. Ayrıca Kabuto'ya onu durdurmak istiyorsa Sasuke'yi öldürmesi gerektiğini söyler. Kabuto, Sasuke'ye yaklaşırken ne yapacağı konusunda tereddüt eder. Ancak Kakashi'nin sahneye çıkmasıyla casus kimliği çok geçmeden ortaya çıkar. Kakashi, Sasuke'yi Kabuto'nun elinden kurtarabilecek mi?",
+                "air_date": "2003-09-24",
+                "still_path": "/ikjkLesJtOagkDz2TstjEOmzDz5.jpg",
+                "video_url": "3642220"
+            },
+            {
+                "episode_number": 52,
+                "name": "Ebisu Geri Dönüyor: Naruto'nun Şimdiye Kadarki En Zorlu Eğitimi!",
+                "overview": "Naruto, Kakashi'nin kendisini eğitmesini ister ancak Kakashi'nin başka planları vardır. Ebisu mutsuz Naruto'ya gelir ve onunla bir anlaşma yapar. Naruto, Ebisu'dan kurtulabilirse Kakashi'nin onu eğitmesini sağlayacaktır. Naruto, Ebisu'nun meydan okumasını kabul etmeye karar verir ama kazanabilecek midir?",
+                "air_date": "2003-10-01",
+                "still_path": "/iabzqlRBKproSE3T1DlQPUJORqx.jpg",
+                "video_url": "3642221"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 52,
+        "air_date": null,
+        "poster_path": "/yBHXns4g7gWcWuQfOzL4Jekj74e.jpg",
+        "episodes": [
+            {
+                "episode_number": 53,
+                "name": "Uzun Zamandır Görmedik: Jiraiya Geri Dönüyor!",
+                "overview": "Ebisu, Naruto'yu kaplıcada eğitirken birinin banyo yapan kadınları gözetlemeye çalıştığını fark eder! Ebisu saldırır ama işler pek planlandığı gibi gitmez. Naruto daha sonra yabancının onun yerine öğretmeni olmasını ister ancak biraz ikna edilmesi gerekecektir. Naruto'nun bu durum için özel bir Jutsu'su var mı?",
+                "air_date": "2003-10-08",
+                "still_path": "/liZQfaq7586PFWzUQOWP66uhaQa.jpg",
+                "video_url": "3642222"
+            },
+            {
+                "episode_number": 54,
+                "name": "Jutsu'yu Çağırmak; Kurbağa Bilgesinin Bilgeliği!",
+                "overview": "Jiraiya, Naruto'ya Çağırma Jutsu'sunu öğretmeye çalışırken bir yandan da araştırma yaparken Dosu, Gaara'nın neden bu kadar tehlikeli olduğunu zor yoldan öğrenir. Bu sırada Baki ve Kabuto gizlice buluşur ve Konoha'ya karşı kötü niyetli bir komployu açığa çıkarır. Hayate bu karanlık sırrı öğrenince Hokage'yi uyarmaya çalışır. Ancak önce Baki'yi geçmesi gerekecek!",
+                "air_date": "2003-10-15",
+                "still_path": "/tRBCtTLpqL1QM0qjFqHv9IaFf0b.jpg",
+                "video_url": "3642223"
+            },
+            {
+                "episode_number": 55,
+                "name": "Özlem Duygusu, Umut Dolu Bir Çiçek",
+                "overview": "Sakura hastanede Sasuke ve Lee'yi ziyarete gider, bu sırada Ino ile buluşur ve ikisi birlikte geziye çıkar. Lee'nin eğitimine sınırlı bir başarıyla devam etmeye çalışması Sakura'nın kendisi ve Sasuke hakkında daha fazla endişelenmesine neden olur.",
+                "air_date": "2003-10-22",
+                "still_path": "/vZN9ISz11GVKN92JFifMPjekj6L.jpg",
+                "video_url": "3642224"
+            },
+            {
+                "episode_number": 56,
+                "name": "Yaşa Ya Da Öl: Hepsini Kazanmak İçin Her Şeyi Riske Atın!",
+                "overview": "Naruto kurbağaları çağırmada çok az başarılı olduğundan veya hiç başarılı olmadığından Jiraiya, Naruto'nun Kyubi'nin çakrasını nasıl çağıracağını öğrenmesi durumunda yaşamı tehdit eden bir duruma sokulması gerekeceğini düşünüyor. Naruto'ya bir sürü görev yaptırdıktan sonra Naruto'yu uçurumdan atar. Naruto'nun hayatta kalmak için tek umudu Dokuz Kuyruklu Şeytan Tilki ile karşılaşmasında yatmaktadır. Peki Kyubi ona yardım etmeye istekli olacak mı?",
+                "air_date": "2003-10-29",
+                "still_path": "/976MdzMdSG4ShXSN0skbMiCjpu6.jpg",
+                "video_url": "3642226"
+            },
+            {
+                "episode_number": 57,
+                "name": "O Uçar! O Atlıyor! O Gizleniyor! Şef Kurbağa Ortaya Çıkıyor!",
+                "overview": "Başarısından çok memnun olan Naruto, Gamabunta'yı kızdırmayı başarır. Naruto'nun kendisini çağırabildiğini kabul etmeye istekli olmayan Naruto, Gamabunta'ya, eğer gün batımına kadar sırtüstü kalabilirse onu astı olarak kabul etmesi için meydan okur.",
+                "air_date": "2003-11-05",
+                "still_path": "/vTIG0tOLQvpRB8KrIuY9ztj9IuY.jpg",
+                "video_url": "3642228"
+            },
+            {
+                "episode_number": 58,
+                "name": "Hastane Kuşatıldı: Kötü El Ortaya Çıktı!",
+                "overview": "Gamabunta'da yaşanan olaylar nedeniyle Naruto artık hastanede mahsur kaldı. Shikamaru beklenmedik bir şekilde onu ziyaret eder ve ikisinin, kızları asla ziyaret etmeyen tipler olduğunu söyler. Bu sırada Gaara, bilincini kaybetmiş Rock Lee'ye, canını almak niyetiyle yaklaşır. Neyse ki Lee için Naruto ve Shikamaru onu korumak için oradalar. Ancak Gaara'nın şok edici sırrını öğrendikten sonra kendilerini bile kurtarabilecekler mi? Naruto Gaara hakkında ne fark etti?",
+                "air_date": "2003-11-12",
+                "still_path": "/1oAhzxR8DahHFuPBH3FEUT17uZA.jpg",
+                "video_url": "3642231"
+            },
+            {
+                "episode_number": 59,
+                "name": "Final Turları: Savaş Arenasına Koşun!",
+                "overview": "Geç uyanan Naruto, aceleyle Chuunin maçlarının yapılacağı stadyuma gider, bu sırada eski antrenman sahasında durur ve Hinata ile buluşur. Naruto, Hinata'ya kaybetmekten korktuğunu söyler, ancak Hinata'nın cesaretlendirmesi ve duygularını bir nevi itiraf etmesiyle Naruto yenilenmiş bir özgüvenle dolar ve arkasında şaşkın bir Hinata bırakarak stadyuma doğru ilerler. Artık Naruto çok geç olmadan burayı stadyuma dönüştürmeye çalışmalıdır ve Konohamaru'nun ona yardım edecek bir planı vardır.",
+                "air_date": "2003-11-19",
+                "still_path": "/lC98Lk3qA88Vq9MFaOE74OvNcs0.jpg",
+                "video_url": "3642232"
+            },
+            {
+                "episode_number": 60,
+                "name": "Byakugan, Gölge Klonu Jutsu'ya Karşı!",
+                "overview": "Final Maçlarının açılış töreni başlar ve Sasuke'nin ortadan kaybolması Naruto'yu endişelendirir. Tören biter ve Naruto, Neji ile kavgasına başlar. Naruto'nun özgüveni onu zafere mi götürecek yoksa Neji'nin becerileri onun için çok mu önemli? Peki Sasuke nerede?",
+                "air_date": "2003-11-26",
+                "still_path": "/9vnsMHnM7U9711dwlzqLuHiTidK.jpg",
+                "video_url": "3642233"
+            },
+            {
+                "episode_number": 61,
+                "name": "Nihai Savunma: Sıfır Kör Nokta!",
+                "overview": "Naruto saldırısına Gölge Klonlarıyla başlar ancak Neji, Naruto'nun eylemlerini analiz eder ve neyin gerçek olduğuna inandığını belirler. Naruto'nun yenilgiyi neden kabul etmediğini anlayamadığından kafa bandını çıkarır ve alnında gizemli bir iz ortaya çıkar. Hyuuga Klanının ana ailesine olan nefretiyle ilgili gerçek nedir?",
+                "air_date": "2003-12-03",
+                "still_path": "/81JFwajr1pffwoCtGOPKw2oo7vc.jpg",
+                "video_url": "3642234"
+            },
+            {
+                "episode_number": 62,
+                "name": "Bir Başarısızlığın Gerçek Gücü",
+                "overview": "Naruto kazanamayacak gibi görününce Neji ona kaderini değiştiremeyeceğini ve çıkarılamayan bir mührü taşımanın nasıl bir his olduğu hakkında hiçbir fikri olmadığını anlatmaya devam eder. Naruto çocukluğunu ve içinde mühürlenen Dokuz Kuyruk yüzünden kendisine nasıl davranıldığını hatırlıyor. Ancak aynı lanet onun kazanmadaki tek şansı olabilir...",
+                "air_date": "2003-12-10",
+                "still_path": "/7iupemiJ8gXMrfc5tIXanPsnihO.jpg",
+                "video_url": "3642236"
+            },
+            {
+                "episode_number": 63,
+                "name": "Vur Ya Da Vazgeç: Son Turlar Karmaşıklaşıyor!",
+                "overview": "Sasuke'nin hâlâ yok olması ve herkesin Gaara'ya karşı oynayacağı maçı endişeyle beklemesi nedeniyle turnuva bir sonraki tura geçmek zorunda kaldı. Bu sırada Neji, babasıyla ilgili şok edici gerçeği öğrenir.",
+                "air_date": "2003-12-17",
+                "still_path": "/xde1JdZEtNql86JDcm2demFy5Zn.jpg",
+                "video_url": "3642237"
+            },
+            {
+                "episode_number": 64,
+                "name": "Sıfır Motivasyon: Bulut Kıskançlığı Olan Adam!",
+                "overview": "Shikamaru, Temari'yle dövüşmek istemese de onunla dövüşüyor. Tembel Shikamaru raundu bile kaldırabilir mi? Yoksa Shikamaru'nun görünenden daha fazlası mı var?",
+                "air_date": "2003-12-24",
+                "still_path": "/w2E0f8GsIB84CbGuHDcHFAOMGoK.jpg",
+                "video_url": "3642238"
+            },
+            {
+                "episode_number": 65,
+                "name": "Dans Eden Yaprak, Kıvranan Kum",
+                "overview": "Sasuke'nin Gaara'ya karşı maç zamanı gelmiştir, sadece Sasuke henüz ortaya çıkmamıştır. Normalde onu diskalifiye ederlerdi ama herkes heyecanla maçı bekliyor. Bu nedenle Sasuke'yi diskalifiye etmeden önce bir süre sınırı veriyorlar. Zaman yavaş yavaş tükenmeye başlarken herkesin aklında tek bir soru kalır: Sasuke nerede?",
+                "air_date": "2004-01-07",
+                "still_path": "/a0UgCLqNtqXSW48iDKfahD0TaCX.jpg",
+                "video_url": "3642239"
+            },
+            {
+                "episode_number": 66,
+                "name": "Bushy Brow'un Jutsu'su: Sasuke Stili!",
+                "overview": "Sasuke'nin Gaara'ya karşı maçı nihayet başlıyor! Sasuke yeni bulduğu taijutsu tekniklerini sergileyene kadar Gaara başlangıçta üstünlük sağlıyor gibi görünüyor. Gaara, Rock Lee'ye karşı verdiği savaşı yeniden yaşıyor, ancak bu sefer basit taijutsu saldırılarından daha fazlasını kullanabilen bir rakiple karşı karşıya.",
+                "air_date": "2004-01-14",
+                "still_path": "/iUE2yY4v1XGwW1Ne5rE8vHnqRP3.jpg",
+                "video_url": "3642240"
+            },
+            {
+                "episode_number": 67,
+                "name": "Gösteriye Geç Ama Gitmeye Hazır! Nihai Gizli Teknik Doğuyor!",
+                "overview": "Gaara'nın üstün savunması yerindeyken, Sasuke'nin kazanma konusundaki tek umudu Kakashi'nin ona öğrettiği harekette yatıyor: Chidori. Peki Sasuke kanamasına neden olduğunda Gaara nasıl tepki verecek?",
+                "air_date": "2004-01-14",
+                "still_path": "/hDiyUmRwNNhSZTRwRpKyc1qIorg.jpg",
+                "video_url": "3642241"
+            },
+            {
+                "episode_number": 68,
+                "name": "Sıfır Saat! Gizli Yaprak Köyü'nün Yıkımı Başlıyor!",
+                "overview": "Orochimaru'nun planını uygulamaya koymasıyla Sasuke'nin maçı kesintiye uğradı. Temari ve Kankuro'ya, Gaara iyileşene kadar güvenli bir yere götürmeleri emredildi ve Sasuke onların peşine düştü. Savaş başladı!",
+                "air_date": "2004-01-28",
+                "still_path": "/3qu8jmQrWBnTLfYUyjZ9MWteJ4.jpg",
+                "video_url": "3642242"
+            },
+            {
+                "episode_number": 69,
+                "name": "Tehlike Altındaki Köy: Yeni Bir A Dereceli Görev!",
+                "overview": "Sasuke'nin başını aştığını bilen Kakashi, Sasuke'nin Gaara'yı takip etmesini engellemek için Naruto, Sakura ve Shikamaru'yu Pakkun adlı bir köpeğin rehberliğinde gönderir.",
+                "air_date": "2004-02-04",
+                "still_path": "/lehKhjgwcRp3RXTeojdov1HhFUp.jpg",
+                "video_url": "3642243"
+            },
+            {
+                "episode_number": 70,
+                "name": "Bir Kaytarıcının Eylem Çağrısı: Artık Düzen Yok!",
+                "overview": "Naruto, Sakura, Shikamaru ve Pakkun birkaç Sound ninjası tarafından kovalanıyor. Shikamaru, diğerlerinin takip korkusu olmadan Sasuke'ye yetişebilmesi için durup onları oyalamaya karar verdi. Shikamaru, Gölge Sahipliği Jutsu'su nedeniyle mantıklı bir seçim... Shikamaru'nun bundan pek de heyecanlandığını söylemeye gerek yok.",
+                "air_date": "2004-02-11",
+                "still_path": "/lDUpdL6XVkqLwKlsn7FexEwCsMp.jpg",
+                "video_url": "3642244"
+            },
+            {
+                "episode_number": 71,
+                "name": "Rakipsiz Bir Maç: Hokage Battle Royale!",
+                "overview": "Orochimaru beklenmedik bir yardım çağırdığında kralların savaşı başladı. Üçüncü Hokage bu rahatsız edici durumla nasıl başa çıkabilir? Bu arada, Sasuke sonunda Kakurou, Gaara ve Temari'ye yetişir...",
+                "air_date": "2004-02-18",
+                "still_path": "/tc6lcWTEsmE7MgGLS4NY6puz1GC.jpg",
+                "video_url": "3642248"
+            },
+            {
+                "episode_number": 72,
+                "name": "Geçmişten Gelen Bir Hata: Ortaya Çıkan Bir Yüz!",
+                "overview": "Naruto ve Sakura, Sasuke'ye yetişmeye devam ederken Temari, Kankuro'nun Gaara'yı güvenli bir yere götürmesine yetecek kadar Sasuke'yi oyalamaya çalışır, ancak Sasuke'nin ona harcayacak vakti yoktur! Bu arada Üçüncü Hokage, Orochimaru ile savaşına devam ediyor ve kendisinin bile bilmediği bir hamleyi kullanmaya hazır...",
+                "air_date": "2004-02-25",
+                "still_path": "/8pL5Hu71BMvtT1SWgKrSmBMa3RQ.jpg",
+                "video_url": "3642250"
+            },
+            {
+                "episode_number": 73,
+                "name": "Yasak Gizli Teknik: Reaper Ölüm Mührü!",
+                "overview": "Beklenmedik bir müttefik Sasuke'ye yardım eder ve onun Gaara'yı takip etmeye devam etmesine izin verir. Bu arada Hokage, köyünü Orochimaru'dan kurtarmak için en büyük fedakarlığı yapmaya hazırlanıyor!",
+                "air_date": "2004-03-03",
+                "still_path": "/2JtOjeCL4oYjTVTAGGO57WS1zmm.jpg",
+                "video_url": "3642251"
+            },
+            {
+                "episode_number": 74,
+                "name": "Şaşırtıcı Gerçek! Gaara'nın Kimliği Ortaya Çıkıyor!",
+                "overview": "Shino ve Kankuro, Chuunin Sınavı sırasında karşı koymaları gereken maçta mücadele ederken Naruto, Sakura ve Pakkun yavaş yavaş Sasuke'ye yetişir. Bu arada Sasuke nihayet Gaara ve Temari'yi yakaladı ama Gaara iblis formunu ortaya çıkardığında gerçek korkuyla yüzleşmeye hazır mı?",
+                "air_date": "2004-03-10",
+                "still_path": "/jCVtmenpDZJIkibWEyLG180NB4J.jpg",
+                "video_url": "3642252"
+            },
+            {
+                "episode_number": 75,
+                "name": "Sasuke'nin Kararı: Sınıra Kadar İtildi!",
+                "overview": "Sasuke, Gaara'nın canavarca kapasitesine ayak uydurmakta zorlanır. Normal şartlarda Chidori'yi yalnızca iki kez kullanabilen Sasuke, ailesinin öldüğü trajik günü hatırlıyor ve Gaara'yı yenmek istiyorsa Chidori'yi sınırlarının ötesinde kullanma riskini alması gerektiğini fark ediyor. Yani eğer yapabilirse...",
+                "air_date": "2004-03-17",
+                "still_path": "/2hh9gMO3rgso4pPEQyjncf8nVo.jpg",
+                "video_url": "3642254"
+            },
+            {
+                "episode_number": 76,
+                "name": "Mehtaplı Gecenin Suikastçısı",
+                "overview": "Sasuke yenmek üzereyken Naruto ve Sakura onu kurtarmak için ortaya çıkar. Bununla birlikte Gaara çocukluğuna dair geri dönüşler yaşamaya başlar. Gaara'nın geçmişinde ona bu kadar çok acı yaşatacak ne oldu?",
+                "air_date": "2004-03-24",
+                "still_path": "/xZMvh7I6f8YlHJuFsoHx7oCO5vd.jpg",
+                "video_url": "3642255"
+            },
+            {
+                "episode_number": 77,
+                "name": "Aydınlık ve Karanlık: Gaara'nın İki Yüzü",
+                "overview": "Gaara geçmişi hakkında konuşmaya devam ediyor. Gaara, Naruto'nun herkes için savaşırken daha güçlü olamayacağını söyleyince Naruto, arkadaşlarıyla tanışmasaydı kendisinin Gaara ile aynı olacağını hatırlıyor. Arkadaşlarını koruması gerektiğini anlayan Naruto, korkusunu yener ve Gaara'yı ele geçirmeye karar verir.",
+                "air_date": "2004-03-31",
+                "still_path": "/tna8zEk2RxXCwC60Eo8dVmOOMbF.jpg",
+                "video_url": "3642256"
+            },
+            {
+                "episode_number": 78,
+                "name": "Naruto'nun Ninja El Kitabı",
+                "overview": "Naruto ve Gaara kavgalarına devam ediyor. Naruto bir avantaj elde etmeye başlar ve Gaara, Kumdan Shukaku'nun son formuna dönüşür. Naruto'ya baskı yapmaya başladığında Naruto, Gamabunta Oyabun'u çağırır ve geri dönüşü başlar. Naruto bir kez daha avantaj elde etmeye başlar, ancak Gaara sahte uyku tekniğini uygulayarak Shukaku'nun tüm gücünü serbest bırakır. Artık iblis özgür olduğuna göre Naruto ne yapacak?",
+                "air_date": "2004-04-07",
+                "still_path": "/pk5HbikgThat8I90pQbsba91rCo.jpg",
+                "video_url": "3642257"
+            },
+            {
+                "episode_number": 79,
+                "name": "Karanlığın ve Aydınlığın Sınırının Ötesinde",
+                "overview": "Kyubi'ye dönüşen Naruto ve Gamabunta, Gaara'yı uyandırarak Shukaku'yu durdurmaya hazırlanır. Başarılı olmalarına rağmen Gaara, Naruto ölene kadar durmayacağı için savaş henüz bitmemiştir. Naruto ve Gaara son saldırılarına hazırlanır. Bu arada Sarutobi, Orochimaru'yu yenmeye çalışmaya devam ediyor. Sarutobi, Orochimaru'yu öldürecek kadar güçlü olmasa da, Orochimaru'nun en değerli varlığını, kollarını kullanma becerisini elinden alacak kadar güce sahip!",
+                "air_date": "2004-04-14",
+                "still_path": "/g35MjCdgOn7uZu5kmD7wIbOlf7i.jpg",
+                "video_url": "3642258"
+            },
+            {
+                "episode_number": 80,
+                "name": "Üçüncü Hokage, Sonsuza Kadar...",
+                "overview": "Savaş sona yaklaşırken Gaara, Naruto'ya yenildiğini itiraf eder ve Sarutobi'nin kollarını almasıyla Orochimaru geri çekilmek zorunda kalır. Şimdi tüm Konoha şinobileri en çok saygı duydukları kişiye, Üçüncü Hokage Sarutobi'ye saygılarını sunmak için bir araya geliyor.",
+                "air_date": "2004-04-21",
+                "still_path": "/ccH62bJFb1vRZzkdeEhue8xr14X.jpg",
+                "video_url": "3642259"
+            },
+            {
+                "episode_number": 81,
+                "name": "Sabah Sisinin Dönüşü",
+                "overview": "İki gizemli ninja Konoha'ya sızıyor ve içlerinden biri Sharingan'ı açığa çıkarıyor. Bu ikisi neyin peşinde? Itachi Uchiha neden Konoha'ya döndü?",
+                "air_date": "2004-04-28",
+                "still_path": "/eYiHWyCJ5PYONaDDOo8dFGvNd8u.jpg",
+                "video_url": "3642260"
+            },
+            {
+                "episode_number": 82,
+                "name": "Göz Göze: Sharingan, Sharingan'a Karşı!",
+                "overview": "Kakashi, ikisi de Sharingan'ı kullanarak Itachi'yi yener. Ancak Kakashi çok geçmeden efsanevi ninjaya karşı hiç şansının olmadığını anlar. Itachi, küçük kardeşi için gelmediğini, bunun yerine başka bir şey yapmaya geldiğini açıkladı: Naruto'yu ve Kyubi'yi de kaçırmak için!",
+                "air_date": "2004-05-05",
+                "still_path": "/zkPMcBvoOOqt9BLBxFvBKeadz2D.jpg",
+                "video_url": "3642261"
+            },
+            {
+                "episode_number": 83,
+                "name": "Jiraiya: Naruto'nun Potansiyel Felaketi!",
+                "overview": "Jiraiya ve Naruto, Tsunade'yi aramaya başlarlar, ancak Jiraiya'nın güzel kızları gözetlemesi ve onlara asılması nedeniyle sürekli olarak şaşırırlar. Jiraiya, Naruto'ya 3. ve 4. Hokageler hakkında bazı hikayeler anlatır. Bu sırada Sasuke, kardeşi Itachi'nin Naruto'nun peşinde olduğunu öğrenir ve onu uyarmaya gider.",
+                "air_date": "2004-05-12",
+                "still_path": "/tYS5IxDUNfBY5426wa6LMmwvbDU.jpg",
+                "video_url": "3642262"
+            },
+            {
+                "episode_number": 84,
+                "name": "Kükreme Chidori! Kardeş Kardeşe Karşı!",
+                "overview": "Sasuke, çaresizce Naruto'yu ararken Itachi'nin tüm Uchiha klanını tek başına yok ettiği günü hatırlıyor. Ancak Itachi ve Kisame onu çoktan bulmuşlardır.",
+                "air_date": "2004-05-19",
+                "still_path": "/ruYl7Jlzr0O3QXEeDCxhrUT6lzT.jpg",
+                "video_url": "3642264"
+            },
+            {
+                "episode_number": 85,
+                "name": "Uchihalar Arasındaki Nefret: Klanın Sonuncusu",
+                "overview": "Jiraiya ve Naruto, Sasuke'nin Itachi ile tek başına mücadelesini izliyor. Ancak genç ninja ciddi şekilde geride kalınca Jiraiya devreye girmek zorunda kalır. Itachi ve Kisame kaçmaya çalışır, ancak Jiraiya onların bu kadar kolay kaçmasına izin vermeyecektir.",
+                "air_date": "2004-05-26",
+                "still_path": "/fkqOnWbZ5ZVKrtQSuHBPgSqvYYD.jpg",
+                "video_url": "3642265"
+            },
+            {
+                "episode_number": 86,
+                "name": "Yeni Bir Eğitim Başlıyor: Güçlü Olacağım",
+                "overview": "Artık Sasuke emin ellerde olduğuna göre Naruto ve Jiraiya, Tsunade'yi aramaya devam edebilirler. Yolda festival olan bir şehre vardıklarında Jiraiya ve Naruto biraz eğlenirler, ta ki Naruto bir adamın gömleğine leke koyana kadar. Jiraiya, adamı kolayca yenebilecek yeni bir teknik kullanır ve bunu Naruto'ya öğretmeyi teklif eder. Bu yeni teknik nedir ve Naruto bu konuda ustalaşabilir mi?",
+                "air_date": "2004-06-02",
+                "still_path": "/bFMjuyZSAirAMreg27dEGXT8rLb.jpg",
+                "video_url": "3642266"
+            },
+            {
+                "episode_number": 87,
+                "name": "Antrenmanlara Devam: Su Balonu Patlıyor!",
+                "overview": "Jiraiya, Naruto'ya bir balonun içindeki suyu patlayana kadar döndürme görevini verir. Naruto, eğitimin bu aşamasını gece tamamlayacağından emindir ancak çok geçmeden bunun beklendiği kadar kolay olmadığını anlar.",
+                "air_date": "2004-06-09",
+                "still_path": "/uPQZtV2nUxGTVDzRncGKJAcLJ5V.jpg",
+                "video_url": "3642267"
+            },
+            {
+                "episode_number": 88,
+                "name": "Odak Noktası: Yaprağın İşareti",
+                "overview": "Eğitimin birinci aşamasını geçtikten sonra Naruto ikinci aşamaya geçer: Güç antrenmanı. Jiraiya, kendisi gibi Naruto'nun da konsantre olmakta zorlandığını fark eder ve odaklanmasına yardımcı olmak için Naruto'nun avucuna bir spiral çizer. Spiralin yardımıyla ve Iruka-sensei'ye hızlı bir geri dönüşle Naruto ikinci aşamayı tamamlar. Bu arada Tsunade'nin şansı alışılmadık derecede iyidir ve bu onu endişelendirmektedir. Asistanı tarafından geziye davet edilen Tsunade, Orochimaru ile tanışır... ve hiç de memnun görünmüyor.",
+                "air_date": "2004-06-16",
+                "still_path": "/fzkz8JsgNk7CdwsHwatQzPmZMRx.jpg",
+                "video_url": "3642268"
+            },
+            {
+                "episode_number": 89,
+                "name": "İmkansız Bir Seçim: Tsunade'nin Kalbindeki Acı",
+                "overview": "Naruto, dönüş ve güç aşamalarında ustalaşarak Rasengan eğitimine devam ediyor. Son aşamanın en zor olduğu ortaya çıkıyor: kontrol. Bu sırada Orochimaru ve Kabuto, Tsunade'ye yaklaşır ve ondan Orochimaru'nun kollarını geri getirmesini ister. Orochimaru'nun kollarını geri kazanırsa, Orochimaru, Saf Olmayan Dünyanın Yeniden Doğuşu kinjutsusunu onun kayıp sevgilisini ve küçük kardeşini canlandırmak için kullanacağına söz verir.",
+                "air_date": "2004-06-23",
+                "still_path": "/s6FC2pErisCHEN23RZlX896IRnG.jpg",
+                "video_url": "3642269"
+            },
+            {
+                "episode_number": 90,
+                "name": "Affedilemez! Tam Bir Saygı Eksikliği!",
+                "overview": "Jiraiya ve Naruto Tsunade'ye yetişir, bunun üzerine Tsunade Konoha'nın onun 5. Hokage olmasını istediğini öğrenir. Tsunade unvanı reddeder ve Naruto onu zayıf biri sanarak onu kızdırır. Naruto onun gerçekte ne kadar güçlü olduğunu ilk elden öğrenir. Naruto Rasengan'ı deneme zamanının geldiğine karar verir, ancak henüz mükemmelleştirmemiştir.",
+                "air_date": "2004-07-07",
+                "still_path": "/tnPay2fEbu8Q4yitWmuqKq0tJ82.jpg",
+                "video_url": "3642270"
+            },
+            {
+                "episode_number": 91,
+                "name": "Miras! Ölüm Kolyesi!",
+                "overview": "Naruto, Tsunade ile bir hafta içinde Rasengan'da ustalaşabilirse ona Birinci Hokage'ye ait bir kolye vereceğine dair iddiaya girer. Ancak Shizune bazı şaşırtıcı bilgileri açığa çıkarır. Ertesi gün o kolyeyi takan Tsunade dışında herkes öldü!",
+                "air_date": "2004-07-14",
+                "still_path": "/1iYSxHgCTGXRZiGuPXXZM7lgd7F.jpg",
+                "video_url": "3642271"
+            },
+            {
+                "episode_number": 92,
+                "name": "Şüpheli Bir Teklif! Tsunade'nin Seçimi!",
+                "overview": "Naruto üçüncü adımı denemeye ve ustalaşmaya devam ederken Tsunade, Orochimaru'nun teklifi hakkında düşünmeye devam ediyor. Jiraiya, onu bir içki içmeye çıkararak onu ikna etmeye çalışır, ancak o bakmadığı sırada içkisine felç edici bir iksir katar. Tsunade, Orochimaru'nun teklifini kabul edecek mi? Naruto hafta bitmeden Rasengan'da ustalaşabilecek mi?",
+                "air_date": "2004-07-21",
+                "still_path": "/pEgH5y7xFzOppNgmgCSvuyCcRhT.jpg",
+                "video_url": "3642272"
+            },
+            {
+                "episode_number": 93,
+                "name": "Bozulma! Anlaşma Kapalı!",
+                "overview": "Orochimaru, Konoha'ya saldırmaması konusunda ona yalan söylediği için Tsunade, ona ve Kabuto'ya saldırmaya başlar. Kabuto bir gıda hapı yer ve tıbbi teknikleriyle Tsunade'ye saldırmaya başlar ama bunlar onu yenmeye yetecek mi? Jiraiya, Shizune ve Naruto zamanında ortaya çıkacak mı?",
+                "air_date": "2004-07-28",
+                "still_path": "/8i1309JvQIDOSNIYlHnFQ6xHgKk.jpg",
+                "video_url": "3642273"
+            },
+            {
+                "episode_number": 94,
+                "name": "Saldırı! Rasengan'ın Öfkesi!",
+                "overview": "Tsunade hala korkudan felç olmuşken ve Naruto düşük seviyeli bir ninjayken, Kabuto ve Orochimaru'yu yenmek Shizune ve Jiraiya'ya kalmıştır. Orochimaru ve Kabuto iki dev yılan çağırırken Jiraiya hiçbir şey yapmayan Gamakichi'yi çağırır. Naruto Jiraya'ya yardım etmeye çalışır, ancak o da hiçbir şey yapmayan küçük bir kurbağa çağırır. Orochimaru ve Kabuto saldırır ve Shizune kolayca yenilir. Naruto Rasengan'ı dener ancak başarısız olur. Kabuto Tsunade'ye bir şey yapmadan önce tekniğe hakim olabilir mi? Ustalaşmak için ne kadar ileri gidecek?",
+                "air_date": "2004-08-04",
+                "still_path": "/nakaRlSwWQcrhdVJT44gM3jctqe.jpg",
+                "video_url": "3642274"
+            },
+            {
+                "episode_number": 95,
+                "name": "Beşinci Hokage! Tehlikede Bir Hayat!",
+                "overview": "Naruto sonunda Kabuto'nun karnına bir Rasengan indirir, ancak Kabuto Naruto'nun kesin ölümünü garantilemeden önce değil. Tsunade onu kurtarabilir ve Orochimaru'dan koruyabilir mi?",
+                "air_date": "2004-08-11",
+                "still_path": "/rrD1pF8nvaWmGJ0rz9sB9HWL9QG.jpg",
+                "video_url": "3642275"
+            },
+            {
+                "episode_number": 96,
+                "name": "Kilitlenme! Sannin Hesaplaşması!",
+                "overview": "Tsunade'nin mevcut durumu ve Jiraiya'nın hâlâ ilacın etkisi altında olması nedeniyle Tsunade ve Jiraiya, Orochimaru'yu yenmek için birlikte çalışmalıdır. Ve üç ninja da kendi imzasını taşıyan canavarları çağırmış olduğundan, bu kesinlikle müthiş bir savaş olacak!",
+                "air_date": "2004-08-11",
+                "still_path": "/78QTjNEQKzPFFLPn2PDPFwHFRvE.jpg",
+                "video_url": "3642276"
+            },
+            {
+                "episode_number": 97,
+                "name": "Kaçırıldı! Naruto'nun Kaplıca Macerası!",
+                "overview": "Grup, kaplıcaların bulunduğu bir kasabada durduklarında Konoha'ya geri dönüyor. Tsunade'yi arayan adamlar tarafından izlendiklerini bilmezler. Naruto'nun odası basılır ve kendisine verilen kolye kaybolur ve geride sadece bir fidye notu kalır. Tüm bunların anlamı ne? Naruto kolyeyi geri alabilecek mi ve neden ilk etapta Tsunade'yi arıyorlar?",
+                "air_date": "2004-08-18",
+                "still_path": "/8RKq7ogmJDIFHn08epFqOYgXEOt.jpg",
+                "video_url": "3642277"
+            },
+            {
+                "episode_number": 98,
+                "name": "Tsunade'nin Uyarısı: Artık Ninja Yok!",
+                "overview": "Naruto, Tsunade ve Shizune sonunda Konoha'ya dönerler, böylece Tsunade yönetimi devralabilir ve Hokage olabilir. Konohamaru, Tsunade'nin Beşinci olduğunu öğrenir ancak buna inanmayı reddeder. Naruto daha sonra Sasuke, Kakashi ve Lee'yi iyileştirebilmek için Tsunade'yi hastaneye götürür. Sasuke ve Kakashi'yi gayet iyi iyileştiriyor... Ancak Rock Lee teşhisinin kendisi ve geleceği açısından yürek parçalayıcı sonuçları var.",
+                "air_date": "2004-08-25",
+                "still_path": "/73hfH2kqz8fbiukLstre7jaLY1K.jpg",
+                "video_url": "3642278"
+            },
+            {
+                "episode_number": 99,
+                "name": "Ateşin İradesi Hala Yanıyor!",
+                "overview": "Konohamaru, önceki Hokage olan büyükbabasının yerine geçmelerini engellemek için 3.'nün kullandığı ofise kendini kilitler. Tsunade, günü ofisinden uzakta geçirir ve operasyondan sağ çıkma şansının artması için Rock Lee'yi iyileştirmenin bir yolunu araştırır.",
+                "air_date": "2004-09-01",
+                "still_path": "/xv0tiSAD6XeozNAnxaYh2z6R906.jpg",
+                "video_url": "3642279"
+            },
+            {
+                "episode_number": 100,
+                "name": "Sensei ve Öğrenci: Bir Shinobi'nin Bağı!",
+                "overview": "Lee operasyona devam edip etmemeye karar verirken Gai ona biraz motivasyon vermeye karar verir. Bu arada Tsunade, operasyonun başarı oranını artırmak için çılgınca mücadele ediyor.",
+                "air_date": "2004-09-08",
+                "still_path": "/y235pon47SLGEs4mQhF8MFCjghF.jpg",
+                "video_url": "3642280"
+            },
+            {
+                "episode_number": 101,
+                "name": "Görmeliyim! Bilmeliyim! Kakashi-sensei'nin Gerçek Yüzü!",
+                "overview": "Görevlerinden sonra Naruto, Sakura ve Sasuke'yi, senseileri Kakashi'nin maskesini düşürmesine yardım etmeye ikna eder. Ancak, 7. Takım kısa sürede bunun söylendiği kadar kolay olmadığını anlar...",
+                "air_date": "2004-09-15",
+                "still_path": "/e9E7EmzkqdGSqKXrJkkZD30C1oW.jpg",
+                "video_url": "3642282"
+            },
+            {
+                "episode_number": 102,
+                "name": "Misyon: Çay Ülkesindeki Eski Bir Arkadaşa Yardım Edin",
+                "overview": "Naruto, Sakura ve Sasuke, yeni görevlerinin başka yerlerde sorumlulukları olan Kakashi olmadan gerçekleşeceğini öğrenir. Tsunade onları birisini korumak için Çay Ülkesi'ne gönderir, ancak ayrıntılar en iyi ihtimalle belirsizdir. Yolda, özellikle kimi korumaları gerektiğini keşfettiklerinde gruba büyük sorun çıkaran Idate Morino ile tanışırlar!",
+                "air_date": "2004-09-22",
+                "still_path": "/NG5sNIZnLIgFDyYPC2ZJF0UFvw.jpg",
+                "video_url": "3642283"
+            },
+            {
+                "episode_number": 103,
+                "name": "Yarış Başladı! Açık Denizlerde Sorun!",
+                "overview": "Üçlü, onu öldürmek için gönderilen üç Shinobi'nin saldırılarını savuştururken Idate'i takip etmeye devam ediyor. Daha sonra bu yarışı kazanmanın Wasabi klanının geleceği açısından ne kadar önemli olduğunu anlarlar...",
+                "air_date": "2004-09-29",
+                "still_path": "/go21jy2LeBC1Am2NA8sPzPg5TCs.jpg",
+                "video_url": "3642284"
+            },
+            {
+                "episode_number": 104,
+                "name": "Idate'i Çalıştırın, Çalıştırın! Nagi Adası Bekliyor!",
+                "overview": "Wasarabi için çalışan Shinobi, Idate'i dövmeye başlarken Naruto, Sasuke ve Sakura sonunda aynı adaya ulaşır. Ancak bazı eski düşmanlar bir kez daha önlerine çıkıyor gibi görünüyor! Çok geç olmadan Idate'i bulup kurtarmayı başarabilecekler mi?",
+                "air_date": "2004-10-13",
+                "still_path": "/t7LQfVLw2T4yXVrCx3p0JecPhQQ.jpg",
+                "video_url": "4465433"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 54,
+        "air_date": null,
+        "poster_path": "/uVf4TahDsV9iNgNgE0SVWkNZYw9.jpg",
+        "episodes": [
+            {
+                "episode_number": 105,
+                "name": "Yuvarlanan Gök Gürültüsünün Şiddetli Savaşı!",
+                "overview": "Idate, Naruto'nun yardımıyla Modoroki Tapınağı'na ulaşır... Ancak tam köprüyü geçmek üzereyken eski bir düşman onun önünde durur.",
+                "air_date": "2004-10-20",
+                "still_path": "/sR4LUFY0P0gBAeRZGzyUvy4WCvV.jpg",
+                "video_url": "4374302"
+            },
+            {
+                "episode_number": 106,
+                "name": "Son Bacak: Son Bir Çaresizlik Eylemi",
+                "overview": "Artık Sasuke ve Sakura bir uçurumun dibinde sıkışıp kalmışken, kötü niyetli Aoi'yi yenmek ve Idate'in bitiş çizgisini geçmesine yardım etmek Bir Numaralı Knucklehead Ninja'ya kalmış.",
+                "air_date": "2004-10-27",
+                "still_path": "/oQh0xD5ILEP9o5bvXSy9ffV34fV.jpg",
+                "video_url": "4374305"
+            },
+            {
+                "episode_number": 107,
+                "name": "Savaş Başlıyor: Naruto Sasuke'ye Karşı",
+                "overview": "Hastaneye kaldırılan ve gururunun parçalandığını hisseden Sasuke, kendini kurtarmanın tek yolunun olduğunu anladı: Naruto ile Savaş! Bu arada Ino-Shika-Cho Ekibi özel bir olayı kutlamak için barbekü yapmak üzere oturuyor!",
+                "air_date": "2004-11-03",
+                "still_path": "/zH8HPeJEOoykvVDm0ZUxryiOP7L.jpg",
+                "video_url": "4374306"
+            },
+            {
+                "episode_number": 108,
+                "name": "Acı Rakipler ve Kırık Bağlar",
+                "overview": "Rekabetleri doruğa ulaşınca Kakashi-sensei savaşı böler ve Naruto ile Sasuke'yi köşelerine gönderir. Bu sırada Dört Ses Ninjası, Saklı Yaprak Köyü'ne girerken akıllarında tek bir şey vardır: Sasuke!",
+                "air_date": "2004-11-10",
+                "still_path": "/lQ1exwyGdT4HwkaE6QH4rb0EHsv.jpg",
+                "video_url": "4374307"
+            },
+            {
+                "episode_number": 109,
+                "name": "Sesten Davet",
+                "overview": "Sasuke, Sound Ninja'ların dördüyle de mücadele ediyor ama çok geçmeden onları yenmek için Chidori'den daha fazlasının gerektiğini öğreniyor!",
+                "air_date": "2004-11-17",
+                "still_path": "/h0FjVL2jozTwJYsznTxmxOBpKWs.jpg",
+                "video_url": "4374308"
+            },
+            {
+                "episode_number": 110,
+                "name": "Formasyon! Sasuke Kurtarma Ekibi",
+                "overview": "Sasuke'nin ayrılış haberi Beşinci Hokage'ye ulaşınca, en yeni Chunin Shikamaru'dan Sasuke'yi köye geri getirmek için bir ekip kurmasını ister.",
+                "air_date": "2004-11-24",
+                "still_path": "/6SDtR2UBREObXl5vaqB0hwEwbQo.jpg",
+                "video_url": "4374309"
+            },
+            {
+                "episode_number": 111,
+                "name": "Ses ve Yaprak",
+                "overview": "Ses Ninjalarının elinde Sasuke var ve onları durdurmak Gizli Yaprak Köyü'nün en iyi Shinobi'sine düşüyor.",
+                "air_date": "2004-11-24",
+                "still_path": "/u1S9IgOLTTe49UzXB5gTip20jmL.jpg",
+                "video_url": "4374310"
+            },
+            {
+                "episode_number": 112,
+                "name": "Squad İsyan: Her Şey Dağılıyor!",
+                "overview": "Shikamaru ve ekibin geri kalanı harekete geçerken Ses Ninjalarından biri olan Jirobo, onları bir Dünya Kubbesi Hapishanesine hapseder ve çakralarını emer!",
+                "air_date": "2004-12-01",
+                "still_path": "/1Crpnwt2TYoT8mEulqr25Qmuvtr.jpg",
+                "video_url": "4374312"
+            },
+            {
+                "episode_number": 113,
+                "name": "Tam Gaz Gücü! Choji, Alev Al!",
+                "overview": "Dünya Kubbesi Hapishanesinden kurtulan Sasuke Kurtarma Ekibi, Jirobo'yu yenmek için yeterli çakraya sahip olmadıklarını fark eder... ancak Choji'nin elinde başka bir fikir vardır.",
+                "air_date": "2004-12-08",
+                "still_path": "/VdDTM4vnJozCzrFURqVSkkCXbJ.jpg",
+                "video_url": "4374314"
+            },
+            {
+                "episode_number": 114,
+                "name": "Elveda Eski Dost...! Sana Her Zaman İnanacağım!",
+                "overview": "Hayatı Sound Ninja Jirobo'ya karşı tehlikede olan Choji, Shikamaru ile olan dostluğunun tohumlarına bakıyor. Korkunç rakibini Çakra olmadan yenebilecek mi?",
+                "air_date": "2004-12-15",
+                "still_path": "/iVw6bQMNo0gEeYzGDP4T45A3xyX.jpg",
+                "video_url": "4374316"
+            },
+            {
+                "episode_number": 115,
+                "name": "Rakibin Benim!",
+                "overview": "Sasuke'nin peşinde olan Shikamaru ve ekibi, altı kollu Kidomaru'yla karşılaştıklarında kendilerini benzersiz bir çakra ağına kaptırırlar!",
+                "air_date": "2004-12-22",
+                "still_path": "/kxv52WUXkeRm64wRfvtG7wuUzaG.jpg",
+                "video_url": "4374317"
+            },
+            {
+                "episode_number": 116,
+                "name": "360 Derece Görüş: Byakugan'ın Kör Noktası",
+                "overview": "Naruto ve diğerleri, Sasuke ve diğer Sound Ninja'nın peşine düşerken Neji, Kidomaru ile çaresiz, sınır tanımayan bir savaşa kilitlenir.",
+                "air_date": "2005-01-05",
+                "still_path": "/AfnxIfe2aw0qMrRWIg5uRcyLZqG.jpg",
+                "video_url": "4374318"
+            },
+            {
+                "episode_number": 117,
+                "name": "Kaybetmek Bir Seçenek Değil!",
+                "overview": "Neji, Kidomaru'nun yay ve ok saldırılarından kaçıyor. Neji hayatta kalmayı başarabilecek mi, yoksa yeni bulduğu düşmanı kör noktasına mı varacak?",
+                "air_date": "2005-01-05",
+                "still_path": "/oCiFJdBzf7VfX5B2PHHoRMfFwx8.jpg",
+                "video_url": "4374320"
+            },
+            {
+                "episode_number": 118,
+                "name": "Gemi Çok Geç Geldi",
+                "overview": "Ses Ninjası'nın peşinde olan Naruto, Kiba ve Shikamaru, Sasuke'yi almak ve onu Gizli Yaprak Köyü'ne geri getirmek için şafak vakti saldırır.",
+                "air_date": "2005-01-12",
+                "still_path": "/3EtKKqEHDDUM2XFsjYWwLmOKyWE.jpg",
+                "video_url": "4374322"
+            },
+            {
+                "episode_number": 119,
+                "name": "Yanlış Hesaplama: Yeni Bir Düşman Ortaya Çıkıyor!",
+                "overview": "Naruto, Kiba ve Shikamaru, Ses Ninja Dörtlüsü'nden Sasuke'nin yolunu keserler ancak Ses Köyü'nden başka bir ninjanın da Sasuke'yi yakalamak için gönderildiğinden pek haberleri yoktur.",
+                "air_date": "2005-01-19",
+                "still_path": "/y8QIxh6ZSScB7014ZH8fqLBzzlE.jpg",
+                "video_url": "4374323"
+            },
+            {
+                "episode_number": 120,
+                "name": "Kükreme ve Uluma! Nihai Etiket Takımı!",
+                "overview": "Sakon ve Ukon'dan oluşan acımasız ikiz ikiliyle karşı karşıya kalan Kiba ve Akamaru, en güçlü jutsularını kullanarak onları alt etmek için iş birliği yapar.",
+                "air_date": "2005-02-02",
+                "still_path": "/nqC57ZKZzvbW7tzyBKXdm2G2tdU.jpg",
+                "video_url": "4374324"
+            },
+            {
+                "episode_number": 121,
+                "name": "Her Biri Kendi Savaşına",
+                "overview": "Sasuke kurtarma ekibi artık bireysel savaşlara bölünmüşken, ses ninjasını durdurmak Naruto, Kiba ve Shikamaru'ya kalmış. Ancak rakiplerinin temel tekniklerinden daha önemli olduğunun pek farkında değiller.",
+                "air_date": "2005-02-09",
+                "still_path": "/53v3yf71McNb6czg1JeUQ4VbH8S.jpg",
+                "video_url": "4374326"
+            },
+            {
+                "episode_number": 122,
+                "name": "Fakeout: Shikamaru'nun Geri Dönüşü!",
+                "overview": "Shikamaru'nun işleri Tayuya ve onun melodik saldırılarıyla dolu. Onu durdurup kötü niyetli flüt çalmasına son verebilecek mi?",
+                "air_date": "2005-02-16",
+                "still_path": "/a5CGxlpnZvXzfu3ONiGyxavBH6d.jpg",
+                "video_url": "4374328"
+            },
+            {
+                "episode_number": 123,
+                "name": "Yaprağın Yakışıklı Şeytanı!",
+                "overview": "Naruto'nun Gölge Klonları Kimimaro'nun saldırılarına rakip olamaz. Ancak Yaprak Köyü'nden yaşlı, gür kaşlı bir arkadaş ortaya çıktığında tüm bahisler biter!",
+                "air_date": "2005-02-23",
+                "still_path": "/zptoFobcfVxLqq0OyavsE7D8nhg.jpg",
+                "video_url": "4374329"
+            },
+            {
+                "episode_number": 124,
+                "name": "İçteki Canavar",
+                "overview": "Rock Lee geri döndü ve Kimimaro'nun kaçmasına neden olan özel bir ilaçla dolu! Beşinci Ses Ninjasını alt edebilecek mi?",
+                "air_date": "2005-03-02",
+                "still_path": "/6EqomLTN0nkUP3QzPh8ewtNuwri.jpg",
+                "video_url": "4374330"
+            },
+            {
+                "episode_number": 125,
+                "name": "Kum Shinobi: Yaprağın Müttefikleri",
+                "overview": "Sayım bitince Sound Ninja'nın insafına kalmış olan Kiba, Shikamaru ve Rock Lee beklenmedik bir grup yeni müttefikten yardım alır.",
+                "air_date": "2005-03-09",
+                "still_path": "/ymK2WOSxSqfbDLZcfaNNcct72C8.jpg",
+                "video_url": "4374331"
+            },
+            {
+                "episode_number": 126,
+                "name": "Hesaplaşma: Gaara ve Kimimaro",
+                "overview": "Savaşmak için can atan ve geçmişten gelen suçluluk duygusuyla Gaara, Rock Lee'ye geri çekilmesini ve Kimimaro'yu ele geçirmesine izin vermesini söyler. Bu arada Naruto, kaçak Sasuke'yi yakalama arayışına devam ediyor.",
+                "air_date": "2005-03-16",
+                "still_path": "/theh3Nt5qc7LrNcCTWdG5HrUXyB.jpg",
+                "video_url": "4374332"
+            },
+            {
+                "episode_number": 127,
+                "name": "İntikamcı Saldırı! Bracken Dansı!",
+                "overview": "Gaara, Kimimaro'yu yenmek için fazlasıyla omurgaya sahip olduğunu gösterirken Orochimaru, onu genç bir adam olarak Ses Köyü'ne nasıl getirdiğini hatırlıyor.",
+                "air_date": "2005-03-30",
+                "still_path": "/twQRw8EgymxVcvQRHacCzbUymkQ.jpg",
+                "video_url": "4374334"
+            },
+            {
+                "episode_number": 128,
+                "name": "Sağır Kulaklara Bir Çığlık",
+                "overview": "Sonunda Sasuke'ye yetişen Naruto, onun Orochimaru'ya gitmesini engellemek için elinden geleni yapar. Onu durduracak gücü var mı yoksa Sasuke tamamen gitti mi?",
+                "air_date": "2005-03-30",
+                "still_path": "/6iQaTMZfvY3ZQauDmUhi4pWNGtJ.jpg",
+                "video_url": "4374336"
+            },
+            {
+                "episode_number": 129,
+                "name": "Kardeşler: Uchihalar Arasındaki Mesafe",
+                "overview": "Naruto ve Sasuke savaşta karşı karşıya gelirken, Sasuke'nin başarılarının babası tarafından göz ardı edildiği ve kardeşi Itachi'nin davranışlarının en kötüye doğru gitmeye başladığı geçmişine bir göz atıyoruz.",
+                "air_date": "2005-04-06",
+                "still_path": "/dIvvimqs5yZFEuSXrocc99vazXM.jpg",
+                "video_url": "4374338"
+            },
+            {
+                "episode_number": 130,
+                "name": "Baba ve Oğul, Kırık Arma",
+                "overview": "Sasuke, Naruto ile karşı karşıya geldiğinde, hem sert babası hem de düşünceli ağabeyi Itachi tarafından ihmal edildiği geçmişini düşünür.",
+                "air_date": "2005-04-13",
+                "still_path": "/pj468fwNRO81FKNv0rXE3BHXoDE.jpg",
+                "video_url": "4374340"
+            },
+            {
+                "episode_number": 131,
+                "name": "Mangekyō Sharingan'ın Sırları",
+                "overview": "Naruto su altında meşgulken Sasuke, klanının öldürüldüğü o kader günü hatırlıyor. Itachi'nin neden hayatını bağışladığını ve Itachi'nin bunu neden yaptığını hatırlıyor. Şimdi kardeşiyle aynı güce sahip olmak için en yakın arkadaşı Naruto'yu öldürmesi gerekiyor!",
+                "air_date": "2005-04-20",
+                "still_path": "/tHNu9Pmi4YDiyM6AT7fCCRa3kdS.jpg",
+                "video_url": "4374341"
+            },
+            {
+                "episode_number": 132,
+                "name": "Bir Arkadaş için",
+                "overview": "Kakashi, Sasuke'nin peşindeki kovalamaca hakkındaki gerçeği öğrenir ve aralarında Pakkun'un da bulunduğu köpeklerine Naruto ve Sasuke'yi bulmalarını emreder. Ancak Chidori ve Rasengan arasındaki çatışmanın başlamasıyla işler kötü görünüyor. Saldırılar eşit olup Naruto ve Sasuke'nin geri uçmasına neden oldu. Naruto sonunda Sasuke'nin ne kadar ciddi olduğunu anlar ve Sasuke ile her zaman arkadaş olmayı istediğini hatırlarken ondan sümük darbesi alır.",
+                "air_date": "2005-04-27",
+                "still_path": "/YFdWc6f2qUFuXJWwEAZwRiQLM0.jpg",
+                "video_url": "4374342"
+            },
+            {
+                "episode_number": 133,
+                "name": "Bir Arkadaştan Gelen Rica",
+                "overview": "Naruto yenilenmiş bir güçle karşılık verirken, Naruto'nun Sasuke'nin üstesinden gelemeyeceği kadar ağır olduğu ortaya çıktı. Sonunda Naruto'nun gücünü kabul eden Sasuke, her ikisini de eşit olarak simgeleyen alın koruyucusunu taktı. Ancak Sasuke'nin Sharingan'ı 3. seviyeye yükseltildiğinde işler Naruto'nun aleyhine dönüyor. Naruto için tüm umutlar tükenmiş gibi göründüğü sırada, şaşırtıcı bir dönüşüme uğruyor ama bu yeterli olacak mı?",
+                "air_date": "2005-05-04",
+                "still_path": "/ko4I9bAmdQLmW9nMPi5tRhFHppe.jpg",
+                "video_url": "4374344"
+            },
+            {
+                "episode_number": 134,
+                "name": "Gözyaşlarının Sonu",
+                "overview": "Tek Kuyruklu Naruto, Rasengan ile Chidori arasındaki son çatışmada Lanetli Mühür Seviye 2 Sasuke'yle karşı karşıya gelirken Naruto ve Sasuke arasındaki savaş sona eriyor! Ve bu sefer sadece bir kişi galip gelecek. Kakashi ve Pakkun zamanında yetişebilecek mi? Peki her şeyi izleyen bu gizemli ninja kim?",
+                "air_date": "2005-05-11",
+                "still_path": "/vMUROkiRfO9OvMMCdIPIQb4NswZ.jpg",
+                "video_url": "4374345"
+            },
+            {
+                "episode_number": 135,
+                "name": "Tutulamayan Söz",
+                "overview": "Shikamaru'nun grubu birçok yaralıyla Konoha'ya geri getirilir. Neji ve Chouji ölebilir, Kiba'nın derin bir yarası vardır ama çok ciddi bir şey değildir ve Naruto ve Shimakamru'nun birkaç yarası vardır. Sakura geri döndüklerini öğrendiğinde hemen Sasuke ve Naruto'yu görmeye gider ama Sasuke'nin kaçtığını öğrenir. Naruto, Sakura'ya verdiği sözü tutabilir mi? Ve Jiraiya'nın Naruto için ne haberi var?",
+                "air_date": "2005-05-18",
+                "still_path": "/lXP5Eu7W2pgBUzjtRrdvIrze7Aq.jpg",
+                "video_url": "4374347"
+            },
+            {
+                "episode_number": 136,
+                "name": "Derin Gizli Görev?! Süper S Dereceli Bir Görev!",
+                "overview": "Jiraiya, Naruto ve Sakura'nın sağlığı konusunda endişelenmeye başlar. Daha sonra Tsunade'den onları kendisiyle birlikte bir göreve göndermesini ister. Naruto'nun, Sakura'ya onun Sasuke'nin peşine düşmesini engellemeyeceğini söylediğini görür, ancak kendisi de onunla birlikte gider ve onlara görevi anlatır. Gizli Ses Köyü'nü ve umarım Sasuke'yi bulmak için Rice Country'ye doğru yola çıkarlar.",
+                "air_date": "2005-05-25",
+                "still_path": "/bZiKBVd4KEUZTAs8zdhy16UgoQY.jpg",
+                "video_url": "4374351"
+            },
+            {
+                "episode_number": 137,
+                "name": "Kanun Kaçakları Kasabası, Fuma Klanının Gölgesi",
+                "overview": "Naruto, Sakura ve Jiraiya kendilerini kovuldukları yerden çok daha kötü bir kasabada bulurlar. Jiraiya yola koyulur ve yiyecek almak için Naruto ve Sakura'dan ayrılır. Yolda onlara daha önce saldıran ninjayı bulurlar ama işler göründüğü kadar net değildir.",
+                "air_date": "2005-06-01",
+                "still_path": "/l15d2pq38VkY8RY23YNFCqeH8Zv.jpg",
+                "video_url": "4374353"
+            },
+            {
+                "episode_number": 138,
+                "name": "Saf İhanet ve Geçici Bir Yalvarış!",
+                "overview": "Sasame çeteyi uyuşturunca onları Orochimaru'ya teslim etmeye hazırlanır. Ancak öldürüleceklerini öğrendiğinde fikri değişir...",
+                "air_date": "2005-06-08",
+                "still_path": "/8GYN4VTboUAKhJNOxqRZm1YqWXO.jpg",
+                "video_url": "4374354"
+            },
+            {
+                "episode_number": 139,
+                "name": "Saf Terör! Orochimaru'nun Evi",
+                "overview": "Sasame, Naruto, Jiraiya ve Sakura'yı Orochimaru'nun saklandığı yere götürür. Tehlike seviyesinden dolayı Sasame'yi köye geri gönderirler. Jiraiya, önce içeri girip araştırması için Gamakichi'yi çağırır. Dördü üç tünele geliyor. Jiraiya sağa doğru gidiyor, Naruto ve Sakura ortada ve Gamakichi solda. Dördü tuzakları aşmayı başarabilecek mi?",
+                "air_date": "2005-06-15",
+                "still_path": "/A9yH68MicMQZ9fpprS99PpZCo8I.jpg",
+                "video_url": "4374355"
+            },
+            {
+                "episode_number": 140,
+                "name": "İki Kalp Atışı: Kabuto'nun Tuzağı",
+                "overview": "Naruto, Sakura'yı kurtarmak için tam zamanında gelir, ancak Kabuto ona Sasuke'nin öldüğünü söylemeden önce değil! Naruto saldırır ama sonunda Kabuto'nun ölümcül tuzağına düşer. Kahramanımız için her şey bitti mi ve Arashi'yi bulabilecekler mi?",
+                "air_date": "2005-06-22",
+                "still_path": "/bJOg1CqsUuTuNvsQ6PwnzKLUSaQ.jpg",
+                "video_url": "4374356"
+            },
+            {
+                "episode_number": 141,
+                "name": "Sakura'nın Kararlılığı",
+                "overview": "Naruto ve Arashi arasındaki savaş devam ediyor ancak Naruto'nun sakatlığı onun başarılı olmasını zorlaştırıyor. Sasame Naruto'yu kurtarmak için atlıyor ama bu yeterli olacak mı?",
+                "air_date": "2005-06-29",
+                "still_path": "/aarElwTFoN6IkdPGOTe9nNmrhhh.jpg",
+                "video_url": "4374357"
+            },
+            {
+                "episode_number": 142,
+                "name": "Maksimum Güvenlikli Hapishanedeki Üç Kötü Adam",
+                "overview": "Pirinç Tarlası Ülkesi'ndeki olayları arkalarında bırakarak herkes eğitimlerine hazırlanır. Ancak çok geçmeden yeni bir tehdit ortaya çıkar. Mizuki'yi hatırladın mı? Geri döndü ve Konoha Hapishanesinden kaçmayı planlıyor",
+                "air_date": "2005-07-06",
+                "still_path": "/1cpsvYWFyUxbMbLmYgMxpeh3wQv.jpg",
+                "video_url": "4374358"
+            },
+            {
+                "episode_number": 143,
+                "name": "Tonton! Sana Güveniyorum!",
+                "overview": "Shizune ve ekibi Mizuki ile karşılaşır ama işler planlandığı gibi gitmez! Ton-ton, Tsunade'yi uyarmak için geri geldiğinde Naruto, Ton-ton'un yardımıyla Shizune'u bulma girişiminde bulunur. Kakashi gelir ve kendi görevine çıkmadan önce Iruka'ya Pakkun'dan yardım eder. Bütün bunlar günü kurtarmaya yetecek mi?",
+                "air_date": "2005-07-13",
+                "still_path": "/nBlqCth3NBHK2qA6wByk3bCE0Pp.jpg",
+                "video_url": "4374360"
+            },
+            {
+                "episode_number": 144,
+                "name": "Yeni Bir Kadro! İki Kişi ve Bir Köpek?!",
+                "overview": "Naruto'nun iki kardeşle başı dertte, Iruka da Mizuki'yle dertlerinden nasibini alıyor! Iruka, eski Mizuki'yi geri almak için çabalıyor ama pek başarılı olamıyor... Bu arada, Naruto için işler kasvetli görünürken, 3 dost Ninja günü kurtarabilecek mi?",
+                "air_date": "2005-07-20",
+                "still_path": "/lzABilsoNJuwt2ZI0i0RwoJKcNN.jpg",
+                "video_url": "4374361"
+            },
+            {
+                "episode_number": 145,
+                "name": "Yeni Bir Oluşum: Ino-shika-cho!",
+                "overview": "Naruto'nun yedeği geldi ve onlar Shikamaru, Ino ve Chouji. Naruto'ya kardeşlerle ilgileneceklerini söylerler. Naruto, Mizuki ile savaşan Iruka'ya yetişmek için ayrılır. Naruto, Mizuki Iruka'yı öldürmeden önce gelebilir mi? Peki Shikamaru, Ino ve Chouji kardeşleri durdurabilecek mi?",
+                "air_date": "2005-07-27",
+                "still_path": "/nCovDdmr7SGXc23okKwnCE4UtL8.jpg",
+                "video_url": "4374362"
+            },
+            {
+                "episode_number": 146,
+                "name": "Orochimaru'nun Gölgesi",
+                "overview": "Naruto, Iruka ve Pakkun, Mizuki'nin nişanlısı Tsubaki ile buluşur ve Tsubaki üçüne yardım teklif etmeye gelir. Bu arada, Shikamaru, Ino ve Chouji iki kardeşi uzak tutmakta zorluk çekmektedir. Bu sırada Tsunade, Mizuki ve Orochimaru hakkında şaşırtıcı bir sır keşfeder ve meseleyi kendi eline almayı planlar....",
+                "air_date": "2005-08-10",
+                "still_path": "/dZaA8Wztl566kMmMjVScu2iPxGJ.jpg",
+                "video_url": "4374365"
+            },
+            {
+                "episode_number": 147,
+                "name": "Kaderin Çatışması: Beni Yıkamazsın!",
+                "overview": "Mizuki, Naruto ve Iruka'ya acı çektirmeye kararlı ve görünen o ki gelişmiş gücü ve hızıyla üstünlük sağlıyor! Shikamaru, Ino ve Chouji de sınırlarındadır ve artık Fuujin ve Raijin özgürdür. Tsunade yardıma zamanında varabilecek mi?",
+                "air_date": "2005-08-17",
+                "still_path": "/pcX574EKcDnhslA2cKM7k9S4sYF.jpg",
+                "video_url": "4374366"
+            },
+            {
+                "episode_number": 148,
+                "name": "Nadir Bikochu Böceğini Arayın",
+                "overview": "Naruto, Tsunade'nin emirleri nedeniyle Sasuke'yi arayamazken Kiba ve Hinata ona nasıl yardım edebileceklerini merak eder. Shino, bulunması halinde Sasuke'nin kolayca bulunabileceği özel bir böcek türünü hatırlıyor. Gidip bunu Tsunade ile tartışırlar, o da onu aramalarına izin vererek Shino'yu lider yapar. Tsunade, Naruto'nun konuşmayı dinlediğini keşfeder ve onlarla birlikte gitmesine izin verir. Peki bir görevi yalnızca %10 başarı oranıyla tamamlayabilecekler mi? Naruto, seyahat ederken Shino'nun tuhaf davranışlarıyla baş etmekte zorluk çeker. Hinata ayrıca bazı gizemli hareketleri denemek için gecenin bir yarısı gizlice dışarı çıkar. İki günlük yolculuğun ardından nihayet gidecekleri yere varırlar. Üstelik yalnız değiller, gizemli bir grup da aynı şeyin peşinde.",
+                "air_date": "2005-08-17",
+                "still_path": "/loPNaBtxiTM2JqmSt1lKAjtxMuk.jpg",
+                "video_url": "4374368"
+            },
+            {
+                "episode_number": 149,
+                "name": "Fark Ne? Bütün Böcekler Benzer Değil Mi?",
+                "overview": "Grup Bikouchuu'yu bulmakta zorlanır ama her fırsatta başarısız olur. Yağmur yağmaya başladığında onu bulmak için sadece bir şansları olduğunu fark ederler. Hinata'nın Byakugan'ı yeterli olacak mı?",
+                "air_date": "2005-08-24",
+                "still_path": "/bcHjGBpME7j1dA9XtbwGDCnw0BG.jpg",
+                "video_url": "4374369"
+            },
+            {
+                "episode_number": 150,
+                "name": "Böceklerin Savaşı: Aldatanlar ve Aldananlar",
+                "overview": "Hinata'nın güvenliği tehlikedeyken grup, hem onu ​​kurtarmanın hem de Bikouchuu'yu korumanın bir yolunu bulmalıdır. Ne zaman bir taraf avantajlı gibi görünse, diğer taraf yeni bir numara ortaya koyuyor. Şafak yaklaşırken, çok fazla zamanları kalmadı...başarabilecekler mi?",
+                "air_date": "2005-08-31",
+                "still_path": "/lLeDxJv7DJhPwJoRsa5nkweyo4g.jpg",
+                "video_url": "4374377"
+            },
+            {
+                "episode_number": 151,
+                "name": "Uzaklaş, Byakugan! Bu Benim Ninja Yolum!",
+                "overview": "Grubun tuzağa düşmesiyle Shino, Bikouchuu'yu Hinata ile takas etmek için bir anlaşma yapar. Ne yazık ki rakipler açısından Hinata kaçtı ve anlaşmayı değersiz hale getirdi! Saldırmaya başlarlar ama Hinata gelip günü kurtarabilecek mi?",
+                "air_date": "2005-09-14",
+                "still_path": "/mF1dab3aqXBKqvwl9FyocRn6Wgh.jpg",
+                "video_url": "4374381"
+            },
+            {
+                "episode_number": 152,
+                "name": "Yaşayanlar İçin Cenaze Yürüyüşü",
+                "overview": "Naruto üç yabancıyı kurtardığında kendini başka bir göreve sürüklenmiş halde bulur. Ancak bu sefer buna katılmak istemez! Ta ki Akatsuki ile bir bağlantısı olabileceğini duyana kadar. Takım arkadaşları Neji, Lee ve Tenten ile birlikte aradığı bilgiyi bulabilecek mi?",
+                "air_date": "2005-09-21",
+                "still_path": "/rMNmIFMnuHIuajGuRU63P3zrNNx.jpg",
+                "video_url": "4374384"
+            },
+            {
+                "episode_number": 153,
+                "name": "Öğrenilen Bir Ders: Aşkın Demir Yumruğu!",
+                "overview": "Rourusuke'yi kurtarmaya çalışan Naruto ve diğerleri, Kurosuke Ailesi üyelerine pusu kurar ve yaşlı bir adamı kurtarır. Kısa süre sonra cenaze zilini duyarlar ve gidip Rourusuke'yi kurtarırlar. Ancak Rock Lee, gruptan eski bir arkadaşıyla tanışır ve Lee'nin artık Kurashi'yi eski yaşam tarzına dönmeye ikna etmesi gerekir. Raiga kenardan izlerken birlikte geçirdikleri zaman kısalır. Naruto, Neji, Rock Lee ve Tenten, Neji'nin Byakugan'ının bile göremediği bir düşmanı yenebilecek mi?",
+                "air_date": "2005-09-28",
+                "still_path": "/9WrqyefCywtiCCPPs86xAOcIGGG.jpg",
+                "video_url": "4374386"
+            },
+            {
+                "episode_number": 154,
+                "name": "Byakugan'ın Düşmanı",
+                "overview": "Naruto, Tenten, Neji ve Lee, Raiga'yı durdurma ve Rourusuke Ailesini kurtarma görevlerine devam ediyor. Bir plan yapmaya çalışıyorlar ama yoğun sis görmelerini zorlaştırıyor. Neji'nin Byakugan'ı bile yardımcı olmuyor gibi görünüyor. Lee, Raiga ile savaşır ve sırtındaki çantayı düşürmeyi başarır. Bu çanta nedir ve içinde bu kadar önemli görünen ne var? Bu sırada Naruto, Raiga'ya karşı savaşmak için harekete geçer. Onu yenmeyi başarabilecek mi?",
+                "air_date": "2005-10-05",
+                "still_path": "/2prGw9Eqyee1ErRPAwnOgsOUiF1.jpg",
+                "video_url": "4374387"
+            },
+            {
+                "episode_number": 155,
+                "name": "Karanlık Sürünen Bulutlar",
+                "overview": "Görünüşte Raiga'nın mağlup olmasıyla grup, kalan düşman Ninja'yı temizlemeye ve köyü normale döndürmeye devam edebilir. Ancak trajik geçmişini onlara anlatan Ranmaru'yu ne yapacaklar?",
+                "air_date": "2005-10-12",
+                "still_path": "/kdIeoiLMT1XvsjiBn1JCskFCZnz.jpg",
+                "video_url": "4374388"
+            },
+            {
+                "episode_number": 156,
+                "name": "Raiga'nın Karşı Saldırısı",
+                "overview": "Ranmaru, Raiga'yı ölümden geri getirmeye kararlıdır ve bunu başarmış gibi görünmektedir! Öfkeli bir raiga şimdi Tenten'den başlayarak saldırıya geçiyor. Karashi, diğerlerine olanları anlatmak için Curry House'a koşar ama gerçekte kimin tarafındadır?",
+                "air_date": "2005-10-19",
+                "still_path": "/xyEO1xIlrLpbIVr5Vl54yCRcVEj.jpg",
+                "video_url": "4374390"
+            },
+            {
+                "episode_number": 157,
+                "name": "Koşmak! Hayatın Körisi",
+                "overview": "Tenten ve diğerleri onlara hayatın körisini getirmek için acele ederken Lee, Raiga ile tek başına karşı karşıya kalır. Ranmaru, Raiga ile yeniden bir araya gelir ama işler eskisi gibi midir?",
+                "air_date": "2005-10-26",
+                "still_path": "/mQKnnj027qa6NPFOF9Td3LhH4FF.jpg",
+                "video_url": "4374392"
+            },
+            {
+                "episode_number": 158,
+                "name": "Beni Takip Edin! Büyük Hayatta Kalma Mücadelesi",
+                "overview": "Her Genin'e, bir parşömen almak için dağın tepesine yarışmaya zorlayan bir görevi yönetmesi için bir öğrenci ekibi atanır ve tahmin edin Naruto kime liderlik edecek? Konohamaru birliklerinden başkası değil. Ancak bir fırtına onun haberi olmadan görevin iptal edilmesine neden olduğunda ekibini hayatta tutmak için her zamankinden daha iyi bir lider olması gerekecek!",
+                "air_date": "2005-11-02",
+                "still_path": "/kvG8KFOkwFbKZ4CMXbIvpBta2Rc.jpg",
+                "video_url": "4374393"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 62,
+        "air_date": null,
+        "poster_path": "/2L7qUHd6C1RgMmm6upxH9rL5jjK.jpg",
+        "episodes": [
+            {
+                "episode_number": 159,
+                "name": "Vahşi Doğadan Ödül Avcısı",
+                "overview": "Naruto, Hinata ve Kiba, Gosunkugi adlı bir hırsızı yakalamak için bir göreve gönderilir. Ancak yolda, kendileriyle aynı hedefin peşinde olan başka bir ödül avcısıyla karşılaşırlar....",
+                "air_date": "2005-11-09",
+                "still_path": "/xyt2S324As8SaAs7eczbd3QfNbl.jpg",
+                "video_url": "4374397"
+            },
+            {
+                "episode_number": 160,
+                "name": "Avla Yada Avlan?! O.k.'da Hesaplaşma Tapınak!",
+                "overview": "Sazanami'nin gerçekten de üç kişilik bir aileyi öldürmekten aranan Toukichi adında aranan bir suçlu olduğu ortaya çıktı. Ancak gerçek şu ki, o masum ve bunu kanıtlamak için sorumlu adamı yakalamak istiyor! Sazanami, Gosunki'yi kesin olarak durdurmak için Konoha grubuyla iş birliği yapar....",
+                "air_date": "2005-11-16",
+                "still_path": "/5evzSo0svHFdP8JyJ3po2KXPoXV.jpg",
+                "video_url": "4374398"
+            },
+            {
+                "episode_number": 161,
+                "name": "Garip Ziyaretçilerin Ortaya Çıkışı",
+                "overview": "Gai ve Lee bir görev için Konoha'dan ayrılırken iki yabancı kendilerini gizleyip sırlarını öğrenmek için köye gizlice girer. Tsunade, Sakura ve Tenten'in bu sahtekarlar için hayatlarını perişan edecek büyük planları var.",
+                "air_date": "2005-11-23",
+                "still_path": "/i4ukQOSmGwRZH1GjgCAN6D9xB0V.jpg",
+                "video_url": "4374400"
+            },
+            {
+                "episode_number": 162,
+                "name": "Lanetli Savaşçı",
+                "overview": "Naruto, Tenten ve Neji, Noroimusha adlı bir hayaleti yok etmek için Kuş Ülkesine gider.",
+                "air_date": "2005-11-30",
+                "still_path": "/4GmlBfr5qaCdsN807ID61A1XKIy.jpg",
+                "video_url": "4374401"
+            },
+            {
+                "episode_number": 163,
+                "name": "Taktisyenin Niyeti",
+                "overview": "Naruto ve diğerleri hayaletin sorumlusunun Kouhmei olduğunu kanıtlamaya çalışır. Ancak Naruto ve ekibinin keşfettiği şey daha da fazla gizemi çözümsüz bırakıyor.",
+                "air_date": "2005-12-07",
+                "still_path": "/rRwgn1Nvs4ABszP1QAXlgUKuZd2.jpg",
+                "video_url": "4374402"
+            },
+            {
+                "episode_number": 164,
+                "name": "Yardım İçin Çok Geç",
+                "overview": "Naruto hayalet meselesini kendi başına araştırmaya karar verirken Neji ve Tenten farklı bir yaklaşım dener. Naruto, iki kurbağanın yardımıyla meselenin gerçeği hakkında giderek daha fazla şey öğrenmeye başlar... ama keşfettiği şey onun hayatına mal olacak mı?",
+                "air_date": "2005-12-14",
+                "still_path": "/fx27sirB4oGGbITl91P17ccT5I.jpg",
+                "video_url": "4374405"
+            },
+            {
+                "episode_number": 165,
+                "name": "Naruto'nun Ölümü",
+                "overview": "Kakashi, Neji ve Tenten'e kendisiyle birlikte köye dönmelerini emreder, bu da onları protesto eder. Bu arada Koumei idam edilmek üzeredir, en azından Noroimusha ortaya çıkana kadar! Hayalet bir müttefik mi yoksa bir düşman mı ve Naruto'ya ne oldu? Sagi gerçeği ortaya çıkardıkça sorular yanıtlanıyor!",
+                "air_date": "2005-12-21",
+                "still_path": "/z2kyT7RxxF7f1sEkkN2eY1tR9a4.jpg",
+                "video_url": "4374407"
+            },
+            {
+                "episode_number": 166,
+                "name": "Zaman Durduğunda",
+                "overview": "Sagi intikam planlarını hazırlıyor ve kimsenin yoluna çıkmasına izin vermiyor! Noroimusha kılığına girerek Musou'yla yüzleşir, ancak ikisi de gerçek kimliklerini açıklayınca şok edici haberler ortaya çıkar!",
+                "air_date": "2006-01-04",
+                "still_path": "/2HH7CIn0RHu2zGokUB6e5x8dmjU.jpg",
+                "video_url": "4374409"
+            },
+            {
+                "episode_number": 167,
+                "name": "Ak Balıkçıllar Kanatlarını Çırptığında",
+                "overview": "Shima, Naruto'yu Ooki'nin genjutsu tuzağından kurtarır ve onu korumaya çalışır. Kahramanımız için her şey bitmiş gibi göründüğünde, gizemli beyaz bir figür belirir ve ondan son bir dileğini yerine getirmesini ister. Naruto bu isteği yerine getirip günü kurtaracak gücü bulabilecek mi?",
+                "air_date": "2006-01-04",
+                "still_path": "/fWk5QbjzyhQZwr8Ukm4aCUtgaSZ.jpg",
+                "video_url": "4374410"
+            },
+            {
+                "episode_number": 168,
+                "name": "Karıştırın, Uzatın, Kaynatın! Yak, Bakır Tencere, Yak!",
+                "overview": "Ichiraku Ramen dükkanının sahibi Bay Ichiraku'nun başı dertte. Kızı kaçırıldı ve onu geri kazanmak için sadece iki günü var! Nauruto, Chouji ve Sakura, Bay Ichiraku'nun yarışmayı kazanmasına yardım edebilecek mi, yoksa Efsanevi Ramen tarifini vermek zorunda mı kalacak?",
+                "air_date": "2006-01-18",
+                "still_path": "/6fxFi7xHY1xziH8mn6qEIVKBxYT.jpg",
+                "video_url": "4374411"
+            },
+            {
+                "episode_number": 169,
+                "name": "Anma: Kayıp Sayfa",
+                "overview": "Mevcut birkaç Genin'den biri olan Naruto, Ino ve Shino, bir deniz canavarını yok etmek ve altın taşıyan bir tekneyi korumak için Deniz Ülkesi'ne giden görevinde Anko'ya eşlik etmek zorunda kalır. Ancak Anko, geçmişindeki olayları ve bir zamanlar Orochimaru ile olan bağını giderek daha fazla hatırlamaya başladıkça tuhaf davranıyor.",
+                "air_date": "2006-01-25",
+                "still_path": "/zCMgW6iChSW0cprGPQ5KLJdXDq3.jpg",
+                "video_url": "4374412"
+            },
+            {
+                "episode_number": 170,
+                "name": "Kapalı Kapı",
+                "overview": "Naruto, gizemli kız Isaribi sayesinde iyileşiyor. Naruto iyileşirken Anko, Shino ve Ino onu arar ve aynı zamanda maaş bordrosu sevkıyatından sorumlu adamla tanışır. Grup sonunda tekrar buluşur, ancak önce deniz canavarının inini bulur.",
+                "air_date": "2006-02-01",
+                "still_path": "/kVoxlcmHkYTsMrxU62iP51tQFD1.jpg",
+                "video_url": "4374413"
+            },
+            {
+                "episode_number": 171,
+                "name": "Sızma: Kurulum!",
+                "overview": "Isaribi kaçtıktan sonra Naruto ve ekibi yasak adaya gidip Orochimaru ve adamlarıyla yüzleşmeye karar verir. Kısa süre sonra Orochimaru'nun perdenin arkasındaki adam değil, Amachi olarak bilinen bir adam olduğunu keşfederler. Amachi, Isaribi'yi bir canavara dönüştürmekten sorumlu olan kişidir, peki neden ona yardım ediyor?",
+                "air_date": "2006-02-08",
+                "still_path": "/phW1EEEqnNm2Mwgw3S7jmZKW0eJ.jpg",
+                "video_url": "4374414"
+            },
+            {
+                "episode_number": 172,
+                "name": "Umutsuzluk: Kırık Bir Kalp",
+                "overview": "Çöken laboratuvardan kıl payı kurtulan Naruto ve diğerleri, para konvoyuna yetişmek zorundadır. Ancak Amachi çoktan tuzağını kurmuştur ve konvoy mürettebatı da yemi yutmuştur. Hepsi savaşa hazırlanırken Naruto ve diğerleri günü kurtarmak için gelirler. Peki Amachi gerçek kimliğini ortaya çıkardığında grup Amachi'yi yenebilecek mi? Peki Isaribi, Naruto'nun onu kurtarmak için ne kadar ileri gidebileceğini anladığında ne olacak?",
+                "air_date": "2006-02-15",
+                "still_path": "/eTWhDyyBX1LDUJvBeqXjDFyxwAk.jpg",
+                "video_url": "4374415"
+            },
+            {
+                "episode_number": 173,
+                "name": "Denizde Savaş: Ortaya Çıkan Güç!",
+                "overview": "Naruto ve Amachi'nin savaşı oldukça hızlı bir şekilde sona eriyor, yoksa öyle mi? Ayrıca, Anko önemli bir olay da dahil olmak üzere geçmişinden daha fazlasını geri kazanıyor.",
+                "air_date": "2006-02-22",
+                "still_path": "/A8XSCajaYH6TaZcnxioVLekGwz1.jpg",
+                "video_url": "4374417"
+            },
+            {
+                "episode_number": 174,
+                "name": "İmkansız! Ünlü Ninja Sanatı - Para Tarzı Jutsu!",
+                "overview": "Naruto'ya bir VIP'nin oğlunu korumak için özel bir görev verildi. Çocuk paranın kendisine her şeyi satın alabileceğini düşünen şımarık bir veletti. Naruto'ya çocuğa ninja becerilerini öğretmekle görev verildi, ancak çocuk video oyunları oynamakla daha çok ilgileniyordu.\n\nBir gün çocuk bir grup suçlu tarafından kaçırıldı. Naruto suçluların izini sürdü ve çocuğu kurtardı ama suçlular kaçtı. Çocuk, kendisini kurtardığı için Naruto'ya minnettardı ama yine de sıkı çalışmanın ve kararlılığın önemini anlamamıştı.\n\nNaruto çocuğu eğitmeye devam etti ve sonunda çocuk sıkı çalışmanın değerini anlamaya başladı. Ayrıca paranın ona her şeyi satın alamayacağını da öğrendi. Çocuk sonunda yetenekli bir ninja oldu ve Naruto'nun akıl hocası olmasından gurur duyuyordu.",
+                "air_date": "2006-03-01",
+                "still_path": "/9DZhX6WYqv04XXejrIgI5kdMLqP.jpg",
+                "video_url": "4374420"
+            },
+            {
+                "episode_number": 175,
+                "name": "Hazine Avı Başlıyor!",
+                "overview": "Naruto, Kiba ve Hinata'ya gizli bir hazineyi bulmaları için özel bir görev verildi. Hazinenin dağlardaki bir mağarada gömülü olduğu söyleniyor. Üç ninja görevlerine çıktılar ve çok geçmeden mağarayı buldular.\n\nMağara karanlık ve tehlikeliydi ama ninjalar hazineyi bulmaya kararlıydı. Saatlerce mağarayı aradılar ve sonunda hazine sandığını buldular. Sandık altın ve mücevherlerle doluydu ve ninjalar çok sevinmişti.\n\nNinjalar mağarayı terk etmek üzereyken bir grup haydut tarafından saldırıya uğradılar. Haydutlar hazineyi kendileri için istediler ama ninjalar onları yenmeyi başardılar. Ninjalar hazineyle birlikte mağaradan kaçtılar ve kahramanlar olarak Konoha'ya döndüler.",
+                "air_date": "2006-03-08",
+                "still_path": "/30JNXnJXUaHxj1cJ1HlkO9j59Wt.jpg",
+                "video_url": "4374421"
+            },
+            {
+                "episode_number": 176,
+                "name": "Koş, Kaç, Zikzak! Kovala Ya Da Kovalan!",
+                "overview": "Naruto, Kiba ve Hinata, Konoha'ya geri dönerken bir grup ninjanın saldırısına uğradılar. Ninjalar Naruto, Kiba ve Hinata ile aynı üniformaları giyiyorlardı ve gerçek ninja olduklarını iddia ediyorlardı.\n\nNaruto ve arkadaşlarının kafası karışmıştı ama çok geçmeden kandırıldıklarını anladılar. Sahtekarlar aslında Konoha'yı ele geçirmeye çalışan kötü ninjalardı. Naruto ve arkadaşları cesurca savaştılar ve sonunda sahtekarları yenmeyi başardılar.\n\nGerçek Naruto, Kiba ve Hinata, Konoha'ya kahramanlar olarak geri döndü. Köyü hain sahtekarlardan kurtarmışlardı ve kahraman olarak kutlanmışlardı.",
+                "air_date": "2006-03-15",
+                "still_path": "/swPkgtu7lSjTPVoEMqi2DdmNV7d.jpg",
+                "video_url": "4374422"
+            },
+            {
+                "episode_number": 177,
+                "name": "Lütfen Bay Postacı!!",
+                "overview": "Naruto bir sonraki kitabı üzerinde çalışırken yanlışlıkla Jiraiya ile karşılaştı. Naruto Jiraiya'ya kendisini eğitmesi için yalvardı ama Jiraiya reddetti. Naruto'ya önce kitabını bitirmesi gerektiğini söyledi.\n\nNaruto hayal kırıklığına uğradı ama pes etmedi. Jiraiya'ya kitabı konusunda yardım etmeye karar verdi. Jiraiya'ya araştırma konusunda yardım etti ve hatta yazı yazma konusunda bile ona yardım etti.\n\nBir gün Naruto, Jiraiya'ya yardım ederken bir grup kurye ninjanın saldırısına uğradı. Kurye ninjaları Jiraiya'nın kitabını çalmaya çalışıyordu.\n\nNaruto ve Jiraiya cesurca savaştılar ve sonunda kurye ninjalarını yenmeyi başardılar. Kitabı kurtardılar ve aynı zamanda ekip çalışması hakkında da değerli bir ders aldılar.",
+                "air_date": "2006-03-22",
+                "still_path": "/mxnn7sAutvRHfvo1uXuNKIBRkTN.jpg",
+                "video_url": "4374423"
+            },
+            {
+                "episode_number": 178,
+                "name": "Rastlamak! Yıldız İsmini Taşıyan Çocuk",
+                "overview": "Yaklaşık 200 yıl önce Saklı Yıldız Köyü'ne bir yıldız düştü. Bu yıldızın mistik güçler olduğu iddia ediliyor. Ancak köyde az sayıda ninja olduğundan diğer köylerin yardımına ihtiyaçları var. Naruto, onu koruma görevinde Lee, Neji ve Tenten'e eşlik eder.",
+                "air_date": "2006-03-29",
+                "still_path": "/xio6mHf11NsPWetfLZjcsstI5w5.jpg",
+                "video_url": "4374425"
+            },
+            {
+                "episode_number": 179,
+                "name": "Hatırlanan Ninni",
+                "overview": "Gizemli saldırgan yıldızla birlikte yalnızca Çakralarını kullanarak uçup gittiğinde Konoha grubu toz içinde kalır. Yıldızı geri almaya yemin ediyorlar ama bu umdukları kadar basit değil. Bu sırada Naruto, Subaru'nun geçmişinden bazılarını öğrenir ve Natsuhiboshi...",
+                "air_date": "2006-04-05",
+                "still_path": "/xWsmZRQ30IoKyibDmbuCDti5b3a.jpg",
+                "video_url": "4374428"
+            },
+            {
+                "episode_number": 180,
+                "name": "Gizli Jutsu! Ninja Sanatının Bedeli: Kujaku",
+                "overview": "Konoha ekibi yıldızın hırsızlığını araştırmaya devam ediyor ve her şeyin göründüğü gibi olmadığını fark etmeye başlıyor. Her şey son bir savaşa doğru gidiyor gibi görünüyor ama tüm bunların arkasındaki gerçek düşman kim?",
+                "air_date": "2006-04-12",
+                "still_path": "/yAaaWZPbXgDe2cUbZSa1CwaUJ4d.jpg",
+                "video_url": "4374429"
+            },
+            {
+                "episode_number": 181,
+                "name": "Hoshikage: Gömülü Gerçek",
+                "overview": "Naruto gizemli kadın tarafından kurtarıldı ve çok geçmeden onun gerçekte kim olduğunu öğrendi. İkisi çok uzun zaman önce başladıkları göreve devam edebilecekler mi ve Subaru gerçeği keşfettiğinde ne düşünecek?",
+                "air_date": "2006-04-19",
+                "still_path": "/3DUyh6B8h0ulximMoNYVVbOgHso.jpg",
+                "video_url": "4374431"
+            },
+            {
+                "episode_number": 182,
+                "name": "Yeniden Birleşme, Kalan Zaman",
+                "overview": "Subaru nihayet annesiyle tanışır ama onlar için çok mu geç kalmıştır? Naruto, Akahoshi'yi yenebilecek ve yıldızın tekrar onun eline geçmesini engelleyebilecek mi? Peki köy hangi tarafı tutmayı seçecek?",
+                "air_date": "2006-04-26",
+                "still_path": "/4sse68nsLIVmzxQ14R47uXOwYHI.jpg",
+                "video_url": "4374432"
+            },
+            {
+                "episode_number": 183,
+                "name": "Yıldızın Parıltısı",
+                "overview": "Akahoshi, Sumaru'yu idam etmeye çalıştıktan sonra Hakato ve diğer çocuklar, köylerini korumak için ayağa kalkar. Köyün kendisine karşı döndüğünü gören Akahoshi, başarısını garantilemek için sert adımlar atar. Naruto bu tehdidi ortadan kaldırabilecek tek kişidir, bunu tek başına yapabilir mi? Yoksa daha güçlü birinden yardım mı bulacak?",
+                "air_date": "2006-05-03",
+                "still_path": "/u8y6cGcLOFXm18dTDfYVU9KDeAA.jpg",
+                "video_url": "4374434"
+            },
+            {
+                "episode_number": 184,
+                "name": "Kiba'nın Uzun Günü!",
+                "overview": "Akamaru hastalanıp gizemli bir dönüşüm geçirmeye başlayınca Kiba, arkadaşını kurtarmak için her şeyi yapabilecek mi? Bütün köy ona karşı gibi göründüğünde arkadaşını korumak için ne kadar ileri gidecek?",
+                "air_date": "2006-05-10",
+                "still_path": "/o9qWgJarhVSBq90n9qRPkKkhgBl.jpg",
+                "video_url": "4374435"
+            },
+            {
+                "episode_number": 185,
+                "name": "Gizli Yapraktan Bir Efsane: Onbaa!",
+                "overview": "Naruto ormanda antrenman yaparken gizemli bir yaratık onun sırtına tutunur. Bu efsanevi yaratık yetişkin olana kadar ortadan kaldırılamaz, ancak bu Naruto'nun sorunlarının yalnızca başlangıcıdır.",
+                "air_date": "2006-05-17",
+                "still_path": "/falgRH1JEkzqUlCmyQvRqpurDfz.jpg",
+                "video_url": "4374436"
+            },
+            {
+                "episode_number": 186,
+                "name": "Gülen Shino",
+                "overview": "Naruto ve Shino, Fuuta adında bir adamın garip bir isteği olduğu Motoyoshi Köyü'ne birlikte bir göreve giderler. Miras parasını alabilmek için babasının cenazesine gülmemesi gerekiyor. Ancak akrabalarının kitaptaki her numarayı denediği, kahkahalara neden olduğu sırada onu her şeyini kaybetmekten kurtarabilecek bir cümle vardır...",
+                "air_date": "2006-05-24",
+                "still_path": "/pWQyrK6m43yuAkRuAmteetFCd96.jpg",
+                "video_url": "4374437"
+            },
+            {
+                "episode_number": 187,
+                "name": "İşletmeye Açık! Yaprak Taşıma Hizmeti",
+                "overview": "Naruto, Hinata ve Chouji, Greenery Country'deki savaştan kaçan bazı seyyar satıcıları koruma görevi için seçilirler. Ancak Tsunade onlara basit bir koruma görevi görevinden fazlasını vererek onları aynı zamanda hareket ettirici de yaptı. Seyyar satıcılar, ülkede hiçbir zaman kayıtlı vatandaş bile olmayan basit halktan ibaret. Ancak Naruto grubun takip edildiğini keşfettiğinde üç ninja, görünenden daha fazlasının olup bittiğini fark eder.",
+                "air_date": "2006-05-31",
+                "still_path": "/57mJUGub0jWOiQQBqXv1NOngOiA.jpg",
+                "video_url": "4374438"
+            },
+            {
+                "episode_number": 188,
+                "name": "Hedeflenen Tüccarların Gizemi",
+                "overview": "Grup, gizemli saldırganları caydırmak amacıyla ikiye ayrılır. Ancak Naruto ve Chouji planın istenildiği gibi işlemediğini keşfettiklerinde, birisinin önemli bir şey sakladığını fark ederler...",
+                "air_date": "2006-06-07",
+                "still_path": "/eVegTnMoPrnmovV0JmadWZspVXP.jpg",
+                "video_url": "4374440"
+            },
+            {
+                "episode_number": 189,
+                "name": "Sınırsız Ninja Aletleri Temini",
+                "overview": "Naruto, Chouji ve Yurinojou, suyu silah olarak kullanan Ruiga'yı ele geçirir. Ruiga, Dünya'dan su çekme gücüne sahip ve bu da ona sınırsız miktarda ninja silahı sağlıyor. Sınırsız su kaynağına sahip bir rakibi nasıl yenebilirler? Kazanabilseler bile ikinci ninja Jiga'yı yenebilecekler mi? Ayrıca Prenses'in kaçmasının gerçek nedeni nedir?",
+                "air_date": "2006-06-14",
+                "still_path": "/cTsWrNuP5pIPqa7JCyIllKKaavZ.jpg",
+                "video_url": "4374441"
+            },
+            {
+                "episode_number": 190,
+                "name": "Byakugan Kör Noktayı Görüyor!",
+                "overview": "Naruto'nun mağlup edilmesiyle Hinata, dövüşe katılmaya karar verir. İkinci kötü ninjayı yenebilecek mi? Peki ya prenses?",
+                "air_date": "2006-06-21",
+                "still_path": "/qawrgJnKh69LBacqaW8gPYGE6bD.jpg",
+                "video_url": "4374442"
+            },
+            {
+                "episode_number": 191,
+                "name": "Tahmin: Ölüm! Bulutlu ve Güneş Olasılığı!",
+                "overview": "Üçüncü ve son kötü ninja ile savaş başladı. Tek bir arzusu var ve o da Prenses Haruna'yı öldürmek. Naruto bu yeni tehdidi yenebilecek ve Haruna'yı kurtarabilecek mi?",
+                "air_date": "2006-06-28",
+                "still_path": "/pXmq2hsmmA0vfDK14WYZ5l9Oto7.jpg",
+                "video_url": "4374443"
+            },
+            {
+                "episode_number": 192,
+                "name": "Ino Çığlık Atıyor! Tombul Cennet!",
+                "overview": "Bir Feodal Lordun kızı bir dublör istediğinde onun yerine Ino getirilir. Tek sorun, birbirlerine hiç benzememeleri, prensesin kemikleri irileşmiş çünkü çok fazla strese girmiş ve çok yemek yemiş. Şimdi Ino'nun onun yerine geçmesi ve Udon Country'den bir adamla evlilik ayarlaması gerekiyor. Ino evliliğini sorunsuz bir şekilde ayarlayabilecek mi?",
+                "air_date": "2006-07-05",
+                "still_path": "/hUEXqxtq5VsJgcii0XrL8WNFyAY.jpg",
+                "video_url": "4374444"
+            },
+            {
+                "episode_number": 193,
+                "name": "Yaşasın Dojo Mücadelesi! Gençlik Tamamen Tutkudan Oluşur!",
+                "overview": "Naruto bir görevden döndüğünde Lee'nin bir Dojo kurduğunu ve kendisine rakip bulmak için çaresiz kaldığını keşfeder. Gai kimsenin ona meydan okumadığını anlayınca sahaya çıkıyor! Ancak planlarda yapılan son dakika değişikliği her şeyi değiştirir ve bir sahtekarın kavgaya katılmasıyla kaos ortaya çıkar...",
+                "air_date": "2006-07-12",
+                "still_path": "/cTIK5mvqkzTcrfGlZGEt1LHtNSg.jpg",
+                "video_url": "4374445"
+            },
+            {
+                "episode_number": 194,
+                "name": "Perili Kalenin Gizemli Laneti",
+                "overview": "Naruto, Hinata ve Kiba, Daimyō'nun karısını aramak için Bal Ülkesine gönderilir. Orada ürkütücü bir kale bulurlar ve ipuçları aramak için içeriye doğru yola çıkarlar.",
+                "air_date": "2006-07-19",
+                "still_path": "/4KTFPHPatnIPPCXQOGCKCbOMjlH.jpg",
+                "video_url": "4374446"
+            },
+            {
+                "episode_number": 195,
+                "name": "Üçüncü Süper Canavar!",
+                "overview": "Lee, Tsunade ile olan kontrolünü kaçırınca Naruto onu bulması için gönderilir. Bu arada Gai, Yagura adında birini eğitiyor ve Lee ile Yagura'nın bir antrenman maçı yapması gerektiğine karar verdi. Lee, muayenesinde rahatsız edici haberler aldıktan sonra yeni stajyeri yenebilecek mi?",
+                "air_date": "2006-07-26",
+                "still_path": "/yYqwvpFNqROZmEPF5vkySSK0GTo.jpg",
+                "video_url": "4374448"
+            },
+            {
+                "episode_number": 196,
+                "name": "Sıcak Kanlı Karşılaşma: Öğrenci ve Sensei",
+                "overview": "Gai, antrenman direklerinden oluşan bir kalenin içinde mahsur kaldı. Yagura ortaya çıkıyor ama yardım etmek için mi yoksa engellemek için mi orada? Naruto, Neji ve Tenten, Gai'yi kurtarmaya çalışmak için ortaya çıkıyorlar, ancak bu onların kendi başlarına halletmeleri için çok mu zor olacak?",
+                "air_date": "2006-08-09",
+                "still_path": "/4SrjLb1M6xDavB04hRfDobh3Mth.jpg",
+                "video_url": "4374449"
+            },
+            {
+                "episode_number": 197,
+                "name": "Kriz: Gizli Yaprak 11 Toplanıyor!",
+                "overview": "Naruto, Gennou adında bir inşaat işçisi olan yaşlı bir adamla tanışır. Ancak Gennou, Konoha'daki bazı binaların planlarını çaldığında Naruto aniden kendisini ANBU tarafından soruşturma altında bulur. Gennou'nun ardındaki gerçek nedir ve neden kimse neler olup bittiğini bilmiyor gibi görünüyor?",
+                "air_date": "2006-08-16",
+                "still_path": "/pguFiVY5qFjLiK1ExMVmrccKQTX.jpg",
+                "video_url": "4374451"
+            },
+            {
+                "episode_number": 198,
+                "name": "Anbu Pes Mi Ediyor? Naruto'nun Hatırası",
+                "overview": "ANBU, Gennou hakkında ihtiyaç duydukları bilgiyi elde etmek için, ihtiyaç duydukları bilgiyi Naruto'nun hafızasından almayı umarak Naruto'yu transa soktu. Ancak tüm bunları yapsalar bile ihtiyaç duydukları bilgiyi alabilecekler mi?",
+                "air_date": "2006-08-23",
+                "still_path": "/1joFaRCsWU0GEaacU2LGvfqYo33.jpg",
+                "video_url": "4374452"
+            },
+            {
+                "episode_number": 199,
+                "name": "Kaçırılan Hedef",
+                "overview": "Naruto ve diğerleri, Gennou'ya veya planına yol açacak ipuçlarını aramaya devam ederler. Ninja Akademisi'nde yapılan bir soruşturma sırasında, şüpheli bir eğitim noktası keşfederler ve bu da daha da korkutucu bir keşfe yol açar.",
+                "air_date": "2006-08-30",
+                "still_path": "/2Uc0maqAW95CJuXUuVYJCngbxz6.jpg",
+                "video_url": "4374453"
+            },
+            {
+                "episode_number": 200,
+                "name": "Güçlü Yardımcı",
+                "overview": "Patlayıcı etiketlerle haritalanan Konoha şehriyle birlikte, bunları ortadan kaldırmaya ya da tüm şehri boşaltmaya karar vermemiz gerekiyor! Ancak bu etiketlerde bir tuhaflık vardır, acaba bunun ne olduğunu keşfedebilecekler midir? Peki hepsini zamanında kaldırabilecekler mi?",
+                "air_date": "2006-09-13",
+                "still_path": "/3U8fFBDxJCgSh4b5XClwgTwLuh7.jpg",
+                "video_url": "4374455"
+            },
+            {
+                "episode_number": 201,
+                "name": "Çoklu Tuzaklar! Yıkıma Geri Sayım",
+                "overview": "Shikamaru, Gennou'nun bundan sonra ne planladığını anlamaya çalışırken Naruto, Büyük Taş yüzlerinde Gennou ile savaşıyor. Shikamaru, Gennou'nun plandaki bir sonraki adımını çok geç olmadan durdurabilecek mi? Peki Naruto Trap Master'ı yenebilecek mi?",
+                "air_date": "2006-09-20",
+                "still_path": "/5a0SfwehwLZpueYDlkAxzeRFXD9.jpg",
+                "video_url": "4374456"
+            },
+            {
+                "episode_number": 202,
+                "name": "En İyi 5 Ninja Savaşı!",
+                "overview": "Naruto ve Sakura, şimdiye kadarki en iyi beş savaşın yer aldığı özel bir özet bölümüne ev sahipliği yapıyor! Ayrıca ekibin bir kısmıyla ve hatta belki de düşmanın bir kısmıyla röportajlar var....",
+                "air_date": "2006-09-27",
+                "still_path": "/mqz3wIcrii7Q79HmFh4bgSYEyaB.jpg",
+                "video_url": "4374457"
+            },
+            {
+                "episode_number": 203,
+                "name": "Kurenai'nin Kararı: 8. Takım Geride Kaldı",
+                "overview": "Naruto, şaşırtıcı bir yıkım yeteneğine sahip Yakumo adında bir kızla karşılaşır. Kısa süre sonra Takım 8'in lideri Kurenai Yuhi şaşırtıcı bir karar verir ve Naruto bunun nedenini bulmaya kararlıdır.",
+                "air_date": "2006-10-05",
+                "still_path": "/dthYnJDpKWxHP4JAl3cqbAez8k5.jpg",
+                "video_url": "4374458"
+            },
+            {
+                "episode_number": 204,
+                "name": "Yakumo'nun Mühürlü Yeteneği",
+                "overview": "Naruto gece gizlice Yakumo'nun malikanesine girer ve Kurenai'nin Yakumo'nun yeteneklerini mühürlemekle tehdit ettiği bir rüya görür. Daha sonra takımdan ayrılmasının nedeninin bu olduğunu keşfeder, ancak Kurenai daha fazlasını açıklamayı reddeder. Kurenai, Yakumo'yu görmeye giderken birkaç Kurama Klanı üyesi saldırır.",
+                "air_date": "2006-10-05",
+                "still_path": "/kq4YyWWFfCb1lz7Vlox7cLCB9Tg.jpg",
+                "video_url": "4374459"
+            },
+            {
+                "episode_number": 205,
+                "name": "Kurenai'nin Çok Gizli Görevi: Üçüncü Hokage'ye Verilen Söz",
+                "overview": "Kurenai, Yakumo, Naruto ve Sakura ile birlikte kaçmaya çalışırken Takım 8 ve Might Gai yardım etmek için gelir. Kurenai ile Yakumo arasındaki tarihin bir kısmını öğreniyoruz ve işlerin neden bu şekilde gittiğini keşfediyoruz...",
+                "air_date": "2006-10-05",
+                "still_path": "/fCJYKkiZCjajVyjcef2WDTwO5u.jpg",
+                "video_url": "4374460"
+            },
+            {
+                "episode_number": 206,
+                "name": "Genjutsu Mu Gerçeklik Mi?",
+                "overview": "Naruto, Kurenai, Yakumo ve Team 8, şok edici bir keşifle Konoha'ya geri dönüyor. Bu gerçekten gerçek olabilir mi, yoksa hepsi bir tür hastalıklı yanılsama mı?",
+                "air_date": "2006-10-19",
+                "still_path": "/3SutLagw2vltwOJGZZzbyr6K0h6.jpg",
+                "video_url": "4374461"
+            },
+            {
+                "episode_number": 207,
+                "name": "Varsayılan Mühürlü Yetenek",
+                "overview": "Naruto ve 8. Takım üyeleri Yakumo'nun evine giderek onu Kurenai ile birlikte bulur. Tüm bunların arkasında gizemli bir varlığın olabileceği ortaya çıkar. Grup gerçeği zamanında keşfedebilecek mi?",
+                "air_date": "2006-10-26",
+                "still_path": "/eR1mxTZdpdCIEVKpxPK5L5L4rjP.jpg",
+                "video_url": "4374462"
+            },
+            {
+                "episode_number": 208,
+                "name": "Ödüllü Eserin Ağırlığı!",
+                "overview": "Naruto ve Kiba'ya, nadir ve değerli bir eseri taşıyan Shinemon adında bir adama eşlik etmeleri emredilir. Ancak Haydutlar eseri çaldığında ikili onu geri alıp Shinemon'u hayatta tutabilecek mi?",
+                "air_date": "2006-11-02",
+                "still_path": "/8Rhiju1PnksVdclr5pT81v0iHZ8.jpg",
+                "video_url": "4374463"
+            },
+            {
+                "episode_number": 209,
+                "name": "Düşman: Ninja Düşüşleri",
+                "overview": "Naruto, Sakura ve Lee, Gantetsu adlı bir mahkuma Orman Ülkesi Başkentine kadar eşlik etmek üzere gönderilir. Görevleri yalnızca bir şeylerin ters gitmesi durumunda eskort grubuna destek olmaktır, ki kaçınılmaz olarak öyle de olur...",
+                "air_date": "2006-11-09",
+                "still_path": "/sNe7jsPZOQQ5NMj2QZy78l7AN4u.jpg",
+                "video_url": "4374465"
+            },
+            {
+                "episode_number": 210,
+                "name": "Şaşırtıcı Orman",
+                "overview": "Geminin ikiye bölünmesiyle Naruto, Todoroki ve Gantetsu diğerlerinden ayrılır. Artık Naruto, Gantetsu'nun birlikte olduğu diğer üç Shinobazu ile yüzleşmelidir. Naruto onları dışarı çıkarabilecek mi yoksa yolu göstermesi için Gantetsu'ya mı güvenmek zorunda kalacaklar?",
+                "air_date": "2006-11-16",
+                "still_path": "/6Wla1YK3UkzReV03qHvn2L78q8N.jpg",
+                "video_url": "4374466"
+            },
+            {
+                "episode_number": 211,
+                "name": "Alevlerin Hafızası",
+                "overview": "Todoroki ailesinin intikamını almak ve Gantetsu'yu öldürmek istiyor. Tek sorun Naruto'nun başka fikirleri olmasıdır. Başka yerlerde Lee ve Sakura'nın etrafı, onlara Gantetsu vermelerini talep eden çocuklarla çevrilidir. Naruto ve Todoroki Gantetsu'yu geri alabilecek mi? Peki çocukların onu isteme nedenleri nelerdir?",
+                "air_date": "2006-11-30",
+                "still_path": "/lX3f7IXDoklEQK8znodJ0EIo4K2.jpg",
+                "video_url": "4374467"
+            },
+            {
+                "episode_number": 212,
+                "name": "Herkes Kendi Yoluna",
+                "overview": "Naruto, Gantetsu'yu ve çocukları kurtarmak için gelir ancak Akio'nun kaçırılması ve Todoroki'nin kardeşinin hayatta olduğunu fark etmesiyle sorun yaşar. Naruto ve Todoroki Akio'yu kurtarabilecek mi?",
+                "air_date": "2006-12-07",
+                "still_path": "/tKOLDjaoelRE2oPKBZOjg2aPk7n.jpg",
+                "video_url": "4374468"
+            },
+            {
+                "episode_number": 213,
+                "name": "Kaybolan Anılar",
+                "overview": "Naruto yaralı bir çocuğu kurtarır ama o Konoha'nın dışındadır. Tsunade, Naruto'yu hafızası geri gelene kadar çocuğa bakması için görevlendirir. Bu çocuğun Konoha'nın dışında ne işi vardı ve neden hiçbir şey hatırlamıyordu?",
+                "air_date": "2006-12-14",
+                "still_path": "/iuuMJpCC450j7GJd5zaF8h5c7TV.jpg",
+                "video_url": "4374469"
+            },
+            {
+                "episode_number": 214,
+                "name": "Gerçeği Geri Getirmek",
+                "overview": "Naruto ve Menma, Tsunade'nin Menma'nın anılarını bulmalarına izin vermesini sağlamayı başarır. Ancak Neji ve Tenten'in onları korumasıyla birlikte gitmek zorunda kalırlar. Yolda yanmış bir köyle karşılaşırlar. Orada köylüleri selamlıyorlar ve onlara ne olduğunu soruyorlar. Ne yazık ki köylüler onları gördüklerine pek sevinmiyorlar.",
+                "air_date": "2006-12-21",
+                "still_path": "/cObBXJ6VF7aADPUi2HwSTrD7iaK.jpg",
+                "video_url": "4374470"
+            },
+            {
+                "episode_number": 215,
+                "name": "Silinmesi Gereken Bir Geçmiş",
+                "overview": "Ran, kolundaki izi görünce Menma'yı öldürmek ister, ancak Neji, suçlarına dair herhangi bir anı olmadan bir suçluyu öldürmenin haksızlık olacağını söyleyerek ona engel olur. Ran sonunda kabul eder ve Menma'yı ameliyat ederek hayatını kurtarır, ancak köylüler o kadar mutlu değildir. Yabancı bir şinobi grubunun ikinci bir saldırı için gelmesine hazırlar mı?",
+                "air_date": "2006-12-21",
+                "still_path": "/cavW847bZp1KgEXrXHeChYW6OOH.jpg",
+                "video_url": "4374471"
+            },
+            {
+                "episode_number": 216,
+                "name": "Hedeflenen Shukaku",
+                "overview": "Bir Kum şinobisi olan Matsuri, gizemli bir ninja tarafından kaçırıldı. Onları geri getirebilmek için Gaara'nın gizemli ninjanın meydan okumasını kabul etmesi gerekir. Naruto bu mücadelenin felaketle sonuçlanmasını önleyebilecek mi?",
+                "air_date": "2007-01-11",
+                "still_path": "/sEautcEwXpAMABpDD2MaeOqKhpE.jpg",
+                "video_url": "4374472"
+            },
+            {
+                "episode_number": 217,
+                "name": "Yaprak Shinobi ile Kum İttifakı",
+                "overview": "Gaara, Temari ve Kankuro onları kovalarken haydut ninjalar koşmaya devam eder. Aynı zamanda Shino, Hinata ve Neji, Shitenshounnin'i bulmaya çalışmak için yeteneklerini kullanıyor. İlk önce kim savaşacak ve sonunda kim kazanacak?",
+                "air_date": "2007-01-18",
+                "still_path": "/pKDsHukixNHNxN3NnYoqQlt6t0P.jpg",
+                "video_url": "4374473"
+            },
+            {
+                "episode_number": 218,
+                "name": "Karşı Saldırı!",
+                "overview": "Shikamaru ve Ino, Kyaku'ya karşı Temari'ye yardım etmek için gelirken Kiba ve Chouji, Konkuro'ya yardım etmeye gider. Neji tuhaf bir şey fark edene kadar her şey yolunda gidiyor gibi görünüyor...",
+                "air_date": "2007-01-25",
+                "still_path": "/anXB48uvc0AjlOVGmFbEyDZwM3E.jpg",
+                "video_url": "4374474"
+            },
+            {
+                "episode_number": 219,
+                "name": "Nihai Silahın Yeniden Doğuşu",
+                "overview": "Çakrası bu kadar düşük olmasına rağmen Gaara, Shitenshounin lideriyle savaşır. Başarısız olup tuzağa düştüğünde Naruto onu kurtarmaya çalışır. Peki Takumi Köyü'nün lideri Seimei yeniden canlandığında, Naruto, Shukaku onun tüm kontrolünü ele geçirmeden önce Gaara'yı kurtarabilecek mi?",
+                "air_date": "2007-02-01",
+                "still_path": "/hxbvC3AsHTKVGxvqwrHEqpWT48r.jpg",
+                "video_url": "4374475"
+            },
+            {
+                "episode_number": 220,
+                "name": "Kalkış",
+                "overview": "Naruto'nun heyecan verici sonu. Gaara'ya ne olacak ve Jiraiya geri döndüğüne göre Naruto sonunda eğitimine başlamak için Konoha'dan ayrılacak mı?",
+                "air_date": "2007-02-08",
+                "still_path": "/kErbglX2IHAESEWHqEDdAmMcELU.jpg",
+                "video_url": "4374477"
+            }
+        ]
+    }
+}

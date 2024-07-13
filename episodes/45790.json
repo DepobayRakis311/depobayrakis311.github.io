@@ -1,0 +1,1567 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 26,
+        "air_date": "2012-10-06",
+        "poster_path": "/co0K9FS9rQPxPoKADs4nuGckk3A.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "İşgalci Dio",
+                "overview": "İngiltere, 1868. Bir hırsız, devrilmiş bir arabaya saldırmaya çalışır, ancak içindekilerden ikisinin, bir adam ve küçük oğlunun hâlâ hayatta olduğunu keşfeder. Adam, George Joestar, kendisini Dario Brando olarak ortaya koyan kurtarıcısına sonsuza kadar borçlu kalacağını ilan eder.",
+                "air_date": "2012-10-06",
+                "still_path": "/kiqwzS6w9rL4h4yYiZ9gyTlg0qC.jpg",
+                "video_url": "1299318"
+            },
+            {
+                "episode_number": 2,
+                "name": "Geçmişten Bir Mektup",
+                "overview": "Yedi yıl sonra, 1888'de, JoJo ve Dio'nun iyi anlaştıkları varsayılır, ancak JoJo hala Dio'dan korkmaktadır. Bu arada, Dio, Joestar ailesini servetlerinden kurtarmak için planlar yapar.",
+                "air_date": "2012-10-13",
+                "still_path": "/tGAWqP45ZjkoIH1eUtsYQrQwDKo.jpg",
+                "video_url": "3933990"
+            },
+            {
+                "episode_number": 3,
+                "name": "Dio ile Gençlik",
+                "overview": "JoJo, Dio'yu polise teslim etmeye hazırlanır.",
+                "air_date": "2012-10-20",
+                "still_path": "/hizMKHp69STEV4kodk4ASUmc9xO.jpg",
+                "video_url": "3933995"
+            },
+            {
+                "episode_number": 4,
+                "name": "Aşırı Hız",
+                "overview": "Olaydan üç gün sonra JoJo uyanır ve Erina'nın onu hastanede sağlığına kavuşturduğunu görür. Arkadaşlıkları yeniden alevlenirken Will A. Zeppeli adında tuhaf bir adamla karşılaşırlar.",
+                "air_date": "2012-10-27",
+                "still_path": "/yS2cIgNCIuYt0YNsKulLBXBDryi.jpg",
+                "video_url": "3934005"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kara Şövalyeler",
+                "overview": "Poco adında yetenekli bir genç yankesici, farkında olmadan JoJo'yu ve arkadaşlarını Dio, Tarukus ve Blueford'la karşılaşmaya çeker.",
+                "air_date": "2012-11-03",
+                "still_path": "/haJRk3SMHuuemXQGYPjfTrMJNLH.jpg",
+                "video_url": "3934011"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yarının Cesareti",
+                "overview": "JoJo ve Şövalyeler arasındaki karşılaşma devam ediyor.",
+                "air_date": "2012-11-10",
+                "still_path": "/3MFnoOuLi2XDJOv07JqXQjIZ0Ir.jpg",
+                "video_url": "3934013"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kederli Varis",
+                "overview": "Tarukus'la karşılaşma sona erer. Poco'nun ailesi büyük tehlike altında. JoJo, Dire, Straizo ve Tonpetty ile tanışır.",
+                "air_date": "2012-11-17",
+                "still_path": "/2siQRWUBiDJptmBA0JuIBFTaJrg.jpg",
+                "video_url": "3934018"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kanlı Savaş! Jojo ve Dio",
+                "overview": "Parti Doobie tarafından karşılanır. Dire, Dio'yla karşı karşıya gelir. Straizo, Pajyu, Jones, Pluton ve Barnum'u ele geçirir.",
+                "air_date": "2012-11-24",
+                "still_path": "/LzSUjDo8qoNySPF5Yyfu11QJ4g.jpg",
+                "video_url": "3934021"
+            },
+            {
+                "episode_number": 9,
+                "name": "Son Dalgalanma!",
+                "overview": "Dio, JoJo ile yaptığı savaşın ardından düşerken, dalga kafasına ulaşmadan önce başını keser ve bunu zombi hizmetkarı Wang Chung tarafından kurtarılır.",
+                "air_date": "2012-12-01",
+                "still_path": "/dkKVrQZl55QazoySIXMPA2wPfKU.jpg",
+                "video_url": "3934024"
+            },
+            {
+                "episode_number": 10,
+                "name": "New York'un Jojo'su",
+                "overview": "1938'de, Jonathan Joestar'ın ölümünden 49 yıl sonra, Speedwagon ve Straizo Meksika'ya giderler ve burada benzer görünümlü maskelerle dolu bir yeraltı odasını ve onları yaratanın olduğuna inanılan taşlaşmış bir bedeni keşfederler.",
+                "air_date": "2012-12-08",
+                "still_path": "/yjg2iTRgFaJpjOO8Ofkfk2NfzeV.jpg",
+                "video_url": "3934027"
+            },
+            {
+                "episode_number": 11,
+                "name": "Oyun Ustası",
+                "overview": "Beklendiği gibi, Straizo Joseph'in saldırısından kurtulur ve Dio'nun kullandığı lazer göz saldırısını kullanarak JoJo'nun başını ve boynunu delmiş gibi görünür. Ancak, bunun Joseph'in akıllıca bir hilesi olduğu ortaya çıkar.",
+                "air_date": "2012-12-15",
+                "still_path": "/3daivEmX75UfB76yXaWeVQnRgLP.jpg",
+                "video_url": "3934031"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sütun Adam",
+                "overview": "Joseph, Stroheim'ın adamlarından biri olan Donovan ile yüzleşir, ancak Speedwagon'un hala hayatta olduğunu öğrenerek onu bastırmayı başarır.",
+                "air_date": "2012-12-22",
+                "still_path": "/wcOjVIOEzb5Y0RX3fQjR9r9QROH.jpg",
+                "video_url": "3934036"
+            },
+            {
+                "episode_number": 13,
+                "name": "Jojo Ultimate Yaşam Formu'na Karşı",
+                "overview": "Joseph, Santana'ya karşı savaşmaya başladığında Joseph, Dalgacılığının Santana'ya karşı etkili olmadığını fark eder, ancak yine de onu Sütun Adam'ın saldırılarından korumaya yardımcı olur. Joseph güçlü bir darbe aldıktan sonra bilincini kaybetmiş gibi görünüyor.",
+                "air_date": "2013-01-05",
+                "still_path": "/uI6BRy2weamun8NpvHri4vW7nIJ.jpg",
+                "video_url": "3934039"
+            },
+            {
+                "episode_number": 14,
+                "name": "Kadim Zamanların Nihai Savaşçıları",
+                "overview": "Speedwagon, Santana'nın heykelli kalıntılarını vakfının Washington DC'deki genel merkezine getiriyor ve burada Santana'nın hala hayatta olduğu gösteriliyor, ancak bilim adamları onu ultraviyole ışık kullanarak hareketsiz tutabiliyorlar.",
+                "air_date": "2013-01-12",
+                "still_path": "/m39kBMOulcDWzj7kmWb6DdJtuRy.jpg",
+                "video_url": "3934047"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bir Kahramanın Kanıtı",
+                "overview": "Caesar, Wamuu'yu Mark'ı öldürmek için savaşa sokar ve Sütun Adam'ı Ripple ile doldurulmuş baloncuklarla çevrelemek için Bubble Launcher tekniğini kullanır.",
+                "air_date": "2013-01-19",
+                "still_path": "/2amKo6qHPILzrzooFDzjKJjBMMH.jpg",
+                "video_url": "3934053"
+            },
+            {
+                "episode_number": 16,
+                "name": "Lisa Lisa, Hamon Koçu",
+                "overview": "JoJo'ya Ripple güçlerini kontrol etmeyi öğretmek isteyen Caesar, onu öğretmeni Lisa Lisa ile tanışması için Venedik'e götürür.",
+                "air_date": "2013-01-26",
+                "still_path": "/u77DNcSXAeGIURVkHNGrrREdEGo.jpg",
+                "video_url": "3934056"
+            },
+            {
+                "episode_number": 17,
+                "name": "Daha Derin Plan",
+                "overview": "Lisa Lisa, JoJo ve Caesar'a Taş Maskenin yaratıcısı Kars'ın, Taş Maskeye güç vermek ve nihai yaşam formu haline gelmek için Süper Aja olarak bilinen mükemmel kesilmiş Kırmızı Aja Taşını nasıl aradığını açıklıyor.",
+                "air_date": "2013-02-02",
+                "still_path": "/5HWdIVR8TA5qqIr6M3H1WFzSZjh.jpg",
+                "video_url": "3934060"
+            },
+            {
+                "episode_number": 18,
+                "name": "Von Stroheim'ın İntikamı",
+                "overview": "JoJo, Lisa Lisa'yı Sütun Adamlar hakkında uyarmayı beklerken Esidisi'nin beyni, Suzi Q'nun vücudunu ele geçirir ve Lisa Lisa ile yüzleşmeden önce Süper Aja'yı Venedik'e giden bir tekneye gönderir.",
+                "air_date": "2013-02-09",
+                "still_path": "/jiNmwMUqX0AKaP20tyQ626E4dMK.jpg",
+                "video_url": "3934066"
+            },
+            {
+                "episode_number": 19,
+                "name": "Eşiğe Doğru Bir Yarış",
+                "overview": "Stroheim, Santana'yı geride bırakmak için tasarlanmış yeni mekanik bedenini Kars'a karşı savaşmak için kullanmaya başlar. Ancak, Kars'ın Işık Modu'na karşı işe yaramaz.",
+                "air_date": "2013-02-16",
+                "still_path": "/pU27dEESLs2WqOq8iuzB8q82bS4.jpg",
+                "video_url": "3934068"
+            },
+            {
+                "episode_number": 20,
+                "name": "Genç Sezar",
+                "overview": "Lisa Lisa, JoJo'ya Caesar'ın, borçlu babası Mario tarafından terk edildikten sonra genç yaşta suça sürüklendiği çocukluğunu anlatır.",
+                "air_date": "2013-02-23",
+                "still_path": "/nKENXHCZPBmjLCx54xHC1aFOkiR.jpg",
+                "video_url": "3934071"
+            },
+            {
+                "episode_number": 21,
+                "name": "Yüz İkiye Karşı",
+                "overview": "JoJo ve Lisa Lisa, Wamuu'nun kan izini sürerken Wired Beck adında başka bir vampirle karşılaşır.",
+                "air_date": "2013-03-02",
+                "still_path": "/dFwk5GFZ0znKMP5EkI7GjmrqwEa.jpg",
+                "video_url": "3934077"
+            },
+            {
+                "episode_number": 22,
+                "name": "Gerçek Bir Savaşçı",
+                "overview": "JoJo ve Wamuu'nun yarışı başlamadan önce, her turda onu bir sütundan ilk yakalayan kişi için farklı bir silah olacağı ortaya çıkıyor.",
+                "air_date": "2013-03-09",
+                "still_path": "/tlaWFTAuCVr9Fjq4HsHRcCPozQk.jpg",
+                "video_url": "3934082"
+            },
+            {
+                "episode_number": 23,
+                "name": "Rüzgar Savaşçısı",
+                "overview": "Kendi vücudunu soymaya başlayan Son Mod saldırısı Gathering Gale'i başlatan Wamuu, JoJo'ya doğru taşları kesebilecek bir rüzgar akımı ateşlemeye başlar.",
+                "air_date": "2013-03-16",
+                "still_path": "/tE3JdcRBT6LurWwSJv3p77JEfKe.jpg",
+                "video_url": "3934086"
+            },
+            {
+                "episode_number": 24,
+                "name": "Jojo'yu Bağlayan Bağlar",
+                "overview": "Lisa Lisa'nın düşerek ölmesini engellemek için ipe tutunmak zorunda kalan JoJo, Kars karşısında büyük bir dezavantaja sahiptir.",
+                "air_date": "2013-03-23",
+                "still_path": "/rXZcKRYzNoNQ4r67jM4Nlwb9iFa.jpg",
+                "video_url": "3934088"
+            },
+            {
+                "episode_number": 25,
+                "name": "Bir Süper Varlığın Doğuşu",
+                "overview": "Kars, elini Stroheim'a zarar veren et yiyen bir sincaba dönüştürerek yeni güçlerini sergiliyor. Güneş doğuyor ve geride şok edici bir keşif bırakıyor.",
+                "air_date": "2013-03-30",
+                "still_path": "/8vrQgzGpFcfMEo2DOkhhRKFLIai.jpg",
+                "video_url": "3934091"
+            },
+            {
+                "episode_number": 26,
+                "name": "Yükselen Bir",
+                "overview": "JoJo'nun ve kolunun zaferi, Kars'ın kendisini ölümcül lavlardan korumak için hava kabarcıklarından bir kalkan oluşturarak yanardağdan sağ çıkmayı başarmasıyla yarıda kalır.",
+                "air_date": "2013-04-06",
+                "still_path": "/hj5zHiMl8eQsVhtXTwRhIS8U4pX.jpg",
+                "video_url": "3934093"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 48,
+        "air_date": "2014-04-05",
+        "poster_path": "/kX9noqY0YpOPKwXpRXYg1hEIqmM.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kötü Ruhun Ele Geçirdiği Adam",
+                "overview": "1987'de Japonya'da Jotaro Kujo adında bir çocuk, ayrılmayı reddederek gönüllü olarak kendini hapishaneye teslim eder. Jotaro'nun annesi Holly, bir tanıdığı Mohammed Abdul ile birlikte Japonya'ya seyahat eden babası Joseph Joestar'dan yardım ister.",
+                "air_date": "2014-04-05",
+                "still_path": "/scuOivodwsDs5BNZkUY2jS13sg8.jpg",
+                "video_url": "3934098"
+            },
+            {
+                "episode_number": 2,
+                "name": "Hakim Kim Olacak?",
+                "overview": "Jotaro okula gider ve Noriaki Kakyoin adında gizemli bir transfer öğrenciyle karşılaşır.",
+                "air_date": "2014-04-12",
+                "still_path": "/6JCNGcKc2R7Zq7LGC3cFj3UGfio.jpg",
+                "video_url": "3934103"
+            },
+            {
+                "episode_number": 3,
+                "name": "Dio'nun Laneti",
+                "overview": "Jotaro, Kakyoin'i yenmeyi başarır. Yaralı Kakyoin'i evine götürür, DIO hakkında bilgi edinmeyi umar.",
+                "air_date": "2014-04-19",
+                "still_path": "/2X1Zfstzr1BW52HNjRMRsKnZdL4.jpg",
+                "video_url": "3934107"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gri Kule",
+                "overview": "50 gün içinde DIO'yu yenmezlerse Holly ölebilir. Jotaro ve ekibi, DIO'nun saklandığını düşündükleri Mısır'a doğru yola çıkar. Uçaktayken DIO'nun suikastçılarından biriyle karşılaşırlar.",
+                "air_date": "2014-04-26",
+                "still_path": "/nlp95NrM938sMl1kKB8osMAtLLT.jpg",
+                "video_url": "3934110"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gümüş Araba",
+                "overview": "DIO'nun bir sonraki suikastçısı Polnareff, Jotaro'ya ve mürettebata saldırır. Abdul, Sihirbazın Kırmızısı ile onunla yüzleşir.",
+                "air_date": "2014-05-03",
+                "still_path": "/AghzF1rmCHZGDdsXN3SMKNRTr8i.jpg",
+                "video_url": "3934114"
+            },
+            {
+                "episode_number": 6,
+                "name": "Koyu Mavi Ay",
+                "overview": "Aralarına yeni katılan bir kişiyle birlikte Speedwagon Vakfı'nın kendilerine sağladığı tekneyle Singapur'a doğru yola çıkan Jotaro, yolculukları sırasında suyun içinden gelen bir düşman Stand tarafından hedef alınır.",
+                "air_date": "2014-05-10",
+                "still_path": "/jhdE6sVVhwSsxK0xK9RB3qpyy8j.jpg",
+                "video_url": "3934117"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kuvvet",
+                "overview": "Dev bir gemi kendini gösteriyor. Gemide mürettebat bulamayacaklarını ama bir orangutan bulacaklarını fark ederler.",
+                "air_date": "2014-05-17",
+                "still_path": "/xjsHMznSir3akHtnH16BIDcshKc.jpg",
+                "video_url": "3934122"
+            },
+            {
+                "episode_number": 8,
+                "name": "Şeytan",
+                "overview": "Singapur'a varan Jotaro'nun grubu tek tek bir otelde kalır. Polnareff'i odasında \"Lanetli Devo\" olarak bilinen yeni bir Stand sahibi beklemektedir. Kullanıcısının rakibe karşı nefreti arttıkça Devo'nun Stand'ı da gücünü artırır. Polnareff cephede savaşmaya başladığında çaresiz bir duruma düşer. Polnareff, kendisine acımasız ve vahşi bir şekilde saldırmaya devam eden Devo'ya karşı savaşı kazanma şansına sahip midir?",
+                "air_date": "2014-05-24",
+                "still_path": "/3rYTunOs5VGdfaGrCxDXgF86ysu.jpg",
+                "video_url": "3934127"
+            },
+            {
+                "episode_number": 9,
+                "name": "Sarı Denge",
+                "overview": "Joseph, TV'yi kullanarak onlara Kakyoin'in bir hain olduğunu söyleyen bir mesaj oluşturmak için Hermit Purple'ı kullanır.",
+                "air_date": "2014-05-31",
+                "still_path": "/dUET3TBGxt9thWuzUrFe3tpfaCr.jpg",
+                "video_url": "3934131"
+            },
+            {
+                "episode_number": 10,
+                "name": "İmparator ve Asılan Adam (1)",
+                "overview": "Grup Hindistan'a gidiyor. Bir restoranda Polnareff, aynanın içindeki gizemli Stand'ın saldırısına uğrar.",
+                "air_date": "2014-06-07",
+                "still_path": "/a8nRTcBGY1Vw03jjYkwFYEPKFzv.jpg",
+                "video_url": "3934137"
+            },
+            {
+                "episode_number": 11,
+                "name": "İmparator ve Asılan Adam (2)",
+                "overview": "Polnareff'i kurtarmak isteyen Abdul, düşman tarafından yaralanır. Ardından J. Geil'in Standı, Asılmış Adam saldırır.",
+                "air_date": "2014-06-14",
+                "still_path": "/mfj3aCnfgvcXOfl3tDAtv4o737Y.jpg",
+                "video_url": "3934140"
+            },
+            {
+                "episode_number": 12,
+                "name": "İmparatoriçe",
+                "overview": "Grup Varanasi'ye doğru yola çıkar. Yolda Joseph kolunun oldukça şişmiş olduğunu fark eder.",
+                "air_date": "2014-06-21",
+                "still_path": "/3QC9GTMDCFMpKAQV4YquiNffeVO.jpg",
+                "video_url": "3934144"
+            },
+            {
+                "episode_number": 13,
+                "name": "Çarkıfelek",
+                "overview": "Jotaro ve diğerleri bir arabayla Pakistan'a doğru yola çıkarlar. Polnareff arabayı çok tehlikeli bir dağ yolunda sürüyor ve önünde yavaş hareket eden bir aracın yanından pervasızca geçiyor.",
+                "air_date": "2014-06-28",
+                "still_path": "/l8YemAEaMUomMc2JSZ7ARVUwxzP.jpg",
+                "video_url": "3934147"
+            },
+            {
+                "episode_number": 14,
+                "name": "Adalet (1)",
+                "overview": "Jotaro ve diğerleri, düşman Stand kullanıcılarının başka bir saldırısından başarıyla kurtulur ve Pakistan'a ulaşır. Ancak bir anda kapladıkları yoğun sis nedeniyle yakındaki bir köyde bir han bulmaya karar verirler. Vardıkları köy oldukça sessizdir ve sakinlerinin tümü oldukça tuhaf görünmektedir.",
+                "air_date": "2014-07-05",
+                "still_path": "/zf52X5JVA4svjbcd2fYjZDLvLT1.jpg",
+                "video_url": "3934152"
+            },
+            {
+                "episode_number": 15,
+                "name": "Adalet (2)",
+                "overview": "Polnareff sonunda Enyaba'nın DIO'dan başka bir suikastçı olduğunu anlar. Diğerlerini uyarmaya çalışır, ancak Enyaba'nın Duruşu Adalet, insanların bedenlerini ve cesetlerini kontrol altına alma yeteneğine sahiptir ve takip edilir. Bütün köy zaten Enyaba'nın kontrolü altındaydı.",
+                "air_date": "2014-07-12",
+                "still_path": "/ae3To4PGIz11AJYVTWhT9SYaVEt.jpg",
+                "video_url": "3934163"
+            },
+            {
+                "episode_number": 16,
+                "name": "Aşıklar (1)",
+                "overview": "Enyaba'nın saldırısından sağ kurtulan Jotaro ve ekibi, Pakistan'ın başkenti Karaçi'ye ulaşır. Orada DIO'nun bir sonraki suikastçısı Steely Dan ile karşılaşırlar. DIO'nun emirlerine uyan Steely Dan, Enyaba'yı onların önünde acımasızca öldürür. Jotaro ve diğerleri bu olayla ilgili çelişkiye düşmekten kendilerini alamaz ve sonunda Steely Dan ile bir savaşa girerler.",
+                "air_date": "2014-07-19",
+                "still_path": "/zRVljMFwpT6Hoi5pBqGJ173KqYO.jpg",
+                "video_url": "3934168"
+            },
+            {
+                "episode_number": 17,
+                "name": "Aşıklar (2)",
+                "overview": "Steely Dan'in Standı, The Lovers, Joseph'in beynine girdi. Dan, Joseph'in hayatının tehlikeye girmesiyle kendisini bir avantaja sokar ve Jotaro'nun itaat etmekten başka seçeneği olmadığını bilerek Jotaro'ya kendisi için çeşitli şeyler yapmasını söyler. Bu sırada Kakyoin ve Polnareff de Standlarıyla Joseph'in beynine girerler ve beyin hücrelerini yiyecek olarak kullanan Stand'ı bulurlar.",
+                "air_date": "2014-07-26",
+                "still_path": "/ideF7jyIvlj1C1oXyknK5XOiYkj.jpg",
+                "video_url": "3934170"
+            },
+            {
+                "episode_number": 18,
+                "name": "Güneş",
+                "overview": "Jotaro ve diğerleri çölde yolculuklarına devam ederek Kahire'ye ulaşmaya çalışırlar. Develerle seyahat ediyorlar ve birinin onları takip ettiği hissinden kurtulamıyorlar ama ortalıkta kimse yok. Öldürücü sıcakta seyahat ederken akşam 8'de havanın hala parlak olduğunu ve güneşin aslında batmak yerine doğduğunu fark ederler.",
+                "air_date": "2014-08-02",
+                "still_path": "/aENpJDDr3ushwPog85QES5yrgRP.jpg",
+                "video_url": "3934173"
+            },
+            {
+                "episode_number": 19,
+                "name": "Ölüm 13 (1)",
+                "overview": "Kakyoin rüya görüyor ve garip bir eğlence parkında olmanın hayalini kuruyor ve burada Ölüm tarot kartıyla karşılaşıyor. Rüyasında Ölüm 13'ün bir köpeği kestiğine tanık olur. Kakyoin çığlık atarak uyanır ama kötü rüyasının neyle ilgili olduğunu hatırlayamaz.",
+                "air_date": "2014-08-09",
+                "still_path": "/4r3BvItPiJr4MrfzMoSRSGhRp1z.jpg",
+                "video_url": "3934182"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ölüm 13 (2)",
+                "overview": "Kakyoin, diğerlerini bebeğin şüpheli olduğuna ikna etmeye çalışır, ancak bu geri teper ve arkadaşları onun akıl sağlığından şüphe etmeye başlar. Kakyoin daha sonra onları deli olmadığına ikna etmeye çalışır ve onlara üzerinde \"Bebek Standı\" kazınmış olan kolunu gösterir... ama bu onları onun gerçekten deli olduğuna inandırır. Kakyoin daha sonra saldırmak için Duruşunu kullanmaya çalışır, ancak Polnareff tarafından bayılır. Sonunda Jotaro ve diğerleri kabusla uyanır ve sonunda gerçek ortaya çıkar.",
+                "air_date": "2014-08-16",
+                "still_path": "/5maqmVMqvLRa8upCTFsDb0eeygD.jpg",
+                "video_url": "3934188"
+            },
+            {
+                "episode_number": 21,
+                "name": "Karar (1)",
+                "overview": "Polnareff, Muhammed Abdul'un babasının yaşadığı söylenen Kızıldeniz kıyısındaki bir adada sihirli bir lambayı ortaya çıkarır ve onun cini Cameo, her şey göründüğü gibi olmasa da ona üç dilek sunar. ",
+                "air_date": "2014-08-23",
+                "still_path": "/e5139qNppxsh1F7fHjG6O9dKxjT.jpg",
+                "video_url": "3934190"
+            },
+            {
+                "episode_number": 22,
+                "name": "Karar (2)",
+                "overview": "Polnareff, görünüşe göre kız kardeşi Cherie ve Abdul'u zombiye dönüştüren Cameo ve Duruş Yargısının saldırılarından kaçmanın bir yolunu bulmalıdır.",
+                "air_date": "2014-08-30",
+                "still_path": "/or6DarOe0ZcIMkl5TA224tz07JA.jpg",
+                "video_url": "3934192"
+            },
+            {
+                "episode_number": 23,
+                "name": "Yüksek Rahibe (1)",
+                "overview": "Jotaro ve diğerleri yeni bir seyahat aracı olarak bir denizaltı alır. Kızıldeniz üzerinden DIO'nun beklediği Mısır'a doğru ilerlemeye çalışırlar. Dışarıdaki herhangi bir tehdidi tespit etmek için sonarı kullanan denizaltı, sessizce dalar. Ancak su altında saldırıya uğrarlarsa kaçacak hiçbir yer olmadığını anlarlar ve tetikte olurlar. Sonunda yüzeye çıkmak üzereyken kabindeki bir kahve kupası dönüşür ve Joseph'in yapay elini keser.",
+                "air_date": "2014-09-06",
+                "still_path": "/gK8xfRGEpShOqIJZOnbaiZSRCwz.jpg",
+                "video_url": "3934194"
+            },
+            {
+                "episode_number": 24,
+                "name": "Yüksek Rahibe (2)",
+                "overview": "Grup, denizaltından ve Baş Rahibe'nin saldırılarından uzaklaşmanın bir yolunu bulmalıdır. ",
+                "air_date": "2014-09-13",
+                "still_path": "/ybjDqAtZlcQqX1crhjfucCK2Gl1.jpg",
+                "video_url": "3934195"
+            },
+            {
+                "episode_number": 25,
+                "name": "Aptal Iggy ve Geb'in N'doul'u, Bölüm (1)",
+                "overview": "Jotaro'nun grubu, N'Doul'un Standı \"Geb\" ve Iggy'nin \"The Fool\" adlı şarkısıyla karşılaşır.",
+                "air_date": "2015-01-10",
+                "still_path": "/3XwUNDyCQAei6IePlSk5JFRIwRe.jpg",
+                "video_url": "4014187"
+            },
+            {
+                "episode_number": 26,
+                "name": "Aptal Iggy ve Geb'in N'doul'u (2)",
+                "overview": "Grubun \"Geb\" ve \"Aptal\" ile karşılaşması devam ediyor.",
+                "air_date": "2015-01-17",
+                "still_path": "/db0YUJSa3uBYfDP4mstU36wYaMJ.jpg",
+                "video_url": "4014188"
+            },
+            {
+                "episode_number": 27,
+                "name": "Oingo'nun İlahi Khnum'u ve Boingo'nun İlahi Thoth'u",
+                "overview": "Joestar grubu Aswan'a vardığında Oingo'nun Standı \"Khnum\" ve Boingo'nun Standı \"Thoth\" ile karşılaşırlar.",
+                "air_date": "2015-01-24",
+                "still_path": "/9lfYDhmJG3sGAXK13PoqHAGMB22.jpg",
+                "video_url": "4014192"
+            },
+            {
+                "episode_number": 28,
+                "name": "Anubis (1)",
+                "overview": "Jotaro'nun grubu \"Anubis\" Standıyla karşılaşır.",
+                "air_date": "2015-01-31",
+                "still_path": "/nE1IrnhJ5WU13z4tqv8oOtK1iZw.jpg",
+                "video_url": "4014193"
+            },
+            {
+                "episode_number": 29,
+                "name": "Anubis (2)",
+                "overview": "\"Anubis\" ile karşılaşma devam ediyor.",
+                "air_date": "2015-02-07",
+                "still_path": "/bnCgizSKrtxcqNrich0nCux2qgG.jpg",
+                "video_url": "4014195"
+            },
+            {
+                "episode_number": 30,
+                "name": "Mariah'nın İlahi Bastet'i (1)",
+                "overview": "Jotaro ve diğerleri Luksor'a varırlar. Oraya doğru giderken Joseph bir kayada elektrik prizi fark eder. Kayadaki elektrik prizine hayran kalan Joseph yaklaşır ve şok olur.",
+                "air_date": "2015-02-14",
+                "still_path": "/mKGaC0WiexoA4Jd2nUFFhFOqgHf.jpg",
+                "video_url": "4014196"
+            },
+            {
+                "episode_number": 31,
+                "name": "Mariah'nın İlahi Bastet'i (2)",
+                "overview": "Düşman Standının güçleri nedeniyle Joseph'in vücudu mıknatıslanır. Abdul, Stand kullanıcısı olduğu anlaşılan kadının peşinden koşarken elektrik prizine de dokunur ve o da mıknatıslanır.",
+                "air_date": "2015-02-21",
+                "still_path": "/uMUJQK3VKOCYa43uDJijIl5Gm9c.jpg",
+                "video_url": "4014199"
+            },
+            {
+                "episode_number": 32,
+                "name": "Alessi'nin İlahi Seti (1)",
+                "overview": "Joseph ve Avdol, Mariah ile kavga ederken Jotaro onların henüz ortaya çıkmadığından endişelenir ve onları Luxor çevresinde aramaya gider. Ardından Polnareff birinin onları takip ettiğini hisseder ve adamla yüzleşir.",
+                "air_date": "2015-02-28",
+                "still_path": "/38depNzJoAwTiPrTMcnKkiTYzmT.jpg",
+                "video_url": "4014200"
+            },
+            {
+                "episode_number": 33,
+                "name": "Alessi'nin İlahi Seti (2)",
+                "overview": "Alessi'nin Standı Set'in gücü sayesinde Polnareff tekrar çocuğa dönüşür. Bu karmaşanın ortasında yardımına koşan kişi ise Marena adında bir kadındı. Ancak Alessi'nin kötü elleri Polnareff'i evine kadar takip etti.",
+                "air_date": "2015-03-07",
+                "still_path": "/sYfWY9lmN1BDI2StfbAcCEaGNfX.jpg",
+                "video_url": "4014202"
+            },
+            {
+                "episode_number": 34,
+                "name": "Kumarbaz D'arby (1)",
+                "overview": "Uzun bir yolculuğun ardından Jotaro ve diğerleri nihayet Kahire'ye ulaşır. Bir kafeye giderler ve etraftaki resmi göstererek DIO'nun malikanesinin nerede olduğunu bilen var mı diye sorarlar. Sonra birisi binayı daha önce gördüğünü söylüyor.",
+                "air_date": "2015-03-14",
+                "still_path": "/3dfumkrWvl7i2ZU1yf1I02lY7SZ.jpg",
+                "video_url": "4014203"
+            },
+            {
+                "episode_number": 35,
+                "name": "Kumarbaz D'arby (2)",
+                "overview": "Poker oyunu devam ederken ruhlar tehlikede.",
+                "air_date": "2015-03-21",
+                "still_path": "/AaUk3ahTeQpXd2mPXCM8wsERvpU.jpg",
+                "video_url": "4014204"
+            },
+            {
+                "episode_number": 36,
+                "name": "Hol Horse ve Boingo (1)",
+                "overview": "Hol Horse, Jotaro ve diğerlerinin peşine düşmek için Kahire'ye gelir. Başka bir ortakla güçlerini birleştirdi ve bir kez daha Jotaro ve mürettebatının hayatının peşinde. O ortak Boingo'dan başkası değil.",
+                "air_date": "2015-03-28",
+                "still_path": "/f6Lnvajx0feVeG3AR4QlNIWFWR6.jpg",
+                "video_url": "4014206"
+            },
+            {
+                "episode_number": 37,
+                "name": "Hol Horse ve Boingo (2)",
+                "overview": "Hol Horse ve Boingo, Jotaro ve diğerlerini Kahire'ye kadar takip etti ve Boingo'nun kitabında belirtildiği gibi, Hol Horse parmaklarını Polnareff'in burnuna soktu... ama oradan ne yapacağını bilmiyordu. Sonra Polnareff'i arayan Jotaro ve diğerleri ortaya çıkar, ancak işler önsezinin tersi yönde gidiyor gibi görünmektedir.",
+                "air_date": "2015-04-04",
+                "still_path": "/kLW6AulYuSXQqJ7HdXWoSM0KRlL.jpg",
+                "video_url": "4014209"
+            },
+            {
+                "episode_number": 38,
+                "name": "Cehennemin Bekçisi, Pet Shop (1)",
+                "overview": "Jojo ve diğerleri DIO'nun Kahire'deki malikanesini aramaya devam ediyor. Abdul'un tavsiyesine uyarak dilenci gibi konağı ararlar ve beklerler. Bu sırada şehirde tek başına dolaşan Iggy, iki büyük köpekle karşılaşır. Köpekler Iggy'nin gücünden korkar ve bunun yerine yakındaki bir malikanede bulunan bir kuşun peşine düşmeye karar verirler. Ancak köpekler konağa girer girmez dev bir buz saçağı tarafından kazığa düşürülürler. Iggy bu olay karşısında şok olur ve bir şahinin belirdiğini görür...",
+                "air_date": "2015-04-11",
+                "still_path": "/eEprs6tiQa24m3G1kPCujYXCOpG.jpg",
+                "video_url": "4014210"
+            },
+            {
+                "episode_number": 39,
+                "name": "Cehennemin Bekçisi, Pet Shop (2)",
+                "overview": "Iggy, DIO'nun malikanesi Pet Shop'u koruyan şahine karşı kanalizasyonda ölümüne bir savaşa girer. Pet Shop hiç merhamet göstermez ve korkutucu bir hızla Iggy'nin peşine düşer. Iggy, yaralanmış olmasına rağmen nehre koşuyor ve onu korumak için topraktan bir kubbe yapıyor. Ancak Pet Shop'un yeteneklerini hafife alıyor ve...",
+                "air_date": "2015-04-18",
+                "still_path": "/olpY2DpVZ1oCX3slcbdkcYUSkvt.jpg",
+                "video_url": "4014212"
+            },
+            {
+                "episode_number": 40,
+                "name": "Oyuncu D'arby (1)",
+                "overview": "Iggy'nin yaralanmalarına rağmen Jojo ve arkadaşları sonunda DIO'nun malikanesine ulaşır. İçeri girdiklerinde Genç D'Arby adında bir uşak onların gelişini bekliyordu. Yenilen Yaşlı D'Arby'nin küçük kardeşi, Atum'un gücü olan Duruşunu hemen gösterir.",
+                "air_date": "2015-04-25",
+                "still_path": "/9wsSFOy8dTFwCFIfdmceUderqIh.jpg",
+                "video_url": "4014213"
+            },
+            {
+                "episode_number": 41,
+                "name": "Oyuncu D'arby (2)",
+                "overview": "D'Arby ile ruhlar için verilen savaş devam ediyor. Kakyoin, D'Arby'ye bir yarış oyununa meydan okur, ancak sonunda kaybeder ve D'Arby onun ruhunu çalar. Joseph'in tepki verecek vakti kalmadan Jotaro bir sonraki oyunu seçer.",
+                "air_date": "2015-05-02",
+                "still_path": "/xBCQMVNvdMjIFCF8wFNRgGPUKtu.jpg",
+                "video_url": "4014214"
+            },
+            {
+                "episode_number": 42,
+                "name": "Boşluğun Miasması, Vanilyalı Buz (1)",
+                "overview": "D'Arby ile beyzbol maçı DIO'nun malikanesinde devam ediyor. Bir nedenden dolayı Jotaro, tekliflerini D'Arby'ye açıklamaya başlar. D'Arby, Jotaro'nun hareketlerini tuhaf buluyor ancak yine de Stand'ın yetenekleri nedeniyle üstünlüğün kendisine ait olduğuna inanıyor.",
+                "air_date": "2015-05-09",
+                "still_path": "/tWmCXre18IIcYeVkVR4h2WNRLjj.jpg",
+                "video_url": "4014215"
+            },
+            {
+                "episode_number": 43,
+                "name": "Boşluğun Miasması, Vanilyalı Buz (2)",
+                "overview": "Uzun ve zorlu bir yolculuğun ardından bir arkadaşlarının ani vedasıyla karşılaşırlar. Çok ani olduğu için Polnareff duygularını kontrol edemiyor. Çok az bir başarı ile kılıcını görünmeyen düşmana doğru sallamaya başlar.",
+                "air_date": "2015-05-16",
+                "still_path": "/qOJSGnaTECGVtb5n6JdPMYW96Jz.jpg",
+                "video_url": "4014217"
+            },
+            {
+                "episode_number": 44,
+                "name": "Boşluğun Miasması, Vanilyalı Buz (3)",
+                "overview": "Polnareff, Vanilla Ice'ın acımasız saldırılarıyla sınırlarını zorluyor. Sonunda ölümü bekler ama son dakikada ölmekte olan Iggy tarafından kurtarılır. Iggy enerjisinin son kırıntısını kullanıyor ancak Standı açıkça güç kaybediyor. Polnareff daha sonra Vanilla Ice'ı kafasına bıçakladı. Şu ana kadar saldırılara karşı dayanıklılık göstermesine rağmen Vanilla Ice sonunda yok edildi.",
+                "air_date": "2015-05-23",
+                "still_path": "/tprc4D4pUUg1UaqlvPtFas65BkG.jpg",
+                "video_url": "4014218"
+            },
+            {
+                "episode_number": 45,
+                "name": "Dio'nun Dünyası (1)",
+                "overview": "Polnareff \"Dünya\" Standıyla karşılaşır.",
+                "air_date": "2015-05-30",
+                "still_path": "/xfuKQlbOCGlKutTYMgpXvBMCAYP.jpg",
+                "video_url": "4014219"
+            },
+            {
+                "episode_number": 46,
+                "name": "Dio'nun Dünyası (2)",
+                "overview": "Grup, DIO'nun Standını belirlemeye çalışır.",
+                "air_date": "2015-06-06",
+                "still_path": "/qVbacHWGilpaxhNthKy3LhVpQoD.jpg",
+                "video_url": "4014220"
+            },
+            {
+                "episode_number": 47,
+                "name": "Dio'nun Dünyası (3)",
+                "overview": "Mücadele devam ediyor.",
+                "air_date": "2015-06-13",
+                "still_path": "/2ldoWtudAIZSaXXE7ljMMfQMqvr.jpg",
+                "video_url": "4014222"
+            },
+            {
+                "episode_number": 48,
+                "name": "Uzun Yolculuk, Elveda Dostlarım",
+                "overview": "Final Savaşı!",
+                "air_date": "2015-06-20",
+                "still_path": "/lyvqtdd0vrOoagRgKSDW5DEvJnz.jpg",
+                "video_url": "4014223"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 39,
+        "air_date": "2016-04-02",
+        "poster_path": "/wDd7tkGUJlnyHm7FXAV7E0jhwKo.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Jotaro Kujo! Meets Josuke Higashikata",
+                "overview": "Nisan 1999. Jotaro Kujo, Higashikata adında birini aramak için Morioh Şehrine gelir ve etrafı suçlularla çevrili genç bir adamla karşılaşır. Jotaro daha sonra adının Josuke Higashikata olduğunu ve tam olarak aradığı kişi olduğunu öğrenir.",
+                "air_date": "2016-04-02",
+                "still_path": "/nBHOE8hz1XC2h09y2rgoTsjlZeO.jpg",
+                "video_url": "4014224"
+            },
+            {
+                "episode_number": 2,
+                "name": "Josuke Higashikata! Meets Angelo",
+                "overview": "Josuke, korkunç ve şiddetli kötü adam Angelo's Stand'ı görür ve Jotaro'ya bu olayı anlatır. Jotaro bunun bir şekilde insanların içine girebilecek bir Stand olduğunu düşünüyor ve Josuke'yi ona ulaşana kadar hiçbir şey yememesi veya içmemesi konusunda uyarıyor. Tam da kendisine bunun söylendiği sırada Josuke, Stand'ın annesinin içine girdiğine tanık olur ve ardından düşünülemez olanı yapar.",
+                "air_date": "2016-04-09",
+                "still_path": "/yBegOQuHE80Y2yL6fCzLLXbLEn5.jpg",
+                "video_url": "4014225"
+            },
+            {
+                "episode_number": 3,
+                "name": "Nijimura Kardeşler (1)",
+                "overview": "Angelo'nun Duruş yeteneği gizemli yay ve ok tarafından ortaya çıkarıldı ve görünüşe göre bunlar aynı zamanda Dio ile de bağlantılı. Angelo'yu yendikten sonra tehlikenin şehri terk ettiğini düşünen Jotaro, ok ve yayın yerini bulmaya çalışır. Birkaç gün sonra Koichi, Josuke ile birlikte eve doğru yürüyor ve boş olması gereken bir evin önünden geçiyorlar...",
+                "air_date": "2016-04-16",
+                "still_path": "/4Vjwe0cDjtgslxSV1XwqAojMCdp.jpg",
+                "video_url": "4014226"
+            },
+            {
+                "episode_number": 4,
+                "name": "Nijimura Kardeşler (2)",
+                "overview": "Josuke, Koichi'yi kurtarmak için Nijimura ailesinin daha da içlerine gider. Aniden çok sayıda küçük ışık huzmesinin saldırısına uğradı. Josuke saldırıdan kaçmayı başarır ama saldırı Okuyasu'nun tam suratına çarpar. Josuke, Okuyasu'ya kardeşinin Standının kimliğinin ne olduğunu söylerse yaralarını iyileştireceğini söyler. Okuyasu ona söylemeye hiç niyeti olmadığını söylüyor ve Josuke şaşırtıcı bir şey yapıyor...",
+                "air_date": "2016-04-23",
+                "still_path": "/kyjpYQr58x0mpjdZXcSOsKVdIBU.jpg",
+                "video_url": "4014227"
+            },
+            {
+                "episode_number": 5,
+                "name": "Nijimura Kardeşler (3)",
+                "overview": "Josuke ve Koichi, Keicho'yu yener. Daha fazla kurban olmayacağından emin olmak için ok ve yayı yok etmek amacıyla Nijimura'nın evine daha da girerler. Ancak karşılaştıkları karanlık odada tuhaf sesler duyarlar. Josuke odaya atlamayı denediği anda canavara benzer bir el Koichi'nin bacağını tutar...",
+                "air_date": "2016-04-30",
+                "still_path": "/bS8AUgE936nKQOUk74QMewTZQcB.jpg",
+                "video_url": "4014228"
+            },
+            {
+                "episode_number": 6,
+                "name": "Koichi Hirose (yankılar)",
+                "overview": "Bisikletiyle okula giden Koichi, yanlışlıkla yoldaki içinde kedi bulunan bir çantanın üzerinden geçer. Koichi olanlardan anında etkilenir. Sonra aniden Tamami Kobayashi adında bir adam belirir. Kaza olmasına rağmen kediyi gömmek için kullanacağını söyleyerek Koichi'den para ister. Koichi olup biteni anlayamıyor ama Tamami olanlardan sonra öylece ayrılamayacağı konusunda ısrar ediyor. Koichi suçluluk duygusuyla doldu ve sonra aniden göğsünden dev bir kilit fırladı...",
+                "air_date": "2016-05-07",
+                "still_path": "/eRGaYheGtR4ww7pLpbMOPXJHd7m.jpg",
+                "video_url": "4014229"
+            },
+            {
+                "episode_number": 7,
+                "name": "Toshikazu Hazamada (surface)",
+                "overview": "Josuke ve Koichi, Tamami'den Hazamada adlı bir lise öğrencisinin de bir Stand kullanıcısı olabileceğini duyarlar, bu yüzden ikisi okula gider ve soruşturma yaparlar. Josuke, Hazamada'nın dolabını kontrol eder ve içinde garip bir tahta bebek bulur, ancak olağan dışı başka bir şey yoktur. Ancak, Josuke bebeği incelerken, aniden Josuke'ye dönüşür ve ona ve Koichi'ye saldırır...",
+                "air_date": "2016-05-14",
+                "still_path": "/2Kk0aWd0Vilvh6csch62bfAGG0c.jpg",
+                "video_url": "4014231"
+            },
+            {
+                "episode_number": 8,
+                "name": "Yukako Yamagishi Aşık Oldu (1)",
+                "overview": "Kendi sınıfındaki Yukako Yamagishi adlı başka bir öğrenci Koichi'ye çıkma teklif eder. İlk başta, çıkma teklif edilmesinden duyduğu sevinci gizleyemedi, ancak birdenbire ona karşı öfkesini kaybedince hızla ikinci kez düşündü. Ertesi gün ona bir kazak ördü, öğle yemeği hazırladı ve onun için Koichi'nin onu merak etmesine neden olacak başka şeyler yaptı. Yukako'nun takıntısı daha da kötüleşir ve o, düşünülemez olanı yapar.",
+                "air_date": "2016-05-21",
+                "still_path": "/zzce3y2XifFmUdJgYYMTOPcIJff.jpg",
+                "video_url": "4014232"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yukako Yamagishi Aşık Oldu (2)",
+                "overview": "Koichi esaret altında yaşamaya daha fazla dayanamaz ve kaçışını planlamaya çalışır. Koichi, Yukako ile konuşurken yakınlarda bir ankesörlü telefon olduğunu öğrenir ve Echoes'un onu bulmasını ister. Josuke ve Okuyasu ile bağlantı kurmaya çalışır ancak Yukako ne planladığını çoktan çözmüştür. Koichi umudunu kaybeder. Yukako daha sonra bazı malzemeleri sipariş etmek için telefona gider ama sonra beklenmedik bir şey olur...",
+                "air_date": "2016-05-28",
+                "still_path": "/4WSpnV1JiRZYsEPRjcqn7QkgcS2.jpg",
+                "video_url": "4014234"
+            },
+            {
+                "episode_number": 10,
+                "name": "Hadi Gidip Biraz İtalyan Yemeği Yiyelim",
+                "overview": "Josuke ve Okuyasu, Morioh'da yepyeni bir İtalyan restoranını ziyaret eder. Müşterilerin menüden ürün seçmesi yerine şef Tonio, müşterinin ne yiyeceğine onlara baktıktan sonra karar veriyor. Tonio, Okuyasu'nun daha iyi hissetmesini istiyor ve önce ona su ikram ediyor. Okuyasu, tadının ne kadar harika olduğunu görünce duygulanıyor. Aslında suyun ne kadar lezzetli olduğunu duyunca gözyaşlarına boğuldu ama sonra daha da tuhaf belirtiler göstermeye başladı...",
+                "air_date": "2016-06-04",
+                "still_path": "/72Ix6MaHxA1QfejiMrQotYbDuBe.jpg",
+                "video_url": "4014235"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kırmızı Acı Biber (1)",
+                "overview": "Red Hot Chili Pepper, Josuke'nin önünde kendini gösterir. Jotaro'dan daha güçlü görünüyor ve elektriğin aktığı her yere seyahat edebiliyor. Jotaro, Josuke, Okuyasu ve Koichi'yi çağırır ve onlara birinin Morioh'a doğru gittiğini söyler...",
+                "air_date": "2016-06-11",
+                "still_path": "/jVQPG7NTEbvb1tAkP1sWB5yyx1z.jpg",
+                "video_url": "4014236"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kırmızı Acı Biber (2)",
+                "overview": "Josuke ve diğerleri, Joseph Joestar'ı öldürmeyi planlayan Red Hot Chili Pepper'ı yenmek için limana gider. Jotaro, Red Hot Chili Pepper'ın pil gerektiren bir şeyle Joseph'in teknesine ulaşmaya çalışacağına inanır, bu yüzden Josuke ve Koichi'yi limanda bırakır ve eğer kendini gösterirse kullanıcıya saldırmalarını söyler. Josuke, Joseph'e karşı olan çelişkili duygularıyla uğraşırken, Red Hot Chili Pepper'ın kendinden emin kullanıcısı kendini gösterir.",
+                "air_date": "2016-06-18",
+                "still_path": "/qyBxMuZ9E477IBIRDtMYgqDpeUh.jpg",
+                "video_url": "4014237"
+            },
+            {
+                "episode_number": 13,
+                "name": "Çılgın Bir Şey Yakaladık!",
+                "overview": "Josuke ve diğerleri, Akira Otoishi'yi başarıyla yakalar ve yayı ve oku güvenli bir şekilde geri alır. Morioh'da barış geri geldi ama Josuke hâlâ büyük bir sorunla karşı karşıya... Yeni tanıştığı babası Joseph'e hâlâ yaklaşamıyor gibi görünüyor. Joseph'in annesine uzaktan bakmasına izin verir ve evine doğru yola çıkarlar, ancak Joseph yanlışlıkla yanlış otobüse biner. Joseph'e yetişmeyi başarır ama sonra Joseph ona yakınlarda bir Stand kullanıcısının olduğunu söyler...",
+                "air_date": "2016-06-25",
+                "still_path": "/9wV8WX4tqHxi7HAOWiT5zI6bzke.jpg",
+                "video_url": "4014239"
+            },
+            {
+                "episode_number": 14,
+                "name": "Manga Sanatçısının Evine Gidelim (1)",
+                "overview": "Koichi ve Hazamada, \"Pembe Kara Çocuk\" çizen ünlü çizgi roman sanatçısı Rohan Kishibe'nin Morioh'da yaşadığını öğrenir ve imza almak için onun evine giderler. Rohan onlara yalnızca imza sözü vermekle kalmadı, aynı zamanda onları çalışma alanını görmeleri için içeri davet etti ve çocuklar çok heyecanlandı. Her ne kadar Koichi, Rohan'ın gerçeğe ulaşmak için ne kadar ileri gidebileceğini görünce yavaş yavaş korkmaya başlasa da...",
+                "air_date": "2016-07-02",
+                "still_path": "/pcoRcyZY1X2osC56sFMotfiHdlJ.jpg",
+                "video_url": "4014240"
+            },
+            {
+                "episode_number": 15,
+                "name": "Manga Sanatçısının Evine Gidelim (2)",
+                "overview": "Koichi aniden Rohan'ın evine gelir. Koichi dikkatlice içeri girer ve Rohan'ın inanılmaz bir hızla manga çizdiğini görür. Görünüşe göre Koichi'nin deneyimlerini okuduktan sonra çizim yapmaktan kendini alıkoyamıyor. Rohan, kapısında beklenmedik biri belirdiğinde Cennetin Kapısını kullanarak Koichi'den bir sayfa daha koparmaya çalışır...",
+                "air_date": "2016-07-09",
+                "still_path": "/5kkHGP1JYv8vkANnLAxLhiytmwt.jpg",
+                "video_url": "4014242"
+            },
+            {
+                "episode_number": 16,
+                "name": "Haydi Avlanmaya Gidelim!",
+                "overview": "Josuke aniden Jotaro tarafından avlanmaya davet edilir. Bu av gezisinin amacı, Akira Otoishi'nin yay ve okla vurmasının ardından Stand yetenekleri kazanan sıçanı avlamaktır. Sıçanı bir drenaj kanalına kadar takip ettiklerinde, birbirine kaynaşmış on dört sıçan cesedinin bir araya geldiğini görürler. Muhtemelen peşinde oldukları şeyin sıçanın işi olduğunu fark ederler ve onu bir çiftliğe kadar takip ederler ve...",
+                "air_date": "2016-07-16",
+                "still_path": "/cM6pzt2M3qdfFAm4ZIyswO1owtf.jpg",
+                "video_url": "4014243"
+            },
+            {
+                "episode_number": 17,
+                "name": "Rohan Kishibe's Adventure",
+                "overview": "Koichi ve Rohan tuhaf bir manzarayla karşılaşır. Önlerinde hiçbir haritada yer almayan bir sokak uzanıyor. Ara sokağa inmeye ve yalnızca haritada listelenmeyen boş evleri bulmaya karar verirler. Gezinirken fark ederler ki hangi yöne dönerlerse dönsünler başladıkları yere geri dönerler. Rohan, Stand'ın saldırısı altında olduklarına inanıyor ama...",
+                "air_date": "2016-07-23",
+                "still_path": "/tg5kE9phoGwf3C7vYcInf8Bfzfk.jpg",
+                "video_url": "4014244"
+            },
+            {
+                "episode_number": 18,
+                "name": "Shigechi's Harvest (1)",
+                "overview": "Josuke hiç parası olmadığından endişelenirken önünde 1 yenlik bir madeni para tutan küçük bir Stand belirdi. Şaşıran Josuke onu takip eder ve yeni Stand kullanıcı adı Shigekiyo Yangyu (Shigechi) ile karşılaşır! Josuke, Shigechi'nin kasabadaki tüm unutulmuş paraları toplamak için Standı Hasat'ı kullanması ve Hasat'ı kullanarak daha da iyi bir fikir bulması gerçeğinden etkileniyor...",
+                "air_date": "2016-07-30",
+                "still_path": "/4MNmmBeZEf2CuMxXUHLEr4bzTwI.jpg",
+                "video_url": "4014245"
+            },
+            {
+                "episode_number": 19,
+                "name": "Shigechi's Harvest (2)",
+                "overview": "Josuke ve diğerleri piyango biletleriyle bankaya giderler, ancak banka biletin gerçekten kendilerine ait olup olmadığından şüphelenir. Josuke bileti satın aldıkları konusunda ısrar eder, ancak biletin arkasında başka birinin adı ve telefon numarasının yazılı olduğunu görürler ve banka memuru numarayı aramaya karar verir. Bu durumdan kurtulamayacaklarını gören Josuke harekete geçer...",
+                "air_date": "2016-08-06",
+                "still_path": "/znhHggYeACwTiB5f55WLEbQsIOv.jpg",
+                "video_url": "4014246"
+            },
+            {
+                "episode_number": 20,
+                "name": "Yukako Yamagishi Cinderella'nın Düşleri",
+                "overview": "Koichi ona bakmadığı için bunalıma giren Yukako, bir gün Salon Cinderella adında gizemli bir dükkan görür. Diğer salonların aksine, görünüşe göre bu, insanlara şans getirecek yüzler yaratan bir salondu. Estetisyen Aya Tsuji, Yukako'ya aşkla tanışmasını sağlayacak bir yüz verir. Yukako dışarı çıkar ve hemen Koichi ile karşılaşır ve her zamankinden farklı görünür. Yukako hayatında hiç bu kadar mutlu olmamıştı ama etkileri sadece 30 dakika sürdü...",
+                "air_date": "2016-08-13",
+                "still_path": "/lAwFK8mqXQ7GhdqNHGOyRI8Kkgo.jpg",
+                "video_url": "4014247"
+            },
+            {
+                "episode_number": 21,
+                "name": "Yoshikage Kira Sadece Sessizce Yaşamak İstiyor (1)",
+                "overview": "Yoshikage öğle vakti kasabada dolaşırken, kadın iş arkadaşlarıyla öğle yemeği yeme teklifini reddetti ve öğle yemeği almak için bir fırına gitti. Açık havada öğle yemeğinin tadını çıkarırken Shigechi oradan geçer ve yanlışlıkla Kira'nın sandviç çantasını kendisine ait olduğunu düşünerek alır. Bunu fark eden Kira hızla Shigechi'nin peşine düşer çünkü o çantanın içinde kesinlikle sandviç yoktu...",
+                "air_date": "2016-08-20",
+                "still_path": "/cWl518A9VpDd0G9cRKLvzlzX8rZ.jpg",
+                "video_url": "4014248"
+            },
+            {
+                "episode_number": 22,
+                "name": "Yoshikage Kira Sadece Sessizce Yaşamak İstiyor (2)",
+                "overview": "Yoshikage Kira, Morioh'da saklanan katildi ve aynı zamanda bir Stand kullanıcısıdır.  Shigechi bu sırrı öğrenince Kira onu ortadan kaldırmaya çalışır, ancak Shigechi, Harvest'a karşı koyar.  Ancak Katil Kraliçe Kira'nın Standı yüzünden ölümcül bir yara alır ve kaybeder. Shigechi, Kira'dan uzaklaşmayı başarır ve Josuke'yi bulmaya çalışır, böylece ona Kira'dan bahsedebilir ve Crazy Diamond tarafından düzeltilebilir.",
+                "air_date": "2016-08-27",
+                "still_path": "/10hLjMFGoPXYop9YpWoRB53RB8u.jpg",
+                "video_url": "4014249"
+            },
+            {
+                "episode_number": 23,
+                "name": "Saf Kalp Krizi (1)",
+                "overview": "Jotaro ve Koichi, düğmenin sahibinin izini sürmeye çalışır ve katille, Yoshikage Kira ve Standıyla, Katil Kraliçe'nin bombasıyla, Kırkayak Ayakkabılarında Kalp Kriziyle karşılaşır. Koichi, Kira'nın peşine düşmek ister ama Jotaro ona yapmamasını söyler. Ancak Koichi, Jotaro'nun kararından memnun değildir ve Tam Kalp Krizi tekrar saldırdığında kendi başına hareket etmeye karar verir...",
+                "air_date": "2016-09-03",
+                "still_path": "/1uOILrGnaL2TvY3HFnr6LPk64f1.jpg",
+                "video_url": "4014250"
+            },
+            {
+                "episode_number": 24,
+                "name": "Saf Kalp Krizi (2)",
+                "overview": "Echoes Act 3, Şeffaf Kalp Krizini ağırlaştırdığı için Koichi hayatta kalmayı başarır, ancak sonra katil Yoshikage Kira ortaya çıkar! Katile karşı yoğun bir öfke duyan Koichi, 3. Perde ile Kira'ya karşı savaşır ancak hiç şansı yoktur. Kira, Koichi'nin kendisini herkesin önünde aptal yerine koyması ve onu serbest bırakması karşısında çileden çıkar, ancak...",
+                "air_date": "2016-09-10",
+                "still_path": "/oNKFFuVbZX4sPY5Jr0pjSdVdjPP.jpg",
+                "video_url": "4014251"
+            },
+            {
+                "episode_number": 25,
+                "name": "Atom Kalp Babası",
+                "overview": "Josuke ve diğerleri, onun hakkında bazı ipuçları bulmak için Yoshikage Kira'nın eskiden yaşadığı eve gider. Kira'nın çok az benzersiz özelliği vardı, ancak Jotaro, tüm potansiyelini göze çarpmamak için bilerek sakladığı sonucuna vardı. Ayrıca odada tırnak kırpıntılarının yanı sıra kendi verilerinin bulunduğu kavanozlar da buluyorlar. Josuke bundan oldukça korktu. Aniden masanın üzerindeki Polaroid kameranın aniden fotoğraf çektiğini duydum...",
+                "air_date": "2016-09-17",
+                "still_path": "/xxvGbyoDI566zDbxJhrEQheJaew.jpg",
+                "video_url": "4014269"
+            },
+            {
+                "episode_number": 26,
+                "name": "Janken Çocuğu Geliyor!",
+                "overview": "Yoshihiro, Josuke ve diğerlerinden başarılı bir şekilde yay ve oku çalar ve oğlu Yoshikage'yi korumak için potansiyel Stand kullanıcıları haline getirecek başka insanlar bulmaya çalışır. Oka birini seçmesini söyler ve onu vurur. Bu arada Rohan, Morioh İstasyonunda işe giden çeşitli adamların fotoğraflarını çekerek Yoshikage'yi bulmaya çalışıyordu. Joseph'e, Kira yeni ailesini öldürmeye çalışmadan önce onu bulmak istediğini söyler. Sonra aniden bir çocuk ona doğru yürür ve onu janken (taş-kağıt-makas) yapmaya davet eder.",
+                "air_date": "2016-09-24",
+                "still_path": "/xIdSSpFYUQuKxWl27fw08RMY5pc.jpg",
+                "video_url": "4014270"
+            },
+            {
+                "episode_number": 27,
+                "name": "Ben Bir Uzaylıyım",
+                "overview": "Kira, yüzünü çaldığından beri Kosaku Kawajiri gibi yaşıyordu ama öldürme dürtüsünü kontrol ederek yaşamanın ne kadar zor olduğunu fark etmeye başladı. Kira bir kadının yanından geçtiğini görür ve ona gerçek yüzünü göstermek ve onun ince boynunu boğmak ister. Dürtülerini tutmaya çalışır ama Shinobu'nun boynunu görünce kontrolü kaybeder... Bu sırada Josuke ve Okuyasu ekin çemberinin ortasında garip bir kişiyle karşılaşır...",
+                "air_date": "2016-10-01",
+                "still_path": "/f6QKZJ6pBvoLtFdpdgkqrivHB02.jpg",
+                "video_url": "4014279"
+            },
+            {
+                "episode_number": 28,
+                "name": "Otoyol Yıldızı (1)",
+                "overview": "Rohan, Josuke'nin cee-lo'da hile yaptığını hisseder ve kendi serçe parmağını keser. Bir sonraki turda Josuke'nin numarasını çözemezse, parmağını düzeltmek için Shining Diamond'ı kullanması karşılığında ona 2 milyon yen ödeyeceğini söylüyor. Ama Rohan bunu çözerse onun yerine Josuke'nin serçe parmağını alacağını söylüyor. Hatta Tamami'yi arabulucu olarak hareket etmeye çağırıyor ve Josuke'nin bir sonraki turda da adil bir şekilde oynayamaması için Stand yeteneğini kullanmasını sağlıyor.",
+                "air_date": "2016-10-08",
+                "still_path": "/axUnNAcBraDA7zlyIbwGMvKJ1qs.jpg",
+                "video_url": "4014280"
+            },
+            {
+                "episode_number": 29,
+                "name": "Otoyol Yıldızı (2)",
+                "overview": "Jotaro, Stand'ın gizemli ayak izi kullanıcısının izini sürmeye çalışır. Bir motosikletle Stand'ı geçmeyi başarır ve Koichi'yi arayıp Echoes'u kullanarak kullanıcıyı bulmasını istemeyi düşünür. Bu sırada gizemli Stand, Jotaro'yu kovalamaya devam eder. Jotaro cep telefonunu eline alıp Koichi'yi aramayı başarır ama sonra okyanusun tam önünde olduğunu fark eder...",
+                "air_date": "2016-10-15",
+                "still_path": "/ij231eqNzgKgKn4pzJbHTBKFfZV.jpg",
+                "video_url": "4014288"
+            },
+            {
+                "episode_number": 30,
+                "name": "Kediler Yoshikage Kira'yı Seviyor",
+                "overview": "Kawajiri, Shinobu'dan bodrumda boynunda delik olan bir İngiliz Mavi kedisi olduğunu duyar. Kawajiri, okla vurulup vurulmadığını merak eder ve kontrol etmek için aşağı iner, ancak bulduğu tek şey ölü bir kedidir. Kediden korkan Shinobu çılgınca bir süpürgenin etrafında sallanmaya başladı ve bir cam şişeyi devirdi. Cam parçalarından bazıları kediyi parçalayarak öldürdü. Kawajiri kediyi bahçelerine gömer ama ertesi gün kedinin gömüldüğü yerde tuhaf bir bitki büyümüştür...",
+                "air_date": "2016-10-22",
+                "still_path": "/bo1hKP4TCgthCDJ1lceOobF3CkH.jpg",
+                "video_url": "4014289"
+            },
+            {
+                "episode_number": 31,
+                "name": "15 Temmuz (perşembe) (1)",
+                "overview": "Yoshihiro, Kosaku Kawajiri'yi fark ettiğinde kayıp oğlu Yoshikage Kira'yı arar. Kendisinin oğlu Yoshikage olduğuna ikna olur ve yaklaşmaya çalışır, ancak Hayato'nun onun videosunu çektiğini görür. Rohan ve Jotaro'nun da Yoshikage'yi aradığını gören Yoshihiro, onu bulacaklarından korkar ve harekete geçer. Bu sırada Josuke ve Okuyasu okula yürüyorlar ve yolda bir çift dürbün buluyorlar ki bu da Mikitaka'ya ait. Onlardan kullanılmayan bir pilona dürbünle bakmalarını ister ve orada yaşayan bir adam bulurlar!",
+                "air_date": "2016-10-29",
+                "still_path": "/uqEfSckZjB82cjXKlWAiRZGFAxw.jpg",
+                "video_url": "4014298"
+            },
+            {
+                "episode_number": 32,
+                "name": "15 Temmuz (perşembe) (2)",
+                "overview": "Rohan'ın evindeki yangın hasarı ve restorasyon masraflarına ilişkin tahminler almak için mimar Masazo Kinoto gelir. Rohan onu evine davet eder ama Rohan, Kinoto'nun tuhaf takıntısını merak etmeden duramaz... Bu sırada Josuke, pilonun içinde mahsur kalan Mikitaka'yı kurtarmak için Kanedaichi ile bir kez daha savaşır. Ancak Kanedaichi pilon hakkında her şeyi biliyor ve Josuke'nin tüm saldırılarından kaçmakta hiç sorun yaşamıyor...",
+                "air_date": "2016-11-05",
+                "still_path": "/ufGdAkIc65SP5mNAKVt925JW8TK.jpg",
+                "video_url": "4014299"
+            },
+            {
+                "episode_number": 33,
+                "name": "15 Temmuz (perşembe) (3)",
+                "overview": "Rohan, Masazo Kinoto'nun sırtına bakar ve Ucuz Stand Hilesi tarafından ele geçirilir. Cheap Trick'e yapılacak herhangi bir saldırı Rohan'a geri döneceği için ona saldıramaz, bu da onu bir ikilemin içine sokar. Bu sırada Josuke ve Fungami, Koichi'yi ararken herkesi kağıt parçalarının içine hapsedebilen Standı olan genç bir adamın yanına gelir. Cebinden bir kağıt çıkardı, içinde bir şey saklıydı...",
+                "air_date": "2016-11-12",
+                "still_path": "/dyl2OpHI8SEKTeir6x8eNkJ40sS.jpg",
+                "video_url": "4014303"
+            },
+            {
+                "episode_number": 34,
+                "name": "15 Temmuz (perşembe) (4)",
+                "overview": "Ucuz Numara konusunda aklını yitiren Rohan, Koichi'yi evine çağırır ve ondan yardım ister. Rohan, Koichi'ye sırtındaki Stand'ı göstermemek için elinden gelen her şeyi yapar, bu da Koichi'nin ona sadece bir oyun oynadığına inanmasına neden olur ve Koichi ayrılır. Ucuz Numara'ya öfkelenen Rohan, sonunda evini terk edip Morioh Grand Hotel'e doğru yola çıkmaya karar verir. Ancak birinin sırtını görmesi tehlikesi neredeyse dayanamayacağı kadar fazladır...",
+                "air_date": "2016-11-19",
+                "still_path": "/wAhVfQtUPAbzEJauUOeWH9JOKEP.jpg",
+                "video_url": "4014302"
+            },
+            {
+                "episode_number": 35,
+                "name": "Bir Başkası Tozu Isırıyor (1)",
+                "overview": "Köşeye sıkışan Kosaku Kawajiri, Hayato'dan kurtulur. Bunu bir kaza gibi gösterse de Rohan ve diğerleri Hayato'yu fark ettiler ve ertesi gün ona bazı sorular sormak için Kawajiri'nin evine geliyorlardı. Bu gidişle ortaya çıkacak ve yakalanacak... Kawajiri aniden umutsuzluğa düştü, Yoshihiro'nun oku aniden ona saplandı...",
+                "air_date": "2016-11-26",
+                "still_path": "/1ZDZ6PPR25Nt3yapK6p00oMONmP.jpg",
+                "video_url": "4014308"
+            },
+            {
+                "episode_number": 36,
+                "name": "Bir Başkası Tozu Isırıyor (2)",
+                "overview": "Killer Queen'in üçüncü yeteneği Bites the Dust ile Rohan Kishibe'yi havaya uçurduktan sonra Kira, Hayato'ya olanları anlatır ve aynı sabah geri döner. Daha sonra Kira'yı yenebilecek tek kişinin Rohan gibi yeteneklere sahip insanlar olduğunu düşünür ve onu öldürmeden Rohan'a Kira'yı anlatmaya çalışır. Ancak Rohan, Hayato ile tanışmadan bile havaya uçar. Hayato çılgına dönmüştür ve Kira'yı yenebilecek başka kimsenin olmadığını düşünerek...",
+                "air_date": "2016-12-03",
+                "still_path": "/pncmBSW4wEOvtF9obbClNvoAMOF.jpg",
+                "video_url": "4014309"
+            },
+            {
+                "episode_number": 37,
+                "name": "Çılgın D (elmas) Kırılmaz (1)",
+                "overview": "Hayato'nun Kira'yı Stray Cat'in hava mermileriyle öldürme planı başarısız oldu. Kira, Hayato'nun aynı sabahı defalarca tekrarladığını fark eder ve Hayato için aynı sabahı daha fazla tekrarlamanın tehlikeli hale geldiğini fark eder ve Bites the Dust'ı geri almayı düşünür. Kira kaderin kendisinden yana olduğuna gerçekten inanıyordu ve sonra ortaya çıktı...",
+                "air_date": "2016-12-10",
+                "still_path": "/cS42UnHkd4KKrNbcYMnQlGBIQbZ.jpg",
+                "video_url": "4014312"
+            },
+            {
+                "episode_number": 38,
+                "name": "Crazy D (elmas) Kırılmaz (2)",
+                "overview": "Josuke ve Hayato, yakındaki bir eve giderek Killer Queen ve Stray Cat'i yakın mesafeli çatışmaya zorlamaya çalışır. Ancak evin içinde hava mermileri görülmeye başlar. Josuke, nereye gittiklerini görebilmek için kül tablasındaki külü etrafa fırlatarak onlardan kaçmaya çalışır, ancak bazı nedenlerden dolayı hava mermileri Josuke'nin peşine düşmeye devam eder. Kira'nın onları dışarıdan görmesi mümkün olmadığından Josuke ve Hayato paniğe kapılır...",
+                "air_date": "2016-12-17",
+                "still_path": "/4mVjtApmnqodo4SZMKjCSOgCqv1.jpg",
+                "video_url": "4014311"
+            },
+            {
+                "episode_number": 39,
+                "name": "Elveda Morioh – Altının Kalbi",
+                "overview": "Josuke ve diğerleri sonunda Kira'yı köşeye sıkıştırır. Jotaro da gelir ancak Kira, yardıma gelen ve zaman kazancını boşa harcamaya çalışan bir sağlık görevlisine Bites the Dust'ı kullanır. Kadına gerçek kimliğini söyleyerek Bites the Dust'ın etkinleşmesine neden olur. Morioh'daki son savaş nihayet sona yaklaşıyor!",
+                "air_date": "2016-12-24",
+                "still_path": "/bsB2pjF5ttSILzRlUgK3BFriHLa.jpg",
+                "video_url": "4014314"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 39,
+        "air_date": "2018-10-06",
+        "poster_path": "/cMFg7X0gSJjWajuj9DNL4UaUmcP.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Altın Deneyimi",
+                "overview": "Koichi, Jotaro'nun Giorno'yu bulma göreviyle İtalya'ya gelir; Giorno, Koichi'nin bagajını çaldığında tesadüfen karşılaşırlar ve ardından gelen kovalamaca, Giorno'yu gangster Leaky Eye Luca ile bir Duruş savaşına sürükler.",
+                "air_date": "2018-10-06",
+                "still_path": "/iPT7iMdv1W5ThQDgPhWpBTAkX3T.jpg",
+                "video_url": "4014313"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bucciarati Geliyor",
+                "overview": "Bucciarati'nin Standı, Yapışkan Parmaklar ile karşı karşıya kalan Giorno, kendini savunmak için çaresizce Altın Deneyimini kullanır.",
+                "air_date": "2018-10-13",
+                "still_path": "/gepvDGsqxqZvBE1MYrm47ATeMkl.jpg",
+                "video_url": "4014316"
+            },
+            {
+                "episode_number": 3,
+                "name": "Duvarın Arkasındaki Gangsterle Tanışın",
+                "overview": "Giorno, Passione çetesine girmek ve \"Çete Yıldızı\" olma hayalini gerçekleştirmek için tuhaf bir adamla röportaj yapar.",
+                "air_date": "2018-10-20",
+                "still_path": "/4JY2DLRtU1pQ6msmk7KIhLjEIyH.jpg",
+                "video_url": "4014317"
+            },
+            {
+                "episode_number": 4,
+                "name": "Çeteye Katılmak",
+                "overview": "Görünüşe göre Polpo'nun testinde başarısız olan Giorno, ruhunu bir dik okla delmeye çalışan standı Black Sabbath'ın saldırısına uğrar.",
+                "air_date": "2018-10-27",
+                "still_path": "/6ZasibIf547XQezQ4UnCBWJfZ8Y.jpg",
+                "video_url": "4014320"
+            },
+            {
+                "episode_number": 5,
+                "name": "Polpo'nun Şansını Bulun!",
+                "overview": "Polpo'nun ölüm haberi, bir yerlerde büyük bir servetin saklı olduğu haberiyle birlikte örgüte ulaşır. Bu sırada Giorno, Bucciarati'nin çetesiyle tanışır.",
+                "air_date": "2018-11-03",
+                "still_path": "/73Cvk4yoiEguhVowm5D0ZS2vh0H.jpg",
+                "video_url": "4014321"
+            },
+            {
+                "episode_number": 6,
+                "name": "Moody Blues'un Karşı Saldırısı",
+                "overview": "Bucciarati ve Abbacchio, çetenin yatta kalan tek üyeleridir. Düşman standının nerede saklandığını ve nasıl çalıştığını bulmaları gerekiyor.",
+                "air_date": "2018-11-10",
+                "still_path": "/pYJdaOurSUmVJLFeYBtM6QQHZn1.jpg",
+                "video_url": "4014323"
+            },
+            {
+                "episode_number": 7,
+                "name": "Altı Kurşun Görünüyor, Bölüm 1",
+                "overview": "Ekip, Zucchero'yu yendikten sonra onun nereye ve neden gittiklerini başka birine söylediğini fark eder.",
+                "air_date": "2018-11-17",
+                "still_path": "/cwfWwzuLyR07kKgzK5pulnKrmfU.jpg",
+                "video_url": "4014324"
+            },
+            {
+                "episode_number": 8,
+                "name": "Altı Mermi Görünüyor, Bölüm 2",
+                "overview": "Mista, Polpo'nun hazinesini bulmasını engellemek için Sale adında bir Passione üyesinin peşine düşer.",
+                "air_date": "2018-11-24",
+                "still_path": "/u5x4cAwSzvX3CgYEGtStyORWnCM.jpg",
+                "video_url": "4014326"
+            },
+            {
+                "episode_number": 9,
+                "name": "Patronun İlk Görevi",
+                "overview": "Capo'ya terfi ettirilen Bucciarati ve çetesi, patronun kızını korumakla görevlendirilir.",
+                "air_date": "2018-12-01",
+                "still_path": "/tCIGtBjOQFfb1dZh9YpZSYtt3wG.jpg",
+                "video_url": "4014327"
+            },
+            {
+                "episode_number": 10,
+                "name": "Hitman Takımı",
+                "overview": "Narancia, Formaggio'nun standı Little Feet'in kendisine açtığı yara nedeniyle yavaş yavaş küçüldüğünü keşfeder.",
+                "air_date": "2018-12-08",
+                "still_path": "/eUibPvGi2AbwJ71qPtyflPre7k3.jpg",
+                "video_url": "4014328"
+            },
+            {
+                "episode_number": 11,
+                "name": "Narancia'nın Aerosmith'i",
+                "overview": "Formaggio artık minyatür olan Narancia'yı ayağının altına hapseder ve onu sorgulamaya çalışır, ancak Narancia direnir. Bir geri dönüş, Narancia'nın sokaklardaki erken yaşamını ve Bucciarati tarafından kurtarılmasını gösteriyor.",
+                "air_date": "2018-12-15",
+                "still_path": "/hd07kXQQxPmL4wz32cZdJcleaCO.jpg",
+                "video_url": "4014329"
+            },
+            {
+                "episode_number": 12,
+                "name": "Patronun İkinci Görevi",
+                "overview": "Trish'i Hitman Ekibinden korumak için Bucciarati ve ekibinin patrondan aldığı ikinci görev, Pompei'ye daha sonra kendilerine yardımcı olacak bir tür aracın anahtarını bulmaktı. Emirlerin ardından Giorno, Abbacchio ve Fugo, anahtarı almak için Pompei'ye gider. Oraya vardıklarında Fugo, oradaki sütunlardan birinin üzerine yerleştirilmiş bir aynada yansıyan şüpheli bir gölgeyi fark eder...",
+                "air_date": "2018-12-22",
+                "still_path": "/rjnnRvZPCzQSIlFl8jsWSX0xEfH.jpg",
+                "video_url": "4014330"
+            },
+            {
+                "episode_number": 13,
+                "name": "Aynadaki Adam ve Mor Pus",
+                "overview": "Aynada saklanan kişi Hitman Ekibinden Illuso'ydu. Fugo, Illuso'nun Standı, Aynadaki Adam tarafından aynaya sürüklenir. Fugo daha sonra kendi Standı Purple Haze'i çağırır. Giorno, Fugo'yu bulmak istemesine rağmen Abbacchio, onların görevi olduğu için anahtarı aramaya karar verir. Ancak Abbacchio anahtarı bulduğunda kendini ayna dünyasına da sürükler...",
+                "air_date": "2018-12-29",
+                "still_path": "/c0NOQHXT0Y7qz32SWq8mRy7yNBe.jpg",
+                "video_url": "4014331"
+            },
+            {
+                "episode_number": 14,
+                "name": "Floransa'ya Ekspres Tren",
+                "overview": "\"Trish'i Venedik'e götür.\" Patrondan aldıkları bir sonraki siparişle Bucciarati ve ekibi, Napoli İstasyonuna doğru yola çıkar. \"6. platformdaki kaplumbağanın bulunduğu su çeşmesinin anahtarını kullan.\" Çeşmeyi bulurlar ama anahtarı kullanacak yeri bulamazlar. Bu sırada Hitman Ekibinden Proscuitto ve Pesci, Bucciarati ve diğerlerini Napoli İstasyonuna kadar takip eder. Bucciarati, anahtarın ardındaki gizemi anlar ve Floransa'ya giden ekspres trene biner ve Proscuitto ile Pesci de onu takip eder.",
+                "air_date": "2019-01-12",
+                "still_path": "/5vFWluhNOxjKTqkl31ED8SrUYi1.jpg",
+                "video_url": "4014333"
+            },
+            {
+                "episode_number": 15,
+                "name": "Minnettar Ölüler (1)",
+                "overview": "Grateful Dead yavaş yavaş trendeki herkesi yaşlandırmaya başlar. Takım arkadaşlarının etkilenmesiyle Mista, düşmanla tek başına yüzleşmeye gider, ancak Pesci ve Beach Boy'uyla karşılaşır.",
+                "air_date": "2019-01-19",
+                "still_path": "/dVr69pW9q8W29VN3fEqzXsRJh4e.jpg",
+                "video_url": "4014334"
+            },
+            {
+                "episode_number": 16,
+                "name": "Minnettar Ölüler (2)",
+                "overview": "Sex Pistols'tan Altı Numara, Bucciarati'yi düşmanlar hakkında uyarmayı başarır ve karşılık verir, ancak The Grateful Dead'in güçleri ona zarar verir. Bucciarati kararlılığını güçlendirir ve Prosciutto ile birlikte kendini saatte 150 km hızla giden trenden dışarı atar. Hayata zar zor tutunan Prosciutto, The Grateful Dead'i yeniden kullanıyor. Pesci, Prosciutto'nun kararlılığını dikkate almaya karar verir ve Bucciarati'ye saldırır.",
+                "air_date": "2019-01-26",
+                "still_path": "/t8fQij6xEWmvQA87xwe1njvUF24.jpg",
+                "video_url": "4014335"
+            },
+            {
+                "episode_number": 17,
+                "name": "Bebek Yüzlü",
+                "overview": "Proscuitto ve Pesci'yi yendikten sonra, Bucciarati ve diğerleri bir arabayla Venedik'e doğru yola çıkarlar. Hitman Takımı'ndan Melone, trenin durduğu yerde Bucciarati'nin kanından biraz bulur ve ardından Babyface'i etkinleştirir. Trende bir kadına saldırarak oluşturulan güçlü uzaktan kumandalı Stand, ardından Bucciarati'nin peşine düşer.",
+                "air_date": "2019-02-02",
+                "still_path": "/kZN5uUJwhJtqSRauFBEWQFbw550.jpg",
+                "video_url": "4014336"
+            },
+            {
+                "episode_number": 18,
+                "name": "Venedik'e Gidin!",
+                "overview": "Babyface's Stand'ın insan parçalarını başka şeylere dönüştürme yeteneğini kullanan Giorno, Altın Rüzgarını insan vücudu için parçalar yapmak için kullanır. Kendi vücudunu yeniden inşa ediyor ve savaşıyor. Bu arada, yine Trish'in peşinde olan Hitman Ekibi'nin bir diğer üyesi Ghiaccio, Melone ile yeniden bir araya gelmeye çalışıyordu ve Giorno'nun bulunduğu yere doğru gidiyordu.",
+                "air_date": "2019-02-09",
+                "still_path": "/sxFA4lzla6T6hsM5ktH31izXLZ4.jpg",
+                "video_url": "4014337"
+            },
+            {
+                "episode_number": 19,
+                "name": "Beyaz Albüm",
+                "overview": "Ghiaccio'nun Standı, Beyaz Albümü onu bir elbise gibi sarabiliyor ve etrafındaki her şeyi son derece düşük sıcaklıklara kadar dondurabiliyor. Giorno ve Mista, Ghiaccio tarafından kısmen dondurulmasına rağmen bir şekilde Venedik'e varırlar. Ancak Giorno, Ghiaccio'dan uzaklaşmak için arabasını kanala sürer ve orada sıkışıp kalırlar. Mista kendini feda etmeye çalışır, ancak Giorno ona şu anda önemli olanın kendisini feda etmesi değil, kararlı olması olduğunu söyler.",
+                "air_date": "2019-02-16",
+                "still_path": "/1IPhmxxjc4S965PLgOWka6vUntI.jpg",
+                "video_url": "4014338"
+            },
+            {
+                "episode_number": 20,
+                "name": "Patronun Son Görevi",
+                "overview": "Mista ve Giorno, Ghiaccio'yu yenmeyi başardılar. Daha sonra diskteki görevi onaylarlar ve Trish'i götürmeleri gereken yere doğru yola çıkarlar. Bucciarati, Trish'le birlikte kuleye çıkar, ancak onlar asansördeyken Trish aniden ortadan kaybolur. Bucciarati daha sonra patronun gerçek amacının ne olduğunu anlar.",
+                "air_date": "2019-02-23",
+                "still_path": "/62UAtmmkMPiSms0D9Eo6aiuFzpV.jpg",
+                "video_url": "4014339"
+            },
+            {
+                "episode_number": 21,
+                "name": "King Crimson'ın Gizemi",
+                "overview": "Bucciarati, patronun gerçek amacının Trish'i kendisiyle olan ilişkisi nedeniyle ortadan kaldırmak olduğunu öğrenir ve bu da onun patrona ihanet etmesine ve Trish'i kurtarmasına neden olur. Bu sırada Giorno, Bucciarati'nin dönüşünü beklerken tuhaf bir şeyler döndüğünü hisseder. Patronun Duruşu, Kral Kızıl ayağa kalkıyor.",
+                "air_date": "2019-03-02",
+                "still_path": "/5E1hoeOYny7ivgJRtQRor2QDW34.jpg",
+                "video_url": "4014340"
+            },
+            {
+                "episode_number": 22,
+                "name": "Bağırsaklardaki \"g\"",
+                "overview": "Kendi iradeleri ve adalet duyguları yüzünden Bucciarati ve diğerleri örgüte ihanet ederler. Trish ayrıca babasının gerçekte kim olduğunu öğrenmek ister, bu yüzden diğerlerine annesinin babasıyla Sardunya'da tanıştığını söyler. Hepsi ayrılmadan önce Venedik'te yemek yemeye karar verirler ve Narancia aniden bir Stand tarafından saldırıya uğrar. Patronun kendi kişisel seçkin muhafızları artık hareket halindedir.",
+                "air_date": "2019-03-16",
+                "still_path": "/hFzfd9q6v9Swzwpkz8UmOqLGYML.jpg",
+                "video_url": "4014341"
+            },
+            {
+                "episode_number": 23,
+                "name": "Çatışma ve Konuşan Kafa",
+                "overview": "Narancia'ya saldıran Stand'ın adı Crush'tu ve patronun seçkin muhafızlarından biri olan Squallo'ya aitti. Üstelik Narancia, Squallo'nun ortağı Tiziano'nun Standı Talking Mouth'un yeteneği sayesinde birdenbire düşündüğünün tam tersini söyleyebilir. Narancia'yı kullanan Squallo ve Tiziano, ekibi kaosa sürükler. İki seçkin muhafız üyesi Narancia'yı tehlikeye atar ama o, Venedik'ten güvenli bir şekilde çıkabilmeleri için cesurca onlarla yüzleşir.",
+                "air_date": "2019-03-23",
+                "still_path": "/6CG40APLZXaqwq7rafYo9mqfCGL.jpg",
+                "video_url": "4014342"
+            },
+            {
+                "episode_number": 24,
+                "name": "Kötü Şöhretli B.i.g",
+                "overview": "Squallo ve Tiziano'yu yendikten sonra Bucciarati ve diğerleri, patronun geçmişini öğrenmek için Sardunya'ya doğru yola çıkar. Bir jet almak için Marco Polo Uluslararası Havalimanı'na gidiyorlar ama tuhaf bir adam onları takip ediyordu. Mista, garip Stand kullanıcısını, Standlarını çağıramadan öldürmeyi başarır. Bunun bu kadar basit olmasından biraz rahatsız olsalar da jete binip uçup gidiyorlar. Ancak jete bindikleri anda Giorno tuhaf bir ses duyar...",
+                "air_date": "2019-03-30",
+                "still_path": "/eAUAI0cPHrW6NLNLlEgbvdWrftC.jpg",
+                "video_url": "4014343"
+            },
+            {
+                "episode_number": 25,
+                "name": "Baharat Kız",
+                "overview": "Notorious B.I.G ile birlikte uçan bir uçağın kabininde mahsur kalan Trish, Giorno'nun broşunun güçlerini yeniden kazanmasını sağlayacak yepyeni bir ele dönüştüğünü fark eder. Ancak dönüşümün hareketi düşman Standını çekiyor. Uçak Tiren Denizi'ne yaklaşırken Trish artık hem Giorno'nun elini hem de kendisini Notorious B.I.G.'den korumaya çalışmalıdır.",
+                "air_date": "2019-04-06",
+                "still_path": "/u3qJgQ2yEWVZFRYRzYW4zAzDLbN.jpg",
+                "video_url": "4014344"
+            },
+            {
+                "episode_number": 26,
+                "name": "Geçmişten Küçük Bir Hikaye ~benim Adım Doppio~",
+                "overview": "Sardunya adasında Doppio adında bir çocuk, Passione'nin patronunun emriyle Trish ve diğerlerini arıyor. Ancak Doppio'nun karanlık bir sırrı vardır ve bu sır, La Squadra'lı Risotto ile karşılaştığında ortaya çıkar.",
+                "air_date": "2019-04-13",
+                "still_path": "/BQHGFcOspHgmypEssGEYQmRzav.jpg",
+                "video_url": "4014350"
+            },
+            {
+                "episode_number": 27,
+                "name": "King Crimson Metallica'ya Karşı",
+                "overview": "Passione'nin patronunun ikinci kişiliği Doppio, Risotto'ya ve onun demirini kontrol eden Metallica'ya karşı savaşmaya devam ediyor. Doppio, güçlü suikastçıya karşı mücadele eder, ancak geleceği görmesine olanak tanıyan Kral Kızıl'ın Mezar Yazısı ile silahlanmıştır.",
+                "air_date": "2019-04-20",
+                "still_path": "/8N9odZ1Vtw4gf6oHLChoFtxMWw4.jpg",
+                "video_url": "4014351"
+            },
+            {
+                "episode_number": 28,
+                "name": "Düşmenin Eşiğindeki Bir Gökyüzünün Altında",
+                "overview": "Risotto ve Doppio arasındaki savaşın ardından Abbacchio, patronun kimliğini ortaya çıkarmak için Moody Blues'u kullanır. Ancak patron kimliğini gizli tutmakta kararlıdır ve gruba karşı bir sonraki hamlesini yapar.",
+                "air_date": "2019-04-27",
+                "still_path": "/y35Jyq3fygXAx3Yb4G6i4C1S3mN.jpg",
+                "video_url": "4014355"
+            },
+            {
+                "episode_number": 29,
+                "name": "Roma Kolezyumuna Gidin!",
+                "overview": "Abbacchio, ölümünden sonra Moody Blues'un tekrarı ile patronun yüzünün ve parmak izlerinin bir kopyasını diğerlerine bırakmayı başardı. Diğerleri parmak iziyle patronun kim olduğunu bulmaya çalışır ve aniden birisiyle iletişime geçerler. Gizemli adam onlara patronun adının Diavolo olduğunu söyler ve onu yenmenin sırrının okta yattığını söyler. Bucciarati ve diğerleri onunla buluşmak için Roma'ya gider.",
+                "air_date": "2019-05-11",
+                "still_path": "/cgAxs7IfrZmNBXRmAXvRhtGg1jF.jpg",
+                "video_url": "4014357"
+            },
+            {
+                "episode_number": 30,
+                "name": "Yeşil Gün ve Vaha (1)",
+                "overview": "Çete, Elite Squad'ın son iki üyesi tarafından saldırı altındadır. Cioccolata, Green Day'i kullanarak adaya zehirli bir küf yayar, Secco ise gizli saldırılar için kayaların arasından yüzerek Oasis'i kullanır ve çeteyi zor durumda bırakır.",
+                "air_date": "2019-05-18",
+                "still_path": "/nOv3CZm97GeiJTivYTQbJuMeE76.jpg",
+                "video_url": "4014361"
+            },
+            {
+                "episode_number": 31,
+                "name": "Yeşil Gün ve Vaha (2)",
+                "overview": "Bruno, Secco'nun Vahası'na karşı savaşmak için yerde kalırken Giorno ve Mista, Yeşil Gün'ün gücünü durdurmak için Cioccolata'ya doğru yola çıkar. Ancak Cioccolata'nın başka tehlikeli bir numarası daha vardır ve ikiliyi köşeye sıkıştırır.",
+                "air_date": "2019-05-25",
+                "still_path": "/imjzKCDruUHWeHSJ5MqySp64qA6.jpg",
+                "video_url": "4014362"
+            },
+            {
+                "episode_number": 32,
+                "name": "Yeşil Gün ve Vaha (3)",
+                "overview": "Bruno ve Secco, Colloseum'daki adama doğru yarışırken birbirlerini öldürmeye çalışıyorlar.",
+                "air_date": "2019-06-01",
+                "still_path": "/oX3wDrsrLcT5hUn7B8YlOM2SUCU.jpg",
+                "video_url": "4014365"
+            },
+            {
+                "episode_number": 33,
+                "name": "Onun Adı Diavolo",
+                "overview": "Ekibin geri kalanı liderlerini ararken Bruno farkında olmadan Doppio'yu Kolezyum'a götürür.",
+                "air_date": "2019-06-08",
+                "still_path": "/tG3f75BtqCvNZiIR5bozv6edfn.jpg",
+                "video_url": "4014366"
+            },
+            {
+                "episode_number": 34,
+                "name": "Requiem Sessizce Çalıyor (1)",
+                "overview": "Herkes derin bir uykudan uyanır ve ruhlarının değiştiğini keşfeder.",
+                "air_date": "2019-06-15",
+                "still_path": "/vHst9Gh7gRReRui46ioAt5QMrxB.jpg",
+                "video_url": "4014368"
+            },
+            {
+                "episode_number": 35,
+                "name": "Requiem Sessizce Çalınıyor (2)",
+                "overview": "Ekip, Diavolo'yu ararken çaresizce Stand okuna ulaşmaya çalışır.",
+                "air_date": "2019-06-22",
+                "still_path": "/wfA0lZvYKWn6lskv0540LKq0iol.jpg",
+                "video_url": "4014370"
+            },
+            {
+                "episode_number": 36,
+                "name": "Diavolo Yüzeyleri",
+                "overview": "Herkes Stand okunu elde etmek için umutsuzca Requiem'in peşinden koşmaya devam ediyor. Diavolo'nun ruhu daha sonra kendini göstermek zorunda kalır, ancak kendisi için oku alana kadar pes etmeyecektir.",
+                "air_date": "2019-06-29",
+                "still_path": "/zGoBmP58df5yeNLodS9ZRPVzDG7.jpg",
+                "video_url": "4014374"
+            },
+            {
+                "episode_number": 37,
+                "name": "Krallar Kralı",
+                "overview": "Stand okunun gerçek sahibi nihayet ortaya çıktı.",
+                "air_date": "2019-07-06",
+                "still_path": "/zeecBPbI3JxYTWFDSHqytppk85U.jpg",
+                "video_url": "4014375"
+            },
+            {
+                "episode_number": 38,
+                "name": "Altın Deneyimi Gereksinimi",
+                "overview": "Giorno, bir çete yıldızı olma hayalini ve kaderini gerçekleştirir.",
+                "air_date": "2019-07-28",
+                "still_path": "/v2yerChKduwJXVzBuMhI00udG2b.jpg",
+                "video_url": "4014380"
+            },
+            {
+                "episode_number": 39,
+                "name": "Uyuyan Köle",
+                "overview": "Geçmişte Bruno ve ekibi, bir kızın gizemli ölümünü ve bunun Rolling Stones olarak bilinen güçle nasıl bağlantılı olduğunu araştırıyordu. Ve şu anda, Altın Rüzgar'ın sona ermesiyle Giorno ve çetesinin nihai kaderi ortaya çıkıyor.",
+                "air_date": "2019-07-28",
+                "still_path": "/k6YR6R5kx8bMEtMlE4sSc4pKKqY.jpg",
+                "video_url": "4014382"
+            }
+        ]
+    },
+    "season_5": {
+        "season_number": 5,
+        "name": "Sezon 5",
+        "episode_count": 38,
+        "air_date": "2022-01-08",
+        "poster_path": "/pgfHO4mnozfDLYKjhgtaOZDq9Kc.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Taş Okyanusu",
+                "overview": "Florida, 2011. Alkollü araç kullanmakla suçlanan ve hapsedilen genç Jolyne, görüşmediği babasından tuhaf bir eşya aldıktan sonra gizemli yeni bir güç kazanır.",
+                "air_date": "2022-01-08",
+                "still_path": "/7asQhlv0PpWc0fmjq4LTGK7ecl4.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 2,
+                "name": "Mahkum Fe40536: Jolyne Cujoh",
+                "overview": "Jolyne, Green Dolphin Caddesi Hapishanesi ve Jolyne'in madalyonunu ve küçük boyutlu yeni Stand'ı ele geçiren iki yüzlü hücre arkadaşı Gwess ile tanışır.",
+                "air_date": "2022-01-15",
+                "still_path": "/5dBwYuZG0Oc61lcXvzcUNyWCLdN.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 3,
+                "name": "Ziyaretçi (1)",
+                "overview": "Jolyne hapishaneye alışmaya çalışır, ancak Jolyne babası ve düşman bir Stand kullanıcısının ziyaretinden önce gizemli bir çocuk ona uğursuz bir mesaj iletir.",
+                "air_date": "2022-01-22",
+                "still_path": "/pKiptpOaBv3Grf8JU79CvwReEqm.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 4,
+                "name": "Ziyaretçi (2)",
+                "overview": "DIO'nun takipçisi Johngalli A. intikam almayı hedefliyor. Çocuk, Jotaro ve Jolyne'e yardım etmek için güvenliğini riske atar ama Jolyne, çocuğu geride bırakmayı reddeder.",
+                "air_date": "2022-01-29",
+                "still_path": "/qnnF8MNw5aobgEh2XWCYEJ5BVSo.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 5,
+                "name": "Aşkın Esiri",
+                "overview": "Baba ve kız, ziyaret odasının tuzağından ve hapishaneden kaçmaya çalışır, ancak bir düşman Standı, Jotaro'dan iki disk çıkarır. Birinin Star Platinum'u var.",
+                "air_date": "2022-02-05",
+                "still_path": "/nAbkx56ZofnKoP1iXsS830BC7jr.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 6,
+                "name": "Ermes'in Çıkartmaları",
+                "overview": "Jolyne, Jotaro'nun disklerini almak için hapishaneye döner. Ermes Costello, saldırıya uğramadan önce yeni yeteneğini ve kafasında diskler olan bir korumayı keşfeder.",
+                "air_date": "2022-02-12",
+                "still_path": "/pJHJn0a47rJ3aFv7Y38RDXHiXOs.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 7,
+                "name": "Altı Kişiyiz!",
+                "overview": "Hapishanenin çiftliğinde insanlar kaybolunca Jolyne ve Ermes, Soluk Yılan'ı ve diskleri aramanın bir yolu olarak arama ekibine gönüllü olarak katılır.",
+                "air_date": "2022-02-19",
+                "still_path": "/fyO06TJAR8UvePUoi9BRQU3mw2.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 8,
+                "name": "F.f.",
+                "overview": "Jolyne ve Ermes, Stand F.F.'nin gizemini çözüyor. ve Pale Snake'in Standlarını çalma çabalarına yardım ettiğini itiraf eden kullanıcısı.",
+                "air_date": "2022-02-26",
+                "still_path": "/usiaV02y7OAJmBWx24zaTV3LPay.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 9,
+                "name": "Borç Tahsilcisi Mary Lynn Manson",
+                "overview": "Pale Snake'in kullanıcısı Peder Pucchi giriş yapıyor. Bahçede Miraschon'a karşı oynanan bir beyzbol maçı, F.F. ve Stone Ocean devreye giriyor.",
+                "air_date": "2022-03-05",
+                "still_path": "/owNvxfVRUUTXJZzGTnt6IYyA4Nc.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Savage Guardian Operasyonu (avluya Doğru!) (1)",
+                "overview": "Emporio ve arkadaşı Hava Durumu Tahmini'nin yardımıyla Jolyne, Jotaro'nun Stand Diskini Speedwagon Vakfı'na vermek için avluya koşar.",
+                "air_date": "2022-03-12",
+                "still_path": "/s7KMI5Rr5fGg2zRilWdNnwXjpav.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Savage Guardian Operasyonu (avluya Gidin!) (2)",
+                "overview": "Peder Pucchi bazı kahredici bilgiler öğrenir. Dövüş devam ederken Jolyne ve Weather'ın vücutları Jumpin' Jack Spark'ın Stand yeteneğinin etkisi altında gerilir.",
+                "air_date": "2022-03-19",
+                "still_path": "/s65vu8kfj86xyqJjE5KGeLdbWWw.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Sağanak Sağanak Yağış Uyarısı",
+                "overview": "Jolyne avluya ulaşır. Pucchi, DIO ile yaptığı konuşmaları ve Weather'ın zehirli ok kurbağası fırtınası başlatmasıyla Jotaro'yu avlama nedenini hatırlıyor.",
+                "air_date": "2022-03-26",
+                "still_path": "/pSU5MviPnuuukK4wfVHk7xgXTCu.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 13,
+                "name": "Sevgi ve İntikamın Tadı (1)",
+                "overview": "Birkaç gündür Ermes'i görmediğini fark eden meraklı Jolyne, geçmişine bakar ve hapishaneye belli bir amaç için geldiğini keşfeder.",
+                "air_date": "2022-10-08",
+                "still_path": "/f5f0MwiYXszFvr27c1EJiaGHgwr.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 14,
+                "name": "Aşk ve İntikam Kokusu (2)",
+                "overview": "F.F. ve Jolyne, Sports Maximum'a karşı mücadelesinde Ermes'e yardım etmeye çalışır, ancak Stand'ın ölüleri kontrol etme becerisine karşı mücadele ederler.",
+                "air_date": "2022-10-15",
+                "still_path": "/5PNo3HX76QARC2hANAG9Er3Yvuu.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 15,
+                "name": "Ultra Güvenlikli Ev Birimi",
+                "overview": "Jolyne, kemiği bulmak amacıyla kasıtlı olarak Ultra Güvenlik Evi Birimi'ne gönderilir. Onu kurtarmak umuduyla F.F. Yardım için Anastasia'ya döner.",
+                "air_date": "2022-10-22",
+                "still_path": "/yfPzWKKMzDtxYgdPH4CeMvNt70Z.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 16,
+                "name": "Muhafız Westwood'un Sırrı",
+                "overview": "Stand Survivor, Disiplin Kanadında kavgalara yol açıyor. Jolyne, bir gardiyanla savaşırken kendisinin de bir Stand Kullanıcısı olduğunu fark eder.",
+                "air_date": "2022-10-29",
+                "still_path": "/uVdBoLaPipPJ25KpTIthGFlmwvi.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 17,
+                "name": "Drake'in Rüyasına Girin",
+                "overview": "Muzaffer Jolyne geri kalan mahkumlara göz kulak olur. Yaşlı bir adam ona yaklaşır ve kendisinin Pale Snake tarafından gönderilen bir Stand Kullanıcısı olduğunu ortaya çıkarır.",
+                "air_date": "2022-11-05",
+                "still_path": "/4lJ9492mXRstTL1n6vk4uuyOFkN.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 18,
+                "name": "F.f.'ye Girin.",
+                "overview": "Jolyne, F.F. Kenzou'ya karşı mücadelede tehlikeli bir şekilde susuz kalıyor ve Anastasia'ya müdahale edip yardım etmesi için yalvarıyor, ancak o reddediyor.",
+                "air_date": "2022-11-12",
+                "still_path": "/bbHhZFBuOlNf7LlYRvJkoDKRFbA.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 19,
+                "name": "\"yeşil\"in Doğuşu",
+                "overview": "Jolyne ve arkadaşları, kemiğe sahip olan adama yetiştikten sonra, yakındaki düşmüş mahkumlardan çıkan tuhaf bitki büyümelerini fark ederler.",
+                "air_date": "2022-11-19",
+                "still_path": "/dz7GPcZXZx2Ob7OOkCw9yGLDGei.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 20,
+                "name": "F.f. - Şahit",
+                "overview": "İtaatkar YA-YA MA'nın pilotluk yaptığı bir teknede Jolyne ve Anastasia, sulak alanlardan kaçar. Ancak YA-YA MA görünmez bir yetenekle onlara saldırır.",
+                "air_date": "2022-11-26",
+                "still_path": "/uxtty5vTIUssXbTlMmVFYYMn91i.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 21,
+                "name": "Uyan",
+                "overview": "Father Pucchi ile Pale Snake arasındaki bağlantıyı fark eden F.F., D an' G'yi yener. YA-YA MA parçalanırken, yuttuğu yumurta çatlar.",
+                "air_date": "2022-12-03",
+                "still_path": "/femIKhdtf8Ko1YmWCqcMvO0w2DO.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 22,
+                "name": "Cennet Zamanı! Yeni Ay! Yeni Rahip!",
+                "overview": "Hava Tahmini biraz yağmur çağırır ve bu da F.F.'yi kurtarır. yıkımın eşiğinden. Jolyne ve Anastasia ile yeniden bir araya gelirler ancak grup saldırıya uğrar.",
+                "air_date": "2022-12-10",
+                "still_path": "/1UmtecXQJiMUZnGfwWJ0nn0rjld.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 23,
+                "name": "Hapishanenin Kilidi!",
+                "overview": "Jolyne, Yeşil Yunus Adası'ndan kaçmaya ve Peder Pucchi'nin hırslarına son vermeye karar verir. Bir hapishane gardiyanı ona Pale Snake'den bir mesaj getirir.",
+                "air_date": "2022-12-17",
+                "still_path": "/ikHOFaS4MBxSQO987FPncA332io.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 24,
+                "name": "Firar...",
+                "overview": "Elindeki kelimelerin rehberliğinde Jolyne, solmakta olan anılarıyla savaşır, hapishane gardiyanlarından kaçar ve tıpkı Mew Mew'in planladığı gibi gizli odaya ulaşır.",
+                "air_date": "2022-12-24",
+                "still_path": "/zqHmVKESBUdxYA5agzSgSP18xZ7.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 25,
+                "name": "Bohem Vecd (1)",
+                "overview": "Yeni aya sadece beş gün kala Peder Pucchi kuzeye gider ve Jolyne'in önünde kalmaya çalışır, ancak o bir hastanenin önünde rehin tutulur.",
+                "air_date": "2023-01-07",
+                "still_path": "/syzSMBf0bCyNdvYorFLDMddMBnN.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 26,
+                "name": "Bohem Vecd (2)",
+                "overview": "Weather Forecast ile yollarını ayıran Anastasia, düşmanı Stand Bohemian Ecstatic'in fiziksel bedenini ruhundan ayırmasının ardından onu kurtarmaya çalışır.",
+                "air_date": "2023-01-14",
+                "still_path": "/dAleBIM37xkELBF0Lzoplfj6gg.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 27,
+                "name": "Gökyüzü Adamı",
+                "overview": "Jolyne ve arkadaşları, Romeo'nun helikopteriyle Cape Canaveral'a doğru ilerlerken, göz kapaklarını kapanmaya zorlayan bir şey onlara çarpar.",
+                "air_date": "2023-01-21",
+                "still_path": "/jXmoN1kkcrpKVnxkd8EXunJjLVM.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 28,
+                "name": "Cennet Elimizde: Yeni Aya Üç Gün Kaldı",
+                "overview": "Jolyne, Rikiel ile kavgasının ardından Hava Tahmini hakkında şok edici bir gerçeği öğrenir. O ve Ermes hastaneye girerler ve yerde kazılmış bir delik bulurlar.",
+                "air_date": "2023-01-28",
+                "still_path": "/doGckfbiNXmZcDoSV68tH1YvcJa.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 29,
+                "name": "Cehennem Dünyası",
+                "overview": "Düşen uçağın anısına Versus's Stand tarafından mahsur kalan Jolyne, uçaktan atlar ve bir saldırı başlatır, ancak bu Versus'u etkilemeyi başaramaz.",
+                "air_date": "2023-02-04",
+                "still_path": "/AcGyv8NqYnXjFvaL5Bnv70HBPgi.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 30,
+                "name": "Yoğun Tahmin (1)",
+                "overview": "Hava Tahmini'nin hafızası geri yüklendiğinde, güçlü Ağır Tahmin yeteneği otomatik olarak tetiklenir ve bundan etkilenen herkesi salyangoza dönüştürür.",
+                "air_date": "2023-02-11",
+                "still_path": "/kyX8Lmw3WjFdb2nXNH3PhKACDuY.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 31,
+                "name": "Yoğun Tahmin (2)",
+                "overview": "Baba Pucchi, talihsiz bir bebekle değiştirilen ikiz kardeşinin yanında doğar. Genç bir yetişkin olarak DIO adında tuhaf bir adamla tanışır.",
+                "air_date": "2023-02-18",
+                "still_path": "/tUXfqO6IAjL4athBHPfDzjM5vXD.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 32,
+                "name": "Yoğun Tahmin (3)",
+                "overview": "Jolyne'in grubu, Hava Durumu Tahminini bulup Duruşunu durdurmak için acele eder. Bu arada Hava Tahmini, Peder Pucchi ile hesaplaşmaya karar verir.",
+                "air_date": "2023-02-25",
+                "still_path": "/e1j8kxfsoeCz1od0LvAlFaObxmT.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 33,
+                "name": "Yeni Ayın Yerçekimi",
+                "overview": "Jolyne ve müttefikleri, Hava Tahmini'nin Stand diskini ellerinde tutarak, vücudu değişmeye başlayan Peder Pucchi'nin peşine Cape Canaveral'a doğru yola çıkar.",
+                "air_date": "2023-03-04",
+                "still_path": "/aZSmrnTiePnbTREka3xiOricPd7.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 34,
+                "name": "Ayı Gör (1)",
+                "overview": "Jolyne, Peder Pucchi'nin, Soluk Yılan ve Yeşil Bebek'ten oluşan ve dokunduğu her şeyi tersine çevirebilen yeni Stand See Moon'a karşı mücadele ediyor.",
+                "air_date": "2023-03-11",
+                "still_path": "/1gLVkHeJRv6MCFDEYKyqTVrY3xW.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 35,
+                "name": "Ayı Gör (2)",
+                "overview": "See Moon, Jolyne'i tersine çevirmiş olsa da Peder Pucchi, onun hâlâ hayatta olduğunu hisseder ve Joestar soyunu tamamen sona erdirme umuduyla onun peşine düşer.",
+                "air_date": "2023-03-18",
+                "still_path": "/gexaQaRA3R4Uwfo5EqUBIBGwvyo.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 36,
+                "name": "Kız Cenneti (1)",
+                "overview": "Peder Pucchi'den parlak ışık huzmeleri parladıktan sonra Jolyne ve arkadaşları uyanırlar ve onun gittiğini ve yer çekiminin normale döndüğünü görürler.",
+                "air_date": "2023-03-25",
+                "still_path": "/5lqbhv4pMZhWAhtVlrk7s6Y30rd.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 37,
+                "name": "Kız Cenneti (2)",
+                "overview": "Peder Pucchi'nin yeni Stand Maiden Heaven'ı, saf hızıyla Jolyne'in grubunu şaşkına çevirir. Jotaro saldırmaya hazırlanırken Anastasia yem görevi görür.",
+                "air_date": "2023-04-01",
+                "still_path": "/joILWjdS9VSCGSMnNXanfgCq8Lu.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 38,
+                "name": "Harika Bir Dünya",
+                "overview": "Zamanın durdurulamaz hızlanması evreni tam bir çember haline getiriyor. Emporio, Green Dolphin Caddesi Hapishanesinde uyanır ve insanlık yeni bir dünyaya girer.",
+                "air_date": "2023-04-08",
+                "still_path": "/8ajegLD0IYK6qtmBxHs1J9UtoU9.jpg",
+                "video_url": ""
+            }
+        ]
+    }
+}

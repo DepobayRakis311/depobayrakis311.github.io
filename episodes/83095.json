@@ -1,0 +1,437 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 25,
+        "air_date": "2019-01-09",
+        "poster_path": "/VSxgt1WBqkI1Wf65zQNiU32xHv.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kalkan Kahramanı",
+                "overview": "Üniversite öğrencisi Iwatani Naofumi, kütüphanede \"Dört Kardinal Silahın Kayıtları\" başlıklı bir kitap okurken aniden başka bir dünyaya çağrılır ve kendisine Dört Kardinal Kahramandan biri olan Kalkan Kahramanı olarak dünyayı kurtarması gerektiği söylenir. Ve bir sabah tüm parasının ve ekipmanının gitmiş olduğunu görür.",
+                "air_date": "2019-01-09",
+                "still_path": "/fY3CFbtAmNEW0eaKUoqAJy0j1kb.jpg",
+                "video_url": "3562316"
+            },
+            {
+                "episode_number": 2,
+                "name": "Köle Kız",
+                "overview": "Naofumi, köle tüccarını dükkânına kadar takip eder ve burada kılıcı görevi görecek bir ortak arar. Ancak satın alabileceği tek para, Raphtalia adında hastalıklı bir yarı insan kızdır ve daha sonra onu inanılmaz derecede sert bir savaşa zorlar.",
+                "air_date": "2019-01-16",
+                "still_path": "/1RJ6KQWKanRyyW4Zdwg076ICfYa.jpg",
+                "video_url": "3562318"
+            },
+            {
+                "episode_number": 3,
+                "name": "Felaket Dalgası",
+                "overview": "Naofumi bir sürü yetenek ve beceri elde etti ve Raphtalia ile olan takım çalışması da mükemmelliğe ulaşıyor. Gelen Dalgaya hazırlanmak için ekipmanlarını yükseltir ve tam olarak ne zaman geleceğini öğrenmek için ejderha kum saatine gider. Ancak orada bir kez daha Motoyasu ve diğer kahramanlarla karşılaşır.",
+                "air_date": "2019-01-23",
+                "still_path": "/mhbX3YS2ZQ1nZO5xJp1WZIJLhit.jpg",
+                "video_url": "3562320"
+            },
+            {
+                "episode_number": 4,
+                "name": "Şafakta Ninni",
+                "overview": "Dalga gitti, ancak Motoyasu, Melromarc Kalesi'nde düzenlenen kutlama ziyafetinin ortasında onu düelloya davet ettiğinden Naofumi'nin rahatlaması kısa sürer. Motoyasu, bir köle sahibi olmanın bir kahramana yakışmadığını ve Naofumi'nin Raphtalia'yı hemen serbest bırakması konusunda ısrar ediyor.",
+                "air_date": "2019-01-30",
+                "still_path": "/3XG0HDeodVIt2XnckUSVZLjQeZC.jpg",
+                "video_url": "3562321"
+            },
+            {
+                "episode_number": 5,
+                "name": "Filo",
+                "overview": "Aultcray, isteksizce Naofumi'ye önemsiz bir ödül teklif ettikten sonra, Raphtalia'nın istekleri doğrultusunda köle armasını yeniden yapmak için köle tüccarına gider. Ayrıca oradan birkaç gün sonra yumurtadan çıkan ve ona yeni bir parti üyesi veren bir canavar yumurtası satın alır. Bu sırada Myne, kaldıkları Lute Köyü'nde ortaya çıkar.",
+                "air_date": "2019-02-06",
+                "still_path": "/jvruUEIujDILqkpK8K9Pmh27076.jpg",
+                "video_url": "3562326"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yeni Bir Yoldaş",
+                "overview": "Bir anda ortaya çıkan gizemli kız aslında Filo'ydu. O, gelişmiş dönüşüm yeteneğine sahip bir filolial kraliçedir ve bu sayede insan formuna bile bürünebilir. Ancak her dönüştüğünde kıyafetleri yırtılıyor, bu da Naofumi'nin parasız kalmak istemiyorsa ona sihirli kıyafetler alması gerektiği anlamına geliyor. Parti, gerekli malzemeleri toplamak için yeni bir maceraya atılır.",
+                "air_date": "2019-02-13",
+                "still_path": "/89Qdf9EHEjny6jtFvJpGNmmJhtn.jpg",
+                "video_url": "3562330"
+            },
+            {
+                "episode_number": 7,
+                "name": "Göksel Kuşun Kurtarıcısı",
+                "overview": "Bir köyün acilen bitki ilacına ihtiyaç duyduğunu duyan Naofumi ve ekibi, iş yapmak için oraya gider. Köy, canavara dönüşen bitkiler tarafından istila edildi ve sakinleri onu terk etmek zorunda kaldı. Bu bitkiler insanlarda bile kök salabiliyor ve görünüşe göre onları doğaya salan da Motoyasu.",
+                "air_date": "2019-02-20",
+                "still_path": "/5WWuEzmYMaCKtVFqIlm97GSTEyY.jpg",
+                "video_url": "3562336"
+            },
+            {
+                "episode_number": 8,
+                "name": "Lanet Kalkanı",
+                "overview": "Doğu'da bir köyün salgın nedeniyle harap edildiğini duyan Naofumi ve ekibi, ilaç dağıtmak için oraya gider. Salgına, bir ay önce öldürülen ve orada çürümeye bırakılan bir ejderhanın cesedi neden oldu. Naofumi'nin partisi, cesedi temizlemek ve yattığı dağlara gitmek için yapılan iş talebini kabul eder.",
+                "air_date": "2019-02-27",
+                "still_path": "/olNVrXVzrv0YbdrkED5rA4T63hM.jpg",
+                "video_url": "3563610"
+            },
+            {
+                "episode_number": 9,
+                "name": "Erimiş",
+                "overview": "Doğu köyünde, Naofumi Melty adında bir kızla tanışır. Filo ile anında arkadaş olur ve sonra yolculuklarında gruba eşlik etmeyi ister. Görünüşe göre muhafızlarından ayrılmış. Bir süre birlikte seyahat ederler, ancak başkente vardıklarında...",
+                "air_date": "2019-03-06",
+                "still_path": "/cg3oWZ9h4ZNNdPni5Oy9qc84xXx.jpg",
+                "video_url": "3563628"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kargaşanın Ortasında",
+                "overview": "Melty'yi dinlemeyi reddeden Naofumi, bir sonraki Dalga için planlamaya geçer. Bir grup genç asker partisine katılmak istediğinde o da kabul eder, ancak belirli bir şartla. Aynı zamanda, Raphtalia seviye sınırına ulaştığında onun sınıfını da yükseltmeye çalışır, ancak aldığı tek şey tacizdir.",
+                "air_date": "2019-03-13",
+                "still_path": "/l0QoGILrOtqRd3j3zevXsQn1nHG.jpg",
+                "video_url": "3568480"
+            },
+            {
+                "episode_number": 11,
+                "name": "Felaket Geri Dönüyor",
+                "overview": "Naofumi bu kez uzak bir köyde başka bir Dalga ile karşı karşıya kalır. Kendisine katılmaya gönüllü olan askerlerin yardımıyla köylülerin güvenliğini sağlamayı başarıyor, ancak Dalga hiçbir pes etme belirtisi göstermiyor. Diğer kahramanlarla savaşmaya gider, ancak gökyüzünde yüzen dev bir hayalet gemi bulur.",
+                "air_date": "2019-03-20",
+                "still_path": "/tvHyi53bq5B6a9GB5ZEtSihNNOX.jpg",
+                "video_url": "3574078"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kuzgun İstilacı",
+                "overview": "Gizemli bir kadın birdenbire ortaya çıktı ve ikinci Ruh Yiyen'i tek bir darbeyle yok etti. Daha sonra \"dalganın gerçek savaşının\" başladığını ilan etti ve ona saldırdıklarında diğer üç kahramanı havaya uçurdu. Naofumi'nin partisinin de etkisiz kalması üzerine Öfke Kalkanı'nı bir kez daha kullanmaya karar verdi.",
+                "air_date": "2019-03-27",
+                "still_path": "/nbVoVBe26qYyD0g1BXIwEWxxodj.jpg",
+                "video_url": "3580296"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kalkan Şeytanı",
+                "overview": "Naofumi, Melty'nin canını alma girişimini engeller ve kraliyet şövalyeleriyle savaşır, ancak daha sonra Melty'yi kaçırmak ve birkaç şövalyeyi öldürmekle suçlanır ve grup kaçmak zorunda kalır. Güvenlik sıkılaştırılırken ve her yerde kontrol noktaları kurulurken parti, işleri daha da kötüleştiren bir darbe daha alır.",
+                "air_date": "2019-04-03",
+                "still_path": "/ymRZHbDyK3UtcfCIe9K4kx2PtOg.jpg",
+                "video_url": "3585680"
+            },
+            {
+                "episode_number": 14,
+                "name": "Sonsuz Hafıza",
+                "overview": "Myne'ın pervasızca orman yangını başlatması nedeniyle Naofumi ve ekibi, dağın eteğindeki bir köye kaçmak zorunda kalır. Ancak şövalyelerin ağını kırmak kolay olmayacak. Melty, yardım için tanıdığı bir soyluya gitmeyi önerir ve Raphtalia'nın geçmişi onun alanıyla bağlantılıdır.",
+                "air_date": "2019-04-10",
+                "still_path": "/iNBlZurX1mjpJolfDuBar79uul0.jpg",
+                "video_url": "3589830"
+            },
+            {
+                "episode_number": 15,
+                "name": "Raptalia",
+                "overview": "Raphtalia gözlerinde intikam duygusuyla Idol'ü köşeye sıkıştırıyor, kana susamış bıçağı onun boğazına uzanıyor. Naofumi'nin sözleri onu bir anlığına kendine getirir ama Idol ona bir kez daha saldırdığında...",
+                "air_date": "2019-04-17",
+                "still_path": "/t0y9S2tkGp6ZKM1NVGGGoIzpowZ.jpg",
+                "video_url": "3594655"
+            },
+            {
+                "episode_number": 16,
+                "name": "Filolial Kraliçe",
+                "overview": "Naofumi ve ekibi zayıflamış çocukları güvenliğe götürmeye çalışırken, Tyrant onlara saldırır. Naofumi aslında Filo'nun peşinde olduğunu anladığında, onu şehrin dışına çekmek için bir plan yapar, ancak devasa vücuduna bir çizik bile atamazlar.",
+                "air_date": "2019-04-24",
+                "still_path": "/fug0Xb8LghtSXK3CAnoWXTxvfjO.jpg",
+                "video_url": "3598966"
+            },
+            {
+                "episode_number": 17,
+                "name": "Verilen Söz",
+                "overview": "Fitoria, Naofumi'ye aynı sayfada olmazlarsa tüm Dört Kardinal Kahramanları öldüreceğini söyler. Hatta Melty'yi rehin alır, ancak Naofumi reddetmeye devam eder. Nereden geldiğini anlayan Fitoria, bunun yerine Filo ile bire bir düello teklif eder.",
+                "air_date": "2019-05-01",
+                "still_path": "/6iPH7BkoOB1oHRjAH88OaEBiUQj.jpg",
+                "video_url": "3604300"
+            },
+            {
+                "episode_number": 18,
+                "name": "Bir Komplo Bağlantılı",
+                "overview": "Naofumi, diğer kahramanlarla konuşmak için doğrudan kontrol noktasına gitmeye karar verir. Ancak orada, onu dinleme olasılığı en düşük olan kişi olan Motoyasu'yu bulur. Motoyasu, Naofumi'nin söylediklerini dinleme zahmetine girmeden ona saldırır. Motoyasu, Naofumi'yi öldürmeye her zamankinden daha fazla neden bu kadar kararlı olabilir?",
+                "air_date": "2019-05-08",
+                "still_path": "/r9e2zkKsE3ur94fVqV3H99AdOip.jpg",
+                "video_url": "3608399"
+            },
+            {
+                "episode_number": 19,
+                "name": "Dört Kardinal Kahraman",
+                "overview": "Papa, dört ana silahın da özelliklerine sahip olan en üstün silahı elinde tutuyor. Saldırı becerisi \"Yargı\" ve güçlü savunma gücü alanıyla karşı karşıya kalan Naofumi ve ekibi çaresiz kalır. Kriz ağırlaşırken artık \"sahte\" kahraman olarak cezalandırılma tehlikesiyle karşı karşıya olan Motoyasu şaşırtıcı bir karar verir.",
+                "air_date": "2019-05-15",
+                "still_path": "/mRwFpm78B8HvUrdUTnzJ90rQDcD.jpg",
+                "video_url": "3612890"
+            },
+            {
+                "episode_number": 20,
+                "name": "İyinin ve Kötünün Savaşı",
+                "overview": "Naofumi ve ekibi, Papa'nın Büyük Katedrali'nde mahsur kalmalarına rağmen saldırıyı sürdürüyor ancak kutsal alt uzayı, Lanet Kalkanı'nı etkisiz hale getirerek onları bir adım geride bırakıyor. Naofumi, yeni açılmış bir Lanet Kalkanı'na döner ancak ejderhanın gazabı, zihnini bütünüyle yutmakla tehdit eder.",
+                "air_date": "2019-05-22",
+                "still_path": "/YajDAXdBLyyEOb5ROGGPSzyS3E.jpg",
+                "video_url": "3617092"
+            },
+            {
+                "episode_number": 21,
+                "name": "Naofumi'nin Muzaffer Dönüşü",
+                "overview": "Naofumi, Mirelia'nın yardımıyla hayatta kaldıktan sonra onu ziyarete gelir ve ona kahramanların çağrılmasının ve Kalkan Kahramanına karşı uygulanan ayrımcılığın ardındaki gerçeği anlatır. Ayrıca onun adını temize çıkaracağına söz verir ve Aultcray ile Myne'ın suçları için bir duruşma düzenler.",
+                "air_date": "2019-05-29",
+                "still_path": "/1mnonU19oWG6QwE2XQuXOloSLI6.jpg",
+                "video_url": "3622724"
+            },
+            {
+                "episode_number": 22,
+                "name": "Dört Kahraman Konseyi",
+                "overview": "Bu kadar uzun süre bunu yapamayan Naofumi, sonunda partisinin sınıflarını yükseltmeyi başarır. Daha sonra kutlama ziyafeti kisvesi altında düzenlenen Dört Kardinal Kahramanın toplantısına katılır. Orada, XP kazancının arttığı bir bonus aşamasının varlığını öğrenir. Bu sırada Raphtalia partide kavga eder.",
+                "air_date": "2019-06-05",
+                "still_path": "/m7pYjTMJPgrAg6uBChbawdRdXZb.jpg",
+                "video_url": "3626602"
+            },
+            {
+                "episode_number": 23,
+                "name": "Cal Mira Takımadaları",
+                "overview": "Naofumi, Cal Mira'ya giden gemide bir kez daha onu başından savan L'arc'la karşılaşır. Ancak tuhaf adamın dost canlısı doğası ön plana çıkar ve Naofumi hızla ondan hoşlanmaya başlar. Seviyeleri aşıp eğlenceli vakit geçirdikten ve canlı bir yemek yedikten sonra Naofumi, bu dünyada ilk kez kendini mutlu ve tatmin olmuş hissediyor.",
+                "air_date": "2019-06-12",
+                "still_path": "/iW8jZqVct7NXPUXbEjzERdZDQtw.jpg",
+                "video_url": "3631919"
+            },
+            {
+                "episode_number": 24,
+                "name": "Başka Bir Dünyanın Koruyucuları",
+                "overview": "Melromarc, dalgayla denizde savaşmak için büyük bir filo getiriyor. Kraliçe sorumluluğu üstlenip operasyonu iyi bir şekilde yönetirken, diğer üç kahraman bir kez daha işe yaramaz hale gelir ve Naofumi'yi bu işi tek başına yapmak zorunda bırakır. Daha sonra canavarları savuşturmak için L'arc ve Therese'den yardım alır ama sonra...",
+                "air_date": "2019-06-19",
+                "still_path": "/hRQPcTDNR5Cejz36lIJiuUqIYto.jpg",
+                "video_url": "3635519"
+            },
+            {
+                "episode_number": 25,
+                "name": "Kalkan Kahramanının Yükselişi",
+                "overview": "L'arc gibi Glass'ın da başka dünyadan bir kahraman olduğu ortaya çıktı. Naofumi, kombo saldırılarına zar zor karşı koyar ve ardından Glass'ı bire bir savaşta köşeye sıkıştırır, ancak daha sonra çok önemli bir soruyla karşı karşıya kalır: Bu dünyayı gerçekten korumayı istiyor mu?",
+                "air_date": "2019-06-26",
+                "still_path": "/pdKDwMpMp9B0tbPCpo6WDhXbxxA.jpg",
+                "video_url": "3640369"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2022-04-06",
+        "poster_path": "/vc8bRDC2P9FeDzhzPWGmFVzwSUa.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yeni Bir Kükreme",
+                "overview": "Naofumi bir sonraki Dalgaya hazırlanırken gizemli canavarlar ortaya çıkar. Onlar ortaya çıktığı anda Dalga geri sayımı durur. Kraliçe Dört Kardinal Kahramanı çağırır ve onlara Ruh Kaplumbağasının yeniden canlandığını söyler.",
+                "air_date": "2022-04-06",
+                "still_path": "/tRO0DbjXkA6s7pU0hVJJfrDrPqr.jpg",
+                "video_url": "4689339"
+            },
+            {
+                "episode_number": 2,
+                "name": "Ruh Kaplumbağasının Ayak İzleri",
+                "overview": "Tüm ulusların ordularının liderleri Ruh Kaplumbağa Krallığı'nda toplanıyor. Naofumi de oradadır ve kahramanlardan biri olarak yardım teklif edeceğine söz verir. Ancak bir plana karar vermelerinden hemen önce gizemli bir kadın ortaya çıkar...",
+                "air_date": "2022-04-13",
+                "still_path": "/2WqmAKbSS78m2udzIWSZSflVU4h.jpg",
+                "video_url": "4689340"
+            },
+            {
+                "episode_number": 3,
+                "name": "Toprak Sallanıyor",
+                "overview": "Ruh Kaplumbağası, kendi adını taşıyan krallığın sınırında belirerek bir kez daha yürüyüşüne başlar. Ordu onu dağlara götürmeye çalışırken Naofumi, yakınlarını cezbetmeye gönüllü olur. Ruh Kaplumbağası'nın tanıdık Ost'u insanlarla birlikte savaşır...",
+                "air_date": "2022-04-20",
+                "still_path": "/iDeFalJ462DLsGPowJYEoy6BKmo.jpg",
+                "video_url": "4689341"
+            },
+            {
+                "episode_number": 4,
+                "name": "Sisteki Harabeler",
+                "overview": "Ruh Kaplumbağası'nın kafası kesildi ama tanıdık Ost hâlâ hayatta. Her an yeniden canlanabilir. Müttefik orduların hızla savaş düzenine dönmeleri gerekiyor. Naofumi, yalnızca küçük bir grupla Kaplumbağa'nın sırtına binerek riskli bir hamle yapar ve onun gerçek zayıf noktasını bulmaya çalışır.",
+                "air_date": "2022-04-27",
+                "still_path": "/sPsdHO0u2XQpwE8RE8SkbUeaSGO.jpg",
+                "video_url": "4716735"
+            },
+            {
+                "episode_number": 5,
+                "name": "Doğu Hourai",
+                "overview": "Naofumi, L'Arc, Glass ve Therese tarafından karşılanır. Ruh Kaplumbağası'nın mührünü kıran ve onu kontrol eden kişinin peşindeler. L’Arc yeniden ekip kurmayı öneriyor…",
+                "air_date": "2022-05-04",
+                "still_path": "/cmbhEixShcIkZdABWO6SwyUsmf9.jpg",
+                "video_url": "4716737"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yakalamak İçin Yarışıyoruz",
+                "overview": "Fitoria, Ruh Kaplumbağası yeniden canlandığında ortaya çıkar ve onun yardımıyla Naofumi, hem onun kalbini yok etmeye hem de aynı zamanda kafasını kesmeye çalışır. L'Arc da gelir ama hepsi Kyo'nun ezici gücü karşısında çaresiz kalır.",
+                "air_date": "2022-05-11",
+                "still_path": "/6cRt8dAvxM49nuEkPe1e5COsHyP.jpg",
+                "video_url": "4716742"
+            },
+            {
+                "episode_number": 7,
+                "name": "Sonsuz Labirent",
+                "overview": "Naofumi tuhaf bir hapishanede uyanır ve kendisini ve ekibini 1. seviyede ve Filo'nun kayıp olduğunu görür. Kaçmak için seviyelerini yükseltmeye başlarlar, ancak tehlikeli bir canavar aniden ortaya çıkınca işler hızla onların aleyhine döner...",
+                "air_date": "2022-05-18",
+                "still_path": "/n7TO02GB9Y2uPEXBAhusFZfKqZd.jpg",
+                "video_url": "4718616"
+            },
+            {
+                "episode_number": 8,
+                "name": "Karda Ayrılık",
+                "overview": "Naofumi'nin partisi, Kizuna'yı çağıran ülke Sikul'a ulaşmak için Mikakage'nin Ejderha Kum Saati'ne doğru yola çıkar. Yol boyunca büyük bir kâr elde etmek için nadir şifa eşyaları satıyor. Dahi bir büyücü hakkında bir söylenti duyar...",
+                "air_date": "2022-05-25",
+                "still_path": "/dRIf2z69220x4QOxZqicm3AOB2W.jpg",
+                "video_url": "4729969"
+            },
+            {
+                "episode_number": 9,
+                "name": "Mırıldanan Peri",
+                "overview": "Naofumi'nin partisi, Kizuna'nın Vassal Silah Kahramanı Ethnobalt'ı tanıttığı Sikul'a ışınlanır. Onu bulmak için bir shikigami yaratabilecek bir katalizör olarak Raphtalia'nın bir parça saçını ve Naofumi'nin kanını kullanabileceğini söylüyor. Shikigami'yi yaratır ve onlar bulur.",
+                "air_date": "2022-06-01",
+                "still_path": "/vlnMMoBwzO5XrCeI82VWAF4nS95.jpg",
+                "video_url": "4735466"
+            },
+            {
+                "episode_number": 10,
+                "name": "Katana Kahramanı",
+                "overview": "Raphtalia, Raybul Krallığı hapishanesinde hapsedildi. Kendisi de orada hapsedilen L'Arc'ın ekibine karşı temkinlidir ancak kaçmak için onlardan yardım ister. Cam, hapishanenin boşaltma gücü nedeniyle zayıflıyor. Raphtalia'nın kaçmak için bir planı var ama…",
+                "air_date": "2022-06-08",
+                "still_path": "/46ak0sKyNul9dwfx1wbLmVXlGTO.jpg",
+                "video_url": "4743938"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kizuna",
+                "overview": "Naofumi'nin partisi Raphtalia ile yeniden bir araya gelmenin mutluluğunu yaşıyor. Kizuna, Glass'ı başka bir dünyayı istila ettiği için eleştiriyor. Glass ve L'Arc, artık Naofumi ile savaşmayacaklarına ve bunun yerine sorunlarını çözmenin başka bir yolunu bulacaklarına yemin ederler. Bu sırada Kyo'nun planı ilerlemektedir.",
+                "air_date": "2022-06-15",
+                "still_path": "/arCt8efkNt2FCHZUWrrqXrczhiu.jpg",
+                "video_url": "4775494"
+            },
+            {
+                "episode_number": 12,
+                "name": "Savaşma Nedeni",
+                "overview": "Dalga planlanan saatten önce ortaya çıkıyor. Kizuna'nın grubu oraya ışınlanırken Naofumi ve ekibi, Ethnobalt'ın gemisindeki Kyo'nun laboratuvarına doğru yola çıkar. Orada Kyo'nun kötülüğünün gerçek derinliğini görüyorlar...",
+                "air_date": "2022-06-22",
+                "still_path": "/k7NAImYQXSeshdC7FAVdV6tX0eQ.jpg",
+                "video_url": "4775499"
+            },
+            {
+                "episode_number": 13,
+                "name": "Anmada Sunulan Çiçekler",
+                "overview": "Raphtalia küçük hali için kıyafet satın almak zorunda kaldığını hatırlıyor. Kizuna bu kadar uzun süre yalnız kaldığını hatırlıyor. Rishia, Ost'un tavsiye vermeye çalıştığını hatırlıyor.",
+                "air_date": "2022-06-29",
+                "still_path": "/jUPGP1lycBxOJqfibDsWXjMGwge.jpg",
+                "video_url": ""
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 12,
+        "air_date": "2023-10-06",
+        "poster_path": "/63LSj5yhQOALUKsEUPexgkdecpf.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Karanlık Kolezyum",
+                "overview": "Lurolona Köyü'nün köle olarak satılan dağınık sakinlerini yeniden bir araya getirmek isteyen Kalkan Kahramanı ve partisi, kolezyumdaki yeraltı savaşlarında gizlice yarışmak için Zeltoble'a gider.",
+                "air_date": "2023-10-06",
+                "still_path": "/dBS9trCTsM0TDRqGWROMfxSh69W.jpg",
+                "video_url": "5270118"
+            },
+            {
+                "episode_number": 2,
+                "name": "Nadia",
+                "overview": "Naofumi'nin partisi, kimliklerini gizleyerek yeraltı arenasına girer. Kazanıp sıralamalarda yükseldikçe, arenanın içinde ve dışında gizlenen açgözlülük ve kanunsuzlukla yüzleşmek zorunda kalacaklar. Ve son savaş geldiğinde Raphtalia rakibini tanır...",
+                "air_date": "2023-10-13",
+                "still_path": "/tpihwS5i6YRilDYD501a9a6rhHM.jpg",
+                "video_url": "5298076"
+            },
+            {
+                "episode_number": 3,
+                "name": "Beyaz Kaplan Kardeşler",
+                "overview": "Naofumi, yarı insan köle Fohl'un ondan hasta kız kardeşini kurtarmasını istediği köle pazarını ziyaret eder. Naofumi ona bedelini ödemeye hazır olup olmadığını sorar ama… Bu arada, kurtarılan yarı insanlar geri dönerken Lurolona Köyü hayata dönmeye başlamaktadır, ancak onu büyük bir tehlike beklemektedir.",
+                "air_date": "2023-10-20",
+                "still_path": "/ke53laX0I3cQhsp0y8n8BW6lkFl.jpg",
+                "video_url": "5289861"
+            },
+            {
+                "episode_number": 4,
+                "name": "Mızrak Kahramanını Yakalama Operasyonu",
+                "overview": "Mızrak Kahramanı Motoyasu görülmüştür ve Mirelia, Naofumi'den onu geri dönmeye ikna etmesini ister. Naofumi, beklenmedik bir ziyaretçi geldiğinde topraklarını Eclair'e bırakıp Motoyasu'yu aramaya gitmek üzeredir. Ayrıca Motoyasu'nun kaldığı kasabada beklenmedik biriyle tanışırlar…",
+                "air_date": "2023-10-27",
+                "still_path": "/lyQ0JuPd2Wf3mwYO23P6xLlDcEW.jpg",
+                "video_url": "5299680"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yollarının Her Biri",
+                "overview": "Naofumi'nin partisi bir çift gizemli ve güçlü adam tarafından saldırıya uğrar. S'yne savaş sırasında gelir ve sonunda neden Naofumi'nin takipçilerinden biri olmak istediğini açıklamaya çalışır. Bu arada Hengen Muso'da daha fazla köylü eğitim görüyor.",
+                "air_date": "2023-11-03",
+                "still_path": "/6x4r829HeaF9X9y119AHrcp8WIe.jpg",
+                "video_url": "5307763"
+            },
+            {
+                "episode_number": 6,
+                "name": "Gücünüzü Nereye Yönlendiriyorsunuz?",
+                "overview": "Ren, Ruh Kaplumbağası'nı yenmek için yapılan başarısız bir girişimde parti üyelerinin ölümlerini aklından çıkarmaz ve olanlardan kendisinin sorumlu olabileceğine inanmak istemez. Myne onun tarafını tutmaya ve onu desteklemeye hazır görünüyor ama...",
+                "air_date": "2023-11-10",
+                "still_path": "/41yMsRf0S7fDjFp7Vt9lDLp4zMj.jpg",
+                "video_url": "5315466"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kız ve Ejderha",
+                "overview": "Keel ve köydeki diğer yarı insan çocuklar, Sadeena gibi teriantrop formuna nasıl bürüneceklerini öğrenmeye başlıyor. Ren, Lanet kılıçlarının etkilerine maruz kalırken artık köyde kalıyor ve uyum sağlamak için elinden geleni yapıyor.",
+                "air_date": "2023-11-17",
+                "still_path": "/vR4lOB162O60hXPTT8pSuybfMjr.jpg",
+                "video_url": "5326823"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ejderhanın İni",
+                "overview": "Naofumi, İmparator Ejderha'nın Özü'nü tüketen Gaelion'u takip etmek için bir grup toplar. Gaelion'un dönüşümü Filo'yu derinden hasta eder, bu yüzden Naofumi Gaelion'u önümüzdeki iki gün içinde normale döndürmelidir.",
+                "air_date": "2023-11-24",
+                "still_path": "/neFN4JMqFAkjnHXMhZU3mlpzwDI.jpg",
+                "video_url": "5335876"
+            },
+            {
+                "episode_number": 9,
+                "name": "İmparator Ejderha",
+                "overview": "Naofumi'nin partisi yeniden toplanır ve İmparator Ejderhaya yeni bir saldırı planlar. Saldırı planları bir araya gelirken Wyndia, ejderhayla olan bağlantısını açıklar. Bu Wyndia'nın çok önemli bir şeyi hatırlamasına neden olur...",
+                "air_date": "2023-12-01",
+                "still_path": "/se3qM16oCkehRfwq8ZenrH3TjKN.jpg",
+                "video_url": "5335876"
+            },
+            {
+                "episode_number": 10,
+                "name": "Mükemmel Gizli Adalet",
+                "overview": "Filo iyileşti ancak kaybettiği seviyelerin yerini doldurmak için deneyim kazanması gerekiyor. S'yne yeraltı arenasından, yay kullanan ve Kusursuz Gizli Adalet takma adını kullanan, şüpheli derecede tanıdık yeni bir dövüşçünün öyküsünü taşıyarak geri döner.",
+                "air_date": "2023-12-08",
+                "still_path": "/p8RhvYYa396rFRFcl6g0oMoRevp.jpg",
+                "video_url": "5352143"
+            },
+            {
+                "episode_number": 11,
+                "name": "Adalet Vs Adalet",
+                "overview": "Rishia, yeraltı arenasında Itsuki ile yüzleşir. Itsuki bağırıp överken, onun da Myne'ın zihinsel etkisi altına girdiği ve bir Lanet serisinin kilidini açtığı açık. Rishia şimdiye kadarki en tehlikeli kavgasına girerken Naofumi çocukları tahliye eder.",
+                "air_date": "2023-12-15",
+                "still_path": "/p2n9jaEfH8C1txGxNoaWUsAkXFw.jpg",
+                "video_url": "5363104"
+            },
+            {
+                "episode_number": 12,
+                "name": "Korumamız Gerekenler",
+                "overview": "Naofumi, Sadeena ve Gaelion ile Ejderha Damarı Yolu'nda eğitime başlar. Köyü ziyaret eden demirci, Raphtalia'ya yeni ekipmanlar getirir. Bunu denediğinde geçmişiyle ilgili şok edici bir sır ortaya çıkar...",
+                "air_date": "2023-12-22",
+                "still_path": "/pHwncx2bylpW5BXe6KahBgb3xoL.jpg",
+                "video_url": "5370476"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 0,
+        "air_date": null,
+        "poster_path": "/y3a2EtofM313gCOi4Y8JMwBQ4Ow.jpg",
+        "episodes": []
+    }
+}

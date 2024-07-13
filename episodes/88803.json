@@ -1,0 +1,404 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2019-07-10",
+        "poster_path": "/9WZwylQ4VuLXaN45bMtxnztItUa.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Burada Değil Bir Yerde",
+                "overview": "İzlanda'da yaşayan bir çocuk olan Thorfinn, macerayı özlüyor ve dünya hakkında daha fazla bilgi edinmek için can atıyor. Eski bir savaşçı olan babası Thors ile huzurlu bir yaşam sürdürürken, maceracı Leif'ten duyduğu Vinland adında bir cennet ülkesinin hayalini kurar. Bir gün Thors kaçak bir köleyi kurtarır ve bir dizi olayı harekete geçirir. Bu, kargaşa çağındaki gerçek bir savaşçının hikayesidir.",
+                "air_date": "2019-07-08",
+                "still_path": "/20sCGFmd3Tsn6NWJAG56c000hSZ.jpg",
+                "video_url": "3647068"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kılıç",
+                "overview": "1002 yılında İngiltere ile Danimarka arasındaki savaş yoğunlaşıyordu. Bir gün Jomsviking'ler, eski komutanları Thors'u yaklaşan savaşa hazırlanmak üzere geri getirmek için Thorfinn'in köyünü ziyaret eder. Köylülerin rehin alınmasını önlemek için savaşa katılmak zorunda kalan Thors, ailesini ve köyünü kurtarmak için lanetli geçmişiyle yüzleşmek zorunda kalır.",
+                "air_date": "2019-07-08",
+                "still_path": "/uOHYGhjbnj172E3TOLXDhx4FHbn.jpg",
+                "video_url": "3647122"
+            },
+            {
+                "episode_number": 3,
+                "name": "Trol",
+                "overview": "Yüz kişilik bir Viking ordusunun lideri Askeladd, Jomsviking'lerden Floki'den bir zamanlar Jom'un Trolü olarak bilinen Thors'u öldürme emri alır. Ancak emirden habersiz olan köylüler, ilk savaşlarına hazırlanırken heyecandan coşarlar. Thorfinn de bu heyecana katılıyor. Thors ve adamları İngiltere'ye doğru zorlu bir deniz yolculuğuna çıkmak üzeredir.",
+                "air_date": "2019-07-08",
+                "still_path": "/iMl5CIdLGYJSw9H8ZKt1bnwJgUX.jpg",
+                "video_url": "3647132"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gerçek Bir Savaşçı",
+                "overview": "Thors ve adamları Askeladd'ın tuzağına düşer ve tehlikeli bir durumla karşı karşıya kalır, ancak Thors, ezici gücüyle Askeladd'ın adamlarının çoğunu yener. Ancak hayatı boyunca huzur dolu bir köyde yaşayan Thors, oğlu dahil herkesi kurtarmanın zor olacağını biliyor ve zor bir karar veriyor.",
+                "air_date": "2019-07-29",
+                "still_path": "/rk8O2qX6Vlr3vayXeHveE46syDF.jpg",
+                "video_url": "3662513"
+            },
+            {
+                "episode_number": 5,
+                "name": "Trolün Oğlu",
+                "overview": "Askeladd, Thorfinn'in babası Thors'u öldürdükten sonra Thorfinn, Thor'un gemisinin içinde saklanır ve intikam alma fırsatına kadar bekler. Ancak gemide yiyecek ve su olmadan hayat çok zor ve Thorfinn her geçen gün daha da zayıflıyor. Bir gün Thorfinn, kılıcıyla uykusunda Askeladd'a saldırmaya çalışır.",
+                "air_date": "2019-08-05",
+                "still_path": "/xl2eHxtN8Z7K2y008VKQv5kXFJB.jpg",
+                "video_url": "3667485"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yolculuk Başlıyor",
+                "overview": "Thorfinn ilk adamını öldürür. Zaman geçtikçe Thorfinn daha fazla adam öldürüyor ve daha yetenekli hale geliyor. Thorfinn savaştayken bir gün bir okla vurulur ve bilincini kaybeder. İngiliz bir kadın ve kızı onun iyileşmesine yardım ediyor.",
+                "air_date": "2019-08-12",
+                "still_path": "/xQBhFPORk2qiHd6lrAhO7LmsXt7.jpg",
+                "video_url": "3671761"
+            },
+            {
+                "episode_number": 7,
+                "name": "Normanni",
+                "overview": "Askeladd, İngiltere'ye karşı savaştan geçici olarak çekilir. Yeni bir gelir kaynağı ararken Franklar arasında bir çatışmayla karşılaşır ve hazinelerini çalmak için bir komplo kurar. Askeladd, büyüyüp soğuk kalpli bir Viking'e dönüşen 16 yaşındaki Thorfinn'i haberci olarak önden gönderir.",
+                "air_date": "2019-08-19",
+                "still_path": "/TEscn9jYP0fO4BvJwWj2dISivD.jpg",
+                "video_url": "3676044"
+            },
+            {
+                "episode_number": 8,
+                "name": "Deniz Kenarının Ötesinde",
+                "overview": "Hazineyi Franklardan ele geçirdikten sonra Askeladd'ın adamları, kışı geçirmek için Danimarka'nın Jutland Yarımadası'ndaki Gorm köyüne döner. Thorfinn, Askeladd'ı Frank klanının kaptanının başına getirmenin ödülü olarak düelloya davet eder. Her ne kadar Thorfinn savaş deneyimi sayesinde becerilerini geliştirmiş olsa da hâlâ Askeladd'a rakip olamaz.",
+                "air_date": "2019-08-26",
+                "still_path": "/kXqzBmmofkcldGwE8J3nwshPfdL.jpg",
+                "video_url": "3686437"
+            },
+            {
+                "episode_number": 9,
+                "name": "Londra Köprüsü Savaşı",
+                "overview": "Ekim 1013'te Kral Sweyn, İngiltere'nin Londra Köprüsü'nü ele geçirme girişiminde bulunan Danimarka ve Viking gemilerinden oluşan bir filoya liderlik ediyor. Danimarka ordusu tarafından kiralanan Askeladd'ın ordusu da bunların arasındaydı. Ancak, ezici gücüyle tanınan bir Viking olan Uzun Thorkell'in ihanetinin ardından Londra Köprüsü zaptedilemez hale geldi. Askeladd, Thorfinn'e, Thorkell'i öldürmeyi başarırsa onu bir düelloyla ödüllendireceğini söyler.",
+                "air_date": "2019-09-02",
+                "still_path": "/kRpuMZ51xi6nNrrCxQB0ofIgOc6.jpg",
+                "video_url": "3691083"
+            },
+            {
+                "episode_number": 10,
+                "name": "Ragnarok",
+                "overview": "Askeladd'ın ordusu Danimarka ordusundan ayrılarak 100 km batıdaki bir köye saldırır. Thorfinn tiksintiyle askerleri geride bırakır ve köye bakan bir tepeye tırmanır ve burada babasının intikamını almaya söz verir. Ancak karanlıkta oturan ve ona dünyanın yaşlanması olan \"Britannia\"yı ve son savaş olan Ragnarok'u anlatan Askeladd ile karşılaşır.",
+                "air_date": "2019-09-16",
+                "still_path": "/ifYEkh4l8S3nr60pR2vqn0ulAnV.jpg",
+                "video_url": "3701763"
+            },
+            {
+                "episode_number": 11,
+                "name": "Bir Kumar",
+                "overview": "Thorkell, Canute'u rehin alır ve Danimarka'nın ana ordusunun peşine düşer. Ragnar, Thorkell'in 16.000 askere ve yalnızca 500 adama sahip Danimarka ordusunun tamamını ele geçirme planına karşı çıkıyor. Thorkell daha sonra Ragnar'a, yalnızca savaşta ölenlerin gidebildiği Normanlar'ın gururu Valhalla'nın hikayesini anlatmaya başlar.",
+                "air_date": "2019-09-23",
+                "still_path": "/lVBvExqW88xlBhKAUdvlMlF0Snm.jpg",
+                "video_url": "3706320"
+            },
+            {
+                "episode_number": 12,
+                "name": "Uzak Kıyıdaki Arazi",
+                "overview": "Askeladd ve adamları Thorkell'den kaçmak için yürüyüşlerine devam ediyor. Ancak yürüyüşleri Severn Nehri'nde durma noktasına gelir. Askeladd, nehirde feribot işleten yaşlı bir adama bir mektup verir ve ona mektubu hemen karşı tarafa teslim etmesini söyler. Yaşlı adam, muhatabın adını duyar duymaz teknesiyle yola çıkar.",
+                "air_date": "2019-09-30",
+                "still_path": "/gv6oEX3yk14ULRzpzwb2SeXhpjo.jpg",
+                "video_url": "3710073"
+            },
+            {
+                "episode_number": 13,
+                "name": "Bir Kahramanın Çocuğu",
+                "overview": "Askeladd nehri geçer ve Canute ile Thorkell'den Galler'e kaçar. Ancak Askeladd'ın adamları, Brycheiniog krallığının sınırındaki kayaların arkasına saklanan bir grup asker tarafından pusuya düşürülür. Askeladd, habercileriyle pazarlık yapmaya çalışır ve planını açıklar.",
+                "air_date": "2019-10-07",
+                "still_path": "/pYW3pmIQRiF2n96d71zkFlH5vaY.jpg",
+                "video_url": "3716841"
+            },
+            {
+                "episode_number": 14,
+                "name": "Şafak Işığı",
+                "overview": "Askeladd ve adamları yön değiştirir ve Danimarka'nın ana ordusunun beklediği şiddetli kar fırtınasının ortasında Mercia Kontluğu'nu geçerek Gainsborough'ya dönmeye karar verirler. Adamlar kar fırtınasında küçük bir köyü görür ve harekete geçer.",
+                "air_date": "2019-10-14",
+                "still_path": "/AjgMB92oc3psHCvG7IN25vqav5n.jpg",
+                "video_url": "3721224"
+            },
+            {
+                "episode_number": 15,
+                "name": "Noel'den Sonra",
+                "overview": "Canute'u kaybettikten sonra Thorkell, İngiltere'nin merkezindeki ilerleyişini durdurmaya karar verir. Thorkell, Danimarka ile İngiltere arasındaki savaşın sonunun yaklaştığını duyar ve savaşın sona ermesinden yakınır. Ancak daha sonra ilginç bir haber duyar.",
+                "air_date": "2019-10-21",
+                "still_path": "/uyg8j4ILWnHDGiAwjceb2QSgK1V.jpg",
+                "video_url": "3725876"
+            },
+            {
+                "episode_number": 16,
+                "name": "Canavarların Tarihi",
+                "overview": "Askeladd ve adamları, kış aylarında kamp yapmayı planladıkları köyde İngiliz ordusunun saldırısına uğrar. Askeladd, kaptanlarını yakalar ve İngilizlerin nerede olduklarını nasıl bildiklerini öğrenmek için onu sorguya çeker ve Thorkell'in hızla yaklaştığını keşfeder. Thorkell'in gelişiyle ilgili haber Askeladd'ın takipçileri arasında şok dalgaları yaratır.",
+                "air_date": "2019-10-28",
+                "still_path": "/dGSSIz36eRvXHjpr4XUPWgv1wE5.jpg",
+                "video_url": "3730892"
+            },
+            {
+                "episode_number": 17,
+                "name": "Hizmetkar",
+                "overview": "Askeladd'ın adamları Thorkell'den kaçmak için yürüyüşlerine devam etti. Ancak Torgrim ve arkadaşları, Canute'u da yanlarına alarak taraf değiştirip Thorkell'e katılmak için bir komplo kuruyorlardı. Torgrim sonunda isyanını başlatır ve Askeladd'ı köşeye sıkıştırır, Canute'yi teslim etmesi için onunla pazarlık yapar, ardından Thorkell kafa karışıklığının ortasında gelir.",
+                "air_date": "2019-11-04",
+                "still_path": "/giCXN698HTHwZPDGYfXB636Dmvx.jpg",
+                "video_url": "3736734"
+            },
+            {
+                "episode_number": 18,
+                "name": "Beşiğin Dışında",
+                "overview": "Thorfinn ve Thorkell, Askeladd'ın kaderi hakkında bir düello yapmayı kabul eder. Thorkell, Thors'un oğlu Thorfinn'le yüzleşmeyi dört gözle bekler ve ona gerçek bir savaşçının gerçekte ne olduğunu sorar. Bu arada, Canute kaçmaya çalışırken aniden pusuya düşürülür ve belirli bir birey hakkında bir rüya görür.",
+                "air_date": "2019-11-18",
+                "still_path": "/zKYuwDsFkTd7gR27eouZ6PwVeHk.jpg",
+                "video_url": "3749660"
+            },
+            {
+                "episode_number": 19,
+                "name": "Birleşik Cephe",
+                "overview": "Thorfinn, Thorkell'e karşı verdiği mücadelede ciddi bir sakatlık geçirir. Thorfinn'e Thorkell'i yenmek için ne yapması gerektiğini düşünmesi söylenir. Askeladd, Thorfinn'in bir gün tekrar savaşabilmesi için yaralarını tedavi eder ve ikisinin daha uzun süre hayatta kalmasına yardımcı olacak ortak bir strateji önerir.",
+                "air_date": "2019-11-25",
+                "still_path": "/q0oU85bZ924v6A0ah9nnJESwzLl.jpg",
+                "video_url": "3756678"
+            },
+            {
+                "episode_number": 20,
+                "name": "Taç",
+                "overview": "Thorfinn, Thorkell'e karşı verdiği mücadelede ciddi bir sakatlık geçirir. Thorfinn'e Thorkell'i yenmek için ne yapması gerektiğini düşünmesi söylenir. Askeladd, Thorfinn'in bir gün tekrar savaşabilmesi için yaralarını tedavi eder ve ikisinin daha uzun süre hayatta kalmasına yardımcı olacak ortak bir strateji önerir.",
+                "air_date": "2019-12-02",
+                "still_path": "/3sWjsqhb29BDee7g1MH6Enudyca.jpg",
+                "video_url": "3762241"
+            },
+            {
+                "episode_number": 21,
+                "name": "Yeniden Birleşme",
+                "overview": "Canute'nin partisi İmparatorluk Konseyine katılmak için York'a gelir. Canute, Kral Sweyn'e saldırmak istese de Kral, Kuzey Denizi'ndeki en güçlü Jomsviking birimi tarafından korunuyor ve Canute'u yakından izliyordu. Durum kırılma noktasına gelince Askeladd bir plan yapar. Bu sırada Thorfinn, eski halini tanıyan biriyle yeniden bir araya gelir.",
+                "air_date": "2019-12-09",
+                "still_path": "/2pDnNNSyZgC2OGanRsohCPWHCb.jpg",
+                "video_url": "3767245"
+            },
+            {
+                "episode_number": 22,
+                "name": "Yalnız Kurt",
+                "overview": "Thorfinn, Canute ve Thorkell'in tanık olduğu Askeladd'a karşı düellosuna başlar. Ancak Thorfinn, Bjorn'un ayrılışından sonra Askeladd'ı etkisi altına alan olağanüstü ruh halinden bunaldığı için saldıramaz. Thorfinn'in tereddütünü fark eden Askeladd, kılıcını bırakır ve Thorfinn'i silahsız bir dövüşe kışkırtır, bu da Thorfinn'in öfkesini kışkırtır.",
+                "air_date": "2019-12-16",
+                "still_path": "/oNFBQHPnpBOp2imod7HxFvrokyy.jpg",
+                "video_url": "3772431"
+            },
+            {
+                "episode_number": 23,
+                "name": "Yanlış Hesaplama",
+                "overview": "Canute'ye yönelik suikast girişiminin ardından, kralın Canute'yi öldürmeye çalıştığına dair dedikodular York'ta yayıldı. Sonuç olarak kral, Canute'ye zarar verecek herhangi bir emir veremez ve Askeladd her şeyin planlandığı gibi ilerlemesinden memnundur. Ancak Kral Sweyn konuştuğunda durum değişir. Bu sırada Thorfinn, huzuru bozduğu gerekçesiyle ceza olarak hapishaneye gönderilir.",
+                "air_date": "2019-12-23",
+                "still_path": "/aE48nt9kL8J1VWA2je6JrOVuZx3.jpg",
+                "video_url": "3776591"
+            },
+            {
+                "episode_number": 24,
+                "name": "Önsözün Sonu",
+                "overview": "Askeladd, Kral Sweyn'in huzuruna çıkar ve Galler'i işgalini durdurması için ona yalvarır. Bu sırada Thorfinn, Leif'in ısrarı üzerine eve dönmeye karar verir. Ancak Thorfinn, gemiye binmeden hemen önce gökyüzüne doğru uçan tek bir sumru görür...",
+                "air_date": "2019-12-30",
+                "still_path": "/32cLSDA0Zbvv2qA11wUeC2NSB99.jpg",
+                "video_url": "3782064"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 24,
+        "air_date": "2023-01-10",
+        "poster_path": "/v0enC1tjKyJoF9mfYUDRyrZLtMf.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Köle",
+                "overview": "Einar, annesi ve kız kardeşiyle birlikte Kuzey İngiltere'de huzur içinde yaşamaktadır ancak bir gün köyleri saldırıya uğrar.",
+                "air_date": "2023-01-10",
+                "still_path": "/39Egg6NtF0yWU9YxLMH35jPceJr.jpg",
+                "video_url": "5005152"
+            },
+            {
+                "episode_number": 2,
+                "name": "Ketil'in Çiftliği",
+                "overview": "Einar ve Thorfinn'e yabani bir ormanı buğday tarlasına dönüştürmeleri söylenir; ve eğer başarılı olurlarsa kendi özgürlüklerini satın alma şansına sahip olacaklar.",
+                "air_date": "2023-01-17",
+                "still_path": "/kARuAybuBELgFlFeADMDuGNNFbg.jpg",
+                "video_url": "5011410"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yılan",
+                "overview": "Çiftlik korucuları, Ketil'in 17 yaşındaki oğlunu, erkek olabilmesi için ilk cinayetini işlemesi gerektiğine ikna eder.",
+                "air_date": "2023-01-24",
+                "still_path": "/wyUgkAmFx5YBhex0yEaDw6Hz3YE.jpg",
+                "video_url": "5018640"
+            },
+            {
+                "episode_number": 4,
+                "name": "Uyanış",
+                "overview": "Tüm olanlardan sonra Einar, Thorfinn'e daha önce bir savaşta yer alıp almadığını ve daha önce bir adamı öldürüp öldürmediğini sorar.",
+                "air_date": "2023-01-31",
+                "still_path": "/rQIAdFTAO7zNjSq5s1GXroIRFby.jpg",
+                "video_url": "5026451"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kan Yolu",
+                "overview": "Olayların ani gelişmesinin ardından genç Canute, çok küçülmüş ve saldırı altında olan bir krallığın tahtını ele geçirmek için ayağa kalkmak zorundadır.",
+                "air_date": "2023-02-07",
+                "still_path": "/bsl84lrge48qEIMA8TTLTLoDxYX.jpg",
+                "video_url": "5034331"
+            },
+            {
+                "episode_number": 6,
+                "name": "Bir Ata Ihtiyacımız Var",
+                "overview": "Thorfinn ve Einar ormanı temizlemek için canla başla çalışıyorlar ama atların yardımı olmadan yapabilecekleri çok şey var.",
+                "air_date": "2023-02-14",
+                "still_path": "/ooEahQG2QxwT2RR5t2s64HGlFg7.jpg",
+                "video_url": "5042239"
+            },
+            {
+                "episode_number": 7,
+                "name": "Demir Yumruk Ketil",
+                "overview": "Hırsızlar Ketil'in çiftliğinden yiyecek çalıyor. Bu sırada Ketil'in en büyük oğlu Thorgil eve döner.",
+                "air_date": "2023-02-21",
+                "still_path": "/aPwKhTUAjAEr5BIsIUlgUZLG9RV.jpg",
+                "video_url": "5053405"
+            },
+            {
+                "episode_number": 8,
+                "name": "Boş Bir Adam",
+                "overview": "Thorfinn neredeyse her gece kabus görüyor ama rüyasında ne gördüğünü asla hatırlayamıyor ve bu onu rahatsız ediyor.",
+                "air_date": "2023-02-28",
+                "still_path": "/5SHrVV8uDvxB6ZgYcoDDEecRTS0.jpg",
+                "video_url": "5062299"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yemin",
+                "overview": "Thorfinn huzurlu bir yerde uyanır ve babasını tekrar görür. Ancak sonra işler hızla karanlıklaşır ve Thorfinn acı dolu geçmişiyle yüzleşmek zorunda kalır.",
+                "air_date": "2023-03-07",
+                "still_path": "/g1jxQe0I4nbCaW5DoyAaLcrfswV.jpg",
+                "video_url": "5069081"
+            },
+            {
+                "episode_number": 10,
+                "name": "Lanetli Baş",
+                "overview": "Nihayet, üç uzun yılın ardından Einar ve Thorfinn ormandaki son ağacı da keserler. Yüreklerinde umutla geleceğe dair konuşuyorlar.",
+                "air_date": "2023-03-14",
+                "still_path": "/zXoLhLbMAMgJqKsk5HytCEHTSwt.jpg",
+                "video_url": "5088764"
+            },
+            {
+                "episode_number": 11,
+                "name": "Krallar ve Kılıçlar",
+                "overview": "Ketil, Thorgil ve Olmar, Jelling'deyken yakın arkadaşının oğlu Thorfinn'i arayan Leif Erikson adında bir adamla tanışır.",
+                "air_date": "2023-03-21",
+                "still_path": "/5lpzPKNaW1qFUugkXeALjFW66Bp.jpg",
+                "video_url": "5088765"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kayıp Aşk İçin",
+                "overview": "Olmar, Canute'nin habercisi tarafından hakarete uğradığını hisseder ve ağabeyi Thorgil'in cesaretlendirmesiyle meseleyi kendi eline alır.",
+                "air_date": "2023-03-28",
+                "still_path": "/yOmg9WVeLT7b8vLiofGBiqsKWKW.jpg",
+                "video_url": "5095482"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kara Bulutlar",
+                "overview": "Einar, özgürlüğünü kazansa bile Arnheid'in yakınında kalmak istediğini söylüyor. Snake, bir kölenin sahiplerini öldürdüğü haberini alır ve kaçmaya başlar.",
+                "air_date": "2023-04-04",
+                "still_path": "/l4l49Q6L0NMFfpPUvKTH1K4MlKf.jpg",
+                "video_url": "5140864"
+            },
+            {
+                "episode_number": 14,
+                "name": "Özgürlük",
+                "overview": "Ketil'in çiftliğinde Arnheid'in kocası olduğunu iddia eden kaçak bir köle belirir. Ancak onu serbest bırakamadan Snake'le karşı karşıya kalır.",
+                "air_date": "2023-04-11",
+                "still_path": "/iyq3mKEyeIEie30eCydNxfs6WfG.jpg",
+                "video_url": "5140862"
+            },
+            {
+                "episode_number": 15,
+                "name": "Fırtına",
+                "overview": "Arnheid, Gardar'ın hapsedildiği kaleye gelir. Kocasını görmek ve yaralarını tedavi etmek istiyor.",
+                "air_date": "2023-04-18",
+                "still_path": "/burs3cqa5cCVbYGV7znayAi7DQt.jpg",
+                "video_url": "5140859"
+            },
+            {
+                "episode_number": 16,
+                "name": "Büyük Amaç",
+                "overview": "Snake arayışını yoğunlaştırırken Arnheid, Einar ve Thorfinn'e yaptığı her şeyi anlatır. Riskleri bilen Einar ve Thorfinn, ona yardım etmeyi teklif eder.",
+                "air_date": "2023-04-25",
+                "still_path": "/j3u7dbjGNpAoLiMhyXbWWe9F8cu.jpg",
+                "video_url": "5140860"
+            },
+            {
+                "episode_number": 17,
+                "name": "Eve Dönüş Yolu",
+                "overview": "Yılan hızla saldırır ve Thorfinn'i hızı ve çevikliğiyle şaşırtır. Yaralı halde yatan Gardar, Arnheid'le paylaştığı hayatı düşünür.",
+                "air_date": "2023-05-02",
+                "still_path": "/hrbjEw5HzneU2QNBeS7QgncwGyf.jpg",
+                "video_url": "5140861"
+            },
+            {
+                "episode_number": 18,
+                "name": "Birinci Yöntem",
+                "overview": "Bitkin durumdaki Ketil, çiftliğine döndükten sonra Arnheid'i aramaya başlar ancak onun yokluğunda neler olduğunu öğrenir.",
+                "air_date": "2023-05-09",
+                "still_path": "/pBBvPM0SxzonWR19WtizP05oaL0.jpg",
+                "video_url": "5140863"
+            },
+            {
+                "episode_number": 19,
+                "name": "Ketil Çiftliği Savaşı",
+                "overview": "Bir köylü ayaklanmasının yarattığı karmaşanın ortasında Thorfinn ve diğerleri, ağır yaralı ve hamile bir Arnheid'i taşıyarak kaçmaya çalışır.",
+                "air_date": "2023-05-16",
+                "still_path": "/g1W7U1TVRM0hJA76R6pxkDOs67R.jpg",
+                "video_url": "5207303"
+            },
+            {
+                "episode_number": 20,
+                "name": "Ağrı",
+                "overview": "Thorfinn ve Einar kaçışa doğru ilerlerken Arnheid kendine gelir ve nereye gittiklerini ve orada kölelerin ve savaşların da olup olmadığını sorar.",
+                "air_date": "2023-05-23",
+                "still_path": "/9KtEVVJ3O4OZHcSWk5d4uuLEVL2.jpg",
+                "video_url": "5207265"
+            },
+            {
+                "episode_number": 21,
+                "name": "Cesaret",
+                "overview": "Savaş, arkasında yürek parçalayıcı kayıplar bıraktı. Thorgil ve Ketil'in karısı kavgaya devam etmek istese de Canute teslim olmalarını ister.",
+                "air_date": "2023-05-30",
+                "still_path": "/uYSWeoZsDmTMTSQSZbH78scPKfl.jpg",
+                "video_url": "5207270"
+            },
+            {
+                "episode_number": 22,
+                "name": "İsyan Kralı",
+                "overview": "Snake buna bir son vermeye çalışır, ancak Thorfinn, Canute'nin acımasız muhafızı Drott'tan 100 darbenin tamamını almakta ısrar ederek kabadayı izleyicileri şok eder.",
+                "air_date": "2023-06-06",
+                "still_path": "/xROo4ESn6Tmk9NAD8zlhFLu1n2M.jpg",
+                "video_url": "5207267"
+            },
+            {
+                "episode_number": 23,
+                "name": "İki Yol",
+                "overview": "Thorfinn ve Einar düşüncelerini söylese de Canute inatla Ketil'in Çiftliği'nden vazgeçmeyi reddeder. Ardından Thorfinn bir kararla aradaki mesafeyi bozar.",
+                "air_date": "2023-06-13",
+                "still_path": "/mrF7kEJHtH6r4Cz1OaAZ7sIdLU8.jpg",
+                "video_url": "5207266"
+            },
+            {
+                "episode_number": 24,
+                "name": "Ev",
+                "overview": "Sonunda Thorfinn İzlanda'ya döner ve sevdikleriyle yeniden bir araya gelerek mutlu bir an bulur. Ancak çok geçmeden bir sonraki yolculuğuna başlar.",
+                "air_date": "2023-06-20",
+                "still_path": "/aorS01rq0HnmbCseTe6K66z8t7z.jpg",
+                "video_url": "5207268"
+            }
+        ]
+    }
+}

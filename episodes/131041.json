@@ -1,0 +1,211 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2022-10-09",
+        "poster_path": "/oLsP8FxMIc7epi6QxOxS5EaesGh.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Rüya",
+                "overview": "Birinci sınıf forveti Isagi Yoichi, topu kalenin önündeki oyuncu arkadaşına verdiği için Milli Takım şansını kaybetti. İşte o zaman Blue Lock için bir davetiye alır. Japonya'nın Dünya Kupası'nı kazanabilmesi için lise çağındaki 300 forvet arasından dünyanın en iyi forvetlerinden birini yetiştiren bir tesis.",
+                "air_date": "2022-10-09",
+                "still_path": "/ejH2YmotIR43Ly3rg4sFyRDpgTW.jpg",
+                "video_url": "4912468"
+            },
+            {
+                "episode_number": 2,
+                "name": "Canavar",
+                "overview": "Kira, Blue Lock'tan elenir ve bununla birlikte, Isagi Yoichi'nin hayatında dünyanın en büyük pivotunu yaratmayı vaat eden Blue Lock'taki ilk gün başlar.",
+                "air_date": "2022-10-16",
+                "still_path": "/Aky840u8pGRK7PwmuX9WBos5hDs.jpg",
+                "video_url": "4920373"
+            },
+            {
+                "episode_number": 3,
+                "name": "Futbolun \"sıfır\"ı",
+                "overview": "İlk seçim, Beşinci Binadaki V, W, X, Y ve Z'den oluşan beş takımın katıldığı, sadece en iyi iki takımın ilerlemeye hak kazandığı, round-robin turnuvasıdır. Isagi'nin en düşük sıralamadaki takımı olan Z Takımı, X Takımına karşı oynuyor. Ancak takımın en skorer oyuncusunun bir sonraki bölüme geçmesine izin veren özel kural nedeniyle maç, takımlardan bağımsız olarak kaotik bir top kapışmalarına dönüşüyor. Oyunun akışını değiştiren kişi X Takımının müthiş forvet oyuncusu Barou Shoei'ydi.",
+                "air_date": "2022-10-23",
+                "still_path": "/fqRdy7JwdDz7prYdSPRgkIh9VAe.jpg",
+                "video_url": "4927308"
+            },
+            {
+                "episode_number": 4,
+                "name": "Önsezi ve Sezgi",
+                "overview": "Z Takımı, hücum oyununu egoist ama yetenekli Barou'nun etrafında merkezleyen X Takımı tarafından ezildi. Ego'nun \"bir silah alma\" isteğine yanıt veren oyuncular, bir sonraki maça hazırlanırken silahlarının ne olduğunu tartışıyorlar. Ancak Isagi bunun ne olduğunu tanımlamakta zorlanır. X Takımına karşı oynanan maçta hissettiği \"golün kokusunu\" ipucu olarak kullanan Isagi ve diğerleri, bir sonraki maçta Y Takımına karşı çıkıyor.",
+                "air_date": "2022-10-30",
+                "still_path": "/jkmFcejcBcE9q2IudDbHD6Qs3sG.jpg",
+                "video_url": "4934410"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yeniden Doğmak",
+                "overview": "Isagi, hamle yapmak için \"kalenin kokusuna\", yani ham içgüdülerine güvenir ve bu, Y Takımı'nın oyun kurucusu Niko Ikki ile birbirlerinin elini \"okuma\" konusunda şiddetli bir mücadeleye yol açar. Tüm sahayı kollayan ve birbirlerine egolarını fırlatan Isagi ve Niko'nun mücadelesi onları maçın son dakikasına getirir. Isagi ve Team Z, Niko'nun son stratejisi olan \"Tek Seferlik Öldürme Sayacı\"nı yenebilecek mi?",
+                "air_date": "2022-11-06",
+                "still_path": "/3eKzBqE54oJjhRcZNUU3ZOBLbPn.jpg",
+                "video_url": "4942673"
+            },
+            {
+                "episode_number": 6,
+                "name": "Üzgünüm",
+                "overview": "Y Takımı ile yapılan maçın ardından Isagi'nin sıralaması yükseldi ve takımın merkezi oldu. Bir sonraki maç Wanima ikizlerinin liderliğindeki Takım W ile oynanacak. Göz teması ve kusursuz kombinasyonlarını yenmek zordur. Chigiri Hyoma ile aynı takımda oynuyorlardı ve geçmiş travmasını onu kışkırtmak için kullanıyorlardı. Chigiri, futbolu bırakmak için bir neden bulmak amacıyla Blue Lock'a katıldığını söylüyor. Z Takımı, Kuon'un oyunuyla oyuna liderlik ediyor. Herkes maça iyi bir başlangıç ​​yaptığı için mutludur ama Isagi bir şeylerin yolunda gitmediğini hisseder.",
+                "air_date": "2022-11-13",
+                "still_path": "/1kPac9sUuxdUsZjOVQtG3Diyd5t.jpg",
+                "video_url": "4950360"
+            },
+            {
+                "episode_number": 7,
+                "name": "Acele Etmek",
+                "overview": "Kuon'un ihaneti nedeniyle Z Takımı, rakibin silahları ve stratejileri hakkında her şeyi bildiği 12'ye 10 oynamak gibi çaresiz bir durumla karşı karşıya kalır. Böyle bir durumda bile Z Takımı mücadeleden vazgeçmiyor ve Isagi kendine inanmaya devam ediyor. Onların tutkusundan ilham alan Chigiri, silahını mühürleyerek sahada inanılmaz bir hızla koşuyor. Maç 3-4 yenilirken egosu sallanıyor.",
+                "air_date": "2022-11-20",
+                "still_path": "/ekRguJhtzJ75J8RC2IoluPHvZXr.jpg",
+                "video_url": "4957366"
+            },
+            {
+                "episode_number": 8,
+                "name": "Hedefler için Formül",
+                "overview": "Z takımının oynayacak tek bir maçı kaldı ve üyelerinin geleceğine karar verecek. Herkes başlama vuruşu konusunda gergin görünürken Isagi kimsenin yardımı olmadan gol atmanın bir yolunu bulmaya çalışıyor.",
+                "air_date": "2022-11-27",
+                "still_path": "/jGx7T6LLxzGY4YukGTA9cYCPot8.jpg",
+                "video_url": "4963959"
+            },
+            {
+                "episode_number": 9,
+                "name": "Uyanış",
+                "overview": "Maç, Z Takımı'nın Nagi'nin yeteneklerinden korkmasına neden olmaya devam ediyor. Ancak üyelerden biri futbol dehasıyla karşı karşıya olmasına rağmen korkmuyor...?",
+                "air_date": "2022-12-04",
+                "still_path": "/q0fZZIY5XKjd6GZma9CMJJwwOeo.jpg",
+                "video_url": "4969674"
+            },
+            {
+                "episode_number": 10,
+                "name": "Olduğu gibi",
+                "overview": "Her oyuncu silahını ve egosunu serbest bıraktı ve Z Takımı berabere kaldı. Oyunun momentumuna tamamen sahipler ama bu, Team V'in canavarı Nagi'yi \"uyandırdı\". Uyanışa verilen zincirleme reaksiyonda Isagi de silahını kullanmayı öğrenir ve savaşmaya devam eder. Her iki takımın ego çatışmasının yarattığı “ısı” Kuon'u da etkilemeye başlar.",
+                "air_date": "2022-12-11",
+                "still_path": "/zzkoANEfoiQRkhFqvABVl1BrOt6.jpg",
+                "video_url": "4975258"
+            },
+            {
+                "episode_number": 11,
+                "name": "Son Parça",
+                "overview": "Z Takımı, V Takımına karşı kazanmak için son bir hamle yapar. Isagi, gol makinesi olma formülünü kırmak için ihtiyaç duyduğu son parçayı bulmaya çalışır.",
+                "air_date": "2022-12-18",
+                "still_path": "/9hWWOSjsB2ee0D8zfCK9fNnf3W0.jpg",
+                "video_url": "4981450"
+            },
+            {
+                "episode_number": 12,
+                "name": "İkinci Seçim",
+                "overview": "Birçok terk edenle birlikte, \"Blue Lock\" projesi ikinci seçime giriyor. Eski arkadaşların rakip, eski düşmanların ise baş döndürücü bir hızda müttefik olduğu sert bir ikinci seçim. Isagi, orada gelmiş geçmiş en güçlü egoist, dahi Itoshi Sae'nin küçük kardeşi ve yeni Blue Lock sıralaması TOP olan Rin ile tanışıyor. Daha fazla evrim arayışında olan Isagi'nin mücadelesi yeni bir aşamaya ilerliyor.",
+                "air_date": "2022-12-25",
+                "still_path": "/5A6KYN6G1LlmGz31LpYxrWrfepF.jpg",
+                "video_url": "4989539"
+            },
+            {
+                "episode_number": 13,
+                "name": "İlk 3",
+                "overview": "İkinci seçimin bu yeni aşamasında, Isagi, Nagi ve Bachira'dan oluşan beyaz takım, sonunda bir önceki aşamanın sıralamasında ilk üçe girecek ve oyunu kaybederse üç oyuncusundan birini kaybetme riskiyle karşı karşıya kalacak. Yine de beyaz takım üyelerinde yeni becerilerini ilk üçe karşı test etme isteği çok daha güçlü.\n\nBu maçı kazanmayı başarabilecekler mi?",
+                "air_date": "2023-01-08",
+                "still_path": "/j3YLyFoHiNHKwxS0Ecu0HIK0pee.jpg",
+                "video_url": "5001937"
+            },
+            {
+                "episode_number": 14,
+                "name": "Dahiler ve Ortalama Joe'lar",
+                "overview": "Bachira'nın ekibindeki kaybı, Isagi'yi Nagi ile geleceğinin nasıl olacağı konusunda çok endişelendiriyor. Daha da kötüsü, durum artık daha da karmaşık: İdeal olan, daha zayıf bir takıma karşı oynamak olabilir, ancak bu, daha zayıf bir oyuncuyu da almak anlamına gelir ve bu da sonraki aşamalara ilerlemeyi daha da zorlaştırır. Peki Isagi ve Nagi ne yapacak?",
+                "air_date": "2023-01-15",
+                "still_path": "/hgjHD9fF6BCvHuY0A9net0cn6qU.jpg",
+                "video_url": "5009677"
+            },
+            {
+                "episode_number": 15,
+                "name": "Yutmak",
+                "overview": "Isagi, maçın sonucunun kendisinin ve Naruhaya'nın elinde olduğunu fark eder. Ancak Naruhaya'yı nasıl yenecek? Bu, dahi oyunculara değil, \"vasat\" oyunculara bağlı olacak bir oyun olacak.",
+                "air_date": "2023-01-22",
+                "still_path": "/jz8mJfx1CFKNrQrl7VmPyUXEnq9.jpg",
+                "video_url": "5015914"
+            },
+            {
+                "episode_number": 16,
+                "name": "Üçlü Füzyon",
+                "overview": "Barou, Isagi ve Nagi'nin ekibine katılır ve Nagi ile yaşadığı çatışmalar şimdiden ortalığı karıştırır. Isagi bu ikisi arasında arabuluculuk yapmanın çok karmaşık olacak bir yolunu bulmaya çalışıyor.",
+                "air_date": "2023-01-29",
+                "still_path": "/vfJ0TI25jRCLzjeWfQr1EqZC0JK.jpg",
+                "video_url": "5024661"
+            },
+            {
+                "episode_number": 17,
+                "name": "Eşek",
+                "overview": "Isagi, eski takım arkadaşlarının Reo ile harika bir üçlü oluşturduğunu ve kendi silahlarını en iyi şekilde kullandıklarını fark etmeye başlar. Şimdi Nagi ve Barou ile çok istediği \"kimyasal reaksiyonu\" nasıl elde edeceğini düşünmek zorunda kalacak, aksi takdirde kazanamayacak. Bununla birlikte, Barou pek işbirlikçi değil...",
+                "air_date": "2023-02-05",
+                "still_path": "/7oiLxFCYUHt1EvnD6aKrKZB9eRF.jpg",
+                "video_url": "5031726"
+            },
+            {
+                "episode_number": 18,
+                "name": "Liderlik Sahnesi",
+                "overview": "Isagi ve Nagi, birbirlerinin silahlarını anlayıp geliştirerek hedefe giden sayısız yol çiziyorlar. Bunun tersine, merkezde daha da gelişen Chigiri'nin aksine, Kunigami ve Reo kendilerini ayak uydurmakta zorlanırken bulurlar ve sahada bir ileri bir geri savaş başlar. Bu arada alanın kralı olması gereken Barou, aşırı egosu nedeniyle evrim zincirinin gerisinde kalmıştır. Isagi tarafından sahadaki başrolden mahrum bırakılan Barou, sonunda dizlerinin üzerine çöker.",
+                "air_date": "2023-02-12",
+                "still_path": "/xtA0MjO9kxNMDnFtMXQp1wy7Y36.jpg",
+                "video_url": "5039817"
+            },
+            {
+                "episode_number": 19,
+                "name": "Dans Eden Çocuk",
+                "overview": "Barou sahanın \"kötü adamı\" olarak uyanırken Isagi ve arkadaşları zar zor kazanmayı başarır. Daha fazla \"kimyasal reaksiyona\" neden olmak için, egosunu \"yemek\" için egosunu gösteren tek oyuncuyu alıp güç aşamasına geçerler. Öte yandan TOP3 ile bir sonraki maçı için rakip arayan Bachira, Rin ile yaptığı antrenman sırasında kendi içinde bir \"Canavar\"ın varlığını görür ve kendi \"ego\"suyla yüzleşir.",
+                "air_date": "2023-02-19",
+                "still_path": "/1cE38jeGcVEoV8OzIHfTjC9boO5.jpg",
+                "video_url": "5049327"
+            },
+            {
+                "episode_number": 20,
+                "name": "Süper Bağlantılı Oynatma",
+                "overview": "Sonunda Isagi ve Nagi, Rin'in takımıyla rövanş maçına çıkacak. Ancak Bachira'nın Rin'in ekibine eklenmesi bazı öngörülemeyen koşulları da beraberinde getirecektir.",
+                "air_date": "2023-02-26",
+                "still_path": "/iDAUma1z37LEegD66tNFEgH8v0y.jpg",
+                "video_url": "5058618"
+            },
+            {
+                "episode_number": 21,
+                "name": "Ben Orada Değilim",
+                "overview": "Isagi, geleceğini görmek için sahada olup biten her şeyi yakalıyor ve Nagi alanı kontrol ediyor. Kombinasyonları patlar ve bir dizi oyun Rin'deki ateşi yakar. Rin'in tüm oyuncuların yeteneklerinden top, pozisyon alma ve taktiklere kadar sahadaki her şeyi kapsayan hakim oyunu, Isagi'nin takımını bir kez daha köşeye sıkıştırıyor. Kaos ve ego çatışırken, bir adam Rin'in hakim olduğu oyunu yutmak için gizlice dişlerini keskinleştiriyor.",
+                "air_date": "2023-03-05",
+                "still_path": "/6sWjg3ANtiZb9i2CdZidDesWGMo.jpg",
+                "video_url": "5067358"
+            },
+            {
+                "episode_number": 22,
+                "name": "Ses",
+                "overview": "Sonunda ezici yeteneklere sahip \"canavarları\" bulmanın heyecanı, Bachira'nın Isagi ile Rin arasındaki savaşta geride kaldığını fark etmesiyle kısa ömürlü olur. Bu arada oyun, joker karakter Barou'nun önderlik ettiği şiddetli bir ileri geri savaşla son aşamasına ulaşıyor. Isagi, aşırı koşullar altında becerilerini bir sonraki seviyeye taşırken Bachira, durumun yoğunluğu içinde kendi \"egosuyla\" yüzleşmek zorunda kalır. Yeni keşfettikleri güçleri onları nereye götürecek ve bunun oyunun sonucu üzerinde ne gibi bir etkisi olacak?",
+                "air_date": "2023-03-12",
+                "still_path": "/lW6B2udjVzh4E9WLSWCAbP6jvEk.jpg",
+                "video_url": "5073362"
+            },
+            {
+                "episode_number": 23,
+                "name": "Şans",
+                "overview": "Bachira \"canavar\" idealinden vazgeçer ve sonunda kendi egosunu uyandırır. Şimdiye kadar Bachira takip edecek birini arıyordu ama şimdi kendi hedefine doğru ilerliyor ve Isagi'de egosuna güvenen bir arkadaş buluyor. Isagi kesin bir hamle yapıyor ama top acımasızca galibin tarafına doğru ilerliyor... Nihai hesaplaşmanın zamanı geldi ve sekiz egoist çatışırken kıvılcımlar uçuştu. İkinci seçimin \"Rekabet Savaşı\"nda hangi takım galip çıkacak?",
+                "air_date": "2023-03-19",
+                "still_path": "/buytu8R9oVv4QIAA0FW9swSGBTB.jpg",
+                "video_url": "5079737"
+            },
+            {
+                "episode_number": 24,
+                "name": "Zaman Geldi",
+                "overview": "Rin, Isagi'yi ekibine eklemeyi seçer ve Bachira ile birlikte ikinci seçimi geçerler. Diğer tarafta onları dünya standartlarında oyunculardan oluşan bir takıma karşı 5'e 5 maç bekliyor. Isagi, Bachira ve Rin'in koordineli oyunu sayesinde ilk golü atmayı başarırlar, ancak çok geçmeden kendilerini rakip takımın üstün becerisi ve kabiliyeti karşısında şaşkına dönmüş halde bulurlar. Buna rağmen son saniyeye kadar mücadeleyi umutsuzca sürdürürler ve kendi \"egolarını\" serbest bırakırlar. Sonuç olarak dünyanın en büyük forvetini yetiştirmeyi amaçlayan \"Mavi Kilit\" projesi yeni bir aşamaya giriyor.",
+                "air_date": "2023-03-26",
+                "still_path": "/kCufxxbyqEwOjxlQ1B1Zztc7gPp.jpg",
+                "video_url": "5087061"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 0,
+        "air_date": null,
+        "poster_path": "/aLSGymJQ34lfUy9iHD3gcbh23qO.jpg",
+        "episodes": []
+    }
+}

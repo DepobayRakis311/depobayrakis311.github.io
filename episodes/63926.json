@@ -1,0 +1,229 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2015-10-06",
+        "poster_path": "/6duQmNHgo7KpHAvf7g2YI5G4Q9j.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "En Güçlü Adam",
+                "overview": "Saitama eğlencenin kahramanı olan bir adam. Bir çocuğu kesin ölümden kurtardıktan sonra kahraman olmaya karar verdi ve üç yıl boyunca sıkı bir eğitim aldı. Artık her rakibini tek yumrukla yenebilecek kadar güçlü olmasına rağmen, son zamanlarda ezici bir güç karşılığında çok daha önemli bir şeyi kaybettiğini hissediyor.",
+                "air_date": "2015-10-05",
+                "still_path": "/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg",
+                "video_url": "3589755"
+            },
+            {
+                "episode_number": 2,
+                "name": "Yalnız Cyborg",
+                "overview": "Bir canavar, Evrim Evi olarak bilinen gizemli organizasyon tarafından yaratılan Şehir Z'ye doğru ilerliyor.  Genç bir cyborg olan Genos, bunu durdurmaya çalışır, ancak Saitama ortaya çıkmadan önce başını aşar.",
+                "air_date": "2015-10-12",
+                "still_path": "/mps2UuPnmkxOco5oQePVlwioZKG.jpg",
+                "video_url": "3589758"
+            },
+            {
+                "episode_number": 3,
+                "name": "Takıntılı Bilim Adamı",
+                "overview": "Saitama ve Genos, Evrim Evi ve yapay insan evrimi konusunda tehlikeli fikirleri olan bir bilim adamı olan kurucusu Dr. Genus hakkında bilgi toplar. Bu arada Dr. Genus, Saitama'nın inanılmaz gücünü öğrenir ve One-Punch Man için kendi planları vardır.",
+                "air_date": "2015-10-19",
+                "still_path": "/ywv8d7mCxSnmnS56LNUBjfPzFRd.jpg",
+                "video_url": "3589760"
+            },
+            {
+                "episode_number": 4,
+                "name": "Modern Ninja",
+                "overview": "\"The Paradisers\" adlı savaş kıyafeti giymiş bir grup terörist, Çekiçkafa olarak bilinen devasa bir adamın liderliğinde F Şehri'nde belirir. Zenginliğin yeniden dağıtılması çağrısında bulunan grup, şişman kedi Zeniru'yu hedef alır ve Zeniru da onları yenmek için korumasını gönderir. Ne yazık ki Saitama da aynı görevde.",
+                "air_date": "2015-10-26",
+                "still_path": "/fX8ypx5hWOfOxJNmlTos1OwyTRb.jpg",
+                "video_url": "3589762"
+            },
+            {
+                "episode_number": 5,
+                "name": "Nihai Usta",
+                "overview": "Saitama, üç yıldır kahramanlık gösterisinde bulunmasına rağmen halkın onun hakkında hiçbir şey bilmediğini fark eder. Biraz tanınmaya kararlı olarak profesyonel bir kahraman olmaya karar verir, ancak önce Kahramanlar Birliği testlerini geçip tam teşekküllü bir üye olması gerekir.",
+                "air_date": "2015-11-02",
+                "still_path": "/5xdo0OwyWm9oNv2tX6aKj9Gr3Tw.jpg",
+                "video_url": "3589765"
+            },
+            {
+                "episode_number": 6,
+                "name": "Korkunç Şehir",
+                "overview": "Saitama'nın profesyonel bir kahraman olmasının üzerinden beş gün geçti ve henüz kahramanca bir şey yapmadı. Genos ona, kötü adamlarla savaşmayan C sınıfı kahramanların bir hafta hareketsiz kaldıktan sonra kahraman listesinden çıkarıldığını bildirdiğinde Saitama devriyeye çıkar ancak durduracak bir suçlu veya canavar bulamaz.",
+                "air_date": "2015-11-09",
+                "still_path": "/oApEUMM4nfTqyXvaVozqCa3B5uQ.jpg",
+                "video_url": "3589767"
+            },
+            {
+                "episode_number": 7,
+                "name": "Nihai Öğrenci",
+                "overview": "Muazzam bir meteor Z Şehri'ne doğru fırlayarak Kahraman Derneği'ni S Sınıfı kahramanlarından yanıt vermelerini istemeye zorlar. Tüm çabaları boşa çıkınca Genos, bedeli ne olursa olsun efendisinin evini korumanın ve meteoru durdurmanın kendisine düştüğüne karar verir.",
+                "air_date": "2015-11-16",
+                "still_path": "/z1Nxh00HGfLCHHPuJ1FcunsR6DY.jpg",
+                "video_url": "3589769"
+            },
+            {
+                "episode_number": 8,
+                "name": "Derin Deniz Kralı",
+                "overview": "Kendilerine \"Deniz Halkı Klanı\" adını veren bir canavar sürüsü, toprakları işgal etme niyetiyle City J kıyılarına gelir. Onlarla savaşmak için gönderilen kahraman, Derin Deniz Kralı tarafından kolayca yenildiğinde, Saitama ve Genos yardım etmek için şehre doğru yola çıkarlar.",
+                "air_date": "2015-11-23",
+                "still_path": "/MwsmKJkTsqBDs3Pq7hAjj4Okog.jpg",
+                "video_url": "3589772"
+            },
+            {
+                "episode_number": 9,
+                "name": "Boyun Eğmez Adalet",
+                "overview": "Derin Deniz Kralı ile olan savaş doruğa ulaşırken, sudaki despotun acımasız saldırılarına daha fazla kahraman düşüyor. Hangisi gerçek bir kahraman olmak için gerekenlere sahip?",
+                "air_date": "2015-11-30",
+                "still_path": "/d5h1EgV1xIjlioPnb0exwLYy1ev.jpg",
+                "video_url": "3589776"
+            },
+            {
+                "episode_number": 10,
+                "name": "Eşsiz Tehlike",
+                "overview": "Saitama, S Sınıfı kahramanların acil bir toplantısına katılır ve bir kahinin, Dünya'yı tehdit eden ciddi bir tehlikeyi önceden bildirdiğini keşfeder. Kriz önümüzdeki altı ay içinde herhangi bir zamanda ortaya çıkabilir, ancak kahramanlar tam da o saatte patlama kükremesini duyduklarında şaşırırlar!",
+                "air_date": "2015-12-07",
+                "still_path": "/AbWf8PdF1stcXiOwQXCAP7qGo8u.jpg",
+                "video_url": "3589862"
+            },
+            {
+                "episode_number": 11,
+                "name": "Evrenin Hakimi",
+                "overview": "Devasa bir uzay gemisi, A Şehri'nin yukarısındaki göklerde süzülürken, onun canavar mürettebatının bir üyesi, bir grup S Sınıfı kahramana karşı yerde savaşıyor. Güçlerine rağmen işi bitiremiyorlar. Bu sırada Saitama, düşman gemisine tek başına binmiştir.",
+                "air_date": "2015-12-14",
+                "still_path": "/5QqxkbKwSCQOW2XXaoyEpMaKtiZ.jpg",
+                "video_url": "3589779"
+            },
+            {
+                "episode_number": 12,
+                "name": "En Güçlü Kahraman",
+                "overview": "Akıl almaz derecede güçlü Lord Boros, can sıkıntısına çare olabilecek birini bulmak için anlatılmaz mesafeler kat etti: Saitama! İnsanlığın kaderi tehlikedeyken, iki şampiyon sonunda aradıkları değerli rakibi birbirlerinde bulabilecek mi?",
+                "air_date": "2015-12-21",
+                "still_path": "/cndsNTszFoNEOygRIRdvRX85JDP.jpg",
+                "video_url": "3589790"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2019-04-11",
+        "poster_path": "/fRibuDuC5MVn19lbvvnuH941w6d.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kahramanın Dönüşü",
+                "overview": "Saitama, Genos'la birlikte alışverişe çıkarken ikili, King'i ortadan kaldırma görevindeki şeytani robot G4 ile karşılaşır. Başka yerlerde Sitch, Kahraman Derneği'ne yardım etmek için yeraltı dünyasının çeşitli acımasızlarını, kötü adamlarını ve suikastçılarını işe almaya çalışır.",
+                "air_date": "2019-04-10",
+                "still_path": "/wNeKfTka6lIDQCGpZuOMATv0UJD.jpg",
+                "video_url": "3621035"
+            },
+            {
+                "episode_number": 2,
+                "name": "İnsan Canavarı",
+                "overview": "Garou, korkunç yöntemlerle Kahraman Derneği'ne savaş ilanı yayınlar, Hellish Blizzard, Saitama'ya ültimatom verir ve Genos, efendisinin takipçisi Speed-o'-Sound Sonic'i ortadan kaldırmaya karar verir.",
+                "air_date": "2019-04-17",
+                "still_path": "/hh6JMbDji6wuz5RFRqDrYzqihaE.jpg",
+                "video_url": "3621038"
+            },
+            {
+                "episode_number": 3,
+                "name": "Av Başlasın",
+                "overview": "Kahramanları avlayan Garou, S Sınıfı kahraman Tank-top Master ile savaşma şansı yakaladığında heyecanını zar zor bastırır. Bu arada, Silverfang eski müridini avlamak için dojosunu kapatır.",
+                "air_date": "2019-04-24",
+                "still_path": "/gedbotRXMOCUC7P9RblaHgw0LuL.jpg",
+                "video_url": "3621040"
+            },
+            {
+                "episode_number": 4,
+                "name": "Metal Yarasa",
+                "overview": "Bir VIP'yi ve oğlunu korumakla görevlendirilen Metal Yarasa bundan daha az heyecanlanamazdı. Ancak grup aniden saldırıya uğrayınca ortalık karışır. Bu arada Saitama, \"Süper Dövüş\" dövüş sanatları turnuvasına katılmak için Charanko kılığına girmiştir.",
+                "air_date": "2019-05-01",
+                "still_path": "/1I29xRhdTy6A1ybdPHc6Ke4fRV2.jpg",
+                "video_url": "3621044"
+            },
+            {
+                "episode_number": 5,
+                "name": "Dövüş Sanatları Turnuvası",
+                "overview": "Canavarlar Birliği'nin canavarları, tüm insan şehirlerine eşzamanlı saldırılar düzenleyerek Kahramanlar Birliği'nin güçlerini alt etmeye çalışır. Bu arada “Süper Dövüş” dövüş sanatları turnuvası başlıyor.",
+                "air_date": "2019-05-08",
+                "still_path": "/us7myp7Us2h87nZ1f8ACZ6Fcaoz.jpg",
+                "video_url": "3621048"
+            },
+            {
+                "episode_number": 6,
+                "name": "Canavarların İsyanı",
+                "overview": "Süper Dövüş turnuvası, Genos'un C Şehrinde ortaya çıkan birden fazla canavarla mücadele etmesiyle başlıyor. Başka yerlerde, sayısız canavar birçok bölgede ortalığı kasıp kavuruyor, ancak Kahraman Derneği çok sayıda tehdit karşısında bunalıma giriyor.",
+                "air_date": "2019-05-15",
+                "still_path": "/sN0T4orzh3HgMBFoKqI7xcYNjBI.jpg",
+                "video_url": "3621053"
+            },
+            {
+                "episode_number": 7,
+                "name": "S Sınıfı Kahramanlar",
+                "overview": "Super Fight turnuvası büyük finaline yaklaşırken S Sınıfı kahramanlar, canavar akınlarını durdurmak için savaşır. Bu arada Atomik Samuray da kendi planını uygulamaya koyuyor.",
+                "air_date": "2019-05-22",
+                "still_path": "/c9QhXBPVwOaayJ04FBt3OXjmafV.jpg",
+                "video_url": "3629861"
+            },
+            {
+                "episode_number": 8,
+                "name": "Güçlünün Direnişi",
+                "overview": "İlk Süper Dövüş Turnuvası şampiyonu Göketsu stadyuma gelir. Artık bir canavara dönüştüğü için Süper Dövüş yarışmacılarını canavara dönüşmeye zorlamayı hedefliyor. Birkaç kişi bunu yaptığında, onları tek başına alt etmek Suiryu'ya kalır.",
+                "air_date": "2019-05-29",
+                "still_path": "/tGKbogDzxuL8KlHOkYm6yKlUzFU.jpg",
+                "video_url": "3629862"
+            },
+            {
+                "episode_number": 9,
+                "name": "En Güçlülerin Sorunları",
+                "overview": "Tam Suiryu kendini umutsuzluğun derinliklerinde bulurken, Saitama birdenbire ona yardım etmek için ortaya çıkar. Ancak Saitama'nın tüm gücüne rağmen hâlâ kahramanı rahatsız eden ve bir türlü kurtulamadığı bir şeyler var.",
+                "air_date": "2019-06-12",
+                "still_path": "/on2YtDbgc6KdbKpRy2DFHShRZP3.jpg",
+                "video_url": "3670597"
+            },
+            {
+                "episode_number": 10,
+                "name": "Adalet Kuşatma Altında",
+                "overview": "Canavar Derneği, Kahraman Derneği'ne meydan okur ve onlara rehine Waganma'yı kurtarmak için sadece üç günleri olduğunu söyler. Başka bir yerde, Garou sürekli kavgalarından kurtulmaya çalışır, ancak işler planlandığı gibi gitmez.",
+                "air_date": "2019-06-19",
+                "still_path": "/zD7LqTECY0MKFVCjsNbdOrBWFQs.jpg",
+                "video_url": "3670600"
+            },
+            {
+                "episode_number": 11,
+                "name": "Herkesin Onuru",
+                "overview": "Garo sonunda birden fazla kahramanla çevrilidir ve yaralarla kaplı olmasına ve neredeyse sınırına gelmesine rağmen savaşmak zorunda kalır. Kahraman avcısı hâlâ rakiplerin dövüş tarzlarını okuma konusunda inanılmaz bir yeteneğe sahip ancak herkesi bekleyen sürprizler var.",
+                "air_date": "2019-06-26",
+                "still_path": "/gkpapTjLwcjejU1WrLdAhH8O2aG.jpg",
+                "video_url": "3670604"
+            },
+            {
+                "episode_number": 12,
+                "name": "Öğrencinin Pisliğini Temizlemek",
+                "overview": "Gümüşdiş ve Bomba, kahraman avcısı Genos'la savaşırken Garou'ya yetişir ve giderek daha fazla savaşçının katıldığı, tüyler ürpertici bir doruk noktasına doğru ilerleyen fırtınalı bir savaş başlatır!",
+                "air_date": "2019-07-03",
+                "still_path": "/vcZkOnTOa9d5K94DkO604RuRuMU.jpg",
+                "video_url": "3670610"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 1,
+        "air_date": null,
+        "poster_path": "/jbYJuxfZMpYDalkiOnBcCv9TaL.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bölüm 1",
+                "overview": "",
+                "air_date": null,
+                "still_path": null,
+                "video_url": ""
+            }
+        ]
+    }
+}

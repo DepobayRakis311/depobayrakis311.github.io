@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2022-04-06",
+        "poster_path": "/l9wfsCpH5Zot8PSskCShqiQc9I4.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ha? Yuichi-kun Arkadaşlarından Mı Şüpheleniyor?",
+                "overview": "Pahalı lise gezisi için zar zor kazandıkları para çalındıktan sonra, ikinci sınıf öğrencisi Yuichi ve en iyi dört arkadaşı, gece geç saatlerde yayınlanan tüyler ürpertici bir anime şovunun gerçeküstü karakteri Manabu tarafından kaçırılır. Haylaz Manabu, öğrencileri, yolculuk paralarını geri kazanmak, hırsızı ortaya çıkarmak ve büyük ve gizemli bir borcu ödemek için beşinin şifresini çözmesi ve kurnazlıkla alt etmesi gereken bir dizi akıl oyununa davet eder.",
+                "air_date": "2022-04-06",
+                "still_path": "/sszG61Yxq2CAeYlRqPexRojMOVQ.jpg",
+                "video_url": "4666554"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bana Söyleyecek Çok Şeyin Var Değil Mi?",
+                "overview": "Yuichi ve arkadaşları Kokkuri-san'ın sonuna ulaşarak Tomodachi Oyunundaki hayal bile edemeyecekleri hile boyutlarını ortaya çıkarırlar. Sugoroku'nun sosyal açıdan yıkıcı bir versiyonu olan ikinci bir oyuna geçtiklerinde grup, kişisel sırlar açığa çıkarken ve güven mutlak sınırına kadar gerilirken dengeyi korumakta zorlanır.",
+                "air_date": "2022-04-13",
+                "still_path": "/hce3tOxQlOL9iTOEZ3EgcwM50VP.jpg",
+                "video_url": "4674788"
+            },
+            {
+                "episode_number": 3,
+                "name": "Buna Inanmamın Hiçbir Yolu Yok",
+                "overview": "İkinci oyun Bad-Mouth Sugoroku devam ederken karanlık sırlar ortaya çıkıyor. Yutori, geçmişinden travmatik bir bölüm ortaya çıktığında yıkılıyor ve bu onu, bilen tek diğer kişiden şüphelenmeye yöneltiyor: Shiho. Borçlar arttıkça, beş arkadaş daha da uzaklaşıyor. Başka gidecek kimsesi olmayan Yutori, yardım için Yuichi'ye sarılıyor ve Yuichi de desteğini taahhüt ediyor.",
+                "air_date": "2022-04-20",
+                "still_path": "/wok7huBS55WdV635gCUmuj5EksH.jpg",
+                "video_url": "4680415"
+            },
+            {
+                "episode_number": 4,
+                "name": "Cidden? Bu Çok Utanç Verici",
+                "overview": "Sınıf fonlarının çalınmasından, Tomodachi Oyunu oynamak için yapılan başvurudan ve Bad-Mouth Sugoroku'daki her türlü kirli sırrın açığa çıkmasından sorumlu olan Tenji, artık Shiho'yu diğerlerinden uzaklaştırmaya, böylece ona tamamen sahip olmaya çalışıyor. Onun girişimleri sonucunda Shiho ile Yutori arasında dostluklarını yok etme tehlikesi yaratan bir çatlak gelişir. Ancak Tenji, Shiho'yla tatlı tatlı konuşup bir sonraki hamlesini planlamakla meşgulken, Shiho için oyunun gidişatını değiştirebilecek \"özel bir şans\" ortaya çıkar.",
+                "air_date": "2022-04-27",
+                "still_path": "/mbLBELYhMbD4cL4GSoPdMfEGRW6.jpg",
+                "video_url": "4693209"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yuichi-kun, Oldukça Aptalsın, Değil Mi?",
+                "overview": "Shibe, \"gerçekten bir insanı öldürdüğü\" suçlamasıyla sarsıldı. Böyle bir şey yapmadığını söylemesine rağmen seyircinin güvenini kaybeder ve birinci sıraya yerleşir. Bu sırada Tenji, kartı yazanın Yuichi olduğunu anlayınca kendini üzücü bir durumda bulur. Yuichi daha sonra hainin kim olduğunu bildiğine dair şok edici bir açıklama yapar.",
+                "air_date": "2022-05-04",
+                "still_path": "/zEUeoJBcQVHnIGAhSaS5t1nfhvH.jpg",
+                "video_url": "4703532"
+            },
+            {
+                "episode_number": 6,
+                "name": "Gerçekten Bir \"katil\" ile Arkadaş Olamam",
+                "overview": "Yuichi'nin planıyla köşeye sıkışan Tenji, Tomodachi Oyunu oynamak için başvurduğunu itiraf etmek zorunda kalır. Yuichi, haini ortaya çıkarmak için kurduğu tuzakları açıklıyor ve oyunu başından beri manipüle ettiğini ortaya koyuyor. İkinci oyun daha sonra nefes kesici derecede beklenmedik bir sonuca varır.",
+                "air_date": "2022-05-11",
+                "still_path": "/qYfrXcCWSdcDuNgPujldesONhZV.jpg",
+                "video_url": "4709270"
+            },
+            {
+                "episode_number": 7,
+                "name": "Hayatının 20 Milyon Yen Değerini Alacağım",
+                "overview": "Yuichi ve Tenji, Bad-Mouth Sugoroku'yu temizledikten sonra kendilerini üç gün boyunca karanlık bir mağarada mahsur kalır. Tenji, izolasyonları sırasında geçmişte bir Tomodachi Oyunu deneyimlediğine dair şok edici bir açıklama yapar. Bu arada, yeni rakiplerden oluşan bir ekip dışarıda pusuda bekliyor ve iki ortağa zorlu bir üçüncü oyunda meydan okumak için sabırsızlanıyor.",
+                "air_date": "2022-05-18",
+                "still_path": "/oQcCc48XAT8NJwtM8FQIPavUwlD.jpg",
+                "video_url": "4729210"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bu, Beklediğiniz, Beklediğiniz, Beklediğiniz ve Beklemeye Devam Ettiğiniz Bir Oyundur",
+                "overview": "Üçüncü oyun Dostça Saklambaç başlıyor. Görünürde 'dahi' bir stratejist tarafından desteklenen Rakip K Grubu, açık bir sayısal avantajla ilerliyor. Yuichi'nin güvenini yeniden kazanmaya hevesli olan Tenji, Grup C'nin saklanması için gönüllü olur, ancak çiftin planları, yeni bir kadın takım arkadaşı Mizuse Maria'nın eklenmesiyle zorlanır. Yuichi kendinden emin bir şekilde Tenji'ye \"bana güven ve bekle\" diyor ama günlerce geri dönmüyor...",
+                "air_date": "2022-05-25",
+                "still_path": "/8LfESAMHHMvwAsiHFM9rLIeYIkI.jpg",
+                "video_url": "4736369"
+            },
+            {
+                "episode_number": 9,
+                "name": "Acele Edin ve \"taraf Değiştirin\"",
+                "overview": "Oyunun başlamasından bu yana iki gün boyunca başlangıç ​​noktasından ayrılmayan Yuichi, aniden K Grubuna geçme arzusunu duyurur. Yuichi'nin saklanan takım arkadaşını terk etme niyetine şaşıran K Grubu üyeleri, Kaptanlarından karar vermesini ister. Yuichi'yi içeri alsın ya da almasın. Bu arada, Yuichi'ye başından beri saklanan ve güvenen Tenji, sonunda fiziksel kırılma noktasına ulaşıyor.",
+                "air_date": "2022-06-01",
+                "still_path": "/5dpv7nSPKSbbEqHB6SooB71NxuB.jpg",
+                "video_url": "4736370"
+            },
+            {
+                "episode_number": 10,
+                "name": "Üçüncü Oyun Bitti!",
+                "overview": "Sonunda K Grubu muhafızlarını sarsmayı başaran Yuichi, Tenji'ye yiyecek ulaştırmayı başarır. Yuichi tarafından uçurumdan itilen Maria, yavaş yavaş kurtarıcıları Hyakutaro ve Chisato'ya yaklaşır, ancak bu da Yuichi'nin K Grubundaki dostlukları yok etmek için kurduğu bir tuzaktır.",
+                "air_date": "2022-06-08",
+                "still_path": "/2pZz5yV1hABjRkYhwoTVLZXNUsJ.jpg",
+                "video_url": "4762175"
+            },
+            {
+                "episode_number": 11,
+                "name": "Gerçekten Önemsediğinizi Fark Ediyor Musunuz?",
+                "overview": "\"Gerçek dahi\" Kei'nin işleri gölgelerden kontrol etmesiyle Grup K, Tenji'yi bulmayı başarır. \"Olabilecek en kötü şeyle\" karşı karşıya kalan Tenji, belirli bir kişiyi telefonla arar. Üçüncü oyun olan Dostça Saklambaç, daha sonra sonuca varır. İki grup birbirlerini alt etmek için çabalarken üçüncü oyun için geçici olarak serbest bırakılan Shiho, Shibe ve Yutori okula döndüklerinde sınıf arkadaşlarının soğuk bakışlarıyla karşılaştılar.",
+                "air_date": "2022-06-15",
+                "still_path": "/5Gp0cbHv4K4TlDzMOk12qoAj2P8.jpg",
+                "video_url": "4762177"
+            },
+            {
+                "episode_number": 12,
+                "name": "Benim için En Önemli Şey...",
+                "overview": "Yuuichi, bunun çok tehlikeli olacağını bilerek Kokorogi'ye yardım etmeye gider, ancak işler tahmin ettiğinden daha kötü sonuçlanabilir.",
+                "air_date": "2022-06-22",
+                "still_path": "/jikuPpJLjyJzl3y3oh1yTaKW7aY.jpg",
+                "video_url": "4767513"
+            }
+        ]
+    }
+}

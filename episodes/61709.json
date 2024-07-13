@@ -1,0 +1,1320 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 26,
+        "air_date": "2009-04-05",
+        "poster_path": "/aBFXBZugTCfnIDQTYl4vAoP9jE4.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Savaşa Giriş! Goku'nun Dönüşü!",
+                "overview": "Goku efsanevi bir savaşçı ve bitkideki en güçlü dövüşçü, ancak bu dünyanın dışından gelen bir düşmanla karşılaşmak üzere. Bu yeni tehdidi Dünya'ya getiren ne? Ve kuyruğunda ne var?",
+                "air_date": "2009-04-05",
+                "still_path": "/gPglPQFQ2TbHoSXJSWqza2bUSyc.jpg",
+                "video_url": "1774369"
+            },
+            {
+                "episode_number": 2,
+                "name": "Düşman Goku'nun Kardeşi Mi?! Güçlü Saiyan Savaşçılarının Sırrı!",
+                "overview": "Raditz, Gohan'ı kaçırıp Dünya'yı fethetme planlarını açıkladığında Goku ve Piccolo huzursuz bir ittifaka girmek zorunda kalır. İki rakip birbirine güvenmiyor ama ikisi de Saiyan'ı tek başına yenemez!",
+                "air_date": "2009-04-12",
+                "still_path": "/cJ9hG81PkfDVfPYbNic0lHbnQRE.jpg",
+                "video_url": "1774370"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bir Yaşam Ya Da Ölüm Savaşı! Goku ve Piccolo'nun Umutsuz Saldırısı!",
+                "overview": "Saldırılarının şiddetine rağmen Goku ve Piccolo, Raditz'e karşı verdikleri mücadelede ölümcül bir darbe indiremezler. Gohan'ın beklenmedik patlaması güçlü Saiyan'ı zayıflatmayı başarır, ancak çok az ve çok geç olabilir.",
+                "air_date": "2009-04-19",
+                "still_path": "/cuhuDDqPOIpcqryZUZg9krmuTbB.jpg",
+                "video_url": "1774371"
+            },
+            {
+                "episode_number": 4,
+                "name": "Öbür Dünya'da Koş, Goku! Bir Milyon Mil Yılan Yolu!",
+                "overview": "Artık öldüğüne göre, Goku'nun öbür dünyada hayatta kalmak için savaşması gerekiyor, özellikle de Yılan Yolu'ndaki hain yolculuğu sırasında. Gohan, Dünya'ya döndüğünde Piccolo'nun evinde öğrenci olarak kendi cezasına katlanıyor!",
+                "air_date": "2009-04-26",
+                "still_path": "/1rsdqjA4eDWWzGqXvWDmRtfIZ0J.jpg",
+                "video_url": "1774372"
+            },
+            {
+                "episode_number": 5,
+                "name": "Vahşi Doğada Hayatta Kalma! Mehtaplı Bir Gece Gohan'ı Uyandırıyor!",
+                "overview": "Piccolo, vahşi doğada hayatta kalma eğitimi vererek Gohan'ı güçlendirmeye çalışır, ancak genç Saiyan ilk dolunayını görünce işler karışır! Bu sırada Yajirobe, Dünyanın en güçlü savaşçılarını Kami'nin Gözetleme Noktası'na çağırır.",
+                "air_date": "2009-05-03",
+                "still_path": "/5TRO0OnBFehy3iPSc9jXSmTtUHL.jpg",
+                "video_url": "1774374"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yılan Yolunun Sonu! Kral Kai'nin Tuhaf Testi!",
+                "overview": "Ölümcül Saiyan işgalcileri Dünya'ya yaklaşırken Gohan, Piccolo'nun dikkatli gözetimi altında yavaş ama istikrarlı bir ilerleme kaydeder ve Goku, Kral Kai yönetimindeki eğitiminin \"ağırlığıyla\" mücadele eder.",
+                "air_date": "2009-05-10",
+                "still_path": "/wUhtBUQutlGUnd9rKevRSQJKkH0.jpg",
+                "video_url": "1774376"
+            },
+            {
+                "episode_number": 7,
+                "name": "On Kat Yerçekimiyle Savaş! Goku'nun Zamanla Yarışı!",
+                "overview": "Kral Kai'nin eğitimine layık olduğunu kanıtlamak için Goku'nun, çevik bir maymuna ve saygı duyulan güçlü bir cırcır böceğine karşı cesaretini test etmesi gerekir. Bu sırada yaşayanlar diyarında Gohan, canavar efendisinden dayak yiyor!",
+                "air_date": "2009-05-17",
+                "still_path": "/uqEbjjA9VSLqSwgmNd1LFZCUoXm.jpg",
+                "video_url": "1774378"
+            },
+            {
+                "episode_number": 8,
+                "name": "Shenron Ortaya Çıkıyor! Saiyan'lar Beklenenden Daha Hızlı Geliyor!",
+                "overview": "Goku'nun Kral Kai'nin yönetimindeki eğitimi nihayet tamamlandı ve o, Dünya'ya dönmeye hevesli. Usta Roshi, Shenron'u çağırmak için Dragon Balls'u kullanıyor ama Goku, Saiyanları durdurmak için zamanında geri dönebilecek mi?",
+                "air_date": "2009-05-24",
+                "still_path": "/2ut792wk9BsODyLhiljotvrprsT.jpg",
+                "video_url": "1774380"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yamcha'nın Mücadelesi! Korkunç Saibamen!",
+                "overview": "Saiyanlar geldi, Goku gezegende bile değil ve üstün ZFighters, Dünya'nın son savunma hattını temsil ediyor. Vegeta ve Nappa, korkunç Saibamen'i serbest bıraktığında Yamcha, son kavgası olabilecek bir kavgaya girişir!",
+                "air_date": "2009-05-31",
+                "still_path": "/j8uh5ROYY6SOlBRpgOV0MrHFV6v.jpg",
+                "video_url": "1774381"
+            },
+            {
+                "episode_number": 10,
+                "name": "Sıkı Otur Chiaotzu! Tien'in Çığlık Atan Üçlü Işını!",
+                "overview": "Krillin'in öfkeli saldırısı Saibamen'i yok eder, ancak ZFighter'lar Saiyan savaş ağalarına karşı güçsüzdür. Dünya'nın savunucuları birer birer yıkıcı yaralanmalara maruz kalıyor veya savaşta düşüyor. Goku'nun dönüşü hayatta kalmak için tek umutlarıdır.",
+                "air_date": "2009-06-07",
+                "still_path": "/jij9Iqp7tC9MeJrIi6PxYpPVQva.jpg",
+                "video_url": "1774382"
+            },
+            {
+                "episode_number": 11,
+                "name": "Goku Zamanında Başarabilecek Mi?! Savaşın Yeniden Başlamasına Üç Saat Kaldı!",
+                "overview": "Piccolo, savaşı Goku'nun gelişine kadar uzatmak için umutsuz bir plan yapar. Vegeta müthiş bir güç kaynağının yaklaştığını hissettiğinde Nappa'ya Gohan'dan başlayarak kalan ZFighter'ları ortadan kaldırmasını emreder!",
+                "air_date": "2009-06-14",
+                "still_path": "/hgxz7FwBiQBc0UpeZ1ifRKP5mQ6.jpg",
+                "video_url": "1774383"
+            },
+            {
+                "episode_number": 12,
+                "name": "Elveda Piccolo! Goku'nun Öfkeli Karşı Saldırısı!",
+                "overview": "Goku, Gohan ve Krillin'i kurtarmak için zamanında gelir ve dirilen savaşçı, Nappa'nın canını yakmaya heveslidir. Goku'nun sıradan bir dövüşçü olmadığı anlaşılınca Prens Vegeta, dövüşü kendisi bitirmek için devreye giriyor!",
+                "air_date": "2009-06-21",
+                "still_path": "/wRab3kRw8ZYgnV07wMPLcPHNSK3.jpg",
+                "video_url": "1774384"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kaio-ken'in Gücü! Goku, Vegeta'ya Karşı!",
+                "overview": "Vegeta ve Goku arasındaki son karşılaşma için sahne hazırlandı. Saiyan Prensi daha güçlü, daha hızlı ve çok daha acımasız. Goku'nun zafer için tek umudu, onu pekala yok edebilecek bir tekniktir!",
+                "air_date": "2009-06-28",
+                "still_path": "/prSCbjWBYGks0QN5De3457adkzv.jpg",
+                "video_url": "1774386"
+            },
+            {
+                "episode_number": 14,
+                "name": "Tam Bir Kamehame-ha! Vegeta'nın Korkunç Dönüşümü!",
+                "overview": "Vegeta, Goku'nun üçlü Kaio-Ken tekniğinin öfkesini kaldıramaz, bu yüzden Saiyan savaş ağası içindeki maymunu serbest bırakır. Öfkeli saldırısıyla zayıflayan Goku'nun canavarı yenmek için tek umudu güçlü Ruh Bombası!",
+                "air_date": "2009-07-05",
+                "still_path": "/lqDqym1QwTqu4GkmeFtS6nb9nZN.jpg",
+                "video_url": "1774387"
+            },
+            {
+                "episode_number": 15,
+                "name": "Goku İplerin Üzerinde! Umutlarınızı Ruh Bombasına Bağlayın!",
+                "overview": "Goku savaş alanında bitkin ve savunmasız bir şekilde yatarken, Gohan ve Krillin Vegeta'nın tek zayıflığına nişan alır: kuyruğuna! Maymunu savaştan çıkarabilirlerse, hayatlarını kurtararak kaçma şansları olabilir.",
+                "air_date": "2009-07-12",
+                "still_path": "/fgHUwOKg7qrnmkPwzaSNWoTM5J2.jpg",
+                "video_url": "1774388"
+            },
+            {
+                "episode_number": 16,
+                "name": "Yenilmez Vegeta'yı Yen! Bir Mucize Yarat, Gohan!",
+                "overview": "Krillin ve Gohan, Vegeta'yı Ruh Bombasıyla patlatmak için iş birliği yapar, ancak Saiyan prensi ölmeyi reddeder. Yajirobe, Gohan'ın kendi dönüşümüne girmesine yetecek kadar düşmanın dikkatini dağıtıncaya kadar Z-Fighters için işler kötü görünüyor!",
+                "air_date": "2009-07-19",
+                "still_path": "/1byTopw8xGBb3u1eE847ogwf7Y2.jpg",
+                "video_url": "1774391"
+            },
+            {
+                "episode_number": 17,
+                "name": "Şiddetli Savaşın Şafağı! Umudun Yıldızı Piccolo'nun Vatanıdır!",
+                "overview": "Vegeta yenildi ama kutlayacak zaman yok. Z-Fighter'lar, Saiyan istilasını durdururken ölen arkadaşlarını diriltmenin bir yolunu bulmalıdır. Neyse ki ölenler için Krillin'in bir planı var!",
+                "air_date": "2009-08-02",
+                "still_path": "/wWe79ufTx9h4WFdG39lpJEHRwCD.jpg",
+                "video_url": "1774392"
+            },
+            {
+                "episode_number": 18,
+                "name": "Gemi Yunzabit'te Dinleniyor! Namek Gezegenine Doğru Kalkış Zamanı!",
+                "overview": "Namek'e yolculuk hazırlıkları, Bulma'nın yanlışlıkla kalan Saiyan uzay gemisini havaya uçurmasıyla sekteye uğrar. Bay Popo başka bir gemi biliyor olabilir, bu yüzden o ve Bulma daha yakından bakmak için Dünyanın sonuna giderler.",
+                "air_date": "2009-08-09",
+                "still_path": "/weOgU2Vh1OW6l1B1WCA0vPTXnqp.jpg",
+                "video_url": "1774394"
+            },
+            {
+                "episode_number": 19,
+                "name": "Güçlü Yeni Bir Düşman! Frieza, Evrenin Hükümdarı!",
+                "overview": "Kötü bir uzay sıkıntısı vakası Bulma'yı yakın mesafeyi paylaşmak için bir acı haline getiriyor ve Vegeta yaralarını atlatıyor ancak Frieza'nın sihirli Dragon Balls'un izini sürmeye bir adım önde başladığını keşfediyor!",
+                "air_date": "2009-08-16",
+                "still_path": "/bwvDOb5XGpaf1l6C8XxsV25hlM0.jpg",
+                "video_url": "1774395"
+            },
+            {
+                "episode_number": 20,
+                "name": "Frieza'ya İsyan! Vegeta'nın Yakıcı Hırsı!",
+                "overview": "Gohan ve Krillin, Frieza'nın adamlarına saldırdı ancak bu süreçte uzay gemileri yok edildi. Vegeta, Cui ile hesaplaşmaya gidiyor ve kurnaz Saiyan, gerçek güç seviyesini gizli tutuyor!",
+                "air_date": "2009-08-23",
+                "still_path": "/7iDvAx0CfyvLSyJwHDOwvVlqchQ.jpg",
+                "video_url": "1774396"
+            },
+            {
+                "episode_number": 21,
+                "name": "Dragon Ball'ları Koru! Namekian'ların Tam Saldırısı!",
+                "overview": "Goku, gücünü artırmaya yardımcı olmak için tasarlanmış bir cihazla özel olarak donatılmış yepyeni bir uzay gemisiyle yola çıkıyor! Namek'te Krillin ve Gohan, Frieza'nın adamlarının masum Nameklileri katletmesini dehşet içinde izliyor.",
+                "air_date": "2009-08-30",
+                "still_path": "/8FDdN3YGKOdobjs4J2szpZ7TdcW.jpg",
+                "video_url": "1774397"
+            },
+            {
+                "episode_number": 22,
+                "name": "Dodoria'nın Dehşet Verici Takibi! Vegeta'ya Açıklanan Gerçek!",
+                "overview": "Gohan ve Krillin, genç bir Namekian'ı kurtarmak için hayatlarını tehlikeye atıyor. Vegeta, kendi gezegeninin yok edilmesiyle ilgili gerçeği öğrendikten sonra öfkeye kapılıyor!",
+                "air_date": "2009-09-06",
+                "still_path": "/1a90WAnI6Yfg9yh59ki0D5Q3WSO.jpg",
+                "video_url": "1774399"
+            },
+            {
+                "episode_number": 23,
+                "name": "Vegeta'nın Gizli Manevraları! Nameklilere Trajik Saldırı!",
+                "overview": "Dodoria'yı kolayca yendikten sonra Vegeta, kalan iki Dragon Ball'u şiddetli bir şekilde aramaya başlar. Bu sırada Krillin ve yeni arkadaşı Dende, en büyük Namekian'ı, başına gelen dehşet konusunda uyarmak için yola çıktı!",
+                "air_date": "2009-09-13",
+                "still_path": "/oewM0qcfV8Jbz9odxKZcESyE262.jpg",
+                "video_url": "1774401"
+            },
+            {
+                "episode_number": 24,
+                "name": "Arkadaşlar Yeniden Doğduk! Zarbon'un Korkunç Dönüşümü!",
+                "overview": "Kral Kai telepatik olarak Goku'yu \"telefonla\" arayarak Frieza'dan olabildiğince uzak durması konusunda uyarır! Namek'e geri dönen Vegeta, basit bir dönüşümün Zarbon'un gücünü ne kadar artırabileceğini keşfederek şok olur.",
+                "air_date": "2009-09-20",
+                "still_path": "/2qVwCz5DwvUmo5jBKkkC2Zd74At.jpg",
+                "video_url": "1774402"
+            },
+            {
+                "episode_number": 25,
+                "name": "Güç Ver, Krillin! Frieza'nın Artan Kaygısı!",
+                "overview": "En yaşlı Namekian, Krillin'in hareketsiz gücünün tüm gücünü açığa çıkarır, böylece kel savaşçı Dragon Ball'unu daha iyi koruyabilir. Başka bir yerde Saiyan'la ilgili bir önsezi, Frieza'yı takviye çağrısı yapmaya sevk eder.",
+                "air_date": "2009-09-27",
+                "still_path": "/3IXbjTlC0QoOo09mvcJEMmONezA.jpg",
+                "video_url": "1774403"
+            },
+            {
+                "episode_number": 26,
+                "name": "Plan Bozuldu! Vegeta, Zarbon'a Karşılık Veriyor!",
+                "overview": "Vegeta, Dragon Ball'ları Frieza'nın burnunun dibinden çalmak için cesur bir girişimde bulunarak bunu riske atıyor. Krillin, Namekian'ın güç dalgalanmasıyla yükseklere çıkıyor ama hayatta kalamayacağı bir it dalaşına sürüklenmek üzere!",
+                "air_date": "2009-10-04",
+                "still_path": "/6QX5XutLQNJJ8WQutAsEENfl5Cz.jpg",
+                "video_url": "1774405"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 26,
+        "air_date": "2009-10-11",
+        "poster_path": "/3wj0YJWY8B3pzfvfk3tGXs4OQdc.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bir Dokun-git Durumu! Gohan, Dört Yıldızlı Topu Koru!",
+                "overview": "Vegeta'nın üstün gücünden korkan Krillin, değerli Dragon Ball'unu gönülsüzce teslim eder. Gohan'ın kendine ait bir top elde etmesinden sonra bir umut ışığı kaldı; ancak genç savaşçı, Vegeta'nın izniyle bir yenilgiye doğru gidiyor!",
+                "air_date": "2009-10-11",
+                "still_path": "/1b32PsqErZTI77N6IyE7EUPzTTX.jpg",
+                "video_url": "1774406"
+            },
+            {
+                "episode_number": 2,
+                "name": "Savaşa Geri Sayım Başlıyor! Ginyu Gücü Geliyor!",
+                "overview": "Vegeta, En Yaşlı Namekian'dan güç almak için çılgınca atılım yapan Krillin ve Gohan'ın yolunu keser, ancak ufukta daha büyük sorunlar belirir. Ginyu Gücünün gelişine hazır olun!",
+                "air_date": "2009-10-18",
+                "still_path": "/rLw71n8UtSlW7cIR63VJsc9hwgH.jpg",
+                "video_url": "1774407"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ginyu Gücü için İlk Adım! Guldo'nun Zamanı Dondu!",
+                "overview": "Gohan ve Krillin, muhteşem psişik yeteneklere sahip olan Ginyu Gücünün bir üyesi olan Guldo'ya karşı hayatta kalmak için savaşıyor! Goku hâlâ uzaydayken ve tek müttefikleri Vegeta olduğundan, Dünya'nın kahramanları için işler kasvetli görünüyor.",
+                "air_date": "2009-10-25",
+                "still_path": "/grZiiaX29bem6PAk29582LOCgt.jpg",
+                "video_url": "1774408"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kabus Yeniden Geliyor! Dışarı Çık ve Oyna Vegeta!",
+                "overview": "Vegeta, savaş gücünü etkileyici seviyelere çıkarıyor ancak hâlâ Ginyu serserileriyle boy ölçüşemez. Ölümden kaçmak için bazı kahraman eski düşmanlarının yardımına ihtiyacı olacak. Bu sırada Frieza, Dragon Balls'un büyüsünü açığa çıkarmaya çalışıyor!",
+                "air_date": "2009-11-01",
+                "still_path": "/uIHPsLCnGgE05VvWEsjU9Y5Ql2i.jpg",
+                "video_url": "1774409"
+            },
+            {
+                "episode_number": 5,
+                "name": "Goku Sonunda Geldi! Ginyu Gücünü Düşürün!",
+                "overview": "Sonunda Goku, Dünya'dan yolculuğunu tamamlar ve Namek gezegenine varır. Arkadaşları ağır yaralanmıştır ama kudretli Saiyan savaşçısının sihirli fasulyelerle dolu bir çantası ve güçlü bir sırrı vardır!",
+                "air_date": "2009-11-08",
+                "still_path": "/ds95ffi8yFY60tLI6tRa4XtuCEI.jpg",
+                "video_url": "1774410"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yıldız Oyuncu Görünüyor! Ginyu Vs. Goku!",
+                "overview": "Frieza, En Yaşlı Namekian'ı acımasızca sorgulamaya hazırlanırken Goku, yerçekimi eğitiminin Dünya'dakinden yüz kat daha fazla faydalarını gösterir. Kaptan Ginyu'yu yenmesine yardım etmek yeterli olacak mı?",
+                "air_date": "2009-11-15",
+                "still_path": "/b0EVGIbesfXSpXXu0PbiJ6g7Z5c.jpg",
+                "video_url": "1774413"
+            },
+            {
+                "episode_number": 7,
+                "name": "Tam Güç, Goku! Kaptan Ginyu'nun Çaresiz Saldırısı!",
+                "overview": "Frieza, En Yaşlı Namekian'ın yerini bulur, ancak Nail kötü varlığın yolunu keserek Dragon Balls'u korumak için kendi hayatını riske atar. Başka bir yerde, Gohan ve Krillin bir kızı bazı dinozorların elinden kurtarır. Goku, Kaptan ile savaşına devam eder. Ginyu.",
+                "air_date": "2009-11-22",
+                "still_path": "/wE7dUShaK5AAWw8qkAAcQyclrLN.jpg",
+                "video_url": "1774414"
+            },
+            {
+                "episode_number": 8,
+                "name": "Sürpriz! Goku, Ginyu'dur ve Ginyu, Goku'dur!?",
+                "overview": "Gohan ve Krillin, Dragon Ball'ları ortaya çıkarır, ancak ejderhayı çağırma girişimleri sefil bir şekilde başarısız olur. Daha sonra Cpt. Ginyu'nun sinsi stratejisi, Dünya'nın savaşçılarını düşünülemez olanı yapmaya zorluyor: Goku'nun etine ve kemiklerine tüyler ürpertici bir gaddarlıkla saldırın!",
+                "air_date": "2009-11-29",
+                "still_path": "/aBHfAMHnBdOrLOAeWYLBaohO4iP.jpg",
+                "video_url": "1774415"
+            },
+            {
+                "episode_number": 9,
+                "name": "Goku'nun Geri Dönüşü! İleri Porunga'yı Çağırın!",
+                "overview": "Goku ve bedeni yeniden bir araya gelir, ancak asil Saiyan ciddi şekilde yaralanmıştır ve savaşamaz. Bir Namekian habercisi, Gohan ve Krillin'e ejderhayı çağırmada yardım etmek için acele eder, ancak Frieza'dan önce varacağının garantisi yoktur.",
+                "air_date": "2009-12-06",
+                "still_path": "/pGqXtLpc1CB6Ww2u4XbsWr2sP5l.jpg",
+                "video_url": "1774418"
+            },
+            {
+                "episode_number": 10,
+                "name": "Frieza Kapanıyor! Yüce Porunga, Dileğimizi Gerçekleştir!",
+                "overview": "Gohan ve Krillin - genç Namekian Dende'nin yardımıyla - Vegeta veya Frieza hilelerini keşfetmeden önce dileklerini yerine getirmek için acele ederler. Ejderha onların isteğini yerine getiremeyince, ayrılan bir müttefik öbür dünyadan tavsiyelerde bulunur.",
+                "air_date": "2009-12-13",
+                "still_path": "/GK8KK3IQtvpP8cq1AOiJ2wOxmY.jpg",
+                "video_url": "1774419"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kabus Dönüşümü! Frieza'nın Güç Seviyesi-bir Milyon!?",
+                "overview": "Piccolo dirilir ve gürlemeye hazırdır, ancak ölmekte olan bir Namekian'la karşılaşması nedeniyle gelişi gecikir. Bu arada Vegeta, Frieza'yı alt etmeye hazırlanır, ancak Saiyan prensi fena halde geride kalabilir.",
+                "air_date": "2009-12-20",
+                "still_path": "/3Jzl8M7W76bzBRKV1Ax9L12a08a.jpg",
+                "video_url": "1774422"
+            },
+            {
+                "episode_number": 12,
+                "name": "Frieza Dişlerini Gösteriyor! Gohan'ın Ezici Saldırısı",
+                "overview": "Vegeta, Frieza'nın Krillin'e ölümcül bir darbe indirmesinin ardından Gohan'ın öfkeli patlamasından etkilenir. İki Saiyan, canavarı yenmek için birlikte çalışır, ancak birleşik güçleri bile hayatlarını kurtarmaya yetmeyecektir!",
+                "air_date": "2009-12-27",
+                "still_path": "/6dypR3vanHiPJ2ocbSn5hjhXv37.jpg",
+                "video_url": "1774424"
+            },
+            {
+                "episode_number": 13,
+                "name": "Piccolo Yeniden Doğdu! Frieza'nın İkinci Dönüşümü",
+                "overview": "Piccolo devam eden savaşa katılır ve iki Namekli savaşçının gücüyle hızla Frieza'ya saldırır. Güçlü kötü adam hazırlıksız yakalanır, ancak ikinci bir dönüşüm ona savaşı kesin olarak bitirme gücü verir!",
+                "air_date": "2010-01-10",
+                "still_path": "/lRha5F5Fhesu5UA9ziqeKFzBugk.jpg",
+                "video_url": "4520802"
+            },
+            {
+                "episode_number": 14,
+                "name": "Frieza'nın Son Dönüşümü: Nihai Kabus Başlıyor",
+                "overview": "Frieza nihai dönüşümüne başlamıştır ve Vegeta'nın canavarı yenmek için tek umudu ölümcül bir yara almaktır. Eğer Saiyan savaşçısı, Dende'yi gücünü geri kazanmaya ikna edebilirse, düşmanını yenebilecek güce sahip olabilir!",
+                "air_date": "2010-01-17",
+                "still_path": "/q2ZJCRa143tVA5UZ3XwJblyKs3x.jpg",
+                "video_url": "1774426"
+            },
+            {
+                "episode_number": 15,
+                "name": "Hakikat Anı Yaklaşıyor! Goku Tekrar İş Başında!",
+                "overview": "Vegeta, Frieza'ya şiddetli bir saldırı başlatarak artan gücünü ve hızını bir test sürüşüne çıkarıyor, ancak ne kadar öfkeyle savaşırsa savaşsın, Saiyan düşmanının savunmasını geçemiyor!",
+                "air_date": "2010-01-24",
+                "still_path": "/xf16h1Aa1YVcv4901jAR6z2SgAZ.jpg",
+                "video_url": "4520807"
+            },
+            {
+                "episode_number": 16,
+                "name": "Frieza'yı Yen, Goku! Gururlu Saiyan Prensinin Gözyaşları!",
+                "overview": "Goku savaş mahalline vardığında Vegeta'yı hırpalanmış ve kötü bir şekilde dövülmüş halde bulur. Saiyan prensi son nefesiyle Goku'nun babasının ölümünde Frieza'nın rolü hakkındaki gerçeği ortaya çıkarır ve Saiyan'ın şiddetli bir gurur patlamasına yol açar!",
+                "air_date": "2010-01-31",
+                "still_path": "/iq2ptTWoE2kVcJnUOg8sPIOPZQY.jpg",
+                "video_url": "1774429"
+            },
+            {
+                "episode_number": 17,
+                "name": "Goku, Frieza'ya Karşı! Süper Karşılaşma Başlıyor!",
+                "overview": "Goku ve Frieza, Namek gezegenini yok etmekle tehdit eden şiddetli bir mücadelede karşı karşıya gelir. Krillin ve Gohan savaşın vahşeti karşısında hayrete düşüyor, ancak Piccolo iki savaşçının henüz ısındığına inanıyor!",
+                "air_date": "2010-02-07",
+                "still_path": "/kGUqOxA6GTB7Z1K5rcbHds96bpI.jpg",
+                "video_url": "4520812"
+            },
+            {
+                "episode_number": 18,
+                "name": "Sınırları Zorlayan Bir Kavga! Goku, Frieza ve Ginyu Yine Mi?",
+                "overview": "Goku ve Frieza birbirlerine acımasızca yumruk atmaya devam ederken morluklar artıyor! Bu sırada Bulma'nın alışılmadık bir kurbağayla karşılaşması, beden dışı bir deneyime yol açar!",
+                "air_date": "2010-02-14",
+                "still_path": "/jmXAiNFOud5pJ6TQEQxs8gdQXnd.jpg",
+                "video_url": "1774433"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kaio-ken Times Yirmi! Ya Hep Ya Hiç Kamehame-ha!",
+                "overview": "Frieza'nın elindeki vahşi dayağa maruz kalan Goku, Kaio-Ken'in müthiş gücünü çağırır! Umutsuz saldırısı başarılı olursa zafer onun olacak, ancak başarısız olursa Saiyan ırkı elenecek!",
+                "air_date": "2010-02-21",
+                "still_path": "/mZXYdrCabzqWyzbvRZTR0WISkPa.jpg",
+                "video_url": "1774434"
+            },
+            {
+                "episode_number": 20,
+                "name": "Son Trump Kartı! Goku'nun Nihai Ruh Bombası!",
+                "overview": "En güçlü saldırıları Frieza'yı şaşırtmayı başaramayınca Goku, en büyük silahına yönelir: Ruh Bombası! Piccolo, Goku'ya biraz zaman kazandırmak için mücadeleye katılır, ancak asil Namekian tatlı zaferi tadacak kadar uzun süre hayatta kalabilecek midir?",
+                "air_date": "2010-02-28",
+                "still_path": "/gLDEVT6SUXi7Z5WqUK9AlfRSvd8.jpg",
+                "video_url": "1774435"
+            },
+            {
+                "episode_number": 21,
+                "name": "Uyan, Efsanevi Savaşçı! Süper Saiyan Goku!",
+                "overview": "Goku, arkadaşlarının yardımıyla Frieza'yı devasa bir Ruh Bombasıyla patlatmayı başarır! Zafer kesin görünüyor ama canavar şok edici derecede ölümcül bir darbe indirmek için yeniden ortaya çıktığında Goku güçlü bir dönüşüme uğruyor!",
+                "air_date": "2010-03-07",
+                "still_path": "/9gVNNdngASXtffPVKCZyX2rR1OV.jpg",
+                "video_url": "1774436"
+            },
+            {
+                "episode_number": 22,
+                "name": "Kızgın Süper Saiyan! Goku Eldiveni Aşağı Atıyor!",
+                "overview": "Gohan, Piccolo'yu kurtarmak için yarışırken Goku, Frieza'ya Süper Saiyan'ı dayak atar. Sarışın dövüşçünün etkileyici yeni güçleri, rakibini Namek'i yok edebilecek çaresiz bir karşı saldırıya sürüklüyor!",
+                "air_date": "2010-03-14",
+                "still_path": "/3KkyecgCd8JdEbwmAwcSyT887fn.jpg",
+                "video_url": "4760230"
+            },
+            {
+                "episode_number": 23,
+                "name": "Düşenlerin Intikamını Al Goku! Gezegenin Yıkımına Geri Sayım!",
+                "overview": "Namek'in yaklaşan patlama tehlikesine rağmen Goku, Krillin cinayetinin intikamını almaya kararlı olan Frieza ile savaşına devam eder. Başka bir yerde Gohan, çok geç olmadan Bulma'nın yerini bulmaya çalışır!",
+                "air_date": "2010-03-21",
+                "still_path": "/qs5bEHpL2w74KHvQR16tCJq8pW1.jpg",
+                "video_url": "4760233"
+            },
+            {
+                "episode_number": 24,
+                "name": "Tam Güç Frieza! Shenron, Dileğimizi Gerçekleştir!",
+                "overview": "Kami ve Kral Kai, Namekian Dragon Balls'un dilek gerçekleştirme gücünü geri kazandırmak için bir plan yapar ve Goku, kötü niyetli Frieza ile destansı savaşına devam eder!",
+                "air_date": "2010-03-28",
+                "still_path": "/6EH0pZ4T6jkc19112RQ6azCa4t7.jpg",
+                "video_url": "4760237"
+            },
+            {
+                "episode_number": 25,
+                "name": "Goku'nun Öfkeli Kükremesi! Bir Son Dakika Dileği!",
+                "overview": "Goku'nun Frieza tarafından mağlup edilmesinin ardından Gohan, babasının kaybının intikamını almak için mücadeleye girer. Bu sırada yeni dirilen Dende, Namek gezegeni yok edilmeden önce son bir dilek dilemek için acele eder.",
+                "air_date": "2010-04-04",
+                "still_path": "/zLyHpNv4aqpTmFQaFwfjKfKlR3R.jpg",
+                "video_url": "4760240"
+            },
+            {
+                "episode_number": 26,
+                "name": "Kaybolan Gezegende Düello! Son Karşılaşma!",
+                "overview": "Namek gezegeni ayaklarının altında parçalanırken Goku ve Frieza destansı savaşlarına devam eder. Gohan, Dünya'ya döndüğünde babasının nihai kaderiyle ilgili haberi sabırsızlıkla bekliyor!",
+                "air_date": "2010-04-11",
+                "still_path": "/mK35E3o0FaKzQ6sFpI2NHpOYtZ0.jpg",
+                "video_url": "4760244"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 25,
+        "air_date": "2010-04-18",
+        "poster_path": "/56mZEizhYsTwmtEkGDwWZfadYXq.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Goku'nun Son Saldırısı! Namek Gezegeninin Yıkımına Geri Sayım!",
+                "overview": "Dünya'da Büyük Yaşlı yeniden ölür, ancak ölmeden önce gücünü en büyük oğullarından biri olan Moori'ye vererek onu yeni Büyük Yaşlı yapar ve böylece Namekian dragonball'ların gücünü korur. Bu sırada Namek'te ölmekte olan Frieza, Goku'dan merhamet diler. Daha iyi karar vermesine rağmen Goku, Frieza'nın yardım çağrısını görmezden gelemez ve ayrılmadan önce tirana kendi ki'sinin bir kısmını verir. Ancak Frieza, gururunun onu alt etmesine izin verir ve Goku'ya son bir ki patlaması başlatır, ancak Süper Saiyan, patlamayı zorbaya kolayca geri püskürtür ve görünüşe göre bu süreçte Frieza'yı yok eder. Goku daha sonra Frieza'nın uzay gemisiyle kaçmaya çalışır, ancak onu havaya uçuramaz. Namek sonunda patlar ve görünen o ki Goku da gezegenle birlikte yok olur.",
+                "air_date": "2010-04-18",
+                "still_path": "/vngzm5R3NYaDWHMBI6djKnyq7hK.jpg",
+                "video_url": "4760247"
+            },
+            {
+                "episode_number": 2,
+                "name": "Goku Uzaya Kayboldu! Yuvanıza Hoş Geldiniz Süper Savaşçılar!",
+                "overview": "Namek'in yok edilmesinin ardından Kral Kai, Bulma ve Dünya'daki diğerlerine Goku'nun görünen ölümü hakkında bilgi verir ve Namekian ejder topları Goku ve Krillin'i diriltebilseler bile, Namek'in eskiden olduğu yere geri getirileceklerini ve boşlukta yeniden öleceklerini bildirir. uzay. Ancak Vegeta, ejderha toplarını kullanarak önce Goku ve Krillin'in ruhlarını Dünya'nın Diğer Dünya'daki check-in istasyonuna, oradan da Dünya'da diriltilebilecekleri yere getirme fikrini ortaya çıkarır. Namek'te kullanılmalarından 130 gün sonra, Namekian ejder topları yeniden aktif hale gelir ve ilk iki dilek, Krillin'i başarılı bir şekilde canlandırmak için kullanılır; Goku'nun aslında hala hayatta olduğu ve daha sonra Dünya'ya kendi başına döneceği ortaya çıktı. Yamcha daha sonra üçüncü dilek ile hayata döndürülür. Bir 130 gün daha sonra, Namekian ejder topları hem Tien'i hem de Chiaotzu'yu canlandırmak için kullanıldı ve ardından tüm yerli Namekianları yeni bir gezegene ışınlamak için kullanıldı. Z Savaşçıları daha sonra Goku'nun geri dönmesini sabırla bekleyerek huzurlu hayatlarına geri dönerler.",
+                "air_date": "2010-04-25",
+                "still_path": "/qQ7tMnzsNx8WrULhgiqv6YYaynJ.jpg",
+                "video_url": "4760249"
+            },
+            {
+                "episode_number": 3,
+                "name": "Dünya Gezegeni Var Baba! Frieza ve King Soğuk Saldırıya Karşı!",
+                "overview": "Bir yıl geçti ve Goku hâlâ Dünya'ya dönmedi. Ancak Frieza'nın Süper Saiyan'la yaptığı savaşta hayatta kalmayı başardığı, babası King Cold tarafından bir cyborg'a dönüştürüldüğü ve Goku'dan intikam almak amacıyla Dünya'ya doğru ilerlediği ortaya çıktı. Z Savaşçılarının geri kalanı, şansın onlara karşı olduğunu bilmelerine rağmen Dünya'yı Frieza'dan korumak için toplanıyor. Ancak Frieza, King Cold ve asker ordusu Dünya'ya varır varmaz, onları öldürmeye geldiğini iddia eden, kılıç kullanan gizemli bir gençle karşılaşırlar.",
+                "air_date": "2010-05-02",
+                "still_path": "/c5CtmLi1bgNpNN48iBkm8nKDsyW.jpg",
+                "video_url": "4760251"
+            },
+            {
+                "episode_number": 4,
+                "name": "Frieza'yı Yeneceğim! Başka Bir Süper Saiyan!",
+                "overview": "Gizemli genç, Frieza'nın askerlerini kolayca alt eder ve ardından bir Süper Saiyan'a dönüşerek Frieza'yı şaşırtır. Kötü zalim bu ikinci Süper Saiyan'ı yok etmeye çalışır ancak başarılı olamaz. Sonunda genç, Frieza'yı kılıcıyla parçalara ayırmadan önce onu patlatır. King Cold, Süper Saiyan'ı kendisi yenmeye çalışır ama aynı zamanda kolayca yok edilir. Genç, normal durumuna döndükten sonra Z Savaşçılarını görür ve Goku'nun yakında yakınlara geleceğini iddia eder. Şüpheci olmalarına rağmen Z Savaşçıları, Goku'nun gelişini beklerken ona katılmayı kabul eder.",
+                "air_date": "2010-05-09",
+                "still_path": "/wtiCs4qkRFsCXcGFDrAqdbOX7we.jpg",
+                "video_url": "4760253"
+            },
+            {
+                "episode_number": 5,
+                "name": "Tekrar Hoş Geldin Goku! Gizemli Gençliğin İtirafları Sandıklar!",
+                "overview": "Üç saatlik beklemenin ardından bir uzay kapsülü Dünya'ya düşer ve Goku oradan çıkar. Ancak gizemli genç, onunla özel olarak konuşmak için Goku'yu kenara çekerken kutlama için zaman yoktur. Goku'nun Süper Saiyan güçlerini test eden genç, adının Trunks olduğunu, günümüzden 20 yıl sonra kıyamet gibi bir gelecekten geldiğini ve Bulma ile Vegeta'nın gelecekteki oğlu olduğunu ortaya koyuyor. Ayrıca Goku'ya bundan üç yıl sonra eski Kızıl Kurdele Ordusu'ndan Doktor Gero tarafından inşa edilen bir çift ölümcül androidin Dünya'ya bir saldırı başlatacağını ve Goku hariç tüm Z Savaşçılarını öldüreceğini bildirir. Saldırıdan altı ay önce kalp virüsünden. Trunks daha sonra Goku'ya gelecekteki zaman çizelgesinde yapılan bir kalp panzehiri sağlar ve ona virüs ona saldırdığında bunu alması talimatını verir. Piccolo özel işitme duyusunu kullanarak tüm konuşmayı duyuyor. Goku, kendisinin ve diğer Z Savaşçılarının önümüzdeki üç yıl boyunca androidlerin saldırısına hazırlanmak için sıkı eğitim alacaklarına söz verir ve Trunks daha sonra zaman makinesiyle geleceğe döner.",
+                "air_date": "2010-05-16",
+                "still_path": "/paTZtKVt4jifXQ9BuskXidxuyPW.jpg",
+                "video_url": "4760257"
+            },
+            {
+                "episode_number": 6,
+                "name": "Goku'nun Yeni Hamlesi, Anında İletim! Üç Yıllık Eğitim Dönemi Başlıyor!",
+                "overview": "Vegeta'nın isteği üzerine Goku, diğerlerine, Namek patlamasından sadece birkaç saniye önce Ginyu Gücü'nün uzay kapsüllerinden birinde kaçarak Namek Gezegeni'nin yıkımından sağ çıkmayı başardığını açıklar. Ayrıca, sonunda Yardrat adlı bir gezegene indiğini ve gezegenin dost canlısı sakinleri tarafından sağlığına kavuşturulduğunu açıklıyor. Ayrıca onlardan Anında İletim adı verilen özel bir ışınlanma tekniğini öğrendiğini de ortaya koyuyor. Z Savaşçıları daha sonra kendi yollarına giderek her biri kendilerini androidlerin saldırısına hazırlamaya başlar. Üç yıllık yoğun eğitimin ardından hepsi, Trunks'ın androidlerin saldırıya başlayacağını belirttiği adada buluşmak için yola çıkar.",
+                "air_date": "2010-05-23",
+                "still_path": "/uuw8OiHiWkRaY8KkFWMEqXHDZDz.jpg",
+                "video_url": "4760258"
+            },
+            {
+                "episode_number": 7,
+                "name": "Tespit Edilemeyen Canavarlar! Androidler Ortaya Çıkıyor!",
+                "overview": "Z Savaşçıları, androidlerin saldırısı beklentisiyle adada toplanır. Ancak zaman yaklaştıkça androidler ortalıkta görünmüyor. Yajirobe, Korin'in yeni Senzu fasulyesi partisini diğerlerine teslim etmek için gelir, ancak o ayrılır ayrılmaz, androidler gemisini düşürür ve Z Savaşçıları onları göremeden hemen yakındaki şehre inerler. Gohan, Yajirobe'yi kurtarmaya giderken Z Savaşçılarının geri kalanı da düşmanlarını aramak için şehre uçar. Bir süre aramanın ardından Yamcha, enerjisi Android # 20 tarafından emildikten ve ardından kazığa düşürüldükten sonra androidlerin ilk kurbanı olur. Diğerleri onu kurtarmak için tam zamanında gelir ve Goku, şehrin büyük bir kısmı yok edildikten sonra sonunda androidleri savaşmak için yeni bir yere taşınmaya ikna eder.",
+                "air_date": "2010-05-30",
+                "still_path": "/ytHz5WumctIYjojzJjAhTtHF3mb.jpg",
+                "video_url": "4760262"
+            },
+            {
+                "episode_number": 8,
+                "name": "İçimizdeki Yenilmez Düşman! Goku, Android 19'a Karşı!",
+                "overview": "Goku, Piccolo ve Tien, androidleri savaşmak için yeni bir konuma götürürken Krillin, Yamcha'yı bir Senzu fasulyesiyle canlandırır. Ancak Yamcha, androidlerin enerjiyi emme yeteneğini ortaya çıkardığında o, Krillin ve Gohan diğerlerini uyarmak için yola çıkar. Bu arada, Goku'ya, androidlerin, Goku'dan intikam almak amacıyla, Goku'nun dövüş tekniklerini ve güçteki gelişmeleri analiz etmek için minyatür casus robotların kullanıldığı, Dr. Gero tarafından yıllarca yürütülen bir araştırmanın sonucu olduğu ortaya çıktı. Kızıl Kurdele Ordusu'nu yok etmek. Ancak Gero, Namek Gezegeni'nde geçirdiği süre boyunca Goku'yu analiz etmedi ve bu nedenle androidler, Goku'nun önlerinde memnuniyetle gösterdiği gibi onun Süper Saiyan'a dönüşme yeteneğinden habersizdir. Daha sonra Goku ile Android # 19 arasında bir savaş başlar ve Goku açıkça üstünlüğe sahip olsa da kısa sürede enerji kaybediyor gibi görünür. Sonunda Goku'nun göğsünün sol tarafını tuttuğu görülür ve Gohan bunu Trunks'ın Goku'yu uyardığı kalp virüsünün bir belirtisi olarak hemen anlar. Ancak virüs, Goku'nun kalbine Trunks'ın tahmin ettiğinden çok daha geç saldırıyor. Goku bilinçli kalmaya çabalarken # 19, Goku'nun kalan enerjisini emerek savaşı bitirmeye hazırlanır. Piccolo müdahale etmeye çalışır, ancak Android # 20, Piccolo'yu göz ışınlarıyla patlatır ve bu da onu yere çarpmasına neden olur.",
+                "air_date": "2010-06-06",
+                "still_path": "/uSnwmdk371qxdo5wyswSlNj2AXt.jpg",
+                "video_url": "4760265"
+            },
+            {
+                "episode_number": 9,
+                "name": "Android 19'da Zafer Yok! Süper Vegeta'ya Girin!",
+                "overview": "Android # 19, Goku'nun enerjisini tüketmeyi bitirmeden önce Vegeta nihayet gelir ve androidin suratına tekme atarak Goku'yu kurtarır. Yamcha daha sonra kalp panzehirini ona uygulamak için Goku'ya eve kadar eşlik eder. Vegeta daha sonra androidlere meydan okur ve herkesi şaşırtacak şekilde bir Süper Saiyan'a dönüşür. Goku'nun ilk dönüşümünün Frieza'nın Krillin'i öldürmesine duyduğu öfkeyle tetiklendiği, Vegeta'nın ise Goku'yu geçememekten duyduğu öfkeyle tetiklendiği ortaya çıktı. Daha sonra savaş başlıyor ve Vegeta'nın 19. numaraya göre üstünlüğü olduğu açık. Vegeta, androidin ellerini koparıp rakiplerinden daha fazla enerji emmesini imkansız hale getirdiğinden, androidin enerji emme saldırısı bile boşuna çıkıyor. Android korku içinde kaçarken Vegeta, Büyük Patlama Saldırısını başlatır ve androidin kafasından başka hiçbir şeyi sağlam bırakarak savaşı bitirir. Android # 20 daha sonra yakındaki kayalıklara kaçarak araziyi Z Savaşçılarına sürpriz bir saldırı başlatmak için kullanmayı planlıyor.",
+                "air_date": "2010-06-13",
+                "still_path": "/66BnCm41RawiWhbT6XVL8JUb74B.jpg",
+                "video_url": "4760269"
+            },
+            {
+                "episode_number": 10,
+                "name": "Piccolo'nun Saldırısı! Android 20 ve Çarpık Gelecek!",
+                "overview": "Z Savaşçıları bölgede Android #20'yi aramak için ayrıldı. Düşmanının aldatıcılığından bıkan Vegeta, kayalıklara büyük bir ki patlaması yaparak bölgeyi düzleştirmeyi planlıyor. Bu fırsatı gören 20 numara, Vegeta'nın patlamasını absorbe etmek ve Vegeta yetişemeden kaçmak için saklandığı yerden çıkar. Android daha sonra Piccolo'ya arkadan saldırır ve enerjisini tüketmeye başlar, ancak bu, Piccolo'nun solan ki'sini algılayan ve androide saldıran Gohan tarafından engellenir. Bir Senzu fasulyesi aldıktan sonra Piccolo, saldırganla karşı karşıya gelir ve android için bir rakipten daha fazlası olduğunu kanıtlar. Bu arada Trunks nihayet gelecekten geri döner ve Android # 19'un kalıntılarının kendi zaman çizelgesinde karşılaştığı androidlerden farklı olduğunu görmekten rahatsız olur. Daha sonra mevcut savaş alanına varıyor ve aynı zamanda 20 numarayı tanımıyor gibi görünüyor.",
+                "air_date": "2010-06-20",
+                "still_path": "/4NtfB6gVEvep3YdQY3yLUiIZw77.jpg",
+                "video_url": "4760272"
+            },
+            {
+                "episode_number": 11,
+                "name": "Doktor Gero'nun Avı! Gizli Laboratuvarı Keşfedin!",
+                "overview": "Ortalık yatıştıkça, Android # 20 hiçbir yerde görünmüyor ve Trunk'ın zaman çizelgesinde hasara neden olan Android # 17 ve # 18'i - androidleri - uyandırmak için laboratuvara dönmeyi planladığı varsayılıyor. Bu sırada Trunks, annesini ve gençliğini kurtarır ve ailesini koruyamadığı için Vegeta'yı azarlar. Bulma daha sonra # 20'nin aslında androidlerin yaratıcısı Dr. Gero olabileceğini ve görünüşe göre kendisini de ona dönüştürdüğünü ortaya koyuyor. Grup daha sonra laboratuvarı bulmayı ve Gero onları etkinleştirmeden önce androidleri yok etmeyi planlıyor. Vegeta da laboratuvarı bulmak için yola çıkar, ancak gücünün bir göstergesi olarak androidlerle savaşma niyetiyle. Trunks babasını durdurmak için ayrılırken Piccolo sonunda Trunks'ın kökeni hakkındaki gerçeği grubun geri kalanına açıklar. Bunu biliyordu çünkü Trunks ve Goku arasındaki konuşmaya kulak misafiri olmuştu. Bu sırada Piccolo, Krillin ve Tien ayrılır ve Gero'nun laboratuvarının bulunduğu söylenen dağları arar. Gohan ise Bulma, bebek Trunks ve Yajirobe'yi eve götürür. Bu sırada Krillin, doktor tarafından saldırıya uğrar, ancak Gero, Piccolo'nun yakınlarda olduğunu hissedip kaçınca kurtulur.",
+                "air_date": "2010-06-27",
+                "still_path": "/srWvTdyrWBaeXN4ul22lAXT9yYl.jpg",
+                "video_url": "4760276"
+            },
+            {
+                "episode_number": 12,
+                "name": "17 Numara ve 18 Numara! Android'ler Uyanıyor",
+                "overview": "Krillin'in peşinde Dr. Gero nihayet laboratuvarına varır. Tien, Piccolo, Vegeta ve Trunks kısa süre sonra onu bulur ve laboratuvara girer, ancak Doktor Gero zaten 17 ve 18 numaralı Android'leri uyandırmıştır. Başlangıçta sadık görünmelerine rağmen ikili, Android # 17, Gero'nun uzaktan kumandasını yok ettiğinde bağımsızlıklarını gösterir, ona itaat etmemeleri durumunda onları devre dışı bırakamayacağını garanti eder ve Android # 18, Android # 16'yı etkinleştirmeye çalışır. Çaresizlik içinde Trunks, Android #16'yı etkinleştirilmeden önce yok etmeyi umarak androidlere büyük bir ki patlaması başlatır. Laboratuvarın tamamı yok edilmiş olsa da, hem Android'ler hem de # 16'nın bölmesi sağlam kalıyor ve yine de uyanıyor. Üçlü daha sonra ilk emirlerini yerine getirmeye karar verir ve Goku'yu öldürmek için yola çıkar. Ancak Vegeta müdahale edip üç androidi savaşa davet ettiğinde planları bozulur. Android #16 savaşmayı reddedince Android #18, Vegeta ile yüzleşmek için öne çıkıyor.",
+                "air_date": "2010-07-11",
+                "still_path": "/rwrEHylwldBOrK96fTqywQqzhtE.jpg",
+                "video_url": "4760282"
+            },
+            {
+                "episode_number": 13,
+                "name": "Tatlı Bir Yüz ve Süper Güç?! Android 18 Vegeta'ya Karşı!",
+                "overview": "Android #18, Süper Saiyan Vegeta ile savaşır ve kolayca kazanır. Super Saiyan Trunks babasına yardım etmeye çalışır ama aynı zamanda kolayca yenilir ve bu süreçte kılıcı kırılır. Piccolo ve Tien daha sonra Android #17 tarafından kolayca yenilirken, Krillin geride kalıp dehşeti izliyor ve Android #16 sadece yakındaki kuşları gözlemliyor. Dövüşten sonra androidler ayrılır, ancak onlar # 18'i yapmadan önce Krillin'i yanağından öper.",
+                "air_date": "2010-07-18",
+                "still_path": "/hnQdBRhpAPhY1i301iZII13DyYp.jpg",
+                "video_url": "4760288"
+            },
+            {
+                "episode_number": 14,
+                "name": "Yeniden Birleşme Zamanı Geldi! Piccolo'nun Sarsılmaz Kararlılığı!",
+                "overview": "Krillin, kalan Senzu fasulyelerini ölen yoldaşlarının her birine besliyor. Vegeta dövülerek öfkeyle uçup giderken Trunks diğerlerine geleceğin androidlerinin az önce savaştıkları androidlerden ne kadar farklı olduğunu açıklıyor. Günümüzün androidleri görünüşte daha güçlü ama daha az zalim görünüyorlar. Ayrıca Trunks'ın döneminde Android #16 da yoktu. Piccolo daha sonra, androidleri durdurmanın tek yolunun bu olduğuna inanarak Kami'yi bir kez daha kendisiyle birleşmeye ikna etmeye çalışmak için uçup gider. Ancak Kami, androidlerin tamamen kötü olmadığına ve Z Savaşçılarına karşı savaşmalarının tek nedeninin, ilk önce Z Savaşçılarının saldırması olduğuna inanıyor. Kami daha sonra Piccolo oturup Kami onunla birleşmeyi kabul edene kadar bekleyip ne olacağını görmeye karar verir.",
+                "air_date": "2010-08-01",
+                "still_path": "/fLrSCmwZECu5Np6DfmRzrqTq24Q.jpg",
+                "video_url": "4760292"
+            },
+            {
+                "episode_number": 15,
+                "name": "Başka Bir Zaman Makinesi Mi? Bulma Bir Gizemi Ortaya Çıkarıyor!",
+                "overview": "Bulma, Capsule Corporation'dan şirketinin ürünlerinden biriyle ilgili bir telefon alır. Ona, Trunks'ın seyahat ettiği zaman makinesine benzeyen bir fotoğraf gönderilir. Trunks bunu diğerleriyle birlikte araştırır ve bunun kendisinin üç yıl sonra kendi dünyasına geldiği zaman makinesinin aynısı olduğunu keşfeder. Bunu Bulma'nın zaman makinesine yazdığı 'Umut' kelimesinden tanıyor. Kami, dört yıl önce hissettiği kötülüğün androidler değil, zaman makinesiyle geriye giden canavar olduğunu fark eder.",
+                "air_date": "2010-08-08",
+                "still_path": "/ktVfl8rp4Z9HJTUhvH6Ax8QFapN.jpg",
+                "video_url": "4760295"
+            },
+            {
+                "episode_number": 16,
+                "name": "Canavar Harekete Geçiyor! Süper Namekian'ın Saldırısı!",
+                "overview": "Trunks, Gohan ve Bulma diğer zaman makinesini araştırırken Gohan, bilinmeyen bir yaratık tarafından fırlatılan tuhaf bir kabuğu fark eder. Bulma, evine dönerken yakındaki Gingertown'da sanki kıyafetlerinin içinde erimiş gibi açıklanamaz bir şekilde ortadan kaybolan binlerce insanla ilgili bir haber yayınını izliyor. Kami ayrıca insanlar öldürülürken dehşet içinde izler ve sonunda Piccolo ile birleşmeye karar verir. Birleşmenin ardından Piccolo, kendisinin artık ne Piccolo ne de Kami olduğunu, ancak \"adını çoktan unutmuş\" bir Namekien olduğunu belirtir. Gözetleme yerinden ayrılır ve canavarın onunla yüzleşmek için gölgelerin arasından çıktığı boş, hayalet gibi sessiz bir Zencefil Kasabası'na varır.",
+                "air_date": "2010-08-15",
+                "still_path": "/zeP9T0UgjoJERm2KiHsAQJlUqrr.jpg",
+                "video_url": "4760297"
+            },
+            {
+                "episode_number": 17,
+                "name": "Ben Senin Erkek Kardeşinim! Goku'nun Enerjisine Sahip Canavar!",
+                "overview": "Canavar, Piccolo'ya bakarken sürüklediği adamı deliyor ve onu içine çekiyor gibi görünüyor, geriye sadece kıyafetleri kalıyor. Diğerleri, androidin Frieza, Vegeta ve Goku'ya özgü birden fazla ki okuması yaydığını iddia ederek kafası karışmış durumda. Krillin ve Trunks, Piccolo ve canavarın kavga etmeye başladığı Zencefil Kasabası'na doğru yola çıkar. Piccolo'nun avantajı vardır, ancak canavar Piccolo'nun kendi Makankosappo tekniğini onun üzerinde kullandığında şaşırır. İki karşılıklı darbe ve ardından canavar, Piccolo'nun yalnızca [canavarın] henüz \"mükemmel formuna\" ulaşmadığı için üstünlüğe sahip olduğunu belirtir. Daha sonra bir Kamehameha'yı çalıştırıp onu doğrudan fırlatarak herkesi şaşırtır. Piccolo'nun kaçması onu canavarın takip saldırısına açık hale getirir ve bunu Piccolo'yu tuzağa düşürmek ve kolunu delmek için kullanır. Piccolo kaçmayı başarır ancak sol kolu tamamen kullanılamaz durumdadır. Kazandığını hisseden canavar, adının Cell olduğunu söyler ve kendisinin bir android olduğunu ortaya çıkarır.",
+                "air_date": "2010-08-22",
+                "still_path": "/6JccHPHyDLrYNleeIhgggebhRDI.jpg",
+                "video_url": "4760299"
+            },
+            {
+                "episode_number": 18,
+                "name": "Baş Döndürücü Aldatma ve Cesur Kaçış! Android Cell'i Yenin!",
+                "overview": "Piccolo'yu yendiğini hisseden Cell, Dr. Gero tarafından başlatılan ve 24 yıl boyunca devam eden bir proje olarak Goku'nun, Piccolo'nun, Vegeta'nın, King Cold'un ve Frieza'nın da aralarında bulunduğu en büyük savaşçıların hücrelerinden yaratıldığını açıklıyor. onun bilgisayarı. Cell ayrıca Android #17 ve #18'i benimseyerek \"Mükemmel Form\"una ulaşacağını ve onu \"yenilmez\" yapacağını ortaya koyuyor. Android'lerin kendi zaman çizelgesinde yok edilmesiyle, onu öldürdükten sonra Trunks'un zaman makinesindeki şimdiki zamana gitmek zorunda kaldı. Cell'in kimliğini ve niyetini öğrenen Piccolo, kolunu yeniler ve saldırmaya hazırlanır. Bu noktada Trunks ve Krillin gelir ve Cell, kazanma şansının olmadığını anlar. Tien'in Güneş Patlaması tekniğini kullanarak onları kör ederek herkesi şaşırtır ve sonra kaçar. Vegeta ve Tien gelir ve Piccolo öğrendiği her şeyi açıklar. Bu sırada Cell, gücü androidlerinkini aşıncaya kadar daha fazla insanı absorbe etmek için Nickytown'a doğru yola çıkar.",
+                "air_date": "2010-08-29",
+                "still_path": "/kp4ypjCOeh5hvxoHt20gYkxN8E4.jpg",
+                "video_url": "4760302"
+            },
+            {
+                "episode_number": 19,
+                "name": "Hücre Avı Başlıyor! Goku, Tekrar İş Başında!",
+                "overview": "Piccolo, Cell'in hedefi hakkında herkese bilgi verdikten sonra Vegeta, Süper Saiyan'ınkini bile aşan bir güç geliştirmeyi planladığını belirtir. Trunks ve Krillin, Dr. Gero'nun laboratuvarına giderler ve burada Android #17 için bir dizi plan keşfederler. Parmak izlerinin Bulma ve Dr. Briefs'in androidlerdeki bir zayıflığı ortaya çıkarmasını umarak, gelişmekte olan Hücreyi ve laboratuvarın geri kalanını yok etmeden önce parmak izlerini alırlar. Krillin parmak izlerini Bulma'ya teslim ederken Trunks Vegeta'yı bulmaya gider. Piccolo ve diğerlerinin Cell'i bulamadıkları birkaç gün geçer. Ancak Kame Evi'ne döndüklerinde, Chi-Chi ve Usta Roshi adada şiddetli patlamalar duymaya başlarlar ve pencereye koşup tamamen iyileşmiş bir Goku'nun Kamehameha dalgalarını ufka doğru fırlattığını görürler. Üçü, Goku ciddileşmeden önce neşeli bir an paylaşıyor ve androidlere karşı Vegeta'dan daha iyi durumda olmayacağını söylüyor. Ayrıca Vegeta gibi o da Süper Saiyan seviyesini geçme hedefini belirtiyor.",
+                "air_date": "2010-09-05",
+                "still_path": "/zJQzGdnT5kiiS4GpFAzi53sIYgV.jpg",
+                "video_url": "4760306"
+            },
+            {
+                "episode_number": 20,
+                "name": "Süper Saiyan Bariyerini Kırın! Hiperbolik Zaman Odasına!",
+                "overview": "Goku, Gohan, Vegeta ve Trunks'ı Kami'nin Gözetleme Yeri içindeki Hiperbolik Zaman Odasına götürmek için Anında İletim yeteneğini kullanır. Odanın kapasitesi yalnızca iki kişi olduğundan Goku, Vegeta ve Trunks'ın ilk önce girmesine izin verir. Goku, odadaki bir yıllık eğitimin aslında dış dünyada yalnızca bir gün olduğunu açıklıyor. Trunks ve Vegeta odaya girdiklerinde gördükleri tek şey devasa bir hiçliktir. Bu devam ederken androidler Kame Evi'ne gelir ve Goku'nun nerede olduğunu sorar. Piccolo onlara söylemeyi reddeder ve bu da Piccolo ile Android # 17 arasında kavgaya neden olur. Piccolo 17 numarayı alt eder ve işini bitirmeye çalışır, ancak 17 numara saldırıdan kaçmayı başarır. Kami'nin Gözetleme Noktasında, Vegeta ve Trunks her an zaman odasından çıkacaklar ve bu da Süper Saiyan seviyesinin ötesine geçmenin mümkün olup olmadığını ortaya çıkaracak.",
+                "air_date": "2010-09-12",
+                "still_path": "/R2bBYdULeLGp4oeT0xlkuSDZXC.jpg",
+                "video_url": "4760307"
+            },
+            {
+                "episode_number": 21,
+                "name": "Süper Namekian Güçleniyor! Piccolo ve Android 17!",
+                "overview": "Bulma, Dr. Gero'nun parmak izlerini çözmeye çalışıyor. Bu arada Piccolo ve Android #17 birbirleriyle savaşıyor. # 17 ciddileştikten sonra, kendisinin ve Piccolo'nun eşit derecede eşleştiği ortaya çıktı. Cell, ikisinin kavga ettiğini hisseder ve güç seviyesinin artık onlarınkinden daha yüksek olduğunu belirterek onlara doğru ilerlemeye başlar. Yakındaki bir adadaki Krillin ve diğerleri, Bulma'dan androidleri kapatma anahtarını tamamladığını ve bunu diğerlerine teslim etmeye hazırlandığını söyleyen bir telefon alır. #17, dayanıklılığı ve güç seviyesi asla düşmeyeceği için savaşın galibi olacağını belirtiyor. Ancak Cell savaş mahalline varır ve Piccolo'yu şok eder. Bu arada Goku ve Gohan hâlâ Vegeta ve Trunks'ın Hiperbolik Zaman Odasından çıkmasını bekliyor.",
+                "air_date": "2010-09-19",
+                "still_path": "/rzu0ReNtXfHRLGit5LUvhmIEZbl.jpg",
+                "video_url": "4760309"
+            },
+            {
+                "episode_number": 22,
+                "name": "Android 17'yi Çalıştırın! Piccolo'nun Ya Hep Ya Hiç Mücadelesi!",
+                "overview": "Chi-Chi'nin önerisi üzerine Krillin, Bulma'nın yolunu kesmek için Kame Evi'nden ayrılır, böylece Cell, Android 17 ve 18 numaralı Android'leri absorbe etmeden önce onun kapatma cihazını alabilir. Çaresizce beklemek istemeyen Tien, Piccolo'ya savaş alanında yardım etmek için Kame Evi'nden de ayrılır. Bu arada 17 numara, Piccolo'nun Cell hakkındaki uyarılarına kulak vermeyi reddeder ve hızla yenilir. Piccolo, Cell'i savuşturmaya çalışır ancak Cell onun başa çıkamayacağı kadar güçlü hale gelmiştir. Cell, kısa mesafeden onu göğsünden patlatmadan önce hızla Piccolo'nun boynunu kırar ve ardından Cell, Piccolo'nun vücudunu denize fırlatır. Ardından Cell dikkatini Android #17'ye çevirir.",
+                "air_date": "2010-09-26",
+                "still_path": "/vxxh2ETXEUyE0CjEhPQkl3Fy0sb.jpg",
+                "video_url": "4760313"
+            },
+            {
+                "episode_number": 23,
+                "name": "Güç Bilinmiyor! Android 16 Sessizliğini Bozdu!",
+                "overview": "Android # 16, Cell'in Mükemmel Formuna ulaşmasını engellemek için mücadeleye girmeye karar verir çünkü Cell'in amacı Goku'yu öldürmek değil, yaşamı yok etmektir. İkili eşit seviyede kavga ediyor ve # 16, Cell'e büyük bir patlama yapıyor. Ancak Cell hayatta kalır ve Android #17'yi benimseme fırsatını kullanır. Cell, Yarı Mükemmel Formuna dönüşür ve inanılmaz bir güç kazanır, ardından # 16'nın saldırıları tamamen etkisiz kalır. Tam tüm umutlar kaybolduğunda, Tien ortaya çıkar ve Android # 18'in kaçabilmesi için Cell'i durdurmak için Tri-Beam tekniğini kullanır.",
+                "air_date": "2010-10-03",
+                "still_path": "/UgVRAxaHOMDwv6BCLbe1Neft0S.jpg",
+                "video_url": "4760314"
+            },
+            {
+                "episode_number": 24,
+                "name": "Tien'in Umutsuz Saldırısı! Arkadaşlarını Kurtar Goku!",
+                "overview": "Goku ve Gohan'ın büyük endişesine rağmen Tien, Tri-Beam'ini tekrar tekrar ateşler ve Android # 16 ve # 18 kaçarken Cell'i aşağıda tutmak için ki'sini büyük ölçüde tüketir. Tien'in sonunda ki'si biter ve öfkeli bir Hücre'nin insafına kalarak yere yığılır. Artık Kami Gözetleme Noktasında boş boş beklemek istemeyen Goku, Tien'in yardımına koşmak için Anında İletimi kullanır. Goku, Cell'le yüzleşirken Piccolo'nun hâlâ hayatta olduğunu fark eder ve düşmüş iki savaşçıyla birlikte Gözcü'ye geri ışınlanır. Kısa bir süre sonra Trunks ve Vegeta, Hiperbolik Zaman Odasından çıkar ve Süper Saiyan seviyesini başarıyla aştıklarını belirtir. Goku ve Gohan kendi eğitimleri için zaman odasına girmeye hazırlanırken onlar Cell'le yüzleşmek için ayrılırlar. Bu sırada Cell, 18 numaranın kendisini göstermesi amacıyla adaları yok etmeye başlar.",
+                "air_date": "2010-10-10",
+                "still_path": "/ksQQF79hwavmtIG8wbS4cdwpxFf.jpg",
+                "video_url": "4760319"
+            },
+            {
+                "episode_number": 25,
+                "name": "Süper Saiyan'ın Ötesinde! Vegeta Canavar Hücresiyle Yüzleşiyor!",
+                "overview": "Hücre, Android #16 ve #18'in saklandığı tek kişi kalana kadar adaları yok etmeye devam ediyor. Saldırısını başlatmadan önce Vegeta ve Trunks, Süper Saiyanlar olarak gelir. Biraz alay ettikten sonra Vegeta, Süper Saiyan'ın ötesinde bir form üreten bir dönüşümü başlatır; bu, artan kas boyutu ve yoğun altın rengi aurayla kanıtlanır. Yükselmiş bir Süper Saiyan olarak Vegeta, Cell'in işini kolaylaştırırken Trunks kenardan izliyor. Bu arada Goku ve Gohan, Hiperbolik Zaman Odası'nda eğitimlerine başlarlar ve burada Goku, Gohan'ı yalnızca Süper Saiyan yapmakla kalmayıp, Gohan'ı kendisinden bile daha güçlü yapacağını belirtir.",
+                "air_date": "2010-10-17",
+                "still_path": "/wSlsgqDl9A14KMiPFxYVigHbS5a.jpg",
+                "video_url": "4760325"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 20,
+        "air_date": "2010-10-24",
+        "poster_path": "/cQWHSKlZjQgXbRwtm7x1o6esW7v.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yenilginin Eşiğinde Hücre! Krillin, Android 18'i Yok Edin!",
+                "overview": "Goku, Gohan'ı Süper Saiyan olabilmesi için eğitmeye devam ediyor. Kuririn Yapay İnsanları buldu. Vegeta, Ruh ve Zaman Odası'ndan aldığı eğitimin sonuçlarıyla Cell'i zahmetsizce alt eder. Cell, mükemmel formuna ulaşamadığı için öfkelidir ve Vegeta'ya gücünü tam olarak test etmesi için bir teklifte bulunur.",
+                "air_date": "2010-10-24",
+                "still_path": "/2e9cSRbgodFPXhj5VaR9rYLl4ah.jpg",
+                "video_url": "4760328"
+            },
+            {
+                "episode_number": 2,
+                "name": "Savaş En Kötüye Dönüyor! Hücre Android 18'e Saldırıyor!",
+                "overview": "Cell, Vegeta'yı Android #18'i bulup emmesine izin vermeye ikna etmeyi başarır, ancak Trunks bunu engellemeye kararlıdır.",
+                "air_date": "2010-10-31",
+                "still_path": "/taNLJtLcuN7YSN7evkx4II97tOo.jpg",
+                "video_url": "4760331"
+            },
+            {
+                "episode_number": 3,
+                "name": "Tablolar Ters Döndü! Mükemmelliğin Gücüne Tanık Olun!",
+                "overview": "Cell mükemmel formuna kavuşunca Vegeta'nın bile ona karşı şansı yok.",
+                "air_date": "2010-11-07",
+                "still_path": "/eZJDNLpNh7AS2TiVZx2sFxUwS7L.jpg",
+                "video_url": "4760338"
+            },
+            {
+                "episode_number": 4,
+                "name": "Vegetas'ın Son Hamlesi! Yenilmez Hücreyi Yen!",
+                "overview": "Hâlâ savaşmaya istekli olan Vegeta, Cell'i alt etmek için son güçlendirilmiş formunda elinden gelenin en iyisini yapmaya çalışıyor. Ancak kötü adam kelimenin tam anlamıyla mükemmelliğin zirvesindeyken, ona karşı kimsenin şansı olabilir mi?",
+                "air_date": "2010-11-14",
+                "still_path": "/l86Czg4kT9sUa2XorhN03YJpFe6.jpg",
+                "video_url": "4760339"
+            },
+            {
+                "episode_number": 5,
+                "name": "En Güçlü Süper Saiyan! Sandıkların Gücü Serbest Bırakıldı!",
+                "overview": "Vegeta'nın hesaba katılmaması nedeniyle Trunks sonunda Cell'i kesin olarak bitirmek için kendi yeni dönüşümünü ortaya çıkarmayı uygun görür.",
+                "air_date": "2010-11-21",
+                "still_path": "/yrqnUphZcfVSFjg7P37ytvNH4QE.jpg",
+                "video_url": "4760341"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hücre Yayın Dalgalarını İstila Ediyor! The Cell Games'in Duyurusu",
+                "overview": "Düşmanlarının yeniden toparlanıp eğitim alması için onlara zaman tanımak isteyen Cell, bir televizyon yayınını yarıda keserek tüm dünyaya bir turnuva fikri olan Cell Oyunları'nı duyurur.",
+                "air_date": "2010-11-28",
+                "still_path": "/qXJv7GWJO5FNfLUiaLwDEpJH3r6.jpg",
+                "video_url": "4760352"
+            },
+            {
+                "episode_number": 7,
+                "name": "Eğitim Tamamlandı! Goku Rekabeti Büyütüyor!",
+                "overview": "Goku ve Gohan nihayet Ruh ve Zaman Odası'ndan çıkarlar. Ancak Cell'in mevcut gücünü hisseden Cell, mevcut haliyle onu yenip yenemeyeceğinden hala emin değil.",
+                "air_date": "2010-12-05",
+                "still_path": "/1qxCwQMRfJ5SQjG4HqxFh1Nrchi.jpg",
+                "video_url": "4760361"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ateşkes Bozuldu! Savunma Kuvvetleri Hücreye Karşı Saldırıyor!",
+                "overview": "Hücre Oyunu'na yalnızca birkaç gün kaldı ve Cell, Goku'ya o zamana kadar kimseyi öldürmeyeceğine dair sözünü tutuyor. Ancak ordunun meseleyi kendi eline almasıyla Cell de buna göre hareket etmek zorunda kalır.",
+                "air_date": "2010-12-12",
+                "still_path": "/uHH6BFzBbPErhAPPGPSRatnQOC1.jpg",
+                "video_url": "4760372"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yeni Bir Muhafız!; Dragon Ball'ların Dönüşü!",
+                "overview": "Kami ve Piccolo'nun bir araya gelmesiyle Dünya'nın ejderha topları artık yok. Bunu bilen Goku, yeni ejderha topları yaratacak birini aramak için Yeni Namek'e gider.",
+                "air_date": "2010-12-19",
+                "still_path": "/dPtuDCcZtuDRLlFT3K3mWRAZuQq.jpg",
+                "video_url": "4760385"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bay Şeytan Sahneye Çıkıyor! Hücre Oyunlarında Perde Kalkıyor",
+                "overview": "Hücre Oyunları nihayet başlıyor. Ancak Goku ve diğerleri savaş alanına vardıklarında, \"Hercule\" adında başka bir savaşçının mücadeleye katılmaya istekli olduğunu fark ederler.",
+                "air_date": "2010-12-26",
+                "still_path": "/2SqwtKoMryZ5SHNTk8NCazEehKh.jpg",
+                "video_url": "4760396"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hesaplaşma! Hücre Goku'ya Karşı!",
+                "overview": "Hercule ile Cell arasındaki aşağılayıcı maçın ardından, merakla beklenen savaş nihayet geldi: Goku, Cell'e karşı.",
+                "air_date": "2011-01-09",
+                "still_path": "/4WZnThiAagiFHoWJLcDbT7La6X9.jpg",
+                "video_url": "4760408"
+            },
+            {
+                "episode_number": 12,
+                "name": "En Yüksek Seviyede Savaş! Goku Tamamen Dışarı Çıkıyor!",
+                "overview": "Goku, eğitiminin meyvelerini gösteriyor ve kendisiyle istekli tüm dövüşçüler arasında iyi bir turnuvadan başka bir şey istemeyen Cell ile savaşmak için elinden gelen her şeyi yapıyor.",
+                "air_date": "2011-01-16",
+                "still_path": "/qTwaFtIQhwrQpvSSXPAg9bd5QG8.jpg",
+                "video_url": "4760412"
+            },
+            {
+                "episode_number": 13,
+                "name": "Açılış Turu Sona Erdi! Gökkuş Karar Anı!",
+                "overview": "Goku ile Cell arasındaki maç sona ermek üzeredir ve Goku, maçı kendisine pahalıya mal olabilecek şaşırtıcı bir kararla bitirir.",
+                "air_date": "2011-01-23",
+                "still_path": "/oRTyLctLnFX7Eo1rHLwCnefTE5O.jpg",
+                "video_url": "4760418"
+            },
+            {
+                "episode_number": 14,
+                "name": "Sinirlen Gohan! Gizli Gücünüzü Serbest Bırakın!",
+                "overview": "Goku, tüm dünyanın kaderini isteksiz oğlu Gohan'a bırakarak, karşılaşmasını kaybetme kararı alır ve Cell de dahil olmak üzere herkesi güç bakımından geride bıraktığından emindir.",
+                "air_date": "2011-01-30",
+                "still_path": "/xMmarNV32zebrmr0w8vi2OzyAVw.jpg",
+                "video_url": "4760426"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bir Android İçin Gözyaşları! Gohan'ın İç Öfkesi Patlıyor!",
+                "overview": "Bay Şeytan'ın beklenmedik yardımıyla Yapay İnsan 16, Gohan'a kendisinden öncekilerin ulaşamadığı Süper Saiyan seviyesini aşması için gerekli gücü sağlayabilir.",
+                "air_date": "2011-02-06",
+                "still_path": "/t0NOETFCDVIHwrFp2HsgYCJXs.jpg",
+                "video_url": "4760430"
+            },
+            {
+                "episode_number": 16,
+                "name": "İçinizdeki Savaşçıyı Serbest Bırakın! Gohan Saldırıya Geçiyor!",
+                "overview": "Süper Saiyan'ın yeni bir biçimine ulaşıldığında, Gohan'ın Cell Juniors'ı yok etmek için hiçbir şeyi geride bırakmaması nedeniyle, karşı koyma konusundaki her türlü tereddüt ortadan kalktı.",
+                "air_date": "2011-02-13",
+                "still_path": "/aD9dWPXFNgiVzwn9zsryUklrbYs.jpg",
+                "video_url": "4760434"
+            },
+            {
+                "episode_number": 17,
+                "name": "Mükemmelliğin Sonu! Süper Saiyan'ın Ötesinde Bir Öfke!",
+                "overview": "Cell Juniors'ı öldürmekten kesinlikle çekinmeyen Gohan, Cell'in kendisine daha fazla acı çektirmek için bile olsa dövüşü mümkün olduğu kadar uzun süre sürdürmeye istekli olarak Cell'in kendisine geçti.",
+                "air_date": "2011-02-20",
+                "still_path": "/4LHNiTq2iDh5UgDWwagFtlVpQV3.jpg",
+                "video_url": "4760441"
+            },
+            {
+                "episode_number": 18,
+                "name": "Bir Kahramanın Kurbanı! Dünyayı Kurtarmak İçin Son Şans!",
+                "overview": "Cell, gezegenin geri kalanını yok etmek için kendini patlatmaya istekli olarak kırılma noktasına sürüklendi. Gohan, babası son kez yardıma gelene kadar ne yapması gerektiği konusunda kendisiyle anlaşmazlığa düşer.",
+                "air_date": "2011-03-06",
+                "still_path": "/1xSonHIAz1qhzXAqHoJ9W5yeXiz.jpg",
+                "video_url": "4760448"
+            },
+            {
+                "episode_number": 19,
+                "name": "Gücünüzü Birleştirin! Son Kame-hame-ha!",
+                "overview": "Gohan, yeni canlanan Cell'in önünde kendini çaresiz hissetmekten kendini alamaz. Ancak göklerden gelen bazı cesaret verici sözler Gohan'a son bir kamehameha ateşleme gücü verir.",
+                "air_date": "2011-03-20",
+                "still_path": "/4Z8Mo1lyZMXUWEcJXpWtVUYGOOu.jpg",
+                "video_url": "4760454"
+            },
+            {
+                "episode_number": 20,
+                "name": "Acı Tatlı Bir Zafer! Tekrar Buluşana Kadar!",
+                "overview": "Cell'in nihayet yenilgiye uğratılmasıyla, savaşçıların hepsi yollarını ayırarak hayatlarının bu bölümünü kapatırlar.",
+                "air_date": "2011-03-27",
+                "still_path": "/neJqFShRogEDWE327aZcilERWvw.jpg",
+                "video_url": "4760456"
+            }
+        ]
+    },
+    "season_5": {
+        "season_number": 5,
+        "name": "Sezon 5",
+        "episode_count": 35,
+        "air_date": "2014-04-06",
+        "poster_path": "/rF4OtmUMacOoKOaqxIl6tFgKWRW.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yedi Yıl Sonra! Bugünden Itibaren Gohan Bir Lise Öğrencisi",
+                "overview": "Cell ile yapılan savaşın üzerinden yedi yıl geçti. Gohan artık Şeytan Şehri'ndeki Orange Star Lisesi'ne giden bir lise öğrencisidir. Gohan'ın ayrıca Goku öldükten sonra doğan Goten adında küçük bir erkek kardeşi vardır. Lisenin ilk gününe giderken şehirde bir banka soygunuyla karşılaşır ve bunu Süper Saiyan formuyla durdurur. \"Altın Saçlı Savaşçı\" hakkında dedikodular yayılırken Gohan, yeni sınıf arkadaşı ve Bay Şeytan'ın kızı Videl'i tanır. Gohan, sınıf arkadaşlarının önünde şüpheli davranmamaya çalıştığı bir günün ardından Bulma ile sorunu hakkında konuşmak için Capsule Corporation'a gider.",
+                "air_date": "2014-04-06",
+                "still_path": "/7Q9CZsriJaUu9nHNwJ5mKAyEjQP.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 2,
+                "name": "Yeni Bir Kahraman Büyük Saiyaman Doğuyor!",
+                "overview": "Gohan, gerçek kimliğini gizlemesi için ona bir dönüşüm saati veren Bulma'ya yaklaşır. Gohan, eve giderken dikkatsizce araba kullanan iki kişiyle karşılaşır. Burası \"Büyük Saiyaman\" takma adını bulduğu ve insanları yolda daha güvenli araç kullanmaları konusunda korkuttuğu yerdir. Gohan o gecenin ilerleyen saatlerinde eve döner ve burada Chi-Chi ve Gohan'ın küçük kardeşi Goten, Gohan'ın artık suçla savaşırken kimliğini gizleyecek bir kostümü olduğunu keşfeder. Ertesi gün Videl, bir otobüsün kaçırılmasını durdurmak için çağrılır ve suçlularla ilgilenir, ancak aracı kimse kullanmadığı için otobüs uçurumdan düşer. Gohan bir kez daha \"Büyük Saiyaman\" takma adını kullanır ve Videl ile yolcuları kurtarmak için devreye girer.",
+                "air_date": "2014-04-13",
+                "still_path": "/eTUJpVRmjwAbnQMGM41e5iA3usv.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 3,
+                "name": "Öğretmen Gohan! Videl'in Uçuş Tekniği Eğitimi",
+                "overview": "Kısa süre sonra Gohan, düşmek üzere olan uçağın yolcularını kurtarır ve şehirdeki bir binada çıkan yangını su konteynerini imha ederek söndürür. Okula giderken Gohan, Büyük Saiyaman'ın maskesi altında kimin saklandığını bulmaya çalışan helikopterindeki Videl tarafından kovalanır. Gohan, Videl'in helikopterini bir binanın çatısına yerleştirerek kaçar. İkisinin de okula geç gelmesi Videl'in Gohan'dan daha da şüphelenmesine neden olur. Daha sonra Red Shark çetesinden kaçıranlar, Şeytan Şehri belediye başkanını rehin alır. Polis, Videl'i durum konusunda uyarır, o da çetenin lideriyle yüzleşerek karşılık verir. Bu arada, Büyük Saiyaman rolünde Videl'e yardım etmeyi tercih ettiği için sınıfa karşı sabırsızlanan Gohan, agresif bir şekilde ayağına vurmaya başlar ve bir depremi tetikler. Karışıklık sırasında sınıftan kayarak Büyük Saiyaman olarak suç mahalline gelir.",
+                "air_date": "2014-04-20",
+                "still_path": "/qX8wvZOGoeIQIeJ1uVC82VHoyl8.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 4,
+                "name": "Dragon Takımı Tamamen Toplandı! Goku Geri Döndü!",
+                "overview": "On günlük eğitimin ardından Videl uçuşta ustalaşmayı başarır. Bu nihayet Gohan ve Goten'e turnuva için eğitimlerine devam etme fırsatı verir. Turnuva gününde Gohan, Vegeta, Goten ve Trunks'a basının sıkıntısını önlemek için turnuva sırasında Süper Saiyan formlarını kullanmamalarını önerir. Turnuvanın yapılacağı adaya gelen Gohan ve diğerleri, Falcı Baba'nın Dünya'ya 24 saat ziyaret izni verdiği Goku tarafından karşılanır. Goku, Goten ile ilk kez tanışırken Piccolo, Gohan'ın kimliğini gizli tutmak için bölgedeki tüm kameraları yok eder. Katılan dövüşçüler turnuvaya kaydolduktan sonra Goten ve Trunks, gençler bölümüne katılmak zorunda kalır.",
+                "air_date": "2014-04-27",
+                "still_path": "/fvbjMHsVmDlAX4rx78ATQNstZqe.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 5,
+                "name": "Herkes Şaşırdı! Goten ve Trunks'ın Süper Savaşı!",
+                "overview": "Gohan ve Videl ön elemelerini yapmak için beklerken Goku, Vegeta ve diğerleri, Goten ve Trunks'un final turunda karşı karşıya gelene kadar her turda zahmetsizce ilerlediği küçükler bölümünü izlemeye giderler. Savaş daha da kızışıyor. Goten ve Trunks ileri tekniklerle seyirciyi şaşırtıyor. Goten ve Trunks arasındaki mücadele devam ediyor.",
+                "air_date": "2014-05-04",
+                "still_path": "/s3btTCDzcsSuULv7qt1ESUd29et.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 6,
+                "name": "Huzursuz Önsezi Gizemli Bir Savaşçı Ortaya Çıkıyor!",
+                "overview": "Bir ara sırasında Trunks ve Goten, katılımcılardan birini dışarı çıkarıp kıyafetlerini çalmaya karar verir. Yetişkinler bölümünde Trunks ve Goten yerini alıyor. Goku ve diğerleri yiyecek bir şeyler alırken, Piccolo'nun Dünya'dan olmadığını belirlediği Shin ve Kibito adında bir çift gizemli katılımcıyla karşılaşırlar. Elemeleri geçen on altı katılımcı ilk turun çizimlerine karar vermek için bir araya gelirken Gohan, Kibito ile eşleşir. Goku, Vegeta ile eşleşir.",
+                "air_date": "2014-05-11",
+                "still_path": "/5yBDKGCG6rpllCQGMY6gJJsuXdD.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 7,
+                "name": "Ne Oldu, Piccolo? İlk Turda Beklenmedik Bir Sonuç",
+                "overview": "Çizimler sona yaklaşırken Piccolo, Shin'le karşı karşıya gelir. Android 18, Bay Şeytan'a karşı çıkıyor. Krillin rakibine karşı ilk maçını kazandıktan sonra Piccolo ve Shin karşı karşıya gelir. Piccolo, Shin'den gelen ezici bir gücü hissettiğinde, maçı daha başlamadan kaybetmeye karar verir. Piccolo, Shin'in gücünün kendisininkinden çok daha üstün olduğunu düşünüyor. Videl, Spopovitch adında bir adamla karşılaşmaya hazırlanır.",
+                "air_date": "2014-05-18",
+                "still_path": "/2NEyrholaNtifN3G6GgjQqdgGBT.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 8,
+                "name": "Videl Hırpalandı: Gohan'ın Öfkesi Sınırına Ulaştı!",
+                "overview": "Spopovich neredeyse Videl'i öldüresiye döverken, Gohan öfkesini kaybeder ve sahaya hücum etmeye hazırlanır, ancak Spopovich'in ortağı Yamu, Spopovich'i Videl'i ringin dışına iterek savaşı bitirmeye ikna eder. Videl ağır yaralıyken Goku, Anında İletimini kullanarak Korin'den biraz Senzu fasulyesi getirir ve Gohan, onu tam sağlığına kavuşturmak için Videl'e verir. Patlama sırasında bandanasının patlamasıyla kimliği sınıf arkadaşlarına açıklanan Gohan, Gohan'ın Süper Saiyan dönüşümünü görmek isteyen Kibito ile karşı karşıya gelir. Piccolo, diğer Z-Fighter'lara Shin'in Yüce Kai olduğunu bildirdikten sonra Gohan'a dönüşmesini emreder. Gohan dönüştükten hemen sonra Spopovich ve Yamu ortaya çıkar ve onun Süper Saiyan enerjisini tüketerek onu zayıflatacak bir cihaz kullanır. Kibito, Gohan'la ilgilenmeyi teklif ederken Yüce Kai, Goku ve diğerlerinden suçluları takip etmek için kendisine katılmalarını ister.",
+                "air_date": "2014-05-25",
+                "still_path": "/gCZIaqSQrF66wvlx5hulfmR0ULG.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 9,
+                "name": "Majin'in Korkunç Sırrı. İşin Ustası Ortaya Çıktı!",
+                "overview": "Goku ve diğerleri Yüce Kai'ye katılmak için yola çıkarken Kibito, Gohan'ın enerjisini geri kazanmak için eşsiz yeteneğini kullanır ve ardından ikisi Videl ile birlikte diğerlerinin peşine düşer. Yol boyunca Yüce Kai ve Kibito, diğerlerine Babidi adlı kötü bir büyücünün, uzun zaman önce dört Yüce Kai'nin ölümünden sorumlu olan Majin Buu olarak bilinen kötü bir varlığı nasıl canlandırmaya çalıştığını anlatır. Bunu başarmak için Spopovich ve Yamu'yu turnuvaya katılmaya ve Buu'ya yerleştirilen mührü kırmak için gereken Süper Saiyan enerjisini çalmaya yönlendirdi. Uçuşunu daha fazla ilerletemeyen Videl, o zamanlar Cell'i yenenin Gohan olduğunu anlayınca ona güvenir ve turnuva sahasına geri döner. Bu arada Gohan ve Kibito, Goku'nun grubuna yetişir. Gömülü bir uzay gemisinin bulunduğu yere varan Z-Savaşçıları uzanıp Spopovich ve Yamu'nun Gohan'ın enerjisini Babidi ve ortağı Şeytan Kral Dabura'ya vermesini izliyorlar.",
+                "air_date": "2014-06-01",
+                "still_path": "/oNUGgWH0JQHo0q84HaXKG7WHN9L.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Hain Büyücü Babidi ve Şeytan Kral Dabura'nın Tuzağı",
+                "overview": "Yüce Kai ve Kibito, Goku ve diğerlerini kötü niyetli çift hakkında uyarır; Dabura yeraltı dünyasının en güçlü varlığıdır ve Babidi, onu sağ kolu olmaya ikna edecek kadar güçlü bir büyüye sahiptir. Onlardan enerji alan ve artık işe yaramadığını düşünen Babidi, sihriyle Spopovich'i öldürürken diğer uşağı Pui Pui'ye Yamu'yu öldürtür. Z-Fighters'ın varlığını tespit eden Babidi ve Pui Pui, geminin içine girerken Dabura gruba saldırır, hemen Kibito'yu öldürür ve Krillin ve Piccolo'ya tükürüğünü ateşleyerek onları taşa dönüştürür. Onları ancak Dabura'yı öldürerek taşlaştırabileceklerini öğrenen geri kalan savaşçılar, Yüce Kai'nin uyarılarına rağmen onun peşinden gemiye doğru kovalarlar. Birinci kata vardıklarında, Pui Pui ile karşılaşırlar ve Pui Pui, onlara alttaki Babidi'ye ulaşabilmeleri için birkaç katla yüzleşmeleri gerektiğini söyler.",
+                "air_date": "2014-06-08",
+                "still_path": "/z4CNZWJG3N5iZ006LDAFKUyYoXK.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Süper Saiyanları Kısa Satmayın! Vegeta ve Goku'nun Tam Kapsamlı Gücü!",
+                "overview": "Vegeta, dövüş becerisi açısından Pui Pui'yi kolayca geride bırakırken Babidi, Pui Pui'nin en iyi dövüş formunda olduğu yüksek yerçekimi gezegeni Zun'un sahnesine uyacak şekilde sahneyi değiştirir. Ancak rakibini saf dışı bırakan ve bir sonraki katın yolunu açan Vegeta için bu durum hiçbir şeyi değiştirmez. Saiyanların hafife alınmaması gerektiğine inanan Babidi, bir sonraki savaşçısı Yakon'u gönderir ve sahneyi Ankoku Gezegeni'nin sahnesine değiştirir, ancak zifiri karanlığın yardımıyla bile Yakon, Goku'nun keskin duyularına rakip olamaz. Ancak Goku, Süper Saiyan'a dönüştüğünde Yakon, ışık tüketme yeteneğini kullanır ve Goku'nun enerjisini emerek onu normal durumuna döndürür. Goku, savaşmanın alternatif bir yolunu bulmak yerine, aşırı yüklenmeden patlayıp Goku ve diğerlerinin bir sonraki aşamaya geçmesine izin verene kadar ona daha fazla Saiyan enerjisi besler.",
+                "air_date": "2014-06-15",
+                "still_path": "/cwwyLB4TqoHlDikHd9gINpm29cg.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Zafer Nereye? Bir Battle Royal Şampiyonluk Maçı!",
+                "overview": "Babidi, Saiyanların gücünden korkarken Dabura, savaştan önce gücünü artırmak için bir meditasyon odasına girerek onlarla bizzat yüzleşmeye karar verir. Bu arada, turnuvaya geri döndüğümüzde Goten ve Trunks, Mighty Mask kılıklarına biraz içki almak için ara verirler ve kimliklerinin açığa çıkmasını zar zor önlerler. Goku ve diğer üyeler hâlâ kayıpken Bay Şeytan, kalan yarışmacılar arasında bir battle royale düzenlenmesini önerir; #18, \"Mighty Mask\", Killa, Jewel ve kendisi. Maç başladığında Killa ve Jewel, 18 numara ve Bay Şeytan'ı görmezden gelip birbirlerinin peşine düşen Trunks/Goten kombosu tarafından hızla gönderilir.",
+                "air_date": "2014-06-22",
+                "still_path": "/iCczJrEUVOeYyeRFubfpzpmYRqY.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 13,
+                "name": "Çarpıcı Gençler! 18 Numaranın Yokuş Yukarı Savaşı",
+                "overview": "# 18 ile \"Mighty Mask\" arasındaki savaş kızışmaya devam ederken, # 18, rakibinin öngörülemeyen hareketlerine ayak uydurmaya çabalıyor, ancak ikiliye kritik bir darbe indirerek onları sahnenin ortasına düşürmeyi başarıyor. Goten ve Trunks, Goten zirvedeyken yer değiştirmeye karar verir ve 18 numarayı onlara karşı enerji patlamaları kullanmaya başlayacağı noktaya kadar iter, ancak o, kızının desteğiyle karşılık vermeyi başarır. İkili, Süper Saiyan'a gitmeye ve 18 numarada güçlü bir patlama başlatmaya karar verir, ancak o bundan kaçmayı başarır ve gerçek kimliklerini ortaya çıkarır, bu da çiftin diskalifiye edilmesine ve geriye kalan tek savaşçı olarak 18 numara ve Bay Şeytan'ın kalmasına neden olur. Goten ve Trunks, dönüşte Videl'le karşılaşırken Dabura, Gohan'la yüzleşmeye hazır olarak meditasyon odasından çıkar.",
+                "air_date": "2014-06-29",
+                "still_path": "/d4qxpGUoISIvUOBpUWJ6OsUTyJ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 14,
+                "name": "Başrol Oyuncusuna Girin! Yaklaşan Şeytan Kral!",
+                "overview": "Dövüş becerisinden tamamen yoksun olduğunu fark eden 18 numara, Bay Şeytan'la iki katı para karşılığında maçı kazanmasına ve onurunu korumasına izin veren bir anlaşma yapar. Bu sırada Videl'den mevcut durumu duyan Goten ve Trunks ilgilenir ve aksiyona doğru yola çıkar. Uzay gemisine döndüğünde Dabura, Gohan'ın karşısına çıkar ve Dünya ortamına benzer bir arena seçerek ona bir engel oluşturmaya karar verir. Mücadele devam ederken hem Gohan hem de Dabura birbirlerine karşı tüm güçlerini ortaya çıkarır. Gohan, Dabura'nın güçlü saldırılarından bazılarına maruz kalmasına rağmen ona karşı kaybetmeyi reddeder.",
+                "air_date": "2014-07-06",
+                "still_path": "/68boL2BM0HiYG1geX6Mf37oShUc.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 15,
+                "name": "Kötülüğün Kalbi Uyandı; Vegeta, Yıkımın Prensi",
+                "overview": "Gohan ve Dabura arasındaki savaş devam ederken Vegeta'nın Goku ile sorunları çözme konusundaki sabırsızlığı, kavgayı bırakıp Babidi'ye rapor vermeye karar veren Dabura'nın dikkatini çeker. Vegeta'nın kalbinde hâlâ pek çok kötülüğün bulunduğunu öğrenen Babidi, sihrini kullanarak Vegeta'nın zihnini hedef alır ve onu kendi tarafına çeker. Daha da kötüsü, Babidi herkesi turnuva alanına götürür; burada hâlâ Goku'yu yenme arzusuna odaklanan Vegeta, masum seyirciler izlerken bile onunla yüzleşmeye hazırlanır.",
+                "air_date": "2014-07-13",
+                "still_path": "/9bClq0i2sEqtkypXXed6FTVKW8O.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 16,
+                "name": "Ben En Güçlüyüm! Goku ile Vegeta'nın Çatışması",
+                "overview": "Vegeta, Goku'ya saldırmaya başlar ve kalabalıktaki birkaç masum insanı hiç pişmanlık duymadan öldürür. Vegeta'nın sırf kin uğruna Babidi'nin büyüsüne bilerek düştüğünü fark eden Goku'nun, Yüce Kai'nin onu durdurma girişimine rağmen ona karşı savaşmaktan başka seçeneği kalmaz. Goku ayrıca Babidi'nin onları tek başlarına savaşabilecekleri başka bir yere göndermesini sağlar. Supreme Kai ve Gohan devam etmeye ve iki Saiyan'ı kavgalarında bırakmaya karar verirken Babidi, Vegeta'ya onları öldürmesi emrini vermeye çalışır, ancak gururu efendisinin taleplerine bile meydan okur.",
+                "air_date": "2014-07-20",
+                "still_path": "/hE2bg1CWzHhcGwdti8GlIxILJcj.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 17,
+                "name": "Diriliş İçin Geri Sayım, Babidi'nin Hırslarını Ezin!",
+                "overview": "Goku ve Vegeta'nın mücadelesi devam ederken, Goku her hasar aldığında Majin Buu için enerji toplarken Gohan ve Supreme Kai, Majin Buu'nun yumurtasına varır ve burada Babidi ve Dabura ile karşı karşıya kalırlar. Aralarındaki kavga başlamadan önce Goku ve Vegeta'nın savaşı sonucunda Majin Buu'nun yumurtası tam güce ulaşır.",
+                "air_date": "2014-08-03",
+                "still_path": "/pUzs219G1LroNjFZtWDUO6fMX4a.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 18,
+                "name": "Mühür Kırıldı Mı? Gohan'ın Son Hendeği Kame Hame Ha",
+                "overview": "Goku ve Vegeta'nın kavgası kızışmaya devam ediyor ve Vegeta, Goku'ya karşı yüzleşecek gücü kazanmak için Babidi'nin kontrolü altına girmeyi seçtiğini ve nazik yanından kurtulması gerektiğini hissettiğini ortaya koyuyor. Bu sırada Majin Buu'yu içeren mühür kırılmaya başladığında Gohan, yumurtaya birden fazla Kamehameha Dalgası atarak onun tam güce ulaşmasını engellemeye çalışır. Yumurta, görünüşte pembe dumandan başka bir şey çıkmadan parçalanır ve Yüce Kai'nin Majin Buu'nun yok edildiğini varsaymasına neden olur. Ancak Gohan, dumandan gelen güçlü bir enerjiyi hisseder ve bu enerji bir araya gelerek sadece bir çocuktan başka bir şey olmayan Majin Buu'yu oluşturur.",
+                "air_date": "2014-08-10",
+                "still_path": "/dReRAFHI4wzp7nniFirYUJuXQXn.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 19,
+                "name": "Umutsuzluğa Giden Düz Bir Çizgi!? Majin Buu Terörü",
+                "overview": "Herkes Buu'nun çocuksu davranışları karşısında şaşkına dönmüş görünüyor ve yeniden doğuşunun gerçekten başarısız olup olmadığını merak ediyor. Ancak Buu, Dabura'yı zahmetsizce yenerek çok geçmeden korkutucu gücünü gösterir, güç seviyesindeki artış diğer Saiyanların bile dikkatini çeker. Goku, Buu'yu durdurmak için Vegeta'yı dövüşü ertelemeye ikna etmeye çalışsa da Vegeta, gardını düşürdüğünde Goku'yu devirir, Goku'nun senzu fasulyesini alır ve Buu ile bizzat savaşmak için yola çıkar. Gohan ve Supreme Kai, Buu'dan kaçmaya çalışır, ancak o, onlara kolayca yetişerek Yüce Kai'nin saldırılarına karşı bağışık olduğunu kanıtlar.",
+                "air_date": "2014-08-17",
+                "still_path": "/o68UiCzM8AoPnV11bbuXh3wId00.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 20,
+                "name": "Tatlılara Dönüşün! Aç Majin'in Tuhaf Gücü",
+                "overview": "Buu, Supreme Kai ve Gohan'ı tamamen alt eder ve Supreme Kai, Gohan'ın Buu'nun saldırısından sağ çıkmasını sağlamak için gücünün son kalanını kullanır. Buu, Supreme Kai'yi bitiremeden önce, kimseye itaat etmesinin sağlanamayacağına inanan Dabura tarafından saldırıya uğrar. Bu sırada, Goten ve Trunks yakınlara gelir ve istemeden taşlaşmış Piccolo'yu kırarlar. Dabura'nın saldırılarından etkilenmeyen Buu, Dabura'yı bir kurabiyeye dönüştürmek için benzersiz yeteneğini kullanır ve onu yer, Krillin ve Piccolo'nun taşlaşmasını geri alır, ikincisi, rejeneratif yetenekleri sayesinde kırılmaktan kurtulmuştur. Buu, Supreme Kai'ye aynısını yapamadan önce, Vegeta sahneye çıkar.",
+                "air_date": "2014-08-24",
+                "still_path": "/xsscXLVYptX7jEBaVsz2fzmU3aJ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 21,
+                "name": "Vegeta'nın Son Umutsuz Savaşı Majin'le Ben Ilgileneceğim!",
+                "overview": "Hayatını riske atmaya hazır olan Vegeta, Buu'ya saldırmaya başlar ve onun içinde bir delik açmayı başarır. Ancak Buu kendini yenilemeyi başarır ve öfkesini artırarak dev bir patlama yaratır ve Vegeta'ya büyük miktarda hasar verir.",
+                "air_date": "2014-09-07",
+                "still_path": "/ouyAIvjta48tAJd0MjuxHWWJKmR.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 22,
+                "name": "Sevdikleri İçin... Gururlu Savaşçının Son Anı!",
+                "overview": "Vegeta, Buu tarafından tuzağa düşürüldüğünde, Trunks ve Goten daha fazla dayanamaz ve onu kurtarmak için olay yerine koşarken Piccolo savunmasız Babidi'ye saldırıp onu parçalara ayırır. Buu'yu geleneksel yöntemlerle yenemeyeceğini hisseden Vegeta, her iki çocuğu da bayıltmadan önce Trunks'a veda eder ve Piccolo'ya onları uzaklara götürmesi talimatını verir. Herkes olay yerinden temizlendikten sonra Vegeta, Buu'yu yok etmek için Süper Saiyan formunu aşırı yükleyerek ve kendi kendini yok eden devasa bir patlamada kendini feda ederek son çareyi kullanır.",
+                "air_date": "2014-09-07",
+                "still_path": "/sc5qKSaSjjvEDCvpE5Wi8macbZZ.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 23,
+                "name": "Kabus Geri Dönüyor, Ölümsüz Canavar, Majin Buu!",
+                "overview": "Bulma ve stadyumdaki diğerleri, Goten ve Trunks'un peşinde Videl'in talimatlarını takip ederken, Vegeta'nın saldırısının şok dalgasıyla vurulurlar ve neredeyse çarparlar, ancak 18 numara tarafından kurtarılırlar. Piccolo, Goten ve Trunks'ı Krillin'le bırakır ve ona, Vegeta'nın kurbanlık saldırı alanını araştırmadan önce diğerlerine Vegeta ve muhtemelen Gohan'ın öldürüldüğünü bildirmesini söyler ve patlamadan kıl payı kurtulan Babidi ile birlikte Buu'nun çeşitli yanmış parçalarını bulur. Ancak Piccolo, Buu'nun parçalarının aniden canlanıp yeniden bir araya gelerek Buu'yu normal formuna döndürmesine tanık olunca şok olur. Buu gücünü gezegene acı çektirmeye yemin eden Babidi'yi iyileştirmek için kullanırken Piccolo, Goten ve Trunks'ı Kami'nin kulesine götürmeye karar verir. Başka bir yerde Goku kendine gelir ve durumu belirlemeye çalışır. Bu arada zayıflamış Yüce Kai, kaderi hâlâ bilinmeyen Gohan'ı arar.",
+                "air_date": "2014-09-14",
+                "still_path": "/a0qOrQBFFyXGbi1eouziP1byl9k.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 24,
+                "name": "Buu'yu Yenmek İçin Gizli Plan, Adı Füzyon!",
+                "overview": "Bulma'nın grubu, Vegeta'nın öldürdüğü tüm seyircileri canlandırmak için Dragon Balls'u aramaya gider ve sonuncuyu almaya çalışırken büyük bir ejderhayla karşılaşır. Bu arada Piccolo ve Krillin, Goten ve Trunks'ı Dende ve Bay Popo'nun gözetimine bırakırken, kısa süre sonra durumu öğrenen Goku da onlara katılır. Goku, Buu'yu yenecek kadar güçlü olmadığını belirtiyor ancak Fusion olarak bilinen, benzer şekilde inşa edilmiş iki dövüşçünün bir araya gelerek tek bir güçlü dövüşçü haline gelebildiği bir tekniği öğrendiğinden bahsediyor. Başlangıçta bunu Gohan veya Vegeta ile kendisi yapmayı planlamış olsa da Goku, Bay Popo'dan benzer boyutlarından dolayı bu tekniği Goten ve Trunks'a öğretebileceğini fark eder.",
+                "air_date": "2014-09-21",
+                "still_path": "/kBwiqdqXHqPQTVBeAbsN7Y4Oxbe.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 25,
+                "name": "Görünürde Sönük Bir Umut! Savaşçılar Uyanıyor!!",
+                "overview": "Bulma, Dragon Balls'u kullanarak, dileklerinden birini kullanarak o gün öldürülen herkesi geri getirmek için Shenron'u çağırır. Üç dileğin tamamını kullanmak, Dragon Balls'u tekrar kullanabilmeleri için bir yıl daha beklemek zorunda kalacakları anlamına geldiğinden Goku, Bulma'nın grubuna yönelir ve Shenron'u diğer iki dileği ertelemeye ikna ederek bu süreyi dört aya kısaltır. Dilek ile canlanan Kibito, Yüce Kai'yi bulup yaralarını iyileştirmeyi başarır ve birlikte Gohan'ı bulup onu Kais dünyasına getirmeye karar verirler. Bu sırada Goku, Bulma ve diğerlerini Kami'nin Sarayı'na yönlendirir ve Babidi mesajını dünyaya duyurmadan önce onlara Gohan ve Vegeta ile ilgili korkunç durum hakkında bilgi verir.",
+                "air_date": "2014-09-28",
+                "still_path": "/54dML8ycymFARVGnQp70BGhRScf.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 26,
+                "name": "Sıkıntıları Bulun, Babidi'nin İntikam Planı Başlıyor!!",
+                "overview": "Babidi, Piccolo, Goten ve Trunks beş gün içinde kendilerine getirilmezse Buu'nun gezegeni yok edeceğini duyurur. Piccolo neredeyse yola koyulur ancak Goku onu kalmaya ikna eder ve ölen herkesi Dragon Balls ile geri getirebileceklerini söyler. Bu sırada Gohan, Supreme Kai ve Kibito, Supreme Kai'nin Gohan'ın Buu'yu yenmek için efsanevi Z-Sword'da ustalaşmasını istediğini söylediği Kais dünyasına varırlar. Sarayda, Goten ve Trunks uyanır ve Goku tarafından Füzyon konusunda hızlandırılmış bir kursa tabi tutulurlar.",
+                "air_date": "2014-10-05",
+                "still_path": "/iW29OTWUNxmTsr6lznhgju88rv7.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 27,
+                "name": "Çile Zamanı, Efsanevi Güce Sahip Olun!",
+                "overview": "Gohan, Süper Saiyan gücünü kullanarak Z-Kılıcı'nı bulunduğu yerden çekmeyi başarır ve onun inanılmaz derecede ağır olduğunu fark eder. Bu arada Babidi, Buu'nun başka bir şehri yerle bir ettiği bir yayın daha yapar ve Trunks ile Goten'in onunla iletişime geçmesini sağlar ve ona yakında onları yenecek kadar güçleneceklerini bildirir. İkili kısa süre sonra Füzyon eğitimine başlar ve Süper Saiyan enerjilerini birbirleriyle nasıl eşleştireceklerini öğrenir. Bu arada Babidi, Trunks'ın nerede yaşadığını öğrenir ve Metro West'teki Capsule Corporation'a saldırma planlarını duyurur.",
+                "air_date": "2014-10-12",
+                "still_path": "/xjO1mY4FryxvSYNGbsD4YcRv0Ts.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 28,
+                "name": "Gecikme Majin Buu, Sınır! Süper Saiyan 3!!",
+                "overview": "Dragon Radarı yok edilirse Dragon Ball'ları bulamayacaklarını anlayan Goku, Buu ve Babidi'yi geciktirmek için yola çıkarken Trunks'a Dragon Radarını Capsule Corporation'dan almak için West City'ye gitmesini emreder. Goku, Trunks'a biraz zaman kazandırmak için büyük miktarda enerji biriktirir ve bu enerji aynı zamanda Dünya'da kalan zamanının bir kısmını kullanarak nihai formuna, Super Saiyan 3'e dönüşür ve muazzam gücü Dünya'da bile hissedilir. Kais.",
+                "air_date": "2014-10-19",
+                "still_path": "/fyXXI3BAOHWV8BSyyylG6zwuFBv.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 29,
+                "name": "Kendisi İçin Ayakta Olan Buu'nun İsyanı!",
+                "overview": "Goku, diğer insanların tekniklerini kopyalama yeteneği gösteren Buu'ya karşı savaşına başlarken Trunks, Capsule Corporation'a gelir ancak Dragon Radar'ın nerede olduğunu bulmakta zorlanır. Bulma çok geçmeden Dragon Radar'ı uçağında bıraktığını fark eder ve bu konuda Trunks'u bilgilendirmeyi başarır. Sensing Trunks görevini tamamladı, Goku bir kez daha Super Saiyan 3 dönüşümünü geri alıyor ve Buu'ya Trunks ile Goten'in iki gün içinde onunla savaşmaya hazır olacağını bildirdikten sonra veda ediyor. Goku ayrıldıktan kısa bir süre sonra Buu, Babidi'ye artık ihtiyacı olmadığına karar vererek ona karşı döner ve onu öldürür.",
+                "air_date": "2014-10-26",
+                "still_path": "/ahIRlbxlFko8sqGQ1CkqIEbFOZe.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 30,
+                "name": "Berbat Görünüm!? Özel Eğitim, Füzyon Pozu!",
+                "overview": "Babidi'nin kendisine emir vermesine gerek kalmadan Buu, rakiplerini beklerken şehirleri özgürce yok etmeye devam ediyor. Super Saiyan 3'te harcanan enerji nedeniyle Dünya'da otuz dakikadan az kalan Goku, Goten ve Trunks'a Füzyon tekniğinin anahtarını, biraz utanç verici görünen Füzyon Dansını öğretmek için hiç vakit kaybetmiyor.",
+                "air_date": "2014-11-02",
+                "still_path": "/qJMEiF28GNpDQ5a37c1czdQVOPv.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 31,
+                "name": "Herkese Güle Güle!! Son Goku Öteki Dünyaya Dönüyor",
+                "overview": "Buu, kendisine kısa bir dinlenme için bir ev inşa etmek amacıyla başka bir köyü yerle bir ediyor ve vatandaşlarını kile dönüştürüyor. Bu sırada eğitimlerinden biraz sıkılan Goten ve Trunks, Goku'dan onlara Süper Saiyan 3 dönüşümünü göstermesini ister. Ancak bunu yaptıktan sonra Goku, Dünya'daki zamanının geri kalanını kullanır. Herkese veda ettikten sonra Goku öbür dünyaya geri döner ve Füzyon eğitimini Piccolo'nun ellerine bırakır. Yemma ile buluşan Goku, Gohan'ın ölmediğini duyunca rahatlar ve onun enerji izini takip etmeye karar verir.",
+                "air_date": "2014-11-09",
+                "still_path": "/sBkKYfQulBbU4aYUglA0nCXNR0X.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 32,
+                "name": "Seni Buldum Gohan! Kais Diyarında Sert Eğitim!",
+                "overview": "Goku, Gohan'ın Z-Kılıcı ile eğitim aldığı Kais Diyarı'na gelir ve eğitiminde ona yardım etmeye karar verir. Bu sırada Dünya nüfusunun üçte ikisini öldüren Buu, kör bir genç çocuğa rastlar ve görme yeteneğini iyileştirir, korkmak yerine ona teşekkür ettiğinde şaşırır. Gohan'ın Z-Kılıcı konusunda daha yetkin hale gelmesiyle Goku, kılıcın keskinliğini ona metal bir küp fırlatarak test eder, ancak bunun yerine istemeden kılıcı ikiye böler. Ancak kırılan kılıçtan on beş nesil önceki Yüce Kai, Eski Kai ortaya çıkar.",
+                "air_date": "2014-11-16",
+                "still_path": "/xFhRLUcX3ZSMxoKeYqJgbbYABmP.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 33,
+                "name": "Doğum! Kombine Süper Savaşçı, Adı Gotenks!!",
+                "overview": "Goku'nun bazı şüpheli ikna çabalarının ardından Yaşlı Kai, birisinin gerçek gücünü sınırlarının ötesine çekme yeteneğine sahip olduğunu ortaya çıkarır, ancak bunun tamamlanması bir günden fazla sürebilecek uzun bir süreç olduğu ortaya çıkar. Bu arada Goten ve Trunks, Fusion Pose'u gerçekten dener, ancak Fusion Pose'daki bir hata, birleştirilmiş dövüşçü Gotenks'in başarısız bir dönüşümle sonuçlanmasına neden olur. Başka bir başarısızlığın ardından ikili, sonunda başarılı bir füzyon gerçekleştirir ve mevcut güç seviyesiyle Buu'yu yenebileceğinden emin olan ve Piccolo'nun uyarılarına rağmen Buu'yu aramaya çıkan gerçek Gotenk'lere dönüşür.",
+                "air_date": "2014-11-23",
+                "still_path": "/axBrvjHCkZmWrq5x9KwTh7fAnd1.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 34,
+                "name": "Majin'i Yenecek Kim Olacak? En Güçlü Adamın Başlangıcı!!",
+                "overview": "Gotenks, Buu'ya karşı savaşmak için gelir, ancak büyük bir güç göstermesine rağmen, onun gücünden bunalır ve silahlı kuvvetlere topyekün bir saldırı başlattıktan sonra ondan zar zor kaçmayı başarır. Bu sırada Bay Şeytan, hediye kılığına girmiş tuzaklarıyla eğlenen Buu ile isteksizce yüzleşir ve onu hizmetçisi yapmaya karar verir.",
+                "air_date": "2014-11-30",
+                "still_path": "/lzejZn2XeiOlf0IDLcXoSrWgrnH.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 35,
+                "name": "Güçlendirme Devam Ediyor!? Mükemmel! Süper Gotenkler!",
+                "overview": "Töreni tamamladıktan sonra Yaşlı Kai, Gohan'a güçlendirmeyi tamamlamak için önümüzdeki 20 saat boyunca hareketsiz oturması talimatını verir. Bu arada Goten ve Trunks, Süper Saiyan formundayken füzyonun nasıl gerçekleştirileceğini öğrenerek Süper Gotenks oldular. Gotenks'in kendini beğenmişliği neredeyse Buu ile tekrar yüzleşmesine neden olur, ancak Füzyon süresi dolduğunda geri çekilmeye başlar. Başka bir yerde Buu, yaralı bacağını iyileştirdikten sonra istemeden küçük bir köpekle arkadaş olurken, Bay Şeytan neredeyse Buu'yu insanları öldürmeyi bırakmaya ikna etmeyi başarır. Ancak Buu'yu kendisi için alt etmek isteyen bir avcı, amansızca köpeği vurur ve Buu'yu şok eder ve çileden çıkarır.",
+                "air_date": "2014-12-07",
+                "still_path": "/ahXh6oNQEsDcNFr3WUf0gEi2Z3G.jpg",
+                "video_url": ""
+            }
+        ]
+    },
+    "season_6": {
+        "season_number": 6,
+        "name": "Sezon 6",
+        "episode_count": 26,
+        "air_date": "2014-12-14",
+        "poster_path": "/scurPb4OG7YF75y8htinfN0jgBI.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Öfkeden Doğmuş - Başka Bir Majin!",
+                "overview": "Haydutlarla bizzat ilgilenerek Buu'nun öfkesini sakinleştirmeyi başaran Bay Şeytan, köpeğin zar zor hayatta olduğunu keşfeder ve Buu onu tam zamanında iyileştirmeyi başarır. Buu, Bay Şeytan ve köpek yakınlaşmaya başladıkça Bay Şeytan, Buu'nun masumiyetinden yararlanmayı bırakıp onun samimi arkadaşı olmaya karar verir. Ancak daha önceki haydutlar ortaya çıkıp Bay Şeytan'ı vurarak Buu'nun bir kez daha öfkeye kapılmasına neden olur. Bay Şeytan'ı iyileştirdikten sonra Buu, vücudundaki kötülük kaçıp Majin Buu'nun uzun, gri, zayıf bir versiyonuna dönüşürken ona ve köpeğe ondan uzaklaşmaları talimatını verir.",
+                "air_date": "2014-12-14",
+                "still_path": "/tsgoAu6l7u8m85GKIljxTodmjgu.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 2,
+                "name": "Buu Buu Yiyor - Yeni Bir Majin Saldırısı!!",
+                "overview": "Buu, Kötü Buu'ya karşı savaşmaya çalışır, ancak gücünün çoğu kötü tarafına aktarıldığı için çok daha zayıf olduğunu anlar. Böylelikle Evil Buu, Buu'nun şeker saldırısını kendisine yansıtmayı başarır, onu yemeden önce onu çikolataya dönüştürür ve gücünü kazanarak ona daha eksiksiz bir form kazandırır. Piccolo ve diğerlerinin enerjisini hisseden Evil Buu, Gotenks'e karşı savaşmak için Kami'nin Sarayına gelir. Piccolo, Evil Buu'ya tüm dünyalılar öldürülene kadar beklemesini söyleyerek zamanı oyalamaya çalışır ve Krillin'e, sahip oldukları az zamandan yararlanmak için Goten ve Trunks'ı Hiperbolik Zaman Odasına getirmesi talimatını verir.",
+                "air_date": "2014-12-21",
+                "still_path": "/luS4J1cjxSBleBZtG0HhBt6OQ2I.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 3,
+                "name": "Felakete Doğru Düz Ilerleyin! Bir Saatlik Zaman Sınırı!!",
+                "overview": "Piccolo'nun biraz zaman kazanma umutları, Evil Buu'nun Bay Şeytan, Tien ve Chiaotzu dışında dünyadaki her insanı hedef alıp öldüren güçlü bir hedef arama saldırısı başlatmasıyla suya düşer. Piccolo, Videl ile birlikte Evil Buu'yu Goten ve Trunks'un antrenman yapabilmesi için bir saat beklemeye ikna etmeyi başarır. Bu arada, Yaşlı Kai'nin güçlendirilmesini daha fazla beklemekten yorulan Gohan, gücünü gerçekten artırmayı başardığını keşfeder ve güçlendirmenin tamamlanmasını beklemeyi kabul eder. Evil Buu, sabırsız Chichi'yi öldürdüğünde daha da öfkelenen Goten, öfkesini zar zor tutar ve Hiperbolik Zaman Odası'ndaki Trunks'a katılır. Evil Buu'nun yalnızca otuz dakika sonra sabırsızlanmasıyla Piccolo, Goten ve Trunks başarısız olsa bile odanın girişini yok edip onu orada tuzağa düşürebileceklerine inanarak Evil Buu'yu yavaşça odaya götürerek mümkün olduğunca fazla zaman kazanmaya çalışır.",
+                "air_date": "2014-12-28",
+                "still_path": "/nOun699WiGzopjyp11zlnmGL9TI.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 4,
+                "name": "Özel Eğitim Tamamlandı! Artık Bitirdin Majin Buu!!",
+                "overview": "Piccolo, Evil Buu'yu Zaman odasına götürmeye devam ederken, Goten ve Trunks, kaybettikleri sevdiklerinin intikamını almak için sıkı bir eğitim alır. Buu'nun son derece mutsuz olması ve ara sıra öfke nöbetleri geçirmesi nedeniyle Buu'yu Kami'nin sarayına yönlendirdikten sonra Piccolo, Buu'yu Zaman odasına götürür ve Gotenks, bir ısınma turunun ve oyun oynamanın ardından Buu ile savaşır.",
+                "air_date": "2015-01-11",
+                "still_path": "/u7l4IKT4yomXiAhrTzQqFogHfwB.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 5,
+                "name": "Buu Hayaletlerle Ortadan Kaldırıldı! Kesin Bir Kamikaze Saldırısı!!",
+                "overview": "Süper Buu ve Gotenks dövüşmeye başlar ve Gotenks yeni özel hareketlerinden bazılarını kullanmaya karar verir. Sorun şu ki, bu hareketler gösterişli olsa da Buu'ya karşı etkisizdir, ayrıca \"Çığlık Atan Öfkeli Vombat\" gibi gülünç isimleri vardır. Bu hareketlerin hiçbir etkisi olmadığı anlaşıldıktan sonra Gotenks, Piccolo ile strateji konuşur. Daha sonra \"Galaktik Çörek\" adında bir enerji halkası yaratır ve Buu'yu tuzağa düşürmek için kullanır. Kısa bir mücadeleden sonra Buu yüzüğü kırmayı başarır. İkisi daha sonra biraz gerçek dövüşür. Gotenks, Süper Hayalet Kamikaze Saldırısı adı verilen özel hareketlerinden birini kullanmaya karar verir. Kendisinin bir hayaletini tükürür ve bunu Buu'ya karşı kullanmayı planlar. Gotenks, dokunulduğunda patlayıcı bir güçle patlayan on hayalet yaratır. Bir tanesi hariç hepsini Süper Buu'ya gönderir ve onu eski halinin deforme olmuş bir su birikintisine indirger. Gotenks sonuncusunu Buu'nun ağzından aşağı göndererek onu küçük parçalara ayırır. Gotenks ve Piccolo tüm parçaları yok eder, ancak parçalardan çıkan duman başlarının üzerinde toplanır ve Süper Buu'yu yeniden oluşturur. Durumun dramını artırmak için Gotenks fikirleri tükenmiş gibi davranır ve Buu kaynaşmış Saiyan'ı dövmeye başlar. Gotenks'in Buu'yu durduramayacağını düşünen Piccolo, dış dünyaya açılan kapıyı yok eder ve bu da üçünü sonsuza dek Oda'ya hapseder.",
+                "air_date": "2015-01-18",
+                "still_path": "/f870VlE7a1FMMR8JiTD0gR1C5AX.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 6,
+                "name": "Gotenks'in Rezerve Dönüşümü! Süper Gotenks 3!!",
+                "overview": "Sonsuza dek Hiperbolik Zaman Odası'nda mahsur kalma ihtimaliyle histerik bir şekilde üzülen, yok edecek hiçbir şeyi ve yiyecek bir şekeri olmayan Süper Buu çığlık atmaya başlar. Herkesin ve kendisinin de dahil olduğu herkesin şaşkınlığına rağmen çığlıkları o kadar güçlü olur ki odanın boyutları ile Dünya arasındaki bariyerde bir delik açar. Buu, içinden geçebilmek için şekil değiştirir ve delik kapanır, Piccolo ve Gotenks sıkışır. The Lookout'a geri döndüğümüzde, Buu daha fazla insanı yiyeceğe dönüştürme ihtimaliyle aç ve heyecanlıdır ve bu yüzden gözetleme noktasındaki herkesi çikolataya dönüştürür. Piccolo ve Gotenks, Buu'nun yaptığı gibi boyutlar arası bir delik yaratmak için yeterince yüksek sesle çığlık atmaya çalışırlar, ancak başarılı olamazlar. Gotenks kozunu oynamaya karar verir ve bir Süper Saiyan 3'e dönüşür. Bu durumda, kendisi ve Piccolo'nun içinden atlayabileceği bir delik yaratmak için gerekli güce sahiptir. Gözetleme noktasına döndüklerinde Buu, Gotenks'e tüm arkadaşlarını yediğini söyler ve öfkelenen Gotenks, Buu'ya bunu ödeyeceğine söz verir.",
+                "air_date": "2015-01-25",
+                "still_path": "/Avc8k4NlohypULqTnVBfvDmwyvc.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 7,
+                "name": "Yüksek Ruhlarda! Buu-buu Voleybol!",
+                "overview": "Gotenks ve Super Buu kavga etmeye başlar ve savaştan kaynaklanan ikincil hasar Gözcü'yü yok etmeye başlar. Buu, Gotenks'i The Lookout üzerinden yere seriyor. Gotenks yeryüzünde başka bir Süper Hayalet Kamikaze saldırısı dener, ancak bu bir kez daha başarısız olur. Buu, Gotenks'e güçlü bir darbe indirir ve bu darbe onu Gözcü'ye geri gönderir. Buu daha sonra kendini bir top haline getiriyor ve geriye kalan tek şey havada yüzen moloz kalana kadar The Lookout'ta defalarca kendine ateş etmeye başlıyor. Gotenks hâlâ topun içindeyken onu küçük bir kürenin içine hapsetmeyi başarıyor. O ve Piccolo daha sonra Buu ile biraz voleybol oynuyor ve Gotenks onu yere indiriyor. Tam Buu ölmüş gibi göründüğü sırada kraterden güçlü bir enerji patlaması gelir. Buu bir kez daha savaşmaya hazır olduğundan Gotenks'in ayrılmasına yalnızca birkaç dakikası kalır.",
+                "air_date": "2015-02-01",
+                "still_path": "/3YLeKN2hmaGve0pIAhQ3Xp2urWx.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 8,
+                "name": "Herkesi Beklettin! Yeniden Doğmuş Gohan Dünyaya Dönüyor!!",
+                "overview": "Gotenks ve Buu kavgalarına devam ediyor. Gotenks, Buu'yu yıpratmış gibi görünüyor ve artık mücadelede üstünlük onun elinde. Tam son hamlesiyle Buu'ya vurmak üzereyken Gotenks beklenmedik bir şekilde Süper Saiyan 3 formundan doğrudan normal durumuna döner. Güç onun dayanamayacağı kadar yüksekti. Buu, artık kendisine rakip olmayan Gotenks'i dövmeye başlar. Gohan nihayet eğitimini tamamladı ve dünyaya dönmeye hazır. Her ikisinin de son kez olacağına inandıkları için Goku'ya veda ettikten sonra Kibito onu geri alır ve Gohan ondan kıyafetlerini değiştirmesini ister. Artık Goku gibi kıyafetler giyiyor ve Gotenks ayrıldığı için tam zamanında varıyor.",
+                "air_date": "2015-02-08",
+                "still_path": "/iiMh7pNEuBAXvZyyTXhWcOHreFO.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 9,
+                "name": "Buu Şaşırdı! Nihai Gohan'ın Süper Gücü!!",
+                "overview": "Gohan olay yerine gelir ve herkes onun ne kadar güce sahip olduğunu görünce şok olur. Gohan onu ustalıkla dövüp ezdikten sonra Buu kendini iyileştiriyor ve yoğunluğu artırıyor ancak Gohan hâlâ üstünlük sağlıyor. Buu'yu kolayca ayırıyor. Tamamen rakipsiz olduğunu fark eden Buu, Gohan'ı da yanına almayı umarak kendi kendini yok etmeye karar verir. Gohan, Buu patlamadan önce kaçar ve diğerlerini de kendisiyle birlikte patlama alanının dışına çıkarır. Daha sonra Buu'dan hiçbir iz kalmaz ama Gohan onun hâlâ buralarda olduğunu bilir. Aniden Dende'nin enerji sinyalini algılarlar ve onu bulmaya giderler. Yolda Hercule Satan'ı ve köpeği Bee'yi alırlar. Dende, Buu boyutlararası delikten kaçarken Bay Popo'nun onu gözetleme yerinden attığını, çünkü Dende olmasaydı, tüm hasarı tersine çevirmek için kullanmayı düşündükleri dilekleri yerine getirecek Dragon Balls'un olmayacağını açıklıyor. Buu onların izini sürer, ancak Gohan'la rövanş maçı yapmak yerine Goten ve Trunks'a seslenir.",
+                "air_date": "2015-02-15",
+                "still_path": "/mNVtLENcc7iKaBpB488YIg9lKSB.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Buu'nun Hilesi - Gotenks Emildi Mi?!",
+                "overview": "Diğerlerinin bilmediği Buu gizlice sırtından iki parça ayırıyor ve iki pembe damla diğerlerinin arkasında sürünüyor. Goten ve Trunks birleşir birleşmez lekelerden biri Gotenks'i kaplar. Piccolo da pembe bir lekeyle kaplandı. Buu, kendisiyle birleşen, görünüşünü değiştiren ve ona Piccolo ve Gokenks'in tüm anılarına, yeteneklerine ve gücüne erişim sağlayan damlaların her birini kendisine geri çağırır. Yeni ve geliştirilmiş Süper Buu daha sonra Gohan'la savaşır ve Buu'nun avantaja sahip olduğu açıktır. Gohan, Buu'nun yeni hızına ve gücüne ayak uyduramaz. Buu, kendini kaptıran üç arkadaşının onun hakkında ne düşündüğünü söyleyerek Gohan'la alay eder.",
+                "air_date": "2015-03-01",
+                "still_path": "/7M4phdvLrA5XmcspAkz7NWuJOop.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Büyük Kaiōshin'in Parlak Fikri! Son Goku Yeniden Dirildi!!",
+                "overview": "Gohan yeni Super Buu'ya rakip olamaz. Buu artık her birini Gohan'da kullandığı Süper Hayalet Kamikaze Saldırısı ve Özel Işın Topu gibi yeni becerilere sahip. Bee koşarak geldiğinde Gohan'ı bitirmek üzeredir. Hercule, Bee'yi kurtarmaya çalışır, ancak ortalama bir insandan yalnızca birkaç kat daha güçlüdür; Buu ile karşılaştırıldığında hiçbir şey değildir. Gohan onları kurtardığında Buu her birini patlatmak üzeredir. Buu daha sonra Gotenks'in Galaktik Donut numarasını Gohan'a kullanır ve ona bir Kamehameha dalgası hedefler, ancak Gohan, kurtulmak ve zamanında yoldan çekilmek için yeterli gücü toplayabilir. Bu sırada Diğer Dünya'da Kral Yemma, Majin Buu'ya karşı mücadeleye yardım etmesi için Vegeta'yı dünyaya geri göndermeye karar verir. Kais dünyasında Yaşlı Kai, Dünya'ya dönüp Buu ile savaşabilmek için hayatını Goku'ya vermeye karar verir. Artık ölen Yaşlı Kai, Goku'ya küpelerini verir. Goku'ya, kendisi ve başka bir kişi birer tane giyerse birbirlerine kaynaşacaklarını açıklar.",
+                "air_date": "2015-03-15",
+                "still_path": "/qjirHryegrYyyiwYsiHxrz2QXvH.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Tek Seferlik Mucize… O Adamla Süper Kombinasyon Gerçekleşecek Mi?",
+                "overview": "Yaşlı Kai, Supreme Kai ve Kibito'ya küpeleriyle bir füzyon denemelerini söyler, ancak ancak ikisi bir araya geldikten sonra bunun kalıcı bir füzyon olduğunu ortaya çıkarır. Dende, Gohan'ın yaralarını iyileştirir, bu yüzden bunun tekrar olmasını önlemek için Buu dev bir enerji topu yaratır ve onu Dende'ye hedef alır. Çarpmadan hemen önce, son derece geride olmasına rağmen yardım etmeye karar veren Tien'in Üçlü Işın saldırısıyla saptırılır. Buu tekrar dener, ancak Goku aniden ortaya çıkar ve canavara bir enerji diski gönderir. Bacaklarını ve kafasının bir kısmını kesiyor. Bacakları Tien'e ezici bir tekme atıyor ve bu onu tamamen etkisiz hale getiriyor ve ardından Buu'ya dönüyorlar. Majin Buu'yu durdurmak için çaresiz kalan Goku, Gohan'a diğer küpeyi fırlatır, ancak hedefi şaşırır ve küpe molozların arasında kaybolur. Gohan küpeyi ararken Goku, Buu'yu oyalamak için Super Saiyan 3'e gider. Super Buu'nun içinde, Gotenks'in füzyonu aşınır, Trunks ve Goten olarak ikiye ayrılır ve Buu'nun gücünün üçte birinden fazlasını kaybetmesine ve görünümünün değişmesine neden olur. Ne olduğunu anlayan Goku, artık Gohan'la kaynaşmadan Majin Buu'yu yenebileceğini açıklar ve savaşmaya hazırlanır. Muazzam bir güç artışına ihtiyacı olduğunu bilen Buu, tıpkı Piccolo ve Gotenks gibi kafasının daha önce kesilen kısmının aniden Gohan'ı yutmasına neden olur. Gohan'ın bulunduğu damlayı yeniden emer ve artık Gotenks'in emilmesiyle olduğundan çok daha güçlüdür. Kontrolü tekrar eline alan Buu, Goku'yla oyuncaklaşır ve ona kaynaşacak birini bulmak için biraz zamanı olduğunu söyler. Dende ve Hercule ile birleşmeyi düşünüyor ancak ikisi de çekici olasılıklar değil. Aniden Vegeta'nın geri döndüğünü hisseder ve bulunduğu yere ışınlanmak için Anında İletimi kullanır. Buu'nun dikkati dağılırken Dende, Tien'i iyileştirir. Goku, Vegeta'yı bulduktan sonra Goku onu kaynaşmaya ikna etmeye çalışır, ancak Vegeta Goku'ya kızar çünkü kavga ettikleri sırada Goku'nun Süper Saiyan 3 dönüşümünü engellediğini bilir. Vegeta işbirliği yapmayı reddedince Buu'yu birey olarak ele almak zorunda kalıyorlar, ancak açıkça geride kalıyorlar. Goku, Vegeta'ya Buu'nun Trunks'ı ele geçirdiğini ve Bulma'yı öldürdüğünü söyler ve ondan halklarını kurtarmak için farklılıklarını bir kenara bırakmasını ister. Vegeta nihayet kabul eder ve Goku ancak küpeyi taktığında füzyonun kalıcı olduğundan bahseder. Hayatta kalan son iki Saiyan birleşir ve yeni bir varlık yaratılır.",
+                "air_date": "2015-03-22",
+                "still_path": "/kMegRjejd67MKEZNY3r5KpdMwte.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 13,
+                "name": "Yenilmez! Nihai Savaşçı Vegito!",
+                "overview": "Yeni varlık kendisine Vegito adını verir ve Buu ile savaşmaya başlar. Yeni Super Buu'dan bile çok daha üstün olduğu açıkça görülüyor. Diğer Dünya'da Bulma, Videl, Chi Chi ve Dabura, çoğunlukla öldüğüne inandıkları Gohan'ı arıyor. Dabura Check-in İstasyonuna vardığında, gardiyanların saldırgan davranışlarını bastırma girişimlerine direndi ve Dabura'nın cehenneme gönderilmekten hoşlanacağını bilen Kral Yemma onu iyiye çevirdi. Tam Buu'nun dünyayı yok etmeye karar verdiği sırada Dende ve Hercule dünyaya geri döndüklerinde savaş sahnesine gelirler. Muazzam bir enerji topu yaratır ve onu dünyaya doğru fırlatır. Vegito onu kolayca yakalar ve uzaya geri fırlatır. Buu henüz tam gücüyle savaşmadığını iddia ediyor. Vegito da aynısını söylüyor ve Süper Saiyan'a güç veriyor. Artık kendisine Super Vegito adını vererek Super Buu'yu alt etmeye devam ediyor. Buu avantaj elde etmek için kendi gücüyle kendini saklamaya çalışır, ancak Vegito onu dövmeye devam eder. Grand Kai'nin gezegeninde Krillin ve Yamcha, Kral Kai ile eğitim görüyor. Buu dünyaya döndüğünde çaresiz kalmaya başlıyor. Kendini sıvılaştırır ve Vegito'nun ağzını vurarak vücuduna girer ve onu kendisinin süper kaslı bir versiyonuna benzeyen bir şeye dönüştürür. Vegito'nun içindeyken Buu, vücudunun kontrolünü ele geçirir ve onu içeriden yok etmek için kullanacağını söyleyerek övünür, ancak Vegito enerjisini tüm Buu'yu tek bir noktaya izole etmek ve onu dövmek için kullanır. Buu hareket ediyor ama Vegito onu dövmeye devam ediyor. Buu, Vegito'nun vücudundan çıkmak zorunda kalır. Kendini nasıl kurtaracağını bilmediğini fark eden Süper Majin Buu çıldırmaya başlar ve çevresine saldığı muazzam miktardaki enerji, evrenin kendisini parçalamakla tehdit eder. Bunu fark eden Vegito onu durdurmaya çalışır ama Buu etrafına bir kalkan koyar. Uzun bir mücadelenin ardından Vegito kalkanı kırar ve Buu'yu durdurur.",
+                "air_date": "2015-03-29",
+                "still_path": "/fSb2WPWuNDy9VQpFeyZkuDdD2M2.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 14,
+                "name": "Buu'nun Kolundaki As! Savaşçılar Emilmiş!!",
+                "overview": "Vegito ve Buu savaşmaya devam ediyor ancak Vegito hâlâ rakibinden çok daha güçlü. Buu'yu defalarca domine ediyor, bu da Buu'yu daha da kızdırıyor. Vegito onunla sadece oynuyor. Buu bir plan yapar ve Vegito'yu çağırır. Vegito yaklaşır ve Buu onu şekere dönüştürür. Buu görünürdeki zaferini kutlarken Vegito şekeri beklenmedik bir şekilde Buu'ya saldırmaya başlar. Vegito'nun bir şekilde yeni, şeker vücudunun tam kontrolünü elinde tuttuğu, eskisi kadar güçlü olduğu ve hatta hala konuşabildiği ortaya çıktı! (Daha yüksek bir perdede de olsa). Şeker Vegito, Super Vegito kadar hızlıdır ve küçük boyutundan dolayı Buu'nun vurması imkansızdır. Bir parça şekerle oynandığı için çileden çıkan Buu, onu tekrar Vegito'ya dönüştürür ve o da onu dövmeye devam eder. Vegito kelimenin tam anlamıyla Buu'yu parçalamaya başlar. Buu'yu yok edene kadar ona kadar sayar ve bu geri sayım sırasında Buu, Vegito'nun yerde yırttığı bir parçasını fark eder. Bu kısım Vegito'nun arkasında yükselir ve Vegito 10'a ulaşmadan pembe damla tarafından yutulur. Buu bloğu ona geri çağırır ve onu emer.",
+                "air_date": "2015-04-05",
+                "still_path": "/h8gn2IJYaPVDeqNLfXIufmn68sc.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 15,
+                "name": "Gohan ve Şirketini Kurtarmak! Goku ve Vegeta'nın Sızma Görevi!",
+                "overview": "Buu, Vegito'yu özümsedikten sonra hiçbir özelliğini kazanmadığını fark eder. Bunun Vegito'yu henüz sindirememiş olmasından kaynaklandığını tahmin ediyor. Buu'nun içinde Vegito hala sağlam ve Buu'dan ayrı olarak varlığını sürdürüyor. Vegito'nun bunu planladığı, emilim sırasında bir bariyer oluşturduğu ve Buu'nun sihirli emilim süreci tarafından kendisinin küçülmesine izin verdiği, ancak varlığına dahil olmadığı ortaya çıktı. Vegito, bariyeri kaldırdıktan sonra beklenmedik bir şekilde tekrar Goku ve Vegeta'ya ayrılır. Bu beklenmedik olaydan yararlanan Vegeta, Goku ile kalıcı olarak kaynaşarak bağımsızlığından vazgeçmek istemeyerek füzyon küpesini kırar. Kendini kaptırmış arkadaşlarını serbest bıraktıklarında Buu'nun gücünün çoğunu kaybedeceğini ve onu yenmek için kaynaşmalarına gerek kalmayacağını belirtiyor. Goku ve Vegeta, Gohan, Goten, Trunks ve Piccolo'nun kozalarını kestiler ve bunu yaparken Super Buu normal formuna geri döndü. Dende ve Hercule, Buu'yu takip etmeye devam eder. Majin Buu'nun içinde Goku ve Vegeta da şişman Majin Buu'yu bulur. Ona ne olduğunu öğrenmek için düşüncelerini okudular. Aniden Süper Buu'nun kendisinin bir düşünce formu belirir. İkisi onu yenmek için güçlerini birleştirir, ancak bunu yaptıklarında bir başkası ortaya çıkar. Bunun kazanamayacakları bir savaş olduğunun farkındalar. Buu sonunda bıktığına karar verir ve Goku ile Vegeta'yı özümsemeye çalışır.",
+                "air_date": "2015-04-12",
+                "still_path": "/jWRhAVLjDcLIXqEZ12kyu2IdGf8.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 16,
+                "name": "Vücudun İçinden Acil Kaçış! Buu'nun Ters Dönüşümü En Kötüsü!!",
+                "overview": "Goku, Vegeta'yı yutulmaktan kurtarır. Vegeta iyileşirken Goku, Süper Buu'nun düşünce formuyla savaşmaya devam eder. Goku hızla enerji kaybediyor ve tam Süper Buu, Goku'yu yenmek üzereyken Vegeta, içinde şişman Majin Buu'nun bulunduğu kapsülü keser. Bu, Süper Buu'nun delirmesine neden olur, çünkü Majin Buu'nun emdiği yağ olmadan Süper Buu var olamaz. Super Buu'nun içi değişmeye başlayınca Goku ve Vegeta, ayrılmaları gerektiğini anlar ve Gohan, Goten, Piccolo ve Trunks'ın bulunduğu bölmeleri kapıp bir çıkış yolu bulmaya çalışırlar. Vücudundan geçerken, Buu'nun derisindeki buharın kaçtığı deliklerden birine giden tünellerden birini fark ederler. Buradan uçarak dışarı çıkabiliyorlar ve diğer tarafa çıktıklarında altısı da normal boyutlarına kavuşuyor. Goku ve Vegeta kapsülleri yere bırakırken Süper Buu'nun farklı bir varlığa dönüştüğünü gözlemlerler. Önce hantal bir forma dönüşüyor, sonra küçülerek kendisinin çocuksu bir versiyonuna dönüşüyor.",
+                "air_date": "2015-04-19",
+                "still_path": "/ySoJvFDEdEJzihtcQHm7bvtdWZm.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 17,
+                "name": "Dünya Kayboluyor!! Orijinal Buu'nun Tek Zalim Patlaması!!",
+                "overview": "Yüce Kai, Yaşlı Kai'ye bir zamanlar beş Yüce Kais'in olduğunu açıklar. O, her biri evrenin bir çeyreğine hükmeden dört kişiden biriydi ve beşincisi de onların lideriydi. Bu en son, çocuksu versiyonun (Kid Buu) orijinal, gerçek Majin Buu olduğunu ve aralarında açık ara en güçlüsü olduğunu söylüyor. Yüce Kuzey ve Batı Kai ona karşı can verdi. Supreme South Kai, orijinal Majin Buu'yu önceki bölümde kısaca görülen hantal forma dönüştürerek emildi. Lider Dai Kaio daha sonra bu formun içine çekildi, ancak bu emilim Buu'yu toptan çıkan şişman, mutlu Buu'ya dönüştürdü. Kais'in bu şekilde özümsenmesi Buu'yu zayıflattı ve onu daha az odaklanmış ve daha az yıkıcı hale getirdi. Kid Buu dünyaya geri döndüğünde güçlü bir enerji topu yaratır ve onu yok etmek amacıyla onu dünyaya fırlatır. Goku ve Vegeta onu saptırır. Misilleme olarak Kid Buu, öncekinden on kat daha güçlü bir top yaratır ve onu fırlatır. Şu anda bunu durdurmak için yeterli güce sahip olmadıklarını bilen Goku ve Vegeta, herkesi yakalayıp ışınlanmaya çalışır, ancak yalnızca Dende, Hercule ve Bee'yi yakalayabilirler. Dünya yok edilmek üzereyken Yüce Kai ortaya çıkar ve anında Goku, Vegeta, Dende, Hercule ve Bee'yi Kais dünyasına iletir.",
+                "air_date": "2015-04-26",
+                "still_path": "/iaB4RWrv9PuLUQq9c4WrIbzN016.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 18,
+                "name": "Nihai Kararlı Savaş! Kais Diyarında Bir Sonuç!!",
+                "overview": "Kid Buu patlamayla paramparça olur, ancak Dünya'nın yok edilmesinin ardından yeniden şekillenir ve galaksiyi kasıp kavurmaya başlar. Goku ve Vegeta'yı aramak için gezegenden gezegene gider ve onları bulamayınca her gezegeni yok eder. Grand Kai'nin gezegenine gider ve oradaki herkesle oynamaya başlar. Canı sıkıldığında Grand Kai'nin gezegenini yok etmeyi amaçlayan bir enerji topu yaratır. Supreme Kai, Goku ve Vegeta'ya füzyon küpelerini teklif eder, ancak ikisi de reddeder. Buu'nun onları nerede bulacağını bilmesi için güç seviyelerini yükseltiyorlar. Buu, Grand Kai'nin gezegenini yok etme girişiminden vazgeçer ve Kais'in dünyasına ışınlanır. Yüce Kai, Goku ve Vegeta'nın yolundan çekilmeleri için kendisini, Dende'yi ve Yaşlı Kai'yi, savaşı izlemelerine olanak tanıyan bir kristal küreyle birlikte uzak bir gezegene taşır. Ne yazık ki Hercule ve Bee'yi yanlarına almayı unuturlar. Goku ve Vegeta ilk kimin dövüşeceğine karar vermek için taş, kağıt, makas oynar ve Goku kazanır. Super Saiyan 2'ye güç verir ve Buu'yu dövmeye başlar. Goku onu parçalara ayırır ama o düzelir. Buu başka bir devasa enerji topu yaratır ve onu gezegene fırlatır. Goku onu saptırmayı başarır, ancak Buu topu gezegenin etrafına ve içine doğru yönlendirir. Güçlü şok dalgaları tüm gezegeni sarsıyor, şeklini bozuyor ve yüzeyi pürüzlü ve düzensiz bırakıyor. Goku, Super Saiyan 3'e güç vermeye karar verir.",
+                "air_date": "2015-05-03",
+                "still_path": "/oglD0yk59b6HxwAm22IF3dH2DPR.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 19,
+                "name": "Elinden Gelenin En İyisini Yap Kakarot! Sen 1 Numarasın!!",
+                "overview": "Goku ve Kid Buu dövüşmeye devam ediyor, her biri birbirinden güçlü darbeler alıyor. Kid Buu tekrar bir top haline geliyor ve Goku'ya sert bir şekilde vuruyor. Goku tüm enerjisini devasa bir Kamehameha'ya harcıyor, ancak Buu daha sonra kendini toparlıyor. Goku normal haline dönüyor ve yorgunluktan çöküyor. Sonra Vegeta araya giriyor, ancak Buu'nun rakibi olmadığını görüyor. Buu saatini temizliyor ve Vegeta'ya bitirici darbeyi indirmek üzereyken Goku onu yolundan itiyor. Sonra tekrar Süper Saiyan 3'e geçiyor ve öfkeli dövüşlerine devam ediyor. Vegeta, Goku ile girdiği tüm dövüşleri hatırlıyor. Sonunda Goku'nun daha iyi olduğunu kendi kendine itiraf ediyor.",
+                "air_date": "2015-05-10",
+                "still_path": "/d6UTk7BKb5BBoIIvOIDScEFCeX0.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 20,
+                "name": "Bir Dakikalık Savaş - Vegeta'nın Hayatı Riske Sokan Oyalama Taktikleri!",
+                "overview": "Goku, Buu ile savaşmaya devam ediyor ve görünüşe göre üstünlük onun elinde. Buu'ya çok fazla hasar verir, ancak dövüş devam ettikçe vuruşları neredeyse hiç etkisi kalmayana kadar giderek zayıflar. Vegeta'ya sıranın kendisine geldiğini söyler ancak Vegeta, Buu'ya rakip olamayacağına karar vererek reddeder. Goku'ya Buu'nun kendisi için fazla güçlü olduğunu ve Goku'nun onu yok etme şansının çok daha yüksek olduğunu söyler. Goku bu itiraf karşısında şok olur ve tedirgin olur ve Vegeta'ya, Vegeta'nın bir dönüş yapabilmesi için kasıtlı olarak kavganın uzamasına izin verdiğini ve artık bitkin olduğunu söyler. Vegeta bundan dehşete düşer çünkü artık Buu'yu durduramazlar. Goku, Vegeta'ya Buu'yu yok edecek kadar güç sağlamak için kesintisiz bir dakikaya ihtiyacı olduğunu söyleyerek başarısız bir şekilde Vegeta'ya güvence vermeye çalışır. Vegeta, Buu'ya karşı bir dakika bile hayatta kalabilmek için bir mucizeye ihtiyaç duyacağını anlamasına rağmen, Goku güçlenirken isteksizce devreye girer, ancak Goku ona zaten öldüğünde yok edilirse Vegeta'nın artık olmayacağını söyler. herhangi bir biçimde mevcuttur. Buu, Vegeta'yı yere seriyor ama ne zaman yere düşse Vegeta daha fazlasına hazır olarak ayağa kalkıyor. Buu kolunu uzatır, Vegeta'nın boynuna sarar ve eğlenmek için onu boğmaya başlar. Bir dakikadan fazla zaman geçmesine rağmen Goku hâlâ ihtiyaç duyduğu gücü üretemedi.",
+                "air_date": "2015-05-17",
+                "still_path": "/33eR1MhcSkbvUK4ZHgd9KMB898H.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 21,
+                "name": "Gizli Bir Plan Bir An İçinde Bir Araya Geliyor - Lütfen Bu İki Dileği Gerçekleştirin!",
+                "overview": "Fat Majin Buu, Vegeta'yı ölümden kurtarmak için dövüşe girer. Ancak, onu ciddi şekilde dövmeye başlayan Kid Buu'ya rakip olamaz. Hercule, Fat Buu'ya yardım etmeye çalışır, ancak etkisizdir. Vegeta aniden bir plan yapar. Dende ile iletişime geçerek ona Yeni Namek'e gitmesini ve Ejderha Toplarını toplamasını söyler. Yüce Kai ve Yaşlı Kai, Dende'yi oraya götürür ve Namekianlar yedi topla beklemektedir. Porunga çağrılır ve Vegeta, Dende'ye iki dileğini söyler: Dünyayı geri getir ve hasarsız haline getir ve Dünya Dövüş Sanatları Turnuvası sabahından beri ölen tüm kötü olmayan insanları geri getir. Bu dilekler yerine getirilir ve Vegeta bile hayata geri döner ve artık kötü olmadığını kanıtlar. Sonunda Buu'yu yok etme planının ana kısmını açıklar: Ruh Bombası.",
+                "air_date": "2015-05-24",
+                "still_path": "/aSPxzEhAigyGqIzuM3itX0dddBD.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 22,
+                "name": "Bana Enerji Ver! Büyük Bir Ruh Bombası Yapacağız!!",
+                "overview": "Z Savaşçıları ve arkadaşları da dahil olmak üzere dünya insanları hayata geri dönüyor. Goku, Ruh Bombasını yaratacak konuma gelir ve Vegeta, Kral Kai'nin yardımıyla tüm dünya nüfusuyla konuşur. Onlara neler olup bittiğini ve Buu'yu yenmek için ellerini kaldırıp enerjilerini sunmaları gerektiğini anlatır. Yalnızca Goku ve Vegeta'nın ailesi ve arkadaşları buna uyuyor. Hiç kimse gökten gelen gizemli sesi dinlemeye istekli değil. Vegeta defalarca dünyalılara yalvarır, ancak işe yaramaz. Bunlar devam ederken Şişman Buu, Kid Buu ile dövüşerek onlara zaman kazandırıyor ama işler pek iyi gitmiyor. Goku, Buu'yu yok etmeye yetecek kadar enerji toplamadı.",
+                "air_date": "2015-05-31",
+                "still_path": "/j8NFJNl6Ywdi84P9Cb9JXHgQ56w.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 23,
+                "name": "Dünyanın Kurtarıcısı Sensin! Herkesin Ruh Bombası Tamamlandı!!",
+                "overview": "Vegeta dünya halkına yalvarmaya devam ediyor ama kimse onu dinlemiyor. Şişman Buu sonunda tüm enerjisini kaybettiğinden Vegeta, Kid Buu ile savaşmak zorunda kalır. Ona rakip olamaz ve ciddi şekilde dövülür. Şimdi Goku dünyalılardan kollarını kaldırmalarını ve enerjilerinin bir kısmını bağışlamalarını istiyor ve onun sesini tanıyan ya da sesini beğenen küçük bir grup insan bunu yapıyor, ancak büyük çoğunluk ilgisiz kalıyor. Piccolo, Gohan, Goten ve Trunks insanları kollarını kaldırmaya ikna etmeyi umarak şehre dağıldılar. Hercule sonunda bıktı ve dünya insanlarıyla konuşuyor. \"Dünya Şampiyonu\"nun tanıdık sesini duyduklarında tüm dünya insanları kollarını kaldırıp enerjilerini sunarlar. Ruh Bombası nihayet hazır.",
+                "air_date": "2015-06-07",
+                "still_path": "/n4iwiPIJceRxHpd9DpzB2VCIq8s.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 24,
+                "name": "Son Goku Sonuçta En Güçlüsü!! Majin Buu Yok Edildi",
+                "overview": "Goku, Ruh Bombasını atmaya hazırdır, ancak Vegeta yoluna çıkar ve Vegeta'nın aksi yöndeki ricasına rağmen, Vegeta'yı Buu ile birlikte ortadan kaldırmayı reddeder. Aniden Şişman Buu ayağa kalkar ve Kid Buu'yu Hercule'ün Vegeta'yı güvenli bir yere çekmesine yetecek kadar yerde tutar. Kid Buu, Fat Buu'yu kenara iter ve Goku, Ruh Bombasını fırlatır. Kid Buu'ya çarpıyor ama o onu geri itmeye başlıyor. Goku, kalan tüm enerjisini Kid Buu'ya geri göndermek için kullanır, ancak o çok güçlüdür. Kısa bir paniğin ardından Vegeta aniden Porunga ile üçüncü bir dileklerinin olduğunu hatırlar. Dende'ye Goku'nun güç seviyesinin normal, sağlıklı seviyesine getirilmesini dilemesi talimatını verir. Dilek yerine getirilir ve bir Süper Saiyan'a dönüştükten sonra Goku, Ruh Bombasını Kid Buu'ya kolayca geri gönderebilir. Bunu yaparken sessizce Buu'nun daha iyi bir insan olmasını diliyor ve gelecekte bir gün onunla farklı bir insan olarak savaşmayı umuyor. Ruh Bombası tüm gücüyle vurur ve sonunda şeytani, çocuksu Majin Buu'yu kalıcı olarak yok eder. Milyarlarca yıllık yıkımın ardından nihayet adalet önüne çıkarıldı.",
+                "air_date": "2015-06-14",
+                "still_path": "/8LXAd7vplx3xI70CAjWBCw9SmZe.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 25,
+                "name": "Ve Böylece 10 Yıl Sonra... Uzun Zamandan Sonra İlk Dünya Dövüş Sanatları Turnuvası!",
+                "overview": "On yıl geçti ve çok şey değişti. Gohan bir bilgin oldu ve Trunks ile Goten ergenliklerinin sonlarında. Goku, Goten ile birlikte çalışırken, beş yıldır görmedikleri yeni kızları Bulla olan Bulma ve Vegeta ortaya çıkar. Goku, Goten ile Dünya Dövüş Sanatları Turnuvası'na katılacaklarını söyler, bunun üzerine Vegeta da Trunks ile birlikte aynı şeyi yapacaklarını söyler. Turnuva günü gelir ve eski dostlar buluşur. Herkes izlemek için gelmiştir. Artık Videl ile evli olan Gohan katılmamaya karar vermiştir, ancak kızı Pan dövüşecektir. Bu sefer gençler bölümü olmadığı için yetişkinlerle dövüşecektir. Hercule ve Buu da dövüşecektir. Ancak Goku, kendisini ve Vegeta'yı yenmekle tehdit edebilecek %100 insan olan birinin olduğunu söyler. Turnuva için seri başı çekilişi başlar ve Goku, Majin Buu'dan sihrini kullanarak turnuvayı düzenlemesini ve bahsettiği güçlü gizemli dövüşçüyle karşılaşmasını ister. İlk maçta Pan, Vahşi Kaplan ile karşılaşır ve dört yaşındaki çocuk onu kolayca alt eder. Sırada Goku, Uub adında on yaşında bir çocuğa karşı mücadele eder. Uub, kötü Kid Majin Buu'nun reenkarnasyonudur. Kral Yemma, kötü Buu yok edilmeden hemen önce Goku'nun dileğini duymuş gibi görünür ve onu Uub adında iyi bir insan olarak reenkarne eder. Uub tedirgindir, bu yüzden onu dövüşmeye ikna etmek için Goku sonunda küçük çocuğa sataşmaya başvurur. Özellikle kötü bir hakaret ve yüzüne atılan bir tekmeden sonra Uub çıldırır ve artık dövüşmeye hazırdır.",
+                "air_date": "2015-06-21",
+                "still_path": "/gp00MfvGEvdxCkl6q0DuCNrZUBL.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 26,
+                "name": "Daha Da Güçlü! Goku'nun Rüyası Asla Bitmez!!",
+                "overview": "Goku ve Uub kavga etmeye başlar ve Uub'un kavga hakkında pek bir şey bilmediği açıktır. Ancak maç ilerledikçe, gittikçe daha fazlasını öğrenir ve temel durumunda (Goku'nun gücü açılmadan) Goku ile başa baş gidene kadar gizli gücünün giderek daha fazlası açığa çıkar. Goku hafifçe güçlendiğinde (normal durumunda) Uub neredeyse ringin dışına düşüyor, ancak Goku onu yere çarpmaktan kurtarıyor. Uub'un uçmayı bile bilmediğini fark ettiğinden Goku onu eğitmeye karar verir. Arkadaşları ve ailesinin Goku'ya kalması için yalvarmasına rağmen, sırtında Uub'la uçup gider. Goku, Uub gittiğinde Dünya'yı savunması için onu eğitmeye karar verir. Bir gün, Uub'un eğitimi tamamlandığında, güçlerini test etmek için onunla gerçekten topyekün bir maç yapmayı umuyor. Goku ve Uub sevinç çığlıkları atarak uzaklara doğru uçarlar.",
+                "air_date": "2015-06-28",
+                "still_path": "/2bZBeqeDGPil7uK9kILEbFCIU1G.jpg",
+                "video_url": ""
+            }
+        ]
+    }
+}

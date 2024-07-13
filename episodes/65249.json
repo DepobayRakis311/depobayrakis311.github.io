@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2016-01-09",
+        "poster_path": "/9jEkIqyxrlUNmDswPHaAt80O8wD.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Gözlerimin Önünde Parlıyor",
+                "overview": "Satoru Fujinuma, bir pizza salonunda çalışan, mücadele eden bir manga sanatçısıdır. Çocukluğundan beri bir kaçırılma olayından kendini sorumlu tutuyor. Sonunda geçmişindeki gerçeğin ortaya çıkmasının zamanı gelmiştir…",
+                "air_date": "2016-01-08",
+                "still_path": "/y4hrTZ6xxI3rcRlhBzzeGit4h0h.jpg",
+                "video_url": "4521037"
+            },
+            {
+                "episode_number": 2,
+                "name": "Elin Avuç Içi",
+                "overview": "Yıl 1988… Satoru ilkokula geri döndü. Artık geleceği değiştirme şansı var!",
+                "air_date": "2016-01-15",
+                "still_path": "/4onDQglp8pYTpcUeHyfCrLWMb0c.jpg",
+                "video_url": "4521038"
+            },
+            {
+                "episode_number": 3,
+                "name": "Doğum Lekesi",
+                "overview": "Satoru, Kayo'nun doğum gününden önce kaçırılmasını engellemeye kararlıdır. Onu görmek için onun evine gidiyor ama... çok mu geç kaldı?",
+                "air_date": "2016-01-22",
+                "still_path": "/jnVl5Dav1ztbC9aRJYTSL76NHZG.jpg",
+                "video_url": "4521041"
+            },
+            {
+                "episode_number": 4,
+                "name": "Başarı",
+                "overview": "Satoru, Hinazuki'yi yalnız kalmaması için Bilim Merkezine davet eder. Kendisinin de Diriliş öncesi aynı zaman rayında ilerlediğinden şüpheleniyor ve ne olduğunu anlamadan X günü geldi...",
+                "air_date": "2016-01-29",
+                "still_path": "/vgpzJ0NrwQHQGw0e6JyChNORLXU.jpg",
+                "video_url": "4521042"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kurtulmak",
+                "overview": "Okula devam etmeyen Kayo'nun ortadan kaybolduğu ortaya çıkar. Satoru, daha fazlasını yapabilmesi gerektiği düşüncesiyle kendine eziyet ediyor. Üstelik yakındaki ilkokuldan Aya Nakanishi de ortadan kayboldu!",
+                "air_date": "2016-02-05",
+                "still_path": "/31dJ7S4BKPkwtThmmnhD312s5qN.jpg",
+                "video_url": "4521044"
+            },
+            {
+                "episode_number": 6,
+                "name": "Azrail",
+                "overview": "Satoru, Airi'nin evindeki yangının annesinin ölümüyle ilgili olduğunu doğruladıktan sonra, TV Ishikari'nin eski muhabiri Sawada ile temasa geçmek için annesinin geride bıraktığı bir nota güvenir.",
+                "air_date": "2016-02-12",
+                "still_path": "/buPFRzvcacNWfXWiUxk95ahLaQ0.jpg",
+                "video_url": "4521045"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kontrol Dışı",
+                "overview": "Polis tarafından yakalandıktan sonra Satoru'nun tek bir dileği vardır: işleri düzeltmek için son bir Diriliş yaşamak!",
+                "air_date": "2016-02-19",
+                "still_path": "/xv4cIOlx9r9etE8UKhhBrGiUFBE.jpg",
+                "video_url": "4521047"
+            },
+            {
+                "episode_number": 8,
+                "name": "Sarmal",
+                "overview": "Kayo, evine gitmek yerine son birkaç gününü Satoru ve diğerleri tarafından desteklenirken kullanılmayan bir okul otobüsünde geçirdi. Yalnızca Sachiko ve Yashiro, Satoru'nun davranışındaki değişiklikleri gözlemledikleri zaman bir şeyler döndüğünü fark etmeye başlarlar.",
+                "air_date": "2016-02-26",
+                "still_path": "/7nJxGDWGh63GO91o7B6i1UWZ5v.jpg",
+                "video_url": "4521049"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kapatma",
+                "overview": "Kayo, üç gün boyunca \"kayıp\" kaldıktan sonra eve döner. Annesi Akemi, Satoru ve Sachiko'nun birkaç adım geride durduğunu görür... Kayo sonunda güvende olacak mı?",
+                "air_date": "2016-03-04",
+                "still_path": "/o46SNs16XqWfN7CMGhE2hN7Eiyx.jpg",
+                "video_url": "4521050"
+            },
+            {
+                "episode_number": 10,
+                "name": "Neşe",
+                "overview": "İlk seferde Hiromi dahil üç kişi öldürüldü ancak bu sefer hedefler katilin görüş alanı dışına çıkarıldı. Ancak Satoru, katilin hedeflediği kurbanların yerine kimin peşine düşeceği konusunda endişelidir.",
+                "air_date": "2016-03-11",
+                "still_path": "/lwxy5UW6VeKrTkfohC1YpVrGglX.jpg",
+                "video_url": "4521051"
+            },
+            {
+                "episode_number": 11,
+                "name": "Gelecek",
+                "overview": "Kaçıran kişi gerçekte kim olduğunu açıkladıktan sonra Satoru'yu boğulmaya terk eder… Satoru için her şey bitti mi?",
+                "air_date": "2016-03-18",
+                "still_path": "/gg05XBD20GoD8BPmjAP4cduFJ50.jpg",
+                "video_url": "4521052"
+            },
+            {
+                "episode_number": 12,
+                "name": "Hazine",
+                "overview": "Sonunda Satoru hafızasına kavuşur ve suçluyla yüzleşir!",
+                "air_date": "2016-03-25",
+                "still_path": "/3niedt2snGE71gkFZHueW8aT0aI.jpg",
+                "video_url": "4521054"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1235 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 153,
+        "air_date": "1986-02-26",
+        "poster_path": "/dJlS1BsXxGEemIxs1uv4jqisJFQ.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Dragon Ball'ların Sırrı",
+                "overview": "Bulma'nın altı Dragon Ball'u daha araması onu uzak bir vadiye ve toplardan birinin sahibi olan Son Goku'ya götürür. İlişkileri zorlu bir başlangıç ​​yapar ancak Goku, Bulma'nın hayatını kurtardıktan sonra ikili, kalan beş Dragon Ball'u aramak için güçlerini birleştirir. Dikkatli olsalar iyi olur, çünkü şeytani bir güç olan Pilav da Dragon Balls'u arıyor.",
+                "air_date": "1986-02-26",
+                "still_path": "/2xCQSkjiQ7yVRWux6QBNezzEEUL.jpg",
+                "video_url": "1115056"
+            },
+            {
+                "episode_number": 2,
+                "name": "İmparatorun Görevi",
+                "overview": "Bulma ve Goku, nerede olduklarının farkına varmadan, Dragon Ball'lardan birinin saklı olduğu, geleceğin habercisi olan Ryugadani yakınlarında kamp kurar. Pilaf, topu geri almak için yandaşlarını gönderir, ancak onlar ve Goku birbirleriyle ve bir grup aç kurtla karşılaşırlar. Kazanan kim ortaya çıkacak?",
+                "air_date": "1986-03-05",
+                "still_path": "/rKZAMAY90RsZBPBbr8OARooiB1S.jpg",
+                "video_url": "1115098"
+            },
+            {
+                "episode_number": 3,
+                "name": "Roshi'nin Nimbus Bulutu",
+                "overview": "Kaplumbağa Münzevi, bir takdir göstergesi olarak, yalnızca kalbi temiz olan birinin sürebileceği büyülü bir uçan bulut olan Goku Kinto'un'u sunar. Bulma'ya boynuna taktığı, sahile vurmuş görünüşte değersiz bir taş olan turuncu bir süs eşyası verir. Bu \"önemsiz şeyin\" aslında bir Dragon Ball olduğu ortaya çıktı. Ne yazık ki dostlarımız Pilav ve yardımcıları Mai ve Shu da aynı Dragon Ball'un peşinde... ve artık onun Bulma'da olduğunu biliyorlar.",
+                "air_date": "1986-03-12",
+                "still_path": "/xOGEnkIhiW0PwDJdqcF4JKpN3AH.jpg",
+                "video_url": "1152725"
+            },
+            {
+                "episode_number": 4,
+                "name": "Korkunç Oolong",
+                "overview": "Goku ve Bulma, beşinci Dragon Ball'un bulunduğu belirli bir köye varırlar. Goku, köye baskın düzenleyen ve köylülerden birinin ani saldırısına maruz kalan, serbestçe şekil değiştiren canavar Oolong ile karıştırılıyor! Bulma köylülere \"Bu köydeki Altı Yıldız Balosu karşılığında Oolong'la ilgileneceğiz\" diye bir söz verir. Goku kendisini köy kızlarından biri olarak gizler ve yakalanan canavarın gerçek kimliğinin bir domuz yavrusu olduğu ortaya çıkar!! Bulma ve Goku, Altı Yıldızlı Balo'yu alır. Oolong'u müttefikleri olarak alarak, kalan Dragon Ball'ları bulmak için maceralarına devam ediyorlar!!",
+                "air_date": "1986-03-19",
+                "still_path": "/fAp3XFjqtIZzOkkaeQZFUiK4nAS.jpg",
+                "video_url": "1115126"
+            },
+            {
+                "episode_number": 5,
+                "name": "Çöl Haydutu Yamcha",
+                "overview": "Goku ve diğerleri Mt. Frypan'ı hedefler. Bulma kapsüllerini bir nehre düşürdüğü için, sonunda çölü yürüyerek geçmek zorunda kalırlar! Tamamen bitkin olan Bulma orada dinlenir. Bu noktada, çöl haydutu Yamcha belirir ve Oolong'un kapsüllerini ele geçirmeye çalışır. Goku, Yamcha ile savaşır, ancak boş midesi nedeniyle hiçbir gücü yoktur. Kritik anda, Bulma uyanır ve kadınların etrafında olmaya dayanamayan Yamcha, birkaç keskin veda sözüyle kaçar.",
+                "air_date": "1986-03-26",
+                "still_path": "/2XWtD2T6O0lnqJm8n7luOfIXqFo.jpg",
+                "video_url": "1115130"
+            },
+            {
+                "episode_number": 6,
+                "name": "Dragon Ball'lara Göz Atın",
+                "overview": "Yamcha, Oolong'un kapsüllerini çalmak amacıyla gece saldırıyor! Yamcha, rakiplerinin durumunu incelerken Dragon Balls'u öğrenir. Yamcha ve Pu'er, Goku ve diğerlerinin Dragon Ball'larını ne pahasına olursa olsun çalmaya çalışırlar ama başarısız olurlar!! Bu noktada, Goku ve diğerlerinin yedi Dragon Ball'un tamamını toplamasını ve ardından onları çalmasını bekleme planını yaparlar. Bundan habersiz Goku ve diğerleri, altıncı Dragon Ball'u aramak için Frypan Dağı'nı hedef alır.",
+                "air_date": "1986-04-02",
+                "still_path": "/s60AA8va7LtJ8LHW4Z9WzYFaWwG.jpg",
+                "video_url": "1115144"
+            },
+            {
+                "episode_number": 7,
+                "name": "Ateş Dağındaki Öküz Kral",
+                "overview": "Frypan Dağı'na vardıktan sonra Goku ve diğerleri, kalesinin başında nöbet tutan Gyumao tarafından fark edilince zor durumda kalırlar!! Ancak Gyumao'nun tutumu, Goku ve diğerlerinin Muten Roshi'yi tanıdığını öğrenince hızla değişir! Gyumao, Frypan Dağı'ndaki yangını söndürmek için Goku'dan kızı Chi-Chi ile birlikte gitmesini ve Muten Roshi'nin Basho Fan'ını ödünç almasını ister. Goku, Kinto'un'a binebilen Chi-Chi'yi bulur ama Kinto'nun kuyruğunu yakalayınca gücü kesilir! Bunu gören Yamcha, Goku'nun zayıflığını keşfeder!!",
+                "air_date": "1986-04-09",
+                "still_path": "/kPCS0iqk3Sma01V1Puc2LfhfZTP.jpg",
+                "video_url": "1115153"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kamehameha Dalgası",
+                "overview": "Basho Yelpazesini atan Muten Roshi, alevlerini kendisi söndürmek için Frypan Dağı'na gidiyor!! Muten Roshi'nin büyük saldırısı Kamehameha yanan alevleri söndürüyor! Goku ve diğerleri Dragon Ball'u güvenli bir şekilde ele geçirirler ve sonuncusunu aramak üzere yola çıkmak üzeredirler. Ancak Bulma, alevleri söndürürse göğüslerini okşamasına izin vereceğine söz verdiği için Muten Roshi tarafından gözaltına alınır. Bulma, Oolong'dan kendisine dönüşmesini isteyerek bu durumdan kurtulur.",
+                "air_date": "1986-04-16",
+                "still_path": "/itmzd73XH58cvnD6ADYR9Q91e0E.jpg",
+                "video_url": "1115168"
+            },
+            {
+                "episode_number": 9,
+                "name": "Patron Tavşanın Sihirli Dokunuşu",
+                "overview": "Goku ve diğerleri benzin doldurmak için bir standı ziyaret eder. Kasaba halkının tamamı tavşan kulağı takan Bulma'dan korkuyor. Nedenini anlamıyorlar ama sonra kendilerine Tavşan Çetesi diyen bazı alçaklar ortaya çıkıyor! Patronları Carrotizor, eline dokunan herkesi havuca çevirme gücüne sahip!! Bulma onun tarafından havuca dönüştürülür. Sadece izleyemeyen Yamcha, Bulma'yı kurtarır. Goku ve diğerleri Tavşan Çetesini yenerler ve bir kez daha Dragon Balls'u aramaya koyulurlar!!",
+                "air_date": "1986-04-23",
+                "still_path": "/b95dhAyrSNB9vIfl93vWHVBDpVO.jpg",
+                "video_url": "1775415"
+            },
+            {
+                "episode_number": 10,
+                "name": "Ejder Topları Çalıntı!",
+                "overview": "Goku ve diğerleri son Dragon Ball'u hedefliyor! Ancak, Dragon Ball'ları Pilaf ve onun adamları tarafından çalınır ve onlar Dragon Ball'ları kullanarak dünyayı ele geçirmeyi planlamaktadırlar!! Shen Long'un dileğinin gerçekleşmesini isteyen Yamcha, Dragon Ball'ları elde etmek için bir kez daha Bulma ve diğerlerine yardım eder. Dragon Ball'ları geri almak için Goku ve diğerleri Pilaf'ın gizli üssünü işgal eder. Ancak hepsi Pilaf'ın kurduğu ustaca tuzağa yakalanır. Goku'nun Dört Yıldızlı Topu tehlikededir!!",
+                "air_date": "1986-04-30",
+                "still_path": "/YpqU8lE5TNwyv9wIk7CbFdmffB.jpg",
+                "video_url": "1115199"
+            },
+            {
+                "episode_number": 11,
+                "name": "Ceza Langırttır",
+                "overview": "Goku ve diğerleri uyku gazıyla uyutulduktan sonra Dört Yıldız Topu onlardan çalınır! Pilaf sonunda yedi Ejderha Topu'na sahip olur ve Shen Long'u çağırmaya çalışır!! Pilaf'ın planını durdurmak için Goku, hapsedildikleri odanın duvarında bir delik açmak için Kamehameha'yı kullanır! Pu'er ve Oolong yarasaya dönüşüp Ejderha Toplarını geri almak için delikten dışarı çıktıklarında Shen Long sonunda çağrılır! Dünya Pilaf'ın mı olacak...?!",
+                "air_date": "1986-05-07",
+                "still_path": "/ySFrJ01YjsC3XshpBmFP0F9s1Ue.jpg",
+                "video_url": "1115205"
+            },
+            {
+                "episode_number": 12,
+                "name": "Ebedi Ejderhaya Bir Dilek",
+                "overview": "Shen Long sonunda ortaya çıktı! Pilav, dünyaya hükmetmek için dileğini söylemeye çalışıyor!! Oolong \"Bana bir kız külotu ver\" isteğini bir an önce söylediği için dileği yerine getirildi! Dileğin yerine getirilmesiyle Shen Long, Dragon Balls'a tekrar döner ve dört rüzgara dağılırlar. Öfkelenen Pilav, Goku ve diğerlerini güçlendirilmiş cam ve demir plakalarla kaplı bir odaya hapseder, onları güneşin sıcak ışınlarıyla öldürmek niyetindedir, ama...?!",
+                "air_date": "1986-05-14",
+                "still_path": "/xZZI96vtRLgA9nBM7Gx6k7avmq2.jpg",
+                "video_url": "1115210"
+            },
+            {
+                "episode_number": 13,
+                "name": "Goku Efsanesi",
+                "overview": "Goku ve diğerleri bir kez daha Pilav tarafından yakalandı. O gece Goku dolunaya bakar ve aniden çılgına döner ve bir Oozaru'ya dönüşmeye başlar!! Hapsedildikleri hapishaneyi yerle bir eder ve Yamcha ve diğerleri kaçmayı başarır, ancak aklını kaybeden Goku, saldırmaya devam eder!! Yamcha daha sonra Goku'nun zayıf noktası olan kuyruğunu keser! Goku normale döndükten sonra uyanır. Parti yeniden bir araya gelme sözü verir ve Dragon Takımı ayrılır.",
+                "air_date": "1986-05-21",
+                "still_path": "/tBCV4gItk8eakxtSfOOBBBSYSvZ.jpg",
+                "video_url": "1115215"
+            },
+            {
+                "episode_number": 14,
+                "name": "Goku'nun Rakibi",
+                "overview": "Dragon Ball'ları toplamayı bitiren Goku, eğitim almak için Kaplumbağa Münzevi'nin evine gider! Ancak Kaplumbağa Münzevisinin öğrencisi olabilmek için ücret bir pichi-pichi kız getirmektir!! Bu sırada denizin karşı tarafından bir kişi gelir. Kendisine Kuririn diyen çocuk, tıpkı Goku gibi Kaplumbağa Münzevi'nin öğrencisi olmak için geldi! Kuririn, öğrenci olarak kabul edilebilmek için getirdiği büyük miktarda porno dergisini sunar. Güvenli bir şekilde öğrenci olmayı başarabilecek mi…?!",
+                "air_date": "1986-05-28",
+                "still_path": "/1TPw96nMzzICMEA8EXweMxIEES0.jpg",
+                "video_url": "1115219"
+            },
+            {
+                "episode_number": 15,
+                "name": "Lansmanı Bekleyin",
+                "overview": "Goku ve Kuririn, Kaplumbağa Münzevi'nin öğrencisi olma ücreti olan bir pichi-pichi kızı aramak için yola çıkar. Polis tarafından takip edilen bir kız olan Saving Lunch'ı hemen Kaplumbağa Münzevi'nin evine getirirler! Testi geçen Goku ve Kuririn, Kaplumbağa Münzevi'nin öğrencileri olarak tanınıyor!! Ancak Lunch'ın iki kişiliğe sahip, inanılmaz derecede tuhaf bir kız olduğu ve her hapşırdığında ya şiddet yanlısı ya da barışçıl hale geldiği ortaya çıktı!!",
+                "air_date": "1986-06-04",
+                "still_path": "/fvimwCynPDrRdSQq1cvBxngIFOI.jpg",
+                "video_url": "1115228"
+            },
+            {
+                "episode_number": 16,
+                "name": "O Taşı Bulun!",
+                "overview": "Büyük bir adaya taşınan Kaplumbağa Münzevi eğitime başlar. Goku ve Kuririn'in yeteneğini öğrenmek için öncelikle 100 metreyi ne kadar hızlı koşabildiklerini ölçer. İkisi umut verici görünüyor ve Kaplumbağa Münzevi akşam yemeğinden önce onlara biraz eğitim veriyor. Üzerinde \"kaplumbağa\" işareti bulunan bir taşı ormana atıp ikisine onu bulmalarını söylediği harika bir deneme! Onu bulamayan kişi akşam yemeğini yemeden gidecek! Goku ve Kuririn bu zorlu eğitimi ciddiye alıyor!! Kurnaz Kuririn bu yarışmada zaferi yakalıyor!",
+                "air_date": "1986-06-11",
+                "still_path": "/6TYjefA4LxhTSKzEu6GIvPN5H8c.jpg",
+                "video_url": "1775427"
+            },
+            {
+                "episode_number": 17,
+                "name": "Süt Dağıtımı",
+                "overview": "Temel eğitim sonunda başlıyor! Başlangıç ​​olarak Goku ve Kuririn'e sabah erken eğitimleri olarak süt dağıtımı yapılıyor! Süt kutularını taşıyarak sıra sıra ağaçların etrafında atlama ve zig-zag gibi şeyler yapıyorlar!! Dahası, havaya yükselen taş merdivenlere tırmanıyorlar, büyük bir ağacın üzerindeki bir vadiyi geçiyorlar, bataklık çölünden ve azgın bir nehirden dengelerini koruyarak geçiyorlar ve bonus olarak dinozorlar tarafından kovalanıyorlar! Bu onların sıradan bilgiyi aşan ultra sert süt dağıtım eğitimidir!!",
+                "air_date": "1986-06-18",
+                "still_path": "/iRMzsMgwbAXaCXlnxwGB6k9jlqk.jpg",
+                "video_url": "1115251"
+            },
+            {
+                "episode_number": 18,
+                "name": "Kaplumbağa Keşiş Yolu",
+                "overview": "Sabah antrenmanlarının bitmesinin ardından sabah antrenmanlarına devam ediyorlar. Kollarını ve bacaklarını güçlendirmek için tarlayı çıplak elle sürerek antrenman yapıyorlar! Kahvaltıdan sonra ders çalışma zamanı!! Öğle yemeğinden sonra 1:30'a kadar öğleden sonra kestiriyorlar. Öğleden sonra inşaat işlerine yardım ediyorlar. Terlettikleri, kaslarını güçlendirdikleri ve hatta yarı zamanlı iş maaşı bile aldıkları bir eğitim! Üstelik reflekslerini güçlendirmek için zorlu bir eğitimden geçiyorlar, köpekbalıkları tarafından kovalanırken bir gölün etrafında on tur yüzüyorlar, arıların çılgın saldırılarından kaçıyorlar ve sonunda tüm günü tamamlıyorlar!",
+                "air_date": "1986-06-25",
+                "still_path": "/4GNsv3ZEz8PEO0YMdYIyhMFt4bZ.jpg",
+                "video_url": "1775446"
+            },
+            {
+                "episode_number": 19,
+                "name": "Turnuva Başlıyor",
+                "overview": "Goku ve Kuririn sırtlarına 40 kg'lık mermiler takarak eğitimlerine devam ediyorlar! İkisi bir ay içinde açılacak olan Tenkaichi Budokai'yi hedefliyor!! Turnuvadan bir gün önce Kaplumbağa Münzevi onları turnuvanın yapılacağı adaya götürür! Turnuva kayıt alanında Goku, Yamcha, Bulma, Oolong ve Pu'er ile yeniden bir araya gelir. Goku, Yamcha'nın da katılacağını öğrenince çok sevinir! Ertesi gün Tenkaichi Budokai'ye nihayet karar verildi!!",
+                "air_date": "1986-07-02",
+                "still_path": "/dxZ6Q0ucrJg8mUpoTQQ3eQ5QRHv.jpg",
+                "video_url": "1115280"
+            },
+            {
+                "episode_number": 20,
+                "name": "Eleme Turu",
+                "overview": "Tenkaichi Budokai her beş yılda bir düzenlenir! Turnuvanın ana etkinliğine yalnızca sekiz kişi katılabilecek! Bu sekiz kişiyi seçmek için yapılan ön elemeler dört bloğa bölünmüş durumda!! Goku ve Kuririn, Kaplumbağa Münzevi'nden aldıkları zorlu eğitimin sonuçlarını tam olarak gösteriyor!! Bir emektarı yenilgiye uğratan Goku, muhteşem bir şekilde ana etkinliğe katılma hakkını elde ediyor! Dahası, Yamcha da iyi bir ilerleme kaydetti ve Tenkaichi Budokai ana etkinliğine biletini kazandı!!",
+                "air_date": "1986-07-09",
+                "still_path": "/kWZO6et19fI1FE7lXScRbIGnH3J.jpg",
+                "video_url": "1115315"
+            },
+            {
+                "episode_number": 21,
+                "name": "Bela Gibi Kokuyor",
+                "overview": "Tenkaichi Budokai ana etkinliğinin ilk turu Kuririn ve Bacterian arasında! Bacterian, pisliğini silah olarak kullanan ve kötü kokusuyla rakiplerini felç eden zorlu bir rakip. Kötü nefes, osuruk ve benzeri şeylerle Kuririn'e kötü kokulu saldırılarla saldırıyor!! Çaresiz Kuririn sonunda yere seriliyor!! O sırada, Goku ona \"Burnun yok!\" dediğinde Kuririn bu koku kabusundan uyanıyor. Bacterian'a karşı sert bir karşı saldırı başlatan Kuririn, ilk turu geçiyor!",
+                "air_date": "1986-07-16",
+                "still_path": "/xjKbeB3nFKpRVNDZ4oRXSTZeVY2.jpg",
+                "video_url": "1115320"
+            },
+            {
+                "episode_number": 22,
+                "name": "Çeyrek Finaller Başlıyor",
+                "overview": "Bu ikinci maç, Yamcha, Jackie Chun'a karşı! Gizemli yaşlı adam Jackie Chun, Yamcha'nın hızlı saldırılarına meydan okuyor ve onun özel saldırısı olan Roga fufu-ken'i (Kurt Dişi Gale Yumruğu) bile kırıyor!! Üstelik Jackie, sol elini sallayarak rüzgarı yükselterek Yamcha'yı saha dışına fırlatarak zaferi yakalıyor! Üçüncü maçta ciddi Namu, Ran-Fan'ın seksilik stratejisinin saldırısına uğrar!! Ancak Namu, dikkatini dağıtan düşüncelerden kurtulduktan sonra Ran-Fan'ı tek darbeyle yenerek tersine bir zafer elde eder!",
+                "air_date": "1986-07-23",
+                "still_path": "/dr6uIJfCjhApQnaelnCAsBUYDr0.jpg",
+                "video_url": "1115329"
+            },
+            {
+                "episode_number": 23,
+                "name": "Canavar Canavar Giran",
+                "overview": "Sonunda sıra Goku'da! Dördüncü maçta Goku'nun karşısına çıkan kişi ise güçlü rakip Giran'dı!! Goku, Giran'ın haksız saldırıları karşısında sarsıldı! Giran, Goku'yu ağzından çıkardığı lastik gibi Guru-Guru Sakızına hapseder!! Goku kesinlikle çaresiz bir durumda! Tam ringin dışına atılmak üzereyken, kesilen kuyruğu aniden yeniden uzar ve gücü katlanarak artar! Bunu gören Giran teslim oluyor!!",
+                "air_date": "1986-07-30",
+                "still_path": "/o5kmcFAozFAPGrUvKw1fwiQmcSC.jpg",
+                "video_url": "1115350"
+            },
+            {
+                "episode_number": 24,
+                "name": "Krillin'in Çılgın Saldırısı!",
+                "overview": "Beşinci maç yarı final mücadelesi, Kuririn ile Jackie Chun. Kuririn ve Jackie'nin savaşı gözün takip edemeyeceği kadar yüksek bir hızda gelişiyor!! Tenkaichi Budokai'yi izlemeye gelen seyirciler ikilinin üst düzey mücadelesinden son derece heyecanlı!! Kuririn, Jackie'ye karşı iyi bir mücadele veriyor ama kazanmak için acele ediyor! Bu nedenle, Jackie arkasından dolaştıktan sonra Jackie'nin karate darbeleriyle vurulur ve yere düşer! Ne yazık ki Kuririn yarı finalde mağlup oldu.",
+                "air_date": "1986-08-06",
+                "still_path": "/8vzP8jkpCv3C5hGKvF7ZigZYUyd.jpg",
+                "video_url": "1115353"
+            },
+            {
+                "episode_number": 25,
+                "name": "Yukarıdan Gelen Tehlike",
+                "overview": "Altıncı maç Goku ve Namu'nun yarı final mücadelesidir. Goku, Jackie'nin Kuririn ile kavgası sırasında sergilediği Zanzouken'i taklit ederek Namu'ya saldırır. Namu bu saldırıdan ustalıkla kaçıyor! Namu, özel saldırısı Tenku pekeji-ken ile Goku'nun işini bitirmeye çalışıyor! Goku saldırıyla vurulur ve yere serilir, ancak ona kadar saymadan hemen önce dirilir! Namu ayrıca Süper Tenku pekeji-ken ile onu ortaya çıkarır, ancak Goku tekniği aşar. Goku daha sonra finale yükselir!",
+                "air_date": "1986-08-13",
+                "still_path": "/uk6v28NVLxNYwIjkmKDVZNB5oLI.jpg",
+                "video_url": "1115366"
+            },
+            {
+                "episode_number": 26,
+                "name": "Büyük Finaller",
+                "overview": "21. Tenkaichi Budokai'nin finalleri belirlendi! Goku, Jackie tarafından saha dışına çıkarılır. Ama kuyruğunu pervane gibi çevirip geri dönüyor! Goku ve Jackie sonunda ellerinden gelenin en iyisini ortaya koydular. İkisi aynı anda Kamehameha'yı ateşliyor!! Goku'nun Kamehameha'sı Jackie'ninkiyle eşit şekilde eşleşiyor ve onu geri savuruyor!! Zanzouken, Suiken ve Saruken gibi saldırıların ileri geri sergilendiğini gösteren ateşli savaşları devam ediyor!",
+                "air_date": "1986-08-20",
+                "still_path": "/ewfHr2S3EajPKFEqJHh4ufMcGdi.jpg",
+                "video_url": "1115379"
+            },
+            {
+                "episode_number": 27,
+                "name": "Ayın Altında Bir Numara Mı?",
+                "overview": "Goku'ya karşı ciddileşen Jackie, Yoiko Min-Min Ken'i kullanıyor! Goku derin bir uykuya dalar. Bir şekilde bu sıkıntıdan kurtulmayı başarır ama Jackie'nin özel saldırısı Bankoku-Bikkuri-Sho'nun saldırısına uğrar! Tüm vücudunda elektrik akımına benzer bir şok dalgası dolaşan Goku, hareket etme yeteneğinden yoksun bırakılır. Ama tam teslim olmak üzereyken gözleri dolunayı görüyor! Bir kez daha Oozaru'ya dönüşen Goku'ya karşı Jackie, ekstra büyük bir Kamehameha'yı ateşler!! Goku'nun kaderi nedir…?!",
+                "air_date": "1986-08-27",
+                "still_path": "/79NCwX2t170P4KWrLdDtGCerTNe.jpg",
+                "video_url": "1115384"
+            },
+            {
+                "episode_number": 28,
+                "name": "Son Darbe",
+                "overview": "Jackie, Goku'nun bir daha Oozaru olmasına karşı kendini koruyarak ayı uçurdu!! Aynı zamanda Goku normal formuna döner ve maç yeniden başlatılır. Yorgunluk ve açlıktan dolayı enerjileri hızla düşen ikili, son güçlerini de toplar ve çatışmaları başlar. Biraz daha az hasar alan Jackie, şampiyonluğu kazandığını ve zafere ulaştığını açıklar. Dünyada pek çok güçlü insanın olduğunu öğrenen Goku ve Kuririn, daha da sıkı antrenman yapmaya ant içer!",
+                "air_date": "1986-09-03",
+                "still_path": "/ohWHMpYRfUTc1s22GQYGJBCIV7O.jpg",
+                "video_url": "1115387"
+            },
+            {
+                "episode_number": 29,
+                "name": "Gezici Göl",
+                "overview": "Dragon Ball'ları arayan Goku, bir çöl bölgesine gelir ve burada hareket eden göl efsanesini duyar. Orada Goku, canavarların saldırısına uğrayan Namu'yu kurtarır. Namu nehrin neden kuruduğunu araştırmak için nehrin yukarısına gitti! Giran ve kabilesinin nehri lanetlediğini öğrenen Goku, Kamehameha ile barajı yıkar, ancak bu sefer bir kum fırtınası nehri gömer!! Köylüler umutsuzluğa kapılır ama kum fırtınası gittikten sonra arkasında efsanevi gölü bırakır.",
+                "air_date": "1986-09-10",
+                "still_path": "/91SVzEmYvzm1yRzBwPllPWGVDTh.jpg",
+                "video_url": "1115400"
+            },
+            {
+                "episode_number": 30,
+                "name": "Pilav ve Gizem Gücü",
+                "overview": "Dragon Radar'ın bir hırsız tarafından çalınmasının ardından Goku, onu ikinci el bir mağazada görür. Orada bir Dragon Ball sinyali beliriyor! Ancak Dragon Ball'un Pilav ve co. mağaza sahibinden satın almak tamamen sahte! Mağaza sahibi ayrıca Dragon Balls'u arayan gizemli bir orduya sahte bir şeyler satmaya çalışır, ancak onlar bunu anlar ve onu vurur. Gerçek Dragon Ball'un dükkanın çatısındaki kuş yuvasında olduğu ortaya çıktı!! Silah sesinden irkilen kuş, Dragon Ball'la birlikte uçup gider.",
+                "air_date": "1986-09-17",
+                "still_path": "/d9iDJrjSMyQLmRLNpdw0Rk541j4.jpg",
+                "video_url": "1115408"
+            },
+            {
+                "episode_number": 31,
+                "name": "Düğün Planları?",
+                "overview": "Dragon Ball'u arayan ordu aslında Kaptan Silver'ın Kızıl Kurdele Ordusu birimiydi. Silver ve Pilav, Dragon Ball'un peşine düşer. Dragon Ball'un, Gyumao'nun yendiği bir canavarın midesinde olduğu ortaya çıkar. Goku'nun geleceğini duyunca ona bir resepsiyon hazırlarlar. Pilav, Shuu'yu sahte bir Goku'ya dönüştürür ve köye girer, ancak Silver Corp. saldırır! Karışıklıktan yararlanan Pilaf, Dragon Ball'u alır ve hareketli üssüne kaçar. Chichi ile yeniden bir araya gelen Goku, bir şeylerin ters gittiğini anlar ve aceleyle köye gider!!",
+                "air_date": "1986-09-24",
+                "still_path": "/aUKxJGJOvJTAfJG4B5O9pbCY8Gd.jpg",
+                "video_url": "1115416"
+            },
+            {
+                "episode_number": 32,
+                "name": "Uçan Kale – Kayboldu!",
+                "overview": "Gyumao ve Chichi'ye veda sözlerini söyleyen Goku, Pilaf ve arkadaşlarının peşine düşer. Bu sırada Dragon Radarındaki sinyali takip eden Silver, Pilaf'ın gizli üssünü keşfeder. Takviye çağrısı yapan Silver genel bir saldırıya başlıyor! Üsse sızan Goku, Dragon Ball'un olduğu yere de acele ediyor! Pilaf kaçmak zorunda kalır, ancak içinde bulunduğu hareketli üs, Kızıl Kurdele Ordusu'nun birleşik saldırıları tarafından vurulur ve Goku patlamaya yakalanır!! Dragon Ball sonunda Silver'ın eline düşer.",
+                "air_date": "1986-10-01",
+                "still_path": "/o98lOo9EB1ucrNuyE5YqTFJvnzx.jpg",
+                "video_url": "1115433"
+            },
+            {
+                "episode_number": 33,
+                "name": "Bir Ejderha Efsanesi",
+                "overview": "Silver, Kızıl Kurdele Ordusu Karargahına döndükten sonra komutandan emirlerini alır ve Dragon Ball'ları aramak için bir kez daha yola çıkar. Bu arada hareketli üssün patlamasından Kinto'un tarafından kurtarılan Goku, Dört Yıldızlı Balo arayışını da yeniden başlatır. Silver, Goku'nun dağda kurtardığı bebek maymunun Dragon Ball'a sahip olduğunu fark eder ve dağa ateş açar! Maymunlar ateş tarafından takip ediliyor. Silver, tüfeğini bebek maymuna doğrulturken Goku tarafından kurtarılır!! Ancak Dragon Ball nehirde süzülüyor.",
+                "air_date": "1986-10-08",
+                "still_path": "/1iZqoj5IxTZc6YrXApK19pOrzRV.jpg",
+                "video_url": "1115452"
+            },
+            {
+                "episode_number": 34,
+                "name": "Zalim General Kırmızı",
+                "overview": "Bulma'nın yaptığı Dragon Radar'ı kullanan Goku, nehirde sürüklenen Dragon Ball'u kolayca fark eder. Ancak Kinto'un, Kaptan Silver'ın bazukasına hayran kalır! Gümüş'ü kuyruğunun tek bir hareketiyle yendikten sonra Goku, kapsülden çıkan bir robotun uçurduğu bir uçakla kuzeye doğru yola çıkar. Goku aşırı soğuktan titriyor. Robot da dondu ve uçak düştü!! Donmuş olan Goku, Sno adında bir kız tarafından kurtarılır.",
+                "air_date": "1986-10-15",
+                "still_path": "/4qkuKwyL08oI3kKJObYKy229yfj.jpg",
+                "video_url": "1115475"
+            },
+            {
+                "episode_number": 35,
+                "name": "Soğuk Karşılama",
+                "overview": "Goku, Sno'nun evinde uyanır ve kendisi ve annesinden şefkatli bir ilgi görür. Sno, Goku'nun Dragon Balls'u aradığını duyunca korkar. Bu köyde, Kızıl Kurdele Ordusu'ndan General White, belediye başkanını rehin aldı ve kasaba halkını Dragon Ball'u aramak için kullanıyor! Sağlığına kavuşan Goku, kendisini takip eden askerleri yener ve belediye başkanını kurtarmak için General White'ın üssü Muscle Tower'a doğru yola çıkar! Dışarıdaki askerleri yendikten sonra Goku hemen kendini ikinci kata fırlatır!!",
+                "air_date": "1986-10-22",
+                "still_path": "/n9F1B7yy9PTo3lbvf4yci0qNFEq.jpg",
+                "video_url": "1115480"
+            },
+            {
+                "episode_number": 36,
+                "name": "Başlıca Metallitron",
+                "overview": "General White'ın sesi Muscle Tower'da yankılanıyor. Belediye başkanının bulunduğu en üst kata çıkarken Goku'yu kışkırtır. Goku ikinci kattaki askerleri yener ve üçüncü kata ilerler. Üçüncü kat ölümsüz dev Çavuş Metalik tarafından korunuyordu! Goku, onu ne kadar yere düşürürse düşürsün yeniden ayağa kalkan Metallic'e karşı zorlu bir mücadele verir. Kamehameha ile kafası uçurulduktan sonra bile durmayacak! Onun bir robot olduğu ortaya çıktı! Ancak Goku zor durumdayken Metalik durur. Bataryası bitmişti.",
+                "air_date": "1986-10-29",
+                "still_path": "/r0clzMp1FbhogdMLzPKMy6wTJMl.jpg",
+                "video_url": "1115487"
+            },
+            {
+                "episode_number": 37,
+                "name": "Ninja Murasaki Geliyor!",
+                "overview": "Zifiri karanlık dördüncü kata sızan Goku, Başçavuş Murasaki'nin ninja saldırılarına maruz kalır. Bu amansız saldırılara karşı zorlu bir mücadele veriyor! Ancak Goku, Murasaki'nin hareketini okur ve saldırıları durumu tersine çevirir. Goku, Murasaki'nin ninjutsusunu birbiri ardına kırar. Sonunda Murasaki'nin kılıcı kırılıyor! Murasaki, Goku'yu silahsız bir maça davet eder ve Goku, Nyoi-Bo'yu uzaklaştırır. Murasaki bu açıklıktan yararlanarak bir bumerang shuriken fırlatır. Goku hazırlıksız yakalanır ve doğrudan kafasının arkasına vurulur!! Goku büyük tehlike altında!!",
+                "air_date": "1986-11-05",
+                "still_path": "/eFA5c5pCtOL8PfuJAglSyJ06Pai.jpg",
+                "video_url": "1115498"
+            },
+            {
+                "episode_number": 38,
+                "name": "Beş Murasaki",
+                "overview": "Bumerang shuriken'iyle Goku'nun işini bitiremeyen Murasaki, son ninjutsu'su Bunshin no Jutsu'yu (Bölünmüş Görüntü Tekniği) kullanır. Bir şekilde beş kişiye çıkan Murasakilerin her biri farklı silahlarını çıkarıyor! Hangisinin gerçek olduğunu anlayamayan Goku'nun kaçmaktan başka seçeneği yok! Ancak Mursakilerin yalnızca beşizlerden oluştuğu ortaya çıktı. Artık hepsinin gerçek olduğunun farkında olan Goku, Zanzouken'i kullanarak dördünü göz açıp kapayıncaya kadar yener. Oynayacak başka kartı olmayan Mursaki, Yapay İnsan No. 8'i çağırıyor!!",
+                "air_date": "1986-11-12",
+                "still_path": "/9EAtBPz5Y6Uyi1UJq0V2uRLX60H.jpg",
+                "video_url": "1115512"
+            },
+            {
+                "episode_number": 39,
+                "name": "Gizemli Android No. 8",
+                "overview": "Murasaki'nin çağırdığı 8 Numaralı Yapay İnsan'ın nazik bir kişiliğe sahip olduğu ve çatışmalardan hoşlanmadığı ortaya çıktı. Murasaki, emirlerine uymayan 8 numarayı yok etmek üzereyken Goku, Murasaki'yi tek darbeyle havaya uçurur! Şimdi Goku'nun 8 numaralı arkadaşı (Ha-chan) onu en üst kata, altıncı kata götürüyor. Ha-chan, Beyaz'ı kötü şeyler yapmayı bırakmaya ikna etmeye çalışır. Ancak Goku ve Ha-chan, beşinci kata çıkan gizli kapıdan düşer. Aşağıda canavar Buyon'un ini var!!",
+                "air_date": "1986-11-19",
+                "still_path": "/6iqiF6Dfcb4rS64n0fBoH3oAfEW.jpg",
+                "video_url": "1115516"
+            },
+            {
+                "episode_number": 40,
+                "name": "Korkunç Buyon",
+                "overview": "Beşinci katta hapsedilen Buyon, Goku'nun tekniklerinden hiçbir şekilde etkilenmeyen bir canavardır! Vücudu her türlü saldırıyı karşılayabilir. Goku kesinlikle çaresiz bir durumda!! Ancak Goku donduğu zamanı hatırladığı için duvarı yok eder!! Buyon dondurucu soğuk hava yüzünden donmuş!! Soğuğa karşı bağışıklığı olan Ha-chan'ın yanına sokularak soğuk havaya katlanan Goku, Buyon'u tek darbeyle parçalamayı başarır!! Altıncı kata dönen Goku, Beyaz'a saldırır.",
+                "air_date": "1986-11-26",
+                "still_path": "/4SibY6eH4whsgRd1JCCDr7q3jZp.jpg",
+                "video_url": "1115524"
+            },
+            {
+                "episode_number": 41,
+                "name": "Muscle Tower'ın Düşüşü",
+                "overview": "Goku tarafından dövüldükten sonra White, ikisini belediye başkanının odasına götürür. Goku ve Ha-chan ikinci kez gardlarını indirdiler ve belediye başkanını rehin aldı! Ha-chan ne yapacağını bilmiyor. Goku, motorlu silahla tek atışla vurulduktan sonra yere düştü!! İkinci atış onun işini bitirecek. Ancak Ha-chan bir canlı kalkan görevi görür ve Goku'yu korur!! Beyaz paniğe kapılırken Ha-chan'ın yumruğu patlıyor!! Goku'yu ve belediye başkanını kurtaran Ha-chan, Muscle Tower'ı yok eder.",
+                "air_date": "1986-12-03",
+                "still_path": "/eYpSqdfbuPNiXGGhdMrPJwOpVol.jpg",
+                "video_url": "1115528"
+            },
+            {
+                "episode_number": 42,
+                "name": "Dr. Flappe'nin Sırrı",
+                "overview": "Dragon Ball'un Ha-chan'da olduğu ortaya çıktı. Köylülerin onu bulduklarında öldürüleceklerini bildiği için onu saklamıştı. Belediye başkanı Ha-chan'ın köyde kalmasını tavsiye eder, ancak Ha-chan kendi kendini yok etme mekanizması nedeniyle bunun tehlikeli olduğunu söyler. Ha-chan'ın kendi kendini yok etme mekanizmasını ortadan kaldırmak için onun yaratıcısı Dr. Flappe'yi ziyaret ederler. Ama Murasaki oraya onlardan önce gitti! Dragon Balls'u bulmak için Goku'nun bagajını çalar. Ancak içinde yalnızca Goku'nun bentosu (tek porsiyon yemek) mi vardı?! Kendini imha mekanizması güvenli bir şekilde kaldırılır.",
+                "air_date": "1986-12-10",
+                "still_path": "/lGToiAduQl5lLEtMtWmnfFyV83p.jpg",
+                "video_url": "1115537"
+            },
+            {
+                "episode_number": 43,
+                "name": "Şehre Bir Gezi",
+                "overview": "Goku, arızalı Dragon Radarını düzeltmek için Bulma'nın yaşadığı Batı Şehri'ne gider. Kinto'un da canlanır ve yolculuk iyi gider. Ancak Goku, Bulma'nın adresini bilmiyor! Serserilerle başı dertte olan Goku, Bulma'yı aramak için etrafta dolanır ama bu kadar büyük bir şehirde onu bulmasının imkânı yoktur. Goku bir polis tarafından Bulma'nın evine götürülür. Bulma'nın bu metropolde bile ünlü büyük bir şirket olan Capsule Corporation'ın tek kızı olduğu ortaya çıktı!!",
+                "air_date": "1986-12-17",
+                "still_path": "/jU6zr9Lwx9d1iggH5e1hVGihyAB.jpg",
+                "video_url": "1115540"
+            },
+            {
+                "episode_number": 44,
+                "name": "Usta Hırsız, Hasky",
+                "overview": "Goku sonunda Bulma ile yeniden bir araya gelir. Ancak Bulma ve Yamcha bir tartışmanın tam ortasındadır! Mikro bant kullanarak küçülen Bulma ile Kinto'un'a binen Goku, Yamcha ve diğerleriyle yeniden bir araya gelir. Ama Yamcha, küçülmüş Bulma'dan habersiz, onun hakkında yüzüne karşı kötü konuşuyor!! Goku ve diğerleri yüzen eğlence parkına doğru yola çıkarken Bulma'nın morali tamamen bozulur. Kızıl Kurdele Ordusu tarafından tutulan bir girişimci olan Husky oradadır ve Goku'nun Dragon Balls'unu hedef almaktadır.",
+                "air_date": "1986-12-24",
+                "still_path": "/A30Hy03V4USbOc4Fqeiy9bxrKwB.jpg",
+                "video_url": "1115542"
+            },
+            {
+                "episode_number": 45,
+                "name": "Havadaki Tehlike",
+                "overview": "Yüzen eğlence parkında oynayan Goku ve diğerlerine yaklaşan Husky, Dragon Ball taşıyan Yamcha'yı baştan çıkarmaya çalışır. Rakibinin gerçek kimliğini anlayan Yamcha, onu köşeye sıkıştırır ancak bunu bir aşk sahnesi sanan Bulma tarafından etkisiz hale getirilir!! Husky bir bomba bırakıp kaçar. Goku tam zamanında bombanın kontrollerini kırar ve Dragon Balls'u geri alır. Ancak Goku ile birlikte Dragon Balls'u aramak için yola çıkan tamamen kızgın Bulma'dır.",
+                "air_date": "1987-01-07",
+                "still_path": "/63lANX9qbSz2If8VFRz2itIxgXo.jpg",
+                "video_url": "1115545"
+            },
+            {
+                "episode_number": 46,
+                "name": "Bulma'nın Kötü Günü",
+                "overview": "Bulma ve Goku denizin ortasına vardılar. Burası General Blue'nun Dragon Balls'u aradığı bölgesiydi! Yakındaki bir adadan Bulma tarafından denize bırakılan Goku dalar ama deniz çok derindir ve nefesini tutamaz! Tek başına kalan Bulma, kapsül satın almak için adanın etrafında dolaşıyor, ancak orada bir Kızıl Kurdele Ordusu üssü olduğu ortaya çıktı! Goku koşarak gelir ve Bulma'ya saldıran askerleri yener!! Goku, Kaplumbağa Münzevi'nden bir denizaltı ödünç almalarını önerir.",
+                "air_date": "1987-01-14",
+                "still_path": "/4jyU1ud6s5rDdO7XUaGiarsDfP0.jpg",
+                "video_url": "1115548"
+            },
+            {
+                "episode_number": 47,
+                "name": "Kame Evi — Bulundu!",
+                "overview": "Goku Kame Evi'ne varır, ancak Kuririn ve Lunch alışverişe gitmek için denizaltını kullanırlar. Kaplumbağa Hermit, denizaltını ödünç vermeleri karşılığında mikro bandı ister. Kendini küçültmeyi ve tuvalette ve banyoda onu gözetlemeyi planlar! Ancak, Kaplumbağa Hermit, Bulma tuvaleti kullandığında onu gözetlemeye gittiğinde, tuvalete atılır!! Kuririn geri döndüğünde, Goku ve Bulma onunla birlikte yola çıkarlar. Bu arada, Goku'nun Ejder Toplarını takip etmek için ejderha radarını kullanmış olan General Blue, Kame Evi'ni keşfeder.",
+                "air_date": "1987-01-21",
+                "still_path": "/rJznk4vSH3lznu85oF5r2GySMs6.jpg",
+                "video_url": "1115551"
+            },
+            {
+                "episode_number": 48,
+                "name": "Derin Mavi Deniz",
+                "overview": "General Blue, Goku ve diğerlerini takip eden grubuna ek olarak, Kame House'a saldırmak için bağımsız bir grup başlatır. Kaplumbağa Münzevi'nin Ejderha Radarını yaratan bilim adamı olduğuna inanıyorlar. Deniz dibindeki uçuruma düşen Dragon Ball'un peşine düşen Goku ve diğerleri, diğer taraftan uçurumdaki boşluğa girerler ve bir mağara keşfederler. General Blue'nun denizaltısı aniden saldırıyor! Bulma ve Kuririn, kendilerine saldıranların Kızıl Kurdele Ordusu olduğunu öğrenince paniğe kapılıyor!! Blue'nun denizaltısı mağaraya kaçan Goku ve diğerlerini takip ediyor!!",
+                "air_date": "1987-01-28",
+                "still_path": "/jCuO4Wtud3BRmCO2Em2zGWjgbEO.jpg",
+                "video_url": "1115553"
+            },
+            {
+                "episode_number": 49,
+                "name": "Roşi Sürprizi",
+                "overview": "General Blue'nun müstakil grubu Kame Evi'ne varır. Komutan Kaplumbağa Münzevi'yi tehdit eder, ancak bunun yerine kolayca yenilir! Komutan Öğle Yemeği'ni rehin alır, ancak Öğle Yemeği hapşırdıktan sonra tamamen köşeye sıkışır ve şiddete başvurur. Bu sırada Goku ve diğerlerinin denizaltısı mağaraya kaçtıktan sonra susuz bir mağaraya girmiştir. Denizaltıyı geride bırakarak kaçarlar. Nedense mağara elektrik ışıklarıyla donatılmış… Burası korsanların gizli üssüydü!!",
+                "air_date": "1987-02-04",
+                "still_path": "/tLK336RCTRZgBkYuZN1nCb0CbS3.jpg",
+                "video_url": "1115555"
+            },
+            {
+                "episode_number": 50,
+                "name": "Tuzak Yayıldı",
+                "overview": "Hazinenin korsanın mağarasında saklı olduğu varsayılıyor. Ve bu hazineyi korumak için doğal olarak tuzaklar kurulmuş! Goku ve diğerleri bir şekilde bu tuzaklardan geçmeyi başarıyor, örneğin mızrak atan bir duvar veya lavın üstünde açılan bir tuzak kapısı. Kırmızı Kurdele birlikleri tamamen yok oluyor, Mavi hariç!! Goku ve diğerleri yolun sonuna geliyor ve korsanın deniz dibindeki iskelesine çıkıyorlar. Goku bir şeyin hareket ettiğini hissedebiliyor. İskelet tipi bir savaş robotu beliriyor ve hemen onlara saldırmaya başlıyor!!",
+                "air_date": "1987-02-11",
+                "still_path": "/wz8kaOK0aavguwdeWVT7XGWgPlC.jpg",
+                "video_url": "1115048"
+            },
+            {
+                "episode_number": 51,
+                "name": "Robota Dikkat Edin",
+                "overview": "Goku ve Kuririn, iskelet robota savaşa meydan okur. Ancak robot güçlüdür! Goku enkaz altında kalır ve Bulma ile Kuririn bir binanın içinde köşeye sıkıştırılır. İkisi umutsuz bir durumdayken Goku enkazdan çıkar ve onları kurtarır! Bulma ve Kuririn kaçtıktan sonra Goku çatıdan pike bombalı saldırı düzenler!! Bu, güçlü robotun bile patlamasına neden olur ve Goku ikisinin peşine düşer. Ancak Mavi, Bulma ve Kuririn'in bıraktığı işareti değiştirir!!",
+                "air_date": "1987-02-11",
+                "still_path": "/g3C27svJGFT8pj1FqiXhKOx82uv.jpg",
+                "video_url": "1115064"
+            },
+            {
+                "episode_number": 52,
+                "name": "Korsan Hazinesi",
+                "overview": "Goku, Blue'nun numarası nedeniyle yanlış yola girer. Robotun patlaması mağaranın çökmesine neden oluyor! Bulma ve Kuririn korsanın saklandığı yere varır ama Mavi onları oraya kadar takip eder. Blue ve Kuririn arasında eşit bir mücadele yaşanıyor! Ancak Kuririn, Blue'nun parlayan gözlerine baktığında hareket edemez hale gelir. Blue'nun psişik güçlere sahip olduğu ortaya çıktı!! Blue, Kuririn'in işini bitirmek üzereyken Goku koşarak geliyor!!",
+                "air_date": "1987-02-25",
+                "still_path": "/uZSuMKidnieO8I8CsnK5KsgJ1J1.jpg",
+                "video_url": "1115086"
+            },
+            {
+                "episode_number": 53,
+                "name": "Mavi, Siyah ve Mavi",
+                "overview": "Goku, Blue'ya karşı mücadelesinde ezici bir üstünlük sağlıyor! Dayak yiyen Blue, Goku'yu felç etmek için psişik güçlerini kullanır ve bir tüfek çıkarır! Goku zor durumda!! Ancak Mavi, yanından geçen bir fare karşısında şaşırır ve psişik güçleri bozulur! Karşı saldırı, Goku KO'nun Mavisi!! Bulma ve Kuririn bir korsan denizaltıyla kaçmaya çalışır ve Goku, Dragon Ball'u bulduğunda peşlerinden gider. Mağara çökmek üzere.",
+                "air_date": "1987-03-04",
+                "still_path": "/4ObhYtWoTwYb2gV20nqrwVN84eB.jpg",
+                "video_url": "1115089"
+            },
+            {
+                "episode_number": 54,
+                "name": "Korsan Mağarasından Kaçış",
+                "overview": "Tam mağara çökmek üzereyken Goku deniz dibindeki iskelede belirir!! Hayatını borçlu olduğu fareyi yanında taşıyor. Bulma denizaltıyı fırlatır, ancak benzini biter ve durur. Deniz dibindeki kanal çöküyor! Goku'nun Kamehameha'sı denizaltıyı güvenli bir yere itiyor!! Bir korsan elması ile Kame House'a dönerler. Ancak Blue inatla hayatta kaldı ve onları takip ediyor!! Dahası, Lunch elması alır ve şiddetli formuna büründükten sonra oradan ayrılır.",
+                "air_date": "1987-03-11",
+                "still_path": "/gOYVunYRjWGRoRR0ybBhMu9W2mR.jpg",
+                "video_url": "1115112"
+            },
+            {
+                "episode_number": 55,
+                "name": "Penguen Köyü",
+                "overview": "Blue, deniz dibindeki mağaradan döndükten sonra rahatlayan Goku ve diğerlerine saldırmak için ipleri manipüle etmek için psişik güçlerini kullanır! Herkes bağlanmıştır ve Goku'nun kuyruğu tutulmuştur ve tüm gücünü kullanamaz!! Blue, Dragon Ball'ları çalar ve bir bomba yerleştirir, sonra kaçar. Goku, orijinal kişiliğine geri döndükten sonra geri dönen Lunch tarafından kurtarılır ve Blue'nun roketinin peşinden koşar!! Yoğun bir kovalamacanın ardından, ikisi sonunda Arale Norimaki'nin evi olan Penguen Köyü'ne varırlar!!",
+                "air_date": "1987-03-18",
+                "still_path": "/cacvBnVWhS4IEfugrG6oq3OM4qv.jpg",
+                "video_url": "1115115"
+            },
+            {
+                "episode_number": 56,
+                "name": "Garip Ziyaretçi",
+                "overview": "Goku'nun Penguen Köyü'nde tanıştığı kız Arale, süper hızda koşabilen ve hatta Kinto'un'a binebilen gizemli bir genç kızdır. Taro ve diğerlerinden oluşan köyün polis gücü, Kızıl Kurdele Ordusu'ndan Mavi'yi yakalamaya çalışır ancak onu tırmalayamazlar! Dragon Radarı arızalı ve Goku, Dragon Ball'ların konumunu tam olarak belirleyemiyor. Ne yapacağını şaşıran Goku, Arale'nin tavsiyesini dinler ve Ejderha Radarını tamir edebilecek olan Dr. Senbe'yi ziyaret eder!!",
+                "air_date": "1987-03-25",
+                "still_path": "/5tcrVAk2VD1ahlDEnnF5QnVgsyZ.jpg",
+                "video_url": "1115118"
+            },
+            {
+                "episode_number": 57,
+                "name": "Arale, Blue'ya Karşı",
+                "overview": "Dr. Senbe'nin en büyük oğlu Turbo-kun, Ejderha Radarını tamir eder. Daha sonra Blue ortaya çıkar, Arale'yi rehin alır ve Goku'yu hareketsiz kılmak için fiziksel güçlerini kullanarak Dragon Radar'ı çalar!! Bu sırada Arale, Mavi'yi uçurmak için inanılmaz bir güç kullanıyor!! Ancak Dragon Ball'lar iade edilmesine rağmen Dragon Radar, Blue ile birlikte uçmaya gönderildi. Goku, Turbo'dan yeni yapılmış bir Ejderha Radarı alır ve Penguen Köyü'nü geride bırakır.",
+                "air_date": "1987-04-08",
+                "still_path": "/ae68VEw1X9n1bJAsGZZaS0hYTXA.jpg",
+                "video_url": "1115124"
+            },
+            {
+                "episode_number": 58,
+                "name": "Korin Ülkesi",
+                "overview": "Volkanik bir patlama, Dört Yıldızlı Topun Bora ve oğlu Upa tarafından korunan Karin Kutsal Topraklarına uçmasına neden olur. Bora, Dragon Ball'un peşine düşen Kaptan Yellow'un Kırmızı Kurdele Ordusu birliğini geri püskürtmek için muazzam gücünü kullanıyor! Ancak Sarı, Upa'yı rehin alır ve Dragon Ball'u talep eder. Ancak Goku oradan geçer, tek vuruşta Sarı'yı ​​yener ve Upa'yı kurtarır!! Bu arada, Komutan Red tarafından çağrılan dünyanın en büyük suikastçısı Tao Pai-pai, Kızıl Kurdele Ordu Karargahında ortaya çıkıyor!!",
+                "air_date": "1987-04-15",
+                "still_path": "/8xEXAYhFOY6fpYasoFOcAK2UOt6.jpg",
+                "video_url": "1115138"
+            },
+            {
+                "episode_number": 59,
+                "name": "Şöhretli Paralı Asker",
+                "overview": "Sonunda Kızıl Kurdele Ordu Karargahına dönmeyi başaran Blue, Tao Pai-pai'nin dilinden aldığı tek darbeyle öldürülür. Tao Pai-pai daha sonra Goku'yu ortadan kaldırmak için Karin Kutsal Topraklarına doğru yola çıkar! Bu sırada Goku, kalbinin arzusu olan Dört Yıldızlı Balo'yu elde eder. Ayrıca, Karin Kulesi'nin tepesinde yaşayan bir bilgeden alınan ve içildiğinde kişinin gücünü kat kat artırdığı Süper Kutsal Su efsanesini de duyar. Tao Pai-pai daha sonra ortaya çıkar. Bora onunla yüzleşmek için ayağa kalkar ama Tao Pai-pai'nin korkunç gücü karşısında göz açıp kapayıncaya kadar öldürülür!! Goku, Tao Pai-pai'ye meydan okuyor ama?!",
+                "air_date": "1987-04-22",
+                "still_path": "/urf0UXhUzxSFAVlBM4DkYJ4WkdD.jpg",
+                "video_url": "1115142"
+            },
+            {
+                "episode_number": 60,
+                "name": "Tao Saldırıları!",
+                "overview": "Goku, Kamehameha'dan bile etkilenmeyen Tao Pai-pai'nin gücü karşısında tamamen çaresizdir. Goku, Tao Pai-pai'nin kesinlikle öldüreceği Dodonpa'dan doğrudan bir darbe aldıktan sonra devrilir! Tao Pai-pai, Dragon Ball'ları çalar ve yıpranmış kıyafetlerinin yerine yeni kıyafetler almak için bir kasabaya gider. Ancak Goku hayatta kaldı!! Göğsünde bulunan Dört Yıldızlı Top onu korudu!! Bora'yı hayata döndürmek için Dragon Balls'u kullanmaya karar veren Goku, Tao Pai-pai'den daha güçlü olmak için Karin Kulesi'ne tırmanır. Ancak ne kadar tırmanırsa tırmansın yine de zirveyi göremez.",
+                "air_date": "1987-04-29",
+                "still_path": "/pTzGpfWMEG8N4qVL3ycPLDXBBS0.jpg",
+                "video_url": "1115146"
+            },
+            {
+                "episode_number": 61,
+                "name": "Korin Kulesi",
+                "overview": "Goku kulenin tepesine doğru zorlanır ve orada kedi görünümündeki bilge kedi Karin ile tanışır. Gücünü defalarca katlayacak Süper Kutsal Suyu içmek için Goku'nun, Süper Kutsal Suyu içeren kavanozu Karin-sama'dan çalması gerekiyor! Goku tüm gücüyle Karin-sama'nın peşine düşer ama kavanoza bile dokunamaz!! Karin-sama, Süper Kutsal Suyu içen tek kişinin 300 yıl önce Muten Roshi olduğunu söylüyor. Ancak Karin-sama suyu içmeyi başarmasının üç yıl sürdüğünü söylüyor!!",
+                "air_date": "1987-05-06",
+                "still_path": "/2SRODlEUiZIkcJRZRDDvIrZeiUq.jpg",
+                "video_url": "1115154"
+            },
+            {
+                "episode_number": 62,
+                "name": "Kutsal Su",
+                "overview": "Goku, Karin-sama'nın düşürdüğü Dört Yıldızlı Topu almaya gittikten sonra, Karin Kulesi'ne gidiş-dönüş yolculuğunu üç saatte tamamlıyor, üstelik yukarı ilk tırmandığında bu onun tam bir gününü almıştı! Ayrıca Goku, uyuyan Karin-sama'nın gece boyunca nefes almasını ve hareketini kopyalar ve ardından Karin-sama'nın hareketlerini okuyabilir ve sonunda Süper Kutsal Su kavanozunu elde edebilir. Ama içinde sıradan su mu var? Kavanozu ele geçirme eyleminin kendisinin gücünü kat kat artıran bir eğitim olduğu ortaya çıktı!! O sırada yepyeni kıyafetler alan Tao Pai-pai bir kez daha kutsal topraklara doğru yola çıkar.",
+                "air_date": "1987-05-13",
+                "still_path": "/qrRLMf1pEkGQujiSXTLux5KfFrX.jpg",
+                "video_url": "1115164"
+            },
+            {
+                "episode_number": 63,
+                "name": "Goku'nun Dönüşü",
+                "overview": "Kutsal topraklara gelen Tao Pai-pai, Dört Yıldızlı Balo'nun yerini öğrenmek için Upa'ya saldırır. Tao Pai-pai, hiçbir şey söylemeyen Upa'ya karşı sabrını kaybeder ve onu öldürmeye çalışır, ancak tam o sırada Goku koşarak içeri girer! Goku ve Tao Pai-pai bir kez daha karşı karşıya geliyor! Bu sefer güçlendirilmiş Goku'nun kesin bir avantajı var!! Goku'nun efsanevi Süper Kutsal Su sayesinde daha fazla güç elde ettiğini anlayan Tao Pai-pai, suyu kendisi içmek için kuleye tırmanır. Ancak Goku onu takip etmeye çalışmaz.",
+                "air_date": "1987-05-20",
+                "still_path": "/lyAPVWtA3EKsyxbSYiAXasR4TX.jpg",
+                "video_url": "1115179"
+            },
+            {
+                "episode_number": 64,
+                "name": "Paralı Tao'nun Sonuncusu",
+                "overview": "Karin Kulesi'ne tırmanan Tao Pai-pai, Karin-sama'yı tehdit ederek Süper Kutsal Suyu almaya çalışır. Ancak Karin-sama, Tao Pai-pai'yi başarıyla kandırır ve onu yüzeye geri gönderir! Kutsal topraklara geri indikten sonra Tao Pai-pai şiddetli bir saldırı başlatır, ancak Goku zarar görmez!! Tao Pai-pai solgunlaşır ve bir bomba kullanır, ancak Goku onu geri tekmeler ve Tao Pai-pai kendini havaya uçurur. Dört Ejder Topu'nu topladıktan sonra Goku, kalanları toplamak için Kızıl Kurdele Ordu Karargahı'na uçar!!",
+                "air_date": "1987-05-27",
+                "still_path": "/dgcWepUVwYEDUaTYFWhsY3I89xN.jpg",
+                "video_url": "1115185"
+            },
+            {
+                "episode_number": 65,
+                "name": "Kızıl Kurdele Ordusuyla Yüzleşin",
+                "overview": "Kaptan Violet, Goku'dan çalınan Dragon Radar'ı kullanarak ikinci bir Dragon Ball ile Kızıl Kurdele Ordu Karargahına geri döner. Komutan Red, Tao Pai-pai'nin yenilgisinin farkında değildir ve dört Dragon Balls Goku'dan gelen sinyalin radarda yaklaşmasını sağlarken neşeyle bakar. Bu sırada Goku'nun Kame Evi'ndeki arkadaşları, Bulma'nın keşif mekanizmasını kullanarak Goku'nun hedefinin Kızıl Kurdele Ordusu'nun kalesi olduğunu öğrenir! Goku'yu kurtarmak için Bulma ve diğerleri, Yamcha'nın uçağıyla Kızıl Kurdele Ordusu Karargahına doğru acele ediyor!",
+                "air_date": "1987-06-10",
+                "still_path": "/s577TlgEJlnpypse3Lv9lhxkWYT.jpg",
+                "video_url": "1115188"
+            },
+            {
+                "episode_number": 66,
+                "name": "Gerçek Bir Bağ",
+                "overview": "Goku'nun arkadaşları alışverişe çıkan Kuririn'i alır ve Goku'nun peşine düşer. Hepsi ölmeye hazırlanıyor. Bu sırada Kızıl Kurdele Ordusu yaklaşan sinyalin Tao Pai-pai olmadığını anlar ve Goku'ya karşı genel bir saldırı başlatır! Füzeleri ve savaş uçaklarını deviren Goku, üsse saldırır ve göz açıp kapayıncaya kadar askerlerin neredeyse yarısını yener! Komutan Red, Goku'nun hayal gücünü aşan gücü karşısında dehşete düşüyor!!",
+                "air_date": "1987-06-17",
+                "still_path": "/v7fRkPZt31DTxJnmTqxqzzAOfjV.jpg",
+                "video_url": "1115191"
+            },
+            {
+                "episode_number": 67,
+                "name": "Komutan Red'in Sonu",
+                "overview": "Kızıl Kurdele Ordusu Goku yüzünden yok olmanın eşiğinde. Kaptan Violet kasadaki parayı çalar ve kaçar! Köşeye sıkışan Komutan Red, Siyah'ın yanı sıra Goku'yu da öldürmeye çalışır. Red'in amacının yalnızca Dragon Ball'ları kullanarak kendisini daha uzun boylu yapmak olduğu ortaya çıktı. Hayatta kalan Siyah, Red'i öldürür ve Savaş Ceketi'nde Goku ile yüzleşir! Goku, Ceket'in müthiş gücü yüzünden nakavt oldu ve hareket edemiyor! Öldüreceği kesin bir ışın Goku'yu hedef alıyor!!",
+                "air_date": "1987-06-24",
+                "still_path": "/3uBtEtYul9GpEyPRev7Cb6i3vKA.jpg",
+                "video_url": "1115198"
+            },
+            {
+                "episode_number": 68,
+                "name": "Son Dragon Ball",
+                "overview": "Goku ışından kaçtıktan sonra Siyah, Goku'yu tüm üssüyle birlikte havaya uçurmak için bir füze kullanmaya çalışır, ancak Goku bu füzeyi püskürtür! Siyah kazanma şansının olmadığını anlayıp kaçmaya çalışırken Goku tek darbeyle durumu düzeltir ve Savaş Ceketi patlar! Goku, ormanda saklanıp strateji hazırlayan arkadaşlarıyla yeniden bir araya gelir ve onlar bile onun gücüne hayran kalırlar. Yalnızca bir Dragon Ball kaldı. Ancak bazı nedenlerden dolayı Dragon Radar sinyalini alamıyor.",
+                "air_date": "1987-07-01",
+                "still_path": "/tB7e7urlzVE0lHdEXNVgpVekua3.jpg",
+                "video_url": "1115202"
+            },
+            {
+                "episode_number": 69,
+                "name": "Falcı Baba Kimdir?",
+                "overview": "Goku, Kızıl Kurdele Ordusunu yok etti ama yedinci Dragon Ball'un yerini bulamıyor! Oradan Kaplumbağa Münzevi'nin kendisine bahsettiği falcı Uranai Baba'dan kehanet talep eder. Yolda Goku ve diğerleri Karin Kulesi'ne uğrar ve Upa'yı yanlarında Uranai Baba'nın sarayına götürür! Ancak Uranai Baba'dan kehanet alabilmek için kişinin ya 10 milyon zeni ödemesi ya da beş rakibine karşı verdiği mücadeleyi kazanması gerekiyor! Goku ve diğerleri isteksizce savaşmayı kabul ederler ama...",
+                "air_date": "1987-07-08",
+                "still_path": "/aiSbOBZIRRV5PdjBrVNTz1Tz5ow.jpg",
+                "video_url": "1115209"
+            },
+            {
+                "episode_number": 70,
+                "name": "Biz Beş Savaşçıyız",
+                "overview": "İlk rakip Drakula Adam Kuririn'e meydan okuyor! Kuririn özgüvenle doludur ama Drakula Adamı tarafından başından ısırılır ve kanı emilir! Büyük miktarda kan kaybeden Kuririn, sonunda Drakula Adam'a yenilir. Goku ve diğerleri daha sonra bir strateji üzerinde çalışır ve Upa ile Puar birlikte katılır. Drakula Adam'ı bir vampirin nefret ettiği şeylerle, sarımsak ve haçla havaya uçuruyorlar! Devam ederek bayrağı Yamcha'ya veriyorlar, ancak bir sonraki rakip Bay Görünmez, her şeyin görünmez bir adamı!",
+                "air_date": "1987-07-15",
+                "still_path": "/wB5RvvrG88cWSlZpAiuZdIckFte.jpg",
+                "video_url": "1775671"
+            },
+            {
+                "episode_number": 71,
+                "name": "Ölümcül Savaş",
+                "overview": "Yamcha, rakibi olarak tespit edilemeyen görünmez bir adamla zorlu bir mücadele veriyor! Goku, Kuririn'in Kaplumbağa Münzevi ve Bulma'yı getirmesi talimatını aldıktan sonra geri döner. Kuririn, doğru zamanlama geldiğinde Bulma'nın kıyafetlerini indiriyor ve Bulma'nın göğsünü gören Kaplumbağa Münzevi'nin burnundan kan fışkırıyor! Bu burun kanamasıyla yıkanan görünmez adamın formu belirir ve Yamcha'ya yenilir. Kuririn'in stratejisi kazanıyor! Bu arada savaş alanı “Şeytanlar Tuvaleti”ne taşınıyor!",
+                "air_date": "1987-07-22",
+                "still_path": "/lFR5kcq0cvYlJXmsTKMKZHKidFM.jpg",
+                "video_url": "1115222"
+            },
+            {
+                "episode_number": 72,
+                "name": "Goku'nun Sırası",
+                "overview": "“Şeytan Tuvaleti” iblis heykelleriyle kaplı ve etrafı zehirli bir bataklıkla çevrili! Ortaya çıkacak gizemli üçüncü yarışmacı ise mumya adam Mummy-kun! Ancak görünüşünün aksine Mummy-kun, Yamcha'nınkini aşan ultra güce ve hıza sahiptir. Yamcha kararlılıkla onunla yüzleşir ancak güçlerindeki fark açıkça ortaya çıkar. Hâlâ anlamayan Yamcha sonuna kadar savaşır ama sonunda yenilir! Daha sonra iyi bir mücadele veren Yamcha'nın yerine Goku nihayet sahneye çıkıyor!",
+                "air_date": "1987-07-29",
+                "still_path": "/6lkw6gEa9jJ2xjJ9xm0rSC2ZlvP.jpg",
+                "video_url": "1115232"
+            },
+            {
+                "episode_number": 73,
+                "name": "Devilmite Işını",
+                "overview": "Mummy-kun ve Goku arasındaki mücadele başlıyor. Mummy-kun öfkeyle saldırıyor, ancak Goku'ya karşı tamamen etkisiz! Öfkelenen Mummy-kun, saldırmak için bandajlarını kullanıyor?! Bandajlar tüm vücudunu sarıyor, ancak Goku teslim olmuyor! Hızlıca düşünerek, bandajları kırmak için zehirli bataklığı kullanıyor, sonra Mummy-kun'u tek bir yumrukla yendi! Ortaya çıkan dördüncü kişi şeytan Akkuman! Ancak, Akkuman bile Goku'nun gücüne karşı çaresiz mi?!",
+                "air_date": "1987-08-05",
+                "still_path": "/vRw8Grwok7p0zoVHE3BXiNcCtX8.jpg",
+                "video_url": "1115258"
+            },
+            {
+                "episode_number": 74,
+                "name": "Gizemli Beşinci Adam",
+                "overview": "Akkuman, Goku'nun ezici gücüne karşı çetin bir mücadele verir ve Devil Might Beam'i ateşler. Bu, kişinin kalbi olmadan saklanan küçük kötülüğü sonsuz sayıda çoğaltan ve onların patlamasına neden olan korkunç bir saldırıdır! Goku, Şeytanın Kudreti Işını'yla yıkanıyor ama bir nedenden dolayı bu onda işe yaramıyor! Goku'nun bir şekilde kötü bir kalbe sahip olmadığı ortaya çıktı!! Goku sonunda Akkuman'ı uçurur! Ve sonunda beşinci adam ortaya çıkıyor ama bir nedenden dolayı Goku nostaljik hissediyor.",
+                "air_date": "1987-08-12",
+                "still_path": "/fNA22fMfQ0jxVmyFBghzSA6S0Ol.jpg",
+                "video_url": "1115261"
+            },
+            {
+                "episode_number": 75,
+                "name": "Güçlü Olanlar",
+                "overview": "Tilki maskesi takan beşinci adam sıradan bir insan değil! Nefes kesen bir saldırı-savunma savaşı yaşanıyor!! Ve sonra tilki maskeli adam her şeyden bir Kamehameha'yı ateşliyor! Ancak Goku kaybetmez ve kendi Kamehameha'sıyla ateşe karşılık vererek adamı yere serer! Goku kazanmış gibi göründüğü anda tilki maskeli adam Goku'nun zayıf noktasını, yani kuyruğunu yakalıyor! Bunu gören Kaplumbağa Münzevi, tilki maskeli adamın kimliğini anlar. Rakibin kimliğinin Son Goku'nun ölen üvey büyükbabası Son Gohan olduğunu söylüyor!!",
+                "air_date": "1987-08-19",
+                "still_path": "/uBfU1pkZKtpEmLHUeeRM9ij6VTh.jpg",
+                "video_url": "1115269"
+            },
+            {
+                "episode_number": 76,
+                "name": "Maskeli Adamın Gerçek Renkleri",
+                "overview": "Goku'nun kuyruğunu tutan tilki maskeli adam Goku'yu yere serer! Ama sonra Goku'nun kuyruğu kopar!! Goku karşı saldırıya geçmek üzereyken, zayıflığını kaybetmiş adam hemen teslim olur. Sonuçta kimliği Goku'nun evlat edinen büyükbabası Son Gohan'dı!! Goku onların yeniden bir araya gelmesinden dolayı sevinç duyar! Uranai Baba sayesinde Gohan tek bir günlüğüne öbür dünyadan geri dönebilmiştir. Kısa bir araya gelmenin ardından Gohan bir kez daha öbür dünyaya geri döner!",
+                "air_date": "1987-08-26",
+                "still_path": "/meeCjjDcOhzCPyw7xAXDWZSDI7f.jpg",
+                "video_url": "1115299"
+            },
+            {
+                "episode_number": 77,
+                "name": "Pilavın Taktikleri",
+                "overview": "Uranai Baba'nın yedinci Dragon Ball'un yerini tahmin etmesini sağladıktan sonra Goku, onu bulmak için hemen Kinto'un üzerine yola çıkar. Ancak Dragon Ball'a sahip olanların, daha önce Goku ve diğerlerine zor anlar yaşatan Pilaf ve onun uşakları olduğu ortaya çıktı. Goku, dünyayı yönetmeyi planlayan Pilaf'la Dragon Ball'da bir hesaplaşmaya girer! Pilav, kendi mecha'sı Pilav Makinesi'nde kendinden emin bir şekilde Goku'ya meydan okur. Beklenmedik derecede iyi bir mücadele veriyor ama sonunda kaybediyor! Goku sonunda son Dragon Ball'u elde etti!!",
+                "air_date": "1987-09-02",
+                "still_path": "/s7fefZbiqCGWO8aTUs5ueYLJbxV.jpg",
+                "video_url": "1115304"
+            },
+            {
+                "episode_number": 78,
+                "name": "Ebedi Ejderha Yükseliyor",
+                "overview": "Yedi Ejder Topunu toplayan Goku, Upa ile birlikte Karin Kulesi'ne geri döner. Sonra Goku'nun çağrısına yanıt olarak Shen Long bir kez daha ortaya çıkıyor! Devasa Shen Long'dan korkan Upa hâlâ dileğini söylüyor! Dileği duyan Shen Long, Upa'nın Tao Pai-pai tarafından öldürülen babası Bora'yı hayata döndürür!! Goku, Upa ve babasına veda sözlerini söyler ve ardından arkadaşlarının yanına döner. Daha sonra Kaplumbağa Münzevi'nin tavsiyesi üzerine daha da büyük bir güç arayışına çıkıyor!",
+                "air_date": "1987-09-09",
+                "still_path": "/cNK33G80VkPIrfEXJFoo1CTW8mB.jpg",
+                "video_url": "1115318"
+            },
+            {
+                "episode_number": 79,
+                "name": "Terör ve Veba",
+                "overview": "Kendi eğitim yolculuğuna çıkan Goku, yol boyunca tanıştığı Chao'nun köyünü ziyaret eder. Chao'nun yaşadığı köy, Kinkaku ve Ginkaku adındaki kanun kaçağı kardeşler tarafından rahatsız ediliyor! Goku, Kinkaku ve Ginkaku'yla yüzleşir, ancak adınız çağrıldığında cevap vermezseniz sizi içine çeken gizemli bir su kabağının içinde mühürlenir!! Ancak Goku, Nyoi-Bo sayesinde kurtarılır. Kabağı ikisinden çalıyor ve onları cezalandırıyor!",
+                "air_date": "1987-09-16",
+                "still_path": "/rqtL9tUuO9rvXohsRCZyWfsztS4.jpg",
+                "video_url": "1115321"
+            },
+            {
+                "episode_number": 80,
+                "name": "Goku, Sky Dragon'a Karşı",
+                "overview": "Şehirde eğitim yolculuğuna devam eden Goku, Chin Taiken adında bir dövüş sanatçısından haberdar olur ve önemli bir maçta hasta dövüş sanatçısının yerini alır! Ancak Taiken'in oğlu Shoken, Goku'nun katılması fikrinden hoşlanmaz ve onu müshil içeren yiyeceklerle besler. Hyuga-Ryu'nun ustası Ten Long ile maç başlıyor! Yoğun bir savaş başlar, ancak müshil nedeniyle Goku'nun midesi tuhaf hissetmeye başlar! Ancak maçı kazanmak için bir şekilde buna katlanıyor!!",
+                "air_date": "1987-09-23",
+                "still_path": "/2KJiGSbkAsd6Ct5Ft7m8ooNACuA.jpg",
+                "video_url": "1115332"
+            },
+            {
+                "episode_number": 81,
+                "name": "Goku Şeytan Ülkesine Gidiyor",
+                "overview": "Yolculuğunun ortasında Goku, Şeytanlar Köyü'nün önünden geçiyor! Gece olduğunda, bu dünya ile Şeytan Alemi arasında bulunan Şeytan Alemi Kapısından iblisler ortaya çıkıyor ve köyde çılgınca koşuyorlar! İblisler tarafından kaçırılan Prenses Misa'yı kurtarmak için Goku, Şeytan Diyarı Kapısına girmek üzere yola çıkar!! Şeytan Ülkesi'nin dövüş sanatları ustası Shura ile hesaplaşmanın ardından Goku, Kamehameha ile iblislerin gözlerini kör eder ve onlar hazırlıksız durumdayken Prenses Misa'yı kurtarır! Şeytan Diyarı Kapısı daha sonra Goku tarafından bir kez daha mühürlendi!!",
+                "air_date": "1987-09-30",
+                "still_path": "/sEzMHIcriDBgd7dRDPdtziguu7P.jpg",
+                "video_url": "1115340"
+            },
+            {
+                "episode_number": 82,
+                "name": "Inoshikacho'nun Saldırısı",
+                "overview": "Goku, iki dövüş sanatçısı Tenshinhan ve Chiaotzu'nun, öfkeleri köylüleri rahatsız eden canavar Inoshikacho'yu yendiğini görür. Ancak gerçekte ikili Inoshikacho ile arkadaştı ve hileli bir şekilde köylülerden para alıyordu! Goku, köylüleri gerçek konusunda uyarmaya çalışır ancak bunun yerine suçlanır ve o ve Inoshikacho, köylüler tarafından kovalanır!! Ancak sonunda köylülerin güvensizliği ortadan kalkar ve ıslah edilmiş Inoshikacho onlarla barış içinde yaşamaya başlar.",
+                "air_date": "1987-10-07",
+                "still_path": "/9sb1hrG0oxSIR6ZcUk3S5Dw4Az4.jpg",
+                "video_url": "1775707"
+            },
+            {
+                "episode_number": 83,
+                "name": "Papaya Adasına Hangi Yol?",
+                "overview": "Goku'nun eğitim yolculuğuna çıkmasının üzerinden üç yıl geçti. Bir gün Goku, kötü bir grup tarafından takip edilen tilki çocuk Konkichi'yi kurtarır. Goku'ya minnettar olan Konkichi, Tenkaichi Budokai arazisine gitmek için seyahat ücretini alacağını söylüyor. Ancak Konkichi banka soyguncusu olduğu için tutuklandı! Konkichi, hırsız olmasına rağmen banka soyguncusu olmadığını söyleyerek itiraz ediyor! Konkichi aşkına, Goku gerçek suçluları yakalamak konusunda muhteşem bir iş çıkarıyor!!",
+                "air_date": "1987-10-14",
+                "still_path": "/dmhSNuN3J3Wd4nWE8MdyLA7wo53.jpg",
+                "video_url": "1115362"
+            },
+            {
+                "episode_number": 84,
+                "name": "Rakipler ve Gelenler",
+                "overview": "22. Tenkaichi Budokai nihayet açıldı! Kuririn ve Yamcha turnuva alanına vardıklarında Kaplumbağa Münzevi'nin rakibi Turna Münzevi ve müritleri Chiaotzu ve Tenshinhan önlerinde belirir! Turna Münzevi, korkunç derecede aşağılayıcı şeyler söyledikten sonra ayrılıyor! Bu arada Goku hiçbir yerde bulunamadı ve turnuva kayıtlarının son tarihi neredeyse geldi! Herkesin endişelendiği gibi Goku tam zamanında ortaya çıkıyor!! Arkadaşlar üç yıllık buluşmalarının tadını çıkarıyor!",
+                "air_date": "1987-10-21",
+                "still_path": "/oTQfeQgKdgnGYamLguteRVwaxLJ.jpg",
+                "video_url": "1115367"
+            },
+            {
+                "episode_number": 85,
+                "name": "Ön Tehlike",
+                "overview": "Turnuva ön hazırlıkları başladı! Kuririn ve Yamcha doğal olarak kendi gruplarında ilerliyor. Tenshinhan ve Chiaotzu oraya gelir ve cesur tavırlarıyla onları sinirlendirir. Daha maçlar başlamadan Kaplumbağa Münzevi ile Turna Münzevi'nin öğrencileri arasında kıvılcımlar uçuşuyor. Tenshinhan, ön elemelere ilk çıktığında, dipsiz yeteneğinin sadece küçük bir kısmını sergileyerek kolayca kazandı! Ve sonunda Goku'nun sırası geldi! Rakibi, usta olarak tanınan Kral Chapa!!",
+                "air_date": "1987-10-28",
+                "still_path": "/91DC9b1MPLrlCOUyAnkj8iIvzMC.jpg",
+                "video_url": "1115371"
+            },
+            {
+                "episode_number": 86,
+                "name": "Sonra Sekiz Oldular",
+                "overview": "Goku'nun Kral Chapa'ya karşı maçı başlıyor! Görünüşe göre Goku bile zorlu bir mücadele veriyordu ama Kral Chapa'nın saldırılarını hiçbir şeymiş gibi bir kenara itti ve büyük bir zafer elde etti!! Daha sonra Goku ve diğerleri ön elemelerde ilerleme konusunda başarılı olmaya devam ediyor! Ve önceki turnuvanın şampiyonu Jackie Chun da doğal olarak ilerliyor! Bu arada Tenshinhan, önceki turnuvada yarı finalde Goku'ya karşı mücadele eden Namu'yu acımasızca yener! Goku ve arkadaşları. artı Tenshinhan ve Chiaotzu böylece ana turnuvaya katıldılar!",
+                "air_date": "1987-11-04",
+                "still_path": "/s5aFESGvS7UVSucUyF3WZTZOA1q.jpg",
+                "video_url": "1115389"
+            },
+            {
+                "episode_number": 87,
+                "name": "Yamcha Tien'e Karşı",
+                "overview": "Ana turnuvaya kalmayı başaran sekiz yarışmacı arasından maçın rakiplerini belirlemek için bir kura çekilir. Tenshinhan, maç kombinasyonlarını uygun gördüğü şekilde düzeltmek için Chiaotzu'nun psişik güçlerini kullanıyor! Bu nedenle ilk maç Yamcha ile Tenshinhan'ın maçı olacak!! Yamcha'nın kışkırtıcı Tenshinhan'a karşı olağanüstü bir düşmanlığı var! Maç başladığında, her iki tarafın da bir adım dahi atmadığı, hararetli bir hücum ve savunma savaşına dönüşüyor!!",
+                "air_date": "1987-11-11",
+                "still_path": "/xlzy1Qsi8JGByRYWhGCE3yijbr3.jpg",
+                "video_url": "1115398"
+            },
+            {
+                "episode_number": 88,
+                "name": "Yamcha'nın Büyük Çıkışı",
+                "overview": "Yamcha ve Tenshinhan şiddetli bir şekilde çarpışıyor! Yamcha, Tenshinhan'a karşı Shin Roga fu-fu ken'ini kullanıyor, ancak yavaş yavaş geri itiliyor ve sıkışıyor. Son eli olarak Yamcha bir Kamehameha ateşliyor!! Ancak Tenshinhan, Kamehameha'yı savuşturuyor ve havada sendeleyen Yamcha'yı yeniyor! Dahası, bilincini kaybetmiş Yamcha'ya bitirici bir darbe indiriyor! Goku, soğukkanlı Tenshinhan'a karşı yoğun bir öfkeyle yanıyor!!",
+                "air_date": "1987-11-18",
+                "still_path": "/3G2uLYjiYrDQIu4pkFc7tbBMHIC.jpg",
+                "video_url": "1115407"
+            },
+            {
+                "episode_number": 89,
+                "name": "Dolunay İntikamı",
+                "overview": "İkinci maçta Jackie Chun ile karşı karşıya gelen Manwolf, nedense Jackie'ye kin besliyor gibi görünüyor! Bunun nedeninin Jackie'nin önceki turnuvada Kamehameha ile ayı yok etmesi olduğu ortaya çıktı. Aya baktığında insana dönüşen Mankurt, o tarihten bu yana bir daha insanlığa dönememiştir. Jackie, Manwolf'u kolaylıkla idare eder ve maçı kazanır!! Daha sonra ayın yerine geçmesi için Kuririn'in kafasını seçer ve İnsankurdu yeniden insan haline getirir.",
+                "air_date": "1987-11-25",
+                "still_path": "/7ycnobpM15DlDgEI9jTsgZlDoD9.jpg",
+                "video_url": "1152881"
+            },
+            {
+                "episode_number": 90,
+                "name": "Dodon Dalgası",
+                "overview": "Üçüncü maç Kuririn ve Chiaotzu arasında bir hesaplaşmaya dönüşüyor! Kuririn, Chiaotzu'nun tuhaf teknikleri karşısında şaşkına dönüyor!! Havada özgürce uçan Chiaotzu, suikastçı Tao Pai-pai'nin kullandığı tekniğin aynısı olan bir \"Dodonpa\"yı ateşler! Tao Pai-pai'nin aslında Turna Münzevi'nin küçük erkek kardeşi olduğu ortaya çıktı!! Goku'nun Tao Pai-pai'yi yendiğini öğrenen Turna Münzevi, Chiaotzu'ya Kuririn'i öldürmesini emreder! Köşeye sıkışan Kuririn, Kamehameha kullanmaya karar verir!!",
+                "air_date": "1987-12-02",
+                "still_path": "/shc250jE2bzC4MqBLUj0MOxSmnp.jpg",
+                "video_url": "1152883"
+            },
+            {
+                "episode_number": 91,
+                "name": "Tartışmayı Saymak!!",
+                "overview": "Kuririn'in ateşlediği Kamehameha Chiaotzu'ya kafa kafaya çarptı! Öfkelenen Chiaotzu, Kuririn'in hareket etmesini engellemek için psişik güçlerini kullanır ve ona saldırır! Ancak Kuririn, Chiaotzu'nun psişik güçlerini elleri aracılığıyla serbest bıraktığını fark eder ve anında bir matematik sorusu sorar! Daha sonra Chiaotzu hesaplamaları yapmak için ellerini kullanmaya çalışırken Chiaotzu'yu yener!! O gece Goku, Turna Münzevi'nin saldırısına uğrar! Ancak Tenshinhan içeri girer ve onu durdurur ve maçlarında Goku'yu yeneceğine yemin eder!!",
+                "air_date": "1987-12-09",
+                "still_path": "/mzFJUpIOpsZQTQyq3ZBleXupHMP.jpg",
+                "video_url": "1152884"
+            },
+            {
+                "episode_number": 92,
+                "name": "Goku Yüzüğe Giriyor",
+                "overview": "Sonunda Goku'nun sırası geldi! Rakibi popüler aksiyon yıldızı yarışmacı Panputto! Ancak Panputto'nun menajeri Goku'nun gücünden korkuyor ve maçtan hemen önce Goku'yu kandırıp onu götürüyor! Goku, varsayılan olarak kaybetmenin eşiğindeyken, Lunch'ın yardımıyla maça zamanında gelmeyi zar zor başarıyor! Daha sonra maç başlıyor ve Goku göz açıp kapayıncaya kadar kazanıyor! Goku zaten sıradan bir insanın seviyesinin üzerinde bir güç elde etti!!",
+                "air_date": "1987-12-16",
+                "still_path": "/hT1sptLWvwcOKeajfQrM0eTis0o.jpg",
+                "video_url": "1152885"
+            },
+            {
+                "episode_number": 93,
+                "name": "Tien Shinhan, Jackie Chun'a Karşı",
+                "overview": "Yarı finallerin ilk maçı Jackie Chun ile Tenshinhan'ın karşılaşmasıyla sona erdi! Maçtan önce ikisi de şiddetli bir dövüş ruhuyla yanıyor!! Daha sonra maç başlıyor! Jackie çok katlı bir Zanzouken kullanıyor, ancak Tenshinhan bunu muhteşem bir şekilde aşıyor!! Jackie'yi hafife alan Tenshinhan, onun gücü karşısında şaşkına dönüyor! Bu sırada Tenshinhan'ın hayal ettiğinden daha büyük bir güce sahip olduğunu gören Jackie, yeni bir çağın geldiğini hissetmeye başlar!!",
+                "air_date": "1987-12-23",
+                "still_path": "/3tRN4u1w50OZzZzDn4CrXbeqDPs.jpg",
+                "video_url": "1152888"
+            },
+            {
+                "episode_number": 94,
+                "name": "Geri Adım Atmak",
+                "overview": "Jackie ile Tenshinhan'ın ateşli, beyaz-ateşli maçı! Tenshinhan ciddileşiyor ve Taiyou-ken'i kullanıyor! Flaştan irkilen Jackie, bir diz tekmesiyle yere seriliyor! Jackie, tekrar ayağa kalktıktan sonra Tenshinhan'ı doğru yolda yürümeye ikna etmeye çalışıyor. Ancak Tenshinhan, Jackie'nin Kaplumbağa Keşişi olduğunu anlıyor ve her şeyden önce bir Kamehameha atıyor! Jackie, Kamehameha'yı savuşturuyor ve arenadan aşağı atlıyor, isteyerek sınırların dışında bir yenilgi alıyor!",
+                "air_date": "1987-12-30",
+                "still_path": "/lDDfR0JhrjgMKlAj6H4Zaa740lq.jpg",
+                "video_url": "1152889"
+            },
+            {
+                "episode_number": 95,
+                "name": "Goku, Krillin'e Karşı",
+                "overview": "Jackie'nin saha dışı mağlubiyetini kazanan Tenshinhan, ne olduğunu anlayamıyor! Daha sonra Kaplumbağa Münzevi ile isteyerek buluşur ve ona nedenleri hakkında sorular sorar! Kaplumbağa Münzevi, çağı yavaş yavaş genç kahramanlara devretme zamanının geldiği için böyle olduğunu söylüyor. Daha sonra yine Tenshinhan'ı gerçek yolda yürümeye ikna etmeye çalışır. Tenshinhan'ın kalbi yavaş yavaş atmaya başladı. Turnuva sahasında Goku ve Kuririn'in ilk dövüşü başladı! İkili tam güçle savaşıyor, geri durmuyor!!",
+                "air_date": "1988-01-06",
+                "still_path": "/yCYBUbMwk3v7X32IoMb6Xlp3fZ1.jpg",
+                "video_url": "1152891"
+            },
+            {
+                "episode_number": 96,
+                "name": "Tail'in Hikayesi",
+                "overview": "Yarı finalde hiçbir tarafın bir santim bile taviz vermediği bir mücadele başlıyor! Kuririn son seferden bu yana çok daha fazla büyüdü, ancak Goku bundan bile daha güçlü oldu!! Kuririn yavaş yavaş geri itilmeye başladıkça, bir açıktan yararlanıyor ve Goku'nun zayıf noktası olan kuyruğunu yakalıyor! Ancak bu, eğitimi sırasında kuyruğunu bile güçlendiren Goku'yu etkilemiyor!! Goku o kadar yüksek hızlarda hareket ediyor ki görülemiyor ve Kuririn'e saldırıyor, onu arenadan düşürüyor ve maçı kazanıyor!!",
+                "air_date": "1988-01-13",
+                "still_path": "/8RNszQuwgGCzaarWUfIOOHFpbMk.jpg",
+                "video_url": "1152892"
+            },
+            {
+                "episode_number": 97,
+                "name": "Final Maçı: Goku, Tien'e Karşı",
+                "overview": "Nihayet final sabahı gelip çatıyor. Maçı izlemeye çalışan insanlarla dolup taşan turnuva alanında büyük bir yaygara var! Bunu gören Goku, savaşma ruhuyla yanıyor!! Bu sırada Tenshinhan, Kaplumbağa Münzevi'nin sözlerinden etkilenir ve sanki belirsizliğini durdurmak istermiş gibi arenaya doğru yola çıkar. Ve nihayet final turu başlıyor! Maç başladığında ikili hemen büyük, yoğun bir savaşa giriyor!! Ancak Tenshinhan, Goku'nun dövüş stilini anladı ve sanki Goku'ya bir yanıt vermesi için baskı yapıyormuş gibi saldırıyor. Goku büyük bir sıkıntı içinde!!",
+                "air_date": "1988-01-20",
+                "still_path": "/68EZiCMq85w4OOztZyfneKfQriL.jpg",
+                "video_url": "1152893"
+            },
+            {
+                "episode_number": 98,
+                "name": "Zaferin Kenarı",
+                "overview": "Tenshinhan, Goku'yu yere yıkmak için gizli tekniği Haikyu-ken'i kullanıyor! Ancak Goku kolayca ayağa kalkar ve maçlar için kullandığı güçle değil, savaş için kullandığı güçle Tenshinhan'la yüzleşir! Teknikleri öfkeyle birbirlerine çarpıyor! Goku'nun Zanzouken'i etkili ve Tenshinhan yenildi!! Tenshinhan daha da gizli tekniği olan Taiyou-Ken'i kullanır, ancak Goku buna güneş gözlüğüyle karşılık verir ve onun yerine devrilecek olan Tenshinhan olur! İkili son derece yoğun karşılaşmalarına devam ediyor ama Goku'nun durumu aniden garipleşiyor!!",
+                "air_date": "1988-01-27",
+                "still_path": "/hLP8dmdPUJFybWapDabV1hXnt7n.jpg",
+                "video_url": "1152894"
+            },
+            {
+                "episode_number": 99,
+                "name": "Tien'in İsyanı",
+                "overview": "Goku aniden vücudunu hareket ettiremez hale geldi! Bu Chiaotzu'nun psişik güçlerinden kaynaklanıyor!! Goku'nun hareketini Turna Münzevi'nin emriyle mühürledi. Ancak Tenshinhan, Turna Münzevi'nin hilesini anlar ve buna bir son verir! Uygun bir dövüş sanatçısının kalbi Tenshinhan'da filizlendi!! Turna Münzevi öfkeden deliye dönmüştür, ancak Kaplumbağa Münzevi'nin Kamehameha'sı onu uzağa fırlatır. Ve bu sefer kesinlikle Goku ve Tenshinhan'ın zorlu maçı başlıyor!!",
+                "air_date": "1988-02-03",
+                "still_path": "/iWKn4bVL3jgYbht1BzP5UPh7zBO.jpg",
+                "video_url": "1152895"
+            },
+            {
+                "episode_number": 100,
+                "name": "Ruh Topu",
+                "overview": "Goku'nun yeteneğini test etmek için Tenshinhan, daha da gizli olan tekniği Shiyou-ken'i kullanıyor! Sırtından iki kol çıkıyor ve Tenshinhan dört koluyla da saldırıyor!! Ancak Goku gözünü bile kırpmadan saldırısına devam ediyor! Tenshinhan, maçın sonucunu belirlemek için en büyük gizli tekniği olan Kikouhou'yu (Enerji Topu) kullanmaya karar verir! Bu, Kamehameha'dan kat kat daha büyük yıkıcı güce sahip korkunç bir tekniktir! Arena daha sonra Kikouhou tarafından tamamen havaya uçuruldu!",
+                "air_date": "1988-02-10",
+                "still_path": "/Ihr9GpVCIzd8gRJGs3aes7xpIl.jpg",
+                "video_url": "1152896"
+            },
+            {
+                "episode_number": 101,
+                "name": "Düşmüş",
+                "overview": "Kikouhou her iki savaşçıyı da yorgun ve bitkin bıraktı. Tüm enerjileri tükenen ve Kikouhou tarafından sahne yok edilen Tenshinhan ve Goku, Dünya'ya doğru düşüyor ve ilk yere inen maçı kaybediyor! Bugün yeni bir Şampiyon taçlandırılıyor!",
+                "air_date": "1988-02-17",
+                "still_path": "/jnOfAnd8lIep1j0Hy3DADQjuuuB.jpg",
+                "video_url": "1775971"
+            },
+            {
+                "episode_number": 102,
+                "name": "Kral Piccolo'ya Girin",
+                "overview": "Kuririn öldü! Goku intikam arayışına çıkarken arkadaşları Kuririn'in katilinin kimliğini öğrenmeye çalışır. Tüm ipuçları Kaplumbağa Münzevi'nin geçmişine ve dünyayı yok edebilecek bir kötülüğe götürüyor!",
+                "air_date": "1988-02-24",
+                "still_path": "/5QOZG5Y3iRuiwMuqMHZI2dZVABz.jpg",
+                "video_url": "1777192"
+            },
+            {
+                "episode_number": 103,
+                "name": "Tef Saldırıları!",
+                "overview": "Piccolo Daimao, gücünü yeniden kazanmak ve dünyayı ele geçirmek için uğursuz planına başladı. Tek ihtiyacı olan yedi Dragon Ball ve tüm Tenkaichi Budokai katılımcılarının ölmesi.",
+                "air_date": "1988-03-02",
+                "still_path": "/a1ay6IKrXSLxTPBEuw5v4lbNIgC.jpg",
+                "video_url": "1775973"
+            },
+            {
+                "episode_number": 104,
+                "name": "Şeytanın İşareti",
+                "overview": "Kötü Piccolo Daimao, planını bozabilecek tüm savaşçıları öldürmesi için adamı Tambourine'i gönderir. Kuririn'in ölümünün intikamını almak isteyen Goku, Tambourine tarafından yenilir ve ortada kalır. Garip bir dağ adamıyla karşılaşır - ama o dost mudur yoksa düşman mıdır?",
+                "air_date": "1988-03-09",
+                "still_path": "/wPofZiA0KqqL2ZZJoj2VBC6SP7c.jpg",
+                "video_url": "1775976"
+            },
+            {
+                "episode_number": 105,
+                "name": "İşte Yajirobe Geliyor",
+                "overview": "Vahşi doğada kaybolan Goku, bir dağ çocuğu tarafından balıklarını çalmakla suçlandıktan sonra onuru için savaşır. Bu arada, Kaplumbağa Keşişi ve arkadaşları Piccolo Daimao'nun Ejderha Toplarını ele geçirmesini ve tüm dövüş sanatçılarını yok etmesini engellemenin bir yolunu umutsuzca ararlar!",
+                "air_date": "1988-03-16",
+                "still_path": "/1FtsiakZLdH8sMez3GuDWS6W3JF.jpg",
+                "video_url": "1775977"
+            },
+            {
+                "episode_number": 106,
+                "name": "Korkunç Tef",
+                "overview": "Tef, sekizinci kurban Yamcha'ya gözünü dikerek dövüş sanatçılarını arama ve katletme kampanyasına devam ediyor! Kaplumbağa Münzevi, rakipleri Piccolo Daimao ve onun korkak sürüsünün önünde kalmaya çalışırken Tenshinhan ve Chiaotzu'yu Dragon Balls için kros yarışına çıkarır. Bu arada Goku, dağ çocuğu Yajirobe'yi Kuririn'i kurtarmaya yardım etmesi için Dragon Ball'u vermeye ikna etmeye çalışıyor!",
+                "air_date": "1988-03-23",
+                "still_path": "/2XCxQtTCqSFcFWwtC4hvVoLM83V.jpg",
+                "video_url": "1775981"
+            },
+            {
+                "episode_number": 107,
+                "name": "Tien'in Kefareti",
+                "overview": "Tambourine, Goku ve Yajirobe'ye yaklaşırken iki savaşçı birbirlerinin ülke çapındaki kovalamacasına girişir. Bu arada, bir Dragon Ball elde etmek için Tenshinhan önce geçmişindeki vahşetin kefaretini ödemelidir.",
+                "air_date": "1988-04-06",
+                "still_path": "/2Sae07okQjNA1wM73i0TUDYRaoT.jpg",
+                "video_url": "1775989"
+            },
+            {
+                "episode_number": 108,
+                "name": "Goku'nun İntikamı",
+                "overview": "Goku ve Tambourine arasındaki son hesaplaşma burada! Goku, Kuririn'in ölümünün intikamını almak için savaşırken Kaplumbağa Münzevi, Tenshinhan ve Chiaotzu, Dragon Balls için Piccolo Daimao'ya karşı yarışlarına devam eder. Ancak Piccolo Daimao, Cymbal'ın ölümünden sorumlu olanları yakalamaya çalışıyor ve iz onu Goku'ya götürüyor!",
+                "air_date": "1988-04-13",
+                "still_path": "/a1PoINbzypFHJrNBi4WDsJll4m3.jpg",
+                "video_url": "1775990"
+            },
+            {
+                "episode_number": 109,
+                "name": "Goku, Kral Piccolo'ya Karşı",
+                "overview": "Son Goku, Piccolo Daimao'nun gazabıyla yüzleşirken tek başına ayakta durmak zorundadır. Yardım almadan ve Tek Yıldızlı Dragon Ball'u koruyan Goku, alçak uzaylı, değerli askerlerinden ikisi olan Cymbal ve Tambourine'in ölümlerinin intikamını alırken hayatını savunuyor. Kaplumbağa Münzevi, Üç Yıldızlı baloyu ararken kendini bir kaya ile sert bir yer arasında bulur.",
+                "air_date": "1988-04-20",
+                "still_path": "/9gVMI3dhH9RS82VYj1zjblBNVY5.jpg",
+                "video_url": "1775991"
+            },
+            {
+                "episode_number": 110,
+                "name": "Piccolo Kapanıyor",
+                "overview": "Yorgun, yaralı ve yalnız Goku, görünüşte yok edilemez Piccolo Daimao'ya karşı son bir direniş gösterir. Kaplumbağa Keşişi ve diğerleri Ejder Toplarını takip etmeye devam ederken, izlerin Piccolo Daimao'nun karanlık güçlerine ve kahramanlarımız için kıyamet gününe gittiği anlaşılır.",
+                "air_date": "1988-05-04",
+                "still_path": "/fXWUrCyfGevUFzPs3AgbCnODEH5.jpg",
+                "video_url": "1115203"
+            },
+            {
+                "episode_number": 111,
+                "name": "Roshi'nin Gambiti",
+                "overview": "Piccolo Daimao dördüncü Ebedi Ejderhayı seçmeyi başarırsa küresel yıkım bir dilek uzağınızda. Kaplumbağa Münzevi, bir kahraman çağrısına kendisini yaratıkla geri kalan Dragon Ball'ların arasına yerleştirerek yanıt verir. Ancak dünyayı kurtarma girişiminde en büyük bedeli ödeyebilir.",
+                "air_date": "1988-05-11",
+                "still_path": "/vIFRzbPRXKHqu7wevLYtGr7wNmC.jpg",
+                "video_url": "1775993"
+            },
+            {
+                "episode_number": 112,
+                "name": "Kral Piccolo'nun Dileği",
+                "overview": "Piccolo Daimao, Ebedi Ejderha'yı çağırdı. Kaplumbağa Keşişi yere düştü, Tenshinhan ayağa kalkamıyor ve Chiaotzu korkudan kaskatı kesildi. Kendisine karşı koyacak kimsesi olmayan Piccolo Daimao, eğer gerçekleşirse dünyanın en büyük kabusu olabilecek bir dilek tutmaya hazırlanıyor!",
+                "air_date": "1988-05-18",
+                "still_path": "/qDJ2c0evVjEBsdGJa049l1qX8jN.jpg",
+                "video_url": "1775995"
+            },
+            {
+                "episode_number": 113,
+                "name": "Chow Kalesi Kuşatması",
+                "overview": "İstila başladı! Genç Piccolo Daimao, dünyayı bölge bölge fethetmek için yola çıkıyor ve Kral'ın diyarının barışçıl sakinleriyle yola çıkıyor! Bu arada Goku, bitkin ve zayıf bir halde tırmanabilirse Karin Kulesi'ni ziyaret ederek gücünü yeniden kazanmayı umuyor.",
+                "air_date": "1988-05-25",
+                "still_path": "/xuAN1nrn26R5oNWnZCVqNeINLEA.jpg",
+                "video_url": "1775996"
+            },
+            {
+                "episode_number": 114,
+                "name": "Fetih ve Güç",
+                "overview": "Goku'nun Karin'le yeniden bir araya gelmesi umut ve hayal kırıklığıyla doludur ve kahraman şok edici bir haber alır! Bu arada Tenshinhan, Mafuba'nın sırrını öğrenmek için uzun bir yolculuğa hazırlanırken Piccolo Daimao, krallığına ve tebaasına karşı korkunç bir vahşet sergileyerek Kral'ı itaat etmeye zorlamaya çalışır.",
+                "air_date": "1988-06-01",
+                "still_path": "/fDLEBNC1H4BJfUk8VlSa48xaWpN.jpg",
+                "video_url": "1115233"
+            },
+            {
+                "episode_number": 115,
+                "name": "Karanlığı Uyandır",
+                "overview": "Aşağıdaki soğuk, koyu siyahta bir şeyler kıpırdanıyor. Buzun altındaki boş bir mağaradan inliyor. Karanlık yaşıyor! Ve Süper Ruh Suyu'nu bulmak için tehlikeli bir göreve çıkan Goku'yu çağırıyor. Bir yudum inanılmaz bir güç ya da acı verici bir ölüm anlamına gelebilir!",
+                "air_date": "1988-06-15",
+                "still_path": "/6M1UW0TjnilzphKad7b20FhXciH.jpg",
+                "video_url": "1775998"
+            },
+            {
+                "episode_number": 116,
+                "name": "Kaderin Tadı",
+                "overview": "Goku ve Yajirobe, ya büyük güç ya da ölüm verecek mistik bir içecek olan Süper Ruh Suyu'nu ararlar. Ancak Goku sonunda Süper Ruh Suyu'nun koruyucusu olan Karanlık'ı bulduğunda sürprizler birbirini izler. Goku kendini layık olduğunu kanıtladıktan sonra Karanlık, onun tehlikeli iksiri içmesine izin verir. Ancak güçlenecek mi yoksa yok olacak mı?",
+                "air_date": "1988-06-22",
+                "still_path": "/egjbr65n3dw9pxwnUnVEyX0SFq6.jpg",
+                "video_url": "1115246"
+            },
+            {
+                "episode_number": 117,
+                "name": "Nihai Kurban",
+                "overview": "Tenshinhan, Mafuba'da ustalaşır ve onu kötü Piccolo Daimao'ya karşı kullanmaya karar verir. Bir sorun var: Eğer bir rakibe karşı kullanılırsa Mafuba kullanıcısını öldürecektir! Bu sırada Goku ve Yajirobe, Goku'nun yeni güçlerini keşfettiği ve kendisine başka bir Kinto'un verildiği Karin Kulesi'ne geri döner. Goku, Tenshinhan kendini feda etmeden önce Piccolo Daimao'ya ulaşabilecek mi?",
+                "air_date": "1988-06-29",
+                "still_path": "/tYsEsVpZIgzEaRUCz4Hjq2HR7b9.jpg",
+                "video_url": "1776002"
+            },
+            {
+                "episode_number": 118,
+                "name": "İntikamın Başlangıcı",
+                "overview": "Piccolo Daimao, her seferinde bir sektör olmak üzere dünyanın yok edileceğini ilan etti. İlk olarak Bulma'nın ebeveynlerinin evi olan Metro West. Mafuba'da ustalaşan Tenshinhan, Piccolo Daimao ile savaşmaya hazırlanır, ancak yeni bir tehdit herkesi tehdit etmektedir. Goku yardım teklif etmek için yarışıyor ama çok mu geç olacak?",
+                "air_date": "1988-07-06",
+                "still_path": "/pRSr0lMxYd0gMnQi62YpYp8dIfX.jpg",
+                "video_url": "1776003"
+            },
+            {
+                "episode_number": 119,
+                "name": "Savaş Narası",
+                "overview": "Kasabada yeni bir canavar var ve adı Drum. Tenshinhan'ın Piccolo Daimao ile savaşabilmesi için önce onun üstesinden gelmesi gerekiyor. Sorun şu ki, Drum Tenshinhan'ın gözlerinden daha hızlı hareket ediyor; üçü de! Goku yolda ama günü kurtaracak kadar zamanında varabilecek mi?",
+                "air_date": "1988-07-20",
+                "still_path": "/5OvqUiYIhzjCsdqL9OFsfszxTgH.jpg",
+                "video_url": "1776004"
+            },
+            {
+                "episode_number": 120,
+                "name": "Goku Karşılık Veriyor",
+                "overview": "Goku, Piccolo Daimao ile karşı karşıya gelecek ve çok da erken değil! Tenshinhan ve direnişin geri kalanı en çaresiz anlarını yaşarken Piccolo Daimao ile Metro West'in yok edilmesi arasında yalnızca Goku duruyor. Bu bir rövanş maçından daha fazlası, dünyayı kurtarma savaşı!",
+                "air_date": "1988-07-27",
+                "still_path": "/ArItjBYpfKNJK4z8HvRFk1CTdZB.jpg",
+                "video_url": "1776005"
+            },
+            {
+                "episode_number": 121,
+                "name": "En Büyük Kriz",
+                "overview": "Piccolo Daimao, Kral Kalesi'ni işgal ettiğinde tüm Metro West'i tedirgin eder, ancak Goku onun kavga etmeden yönetimi ele geçirmesine izin vermeyecektir. Tenshinhan kenardan izlerken genç savaşçı çenesine takıyor ve aşağı inmeyi reddediyor. Bu şiddetli bir savaş ama Goku'nun bile sınırları var. Ne kadar alabilir?",
+                "air_date": "1988-08-03",
+                "still_path": "/5uvZ6GHbWNpiCeDw1wBBlNo7pIg.jpg",
+                "video_url": "1115344"
+            },
+            {
+                "episode_number": 122,
+                "name": "Son Hesaplaşma",
+                "overview": "Goku ile Piccolo Daimao arasındaki şiddetli savaş devam eder, ancak Piccolo, Goku'yu parça parça parçalayarak avantaj elde eder. Daha da kötüsü Tenshinhan savaşta piyon olarak kullanılıyor. Goku berbat bir seçim yapmak zorunda kalır. Piccolo Daimao'ya teslim olup arkadaşını mı kurtaracak yoksa savaşıp kendi hayatını riske atmayı mı seçecek?",
+                "air_date": "1988-08-10",
+                "still_path": "/k7DYZvSP9QZHTmID8dOpVNBOmle.jpg",
+                "video_url": "1152929"
+            },
+            {
+                "episode_number": 123,
+                "name": "Kayıp Eşya Bürosu",
+                "overview": "Piccolo Daimao'nun terör saltanatı sona erdiğinde Goku'nun yaralarını sarmak için zamanı olur. İyileştikçe kayıp arkadaşlarını yeniden canlandırmanın bir yolu olabileceğini öğrenir: Dragon Balls'un yaratıcısıyla yüz yüze görüşmek! Tek sorun, gizemli Tanrı'ya ulaşmanın tek yolunun Nyoi-bo'sunu kullanmak olması ve Nyoi-bo'nun kaybolmasıdır!",
+                "air_date": "1988-08-17",
+                "still_path": "/fCpglBIGL1CUjl1OaGqugRT7sQE.jpg",
+                "video_url": "1115352"
+            },
+            {
+                "episode_number": 124,
+                "name": "Bulutların Üstündeki Tapınak",
+                "overview": "Goku, kaybettiği Nyoi-bo'yu bulur ve onu Tanrı'nın gökyüzündeki tapınağına tırmanmak için kullanır. Tek sorun, geldiğinde Tanrı'nın yardımcısı Bay Popo ile bir güç sınavına girmek zorunda olmasıdır. Goku bu testi geçmek ve gizemli Tanrı ile buluşmayı hak etmek için gerekenlere sahip mi?",
+                "air_date": "1988-08-24",
+                "still_path": "/vjzIHgk2Cf2T5MwEnkdAem4x8Go.jpg",
+                "video_url": "1115361"
+            },
+            {
+                "episode_number": 125,
+                "name": "Dünya'nın Koruyucusu Ortaya Çıkıyor",
+                "overview": "Goku'nun muhteşem Tanrı, Dünyanın Koruyucusu ile yüz yüze gelme anı geldi! Ancak bilge Karin bile Goku'yu gizemli Muhafız ortaya çıktığında göreceklerine hazırlayamadı!",
+                "air_date": "1988-08-31",
+                "still_path": "/iSHzMu9d8RqFSAdNOmcY2S8Q56z.jpg",
+                "video_url": "1115377"
+            },
+            {
+                "episode_number": 126,
+                "name": "Ebedi Ejderha Dirildi",
+                "overview": "Goku'nun Tanrı'yı ​​kötü adam Piccolo Daimao ile karıştırmasının ardından genç savaşçının bir sonraki Tenkaichi Budokai için üç yıllık zorlu eğitimine başlama zamanı gelir. Goku'nun vaadi karşılığında Tanrı, Ebedi Ejderhayı diriltmeyi kabul eder!",
+                "air_date": "1988-09-14",
+                "still_path": "/AbqXZFagKgVekYtGRbQ2WbRtdb6.jpg",
+                "video_url": "1115383"
+            },
+            {
+                "episode_number": 127,
+                "name": "Yıldırımdan Daha Hızlı",
+                "overview": "Goku'nun yeni öğretmeninin yönetimindeki ilk görevi, efsanevi Kutsal Tacı almak için Thunder Dağı'nın zirvesine çıkmak, ölüme meydan okuyan bir görevdir. Ancak mistik eserin ölümcül bir sırrı var! Goku'nun bu görevi canlı olarak başarabilmesi için şimşekten daha hızlı olması gerekecek!",
+                "air_date": "1988-09-21",
+                "still_path": "/lRTomJUEgo9KvJbiafANtTwDdG9.jpg",
+                "video_url": "1115395"
+            },
+            {
+                "episode_number": 128,
+                "name": "Ormanın Sırrı",
+                "overview": "Eğitimine devam eden Goku, Bay Popo'nun talimatına uyar ve derin, karanlık ormana girer. Goku, değerli bir idman arkadaşı ararken, gözlerden uzak labirentin derinliklerinde gizlenmiş şaşırtıcı bir keşifle karşılaşır ve çok beklenmedik bir şekilde yardım bulur!",
+                "air_date": "1988-09-28",
+                "still_path": "/roV687lQm7tbkRQe7pb3qtKbMcM.jpg",
+                "video_url": "1115399"
+            },
+            {
+                "episode_number": 129,
+                "name": "Zaman Odası",
+                "overview": "Goku, genç Muten Roshi ile tanıştığı zamanda yolculuk yapar! Ancak Roshi'nin de kendine ait bir sorunu vardır - baş rakibi Shen! İki rakip aynı kızın sevgisini kazanmak için savaşırken, Goku Mutaito'nun yardımıyla yeni bir güç dener.",
+                "air_date": "1988-10-12",
+                "still_path": "/zbHCUODDC3UdYXfXGpbpAXpGnSE.jpg",
+                "video_url": "1115409"
+            },
+            {
+                "episode_number": 130,
+                "name": "Goku'nun Bebeği",
+                "overview": "\"Ne dilediğine dikkat et. Onu elde edebilirsin!\" Goku, Bay Popo'dan eğitimine yardımcı olacak en iyi idman arkadaşını istediğinde bu dersi zor yoldan öğrenir. Aldığı şey hayatının savaşıdır! Bu sırada Yamcha ve diğerleri, bilge Üstad'dan eğitim alma umuduyla Karin Kulesi'ne ulaşmak için uzun yolculuklarına devam ederler.",
+                "air_date": "1988-10-19",
+                "still_path": "/htdslsvzU8OIgnzHYltOQKoAOKH.jpg",
+                "video_url": "1115418"
+            },
+            {
+                "episode_number": 131,
+                "name": "Kendi Yollarında Yürümek",
+                "overview": "Tenkaichi Budokai'ye hazırlanan Goku, Bay Popo'dan bazı önemli eğitim ipuçları alır. Bu arada Tenshinhan, Yamcha, Chiaotzu ve Kuririn de kendi eğitimleri için Karin Kulesi'ne doğru yola çıkarlar. Ne yazık ki, dağ ruhları için gizemli bir festival kutlayan bir köy onları şaşırtır. Dağ patladığında aktif yanardağı kapatmak kahramanlarımıza kalmış!",
+                "air_date": "1988-10-26",
+                "still_path": "/9YU6t3lDMookALHMihGEyu5Lp2M.jpg",
+                "video_url": "1115424"
+            },
+            {
+                "episode_number": 132,
+                "name": "Lavdan Daha Sıcak",
+                "overview": "Goku eğitimine devam ederken Tenshinhan, Yamcha, Chiaotzu ve Kuririn kendilerini çok sıcak bir durumda bulurlar! Uzak bir köy, patlayan bir yanardağ tehlikesiyle karşı karşıyadır ve bunu durdurmak iyi adamların elindedir. Yeni eğitimlerini test etme zamanı geldi!",
+                "air_date": "1988-11-02",
+                "still_path": "/iKIfXvW3hXMf36d5dtQ6xcsUqYS.jpg",
+                "video_url": "1115429"
+            },
+            {
+                "episode_number": 133,
+                "name": "Değişiklikler",
+                "overview": "Tenkaichi Budokai yola çıkmaya hazırlanırken dünyanın dört bir yanındaki savaşçılar rekabet etmek için sıraya giriyor. Maalesef Goku da dahil olmak üzere Kaplumbağa Münzevi'nin tüm öğrencileri kayıp. Son giriş tarihi yaklaşırken kahramanlarımızın rekabetçi geleceği, Muten Roshi'nin sabrı gibi kasvetli görünüyor.",
+                "air_date": "1988-11-09",
+                "still_path": "/hMQBwKDfz25qKT5BJcKKWN1qCp3.jpg",
+                "video_url": "1115440"
+            },
+            {
+                "episode_number": 134,
+                "name": "Ön Tehlike",
+                "overview": "Goku ve diğerleri heyecan verici ön turda yarışırken Tenkaichi Budokai başlıyor. Ancak Goku'nun eski bir düşmanı ziyarete geldiğinde rekabet çirkinleşme tehlikesiyle karşı karşıya kalır.",
+                "air_date": "1988-11-16",
+                "still_path": "/kt4XD7V1ZEZ31gihaY1FzOD48vM.jpg",
+                "video_url": "1115446"
+            },
+            {
+                "episode_number": 135,
+                "name": "Sekizlerin Savaşı",
+                "overview": "Goku, Yamcha, Kuririn ve Tenshinhan, yarı final turuna çıkma umuduyla birbiri ardına rakiplerle savaşırken ön tur devam ediyor. Bu sırada Kaplumbağa Münzevi eski bir rakiple karşı karşıya kalır.",
+                "air_date": "1988-11-23",
+                "still_path": "/oZnD8kuXP0JQJFJzx6B7UTjGwQG.jpg",
+                "video_url": "1115463"
+            },
+            {
+                "episode_number": 136,
+                "name": "Tien Shinhan, Paralı Tao'ya Karşı",
+                "overview": "Tenshinhan, cyborg'a dönüşen eski akıl hocası Tao Pai Pai ile savaşırken Budokai yola çıkıyor. Eski suikastçı Tenshinhan'ı kalıcı olarak devirmeye çalışırken gerilim artıyor!",
+                "air_date": "1988-11-30",
+                "still_path": "/fNSNWPLVBhrVvipoCIqwTH7vVF4.jpg",
+                "video_url": "1152948"
+            },
+            {
+                "episode_number": 137,
+                "name": "İsimsiz Teklif",
+                "overview": "Goku, Tenkaichi Budokai'nin ikinci maçında şimdiye kadarki en sevimli rakibiyle karşılaşır. Sadece Anonim olarak bilinen güzel savaşçının kimliği de, gerçek adını öğrenmek için maçı kazanması gereken Goku'ya duyduğu şiddetli öfke kadar gizemlidir.",
+                "air_date": "1988-12-07",
+                "still_path": "/d6ZAK3SnNZHlfkWjoFkvclbNu26.jpg",
+                "video_url": "1115484"
+            },
+            {
+                "episode_number": 138,
+                "name": "Gizemli Kahraman",
+                "overview": "Budokai çift kafa vuruşuyla devam ediyor! İlk olarak Kuririn, Piccolo Daimao'nun ikinci kişiliği ve onun kadar güçlü olan Ma Junior ile savaşır. Daha sonra Yamcha ringe atlıyor ve uysal görünümü daha karanlık bir tehdidi gizleyebilecek Shen'e karşı çıkıyor.",
+                "air_date": "1988-12-14",
+                "still_path": "/8LabH3Vs9MVyjsljZCbfESoGuVy.jpg",
+                "video_url": "1115490"
+            },
+            {
+                "episode_number": 139,
+                "name": "Rövanş",
+                "overview": "Yamcha, Shen gerçek yeteneğini ve kimliğini ortaya koyarken ringde kalmak için çabalıyor. Goku ve Tenshinhan, yarı finaller için kalan son yeri ele geçirmek için dostça bir rövanş maçında birbirleriyle dövüşmek zorundalar.",
+                "air_date": "1988-12-21",
+                "still_path": "/pfyFWoKDPTsj96YFftlDgDd2jVX.jpg",
+                "video_url": "1115493"
+            },
+            {
+                "episode_number": 140,
+                "name": "Goku Hız Kazanıyor",
+                "overview": "Tenshinhan ve Goku arasındaki savaş şiddetlenirken Goku, olağanüstü hesaplaşmadaki dengeleri değiştirebilecek ağır bir yükü hafifletir. Utanç verici bir an onu tehlikeli bir seçim yapmaya teşvik ederken tüm gözler Tenshinhan'a çevrilir.",
+                "air_date": "1989-01-11",
+                "still_path": "/flcvK9iIHP8BZF0WruVXI0sXvmU.jpg",
+                "video_url": "1115503"
+            },
+            {
+                "episode_number": 141,
+                "name": "Tien'in Dört Yüzü",
+                "overview": "Goku ringde her zaman kendi başının çaresine bakabilmiştir ancak Tenshinhan'la olan mücadelesi bir orduya karşı savaşa dönüştüğünde kendisini ciddi bir tehlikenin içinde bulur. Tenshinhan'ın yeni tekniği kahramanımızın sonunu getirebilir!",
+                "air_date": "1989-01-18",
+                "still_path": "/rrGkLgSSZ2qQyaugBToOKtMAEi2.jpg",
+                "video_url": "1115507"
+            },
+            {
+                "episode_number": 142,
+                "name": "Kami Piccolo'ya Karşı",
+                "overview": "Goku, Ma Junior ile dövüşmek için can atıyor, ancak Tanrı onun deneyimsizliğinin onun sonu olacağından korkuyor. Shen, yarı finallerin son turunda Ma Junior ile karşılaşıyor ve şok edici gündemi ortaya çıkıyor.",
+                "air_date": "1989-01-25",
+                "still_path": "/7nR7EECC1RWu3lTYFqQwrvC58Tv.jpg",
+                "video_url": "1115519"
+            },
+            {
+                "episode_number": 143,
+                "name": "Gelecek için Savaş",
+                "overview": "Goku, Budokai'nin son turunda en büyük düşmanıyla yüzleşirken büyük bir sınavla karşı karşıya kalır. Bu kez mücadelesi şampiyonluktan daha fazlası için. Özgür dünyanın geleceği tehlikede!",
+                "air_date": "1989-02-01",
+                "still_path": "/5LJ2EIyZ2FFzzHBhquoAFgT7cIf.jpg",
+                "video_url": "1115522"
+            },
+            {
+                "episode_number": 144,
+                "name": "Süper Kamehameha",
+                "overview": "23. Tenkaichi Budokai'nin final maçında Goku, Ma Junior'ı alt etmeye çalışırken gezegeni kurtarma savaşı devam ediyor. Goku'nun üstün bir silahı var: Nihai Süper Kamehameha Dalgası. Ancak bunu Ma Junior'ı yok etmek için kullanırsa, Ma Junior'ın midesinde sıkışıp kalan Tanrı feda edilecek.",
+                "air_date": "1989-02-08",
+                "still_path": "/3KuaUgHLW2I3LFrrj36fALFKgx1.jpg",
+                "video_url": "1115531"
+            },
+            {
+                "episode_number": 145,
+                "name": "Junior Artık Yok",
+                "overview": "Ma Junior, turnuvayı şok eden şaşırtıcı bir sırrı açığa çıkarır. Goku kendisini büyük bir ikilemle karşı karşıya buluyor; şampiyonluk için verdiği mücadele, hayatta kalma mücadelesine dönüşüyor!",
+                "air_date": "1989-02-15",
+                "still_path": "/lciXd6rdwAHWRiKYckPsv0LjDgS.jpg",
+                "video_url": "1115533"
+            },
+            {
+                "episode_number": 146,
+                "name": "Goku'nun Tuzağı",
+                "overview": "Goku ve Ma Junior arasındaki yorucu savaş devam ederken Goku, savaşı kendi içine alarak felaketten kaçınır. Ma Junior yeni bir tehdidi ortaya çıkardığında herkesi şaşırtıyor!",
+                "air_date": "1989-02-22",
+                "still_path": "/aim6mw1rlRVvWa3kJBrl0oBJTw5.jpg",
+                "video_url": "1152960"
+            },
+            {
+                "episode_number": 147,
+                "name": "Goku Takılıyor",
+                "overview": "Ma Junior, yalnızca Goku'yu değil arkadaşlarını da yok etmekle tehdit eden bir tekniği ortaya çıkarırken Tenkaichi Budokai parçalanmaya başlar. Yüce Tanrı bile, kazananın her şeyi aldığı bu katliamda Goku'nun hayatta kalmasının hiçbir yolu olmadığına inanıyor!",
+                "air_date": "1989-03-01",
+                "still_path": "/jRrP7IVG21ojVO3pwiExOEU9hgf.jpg",
+                "video_url": "1776123"
+            },
+            {
+                "episode_number": 148,
+                "name": "Kazanan",
+                "overview": "23. Tenkaichi Budokai'nin sonunda Goku, Ma Junior'ın üstünlüğü ele geçirmesiyle hayatta kalma mücadelesi veriyor ve Ünvanı ve hayatını almaya hazırlanıyor. Tanrı genç kahramanı kurtarmanın bir yolunu tasarlıyor, ancak planı en büyük fedakarlığı gerektiriyor!",
+                "air_date": "1989-03-08",
+                "still_path": "/cqaIBGems4o6es0f2eOdaEIX4Qc.jpg",
+                "video_url": "1115547"
+            },
+            {
+                "episode_number": 149,
+                "name": "Alevler İçinde Elbise",
+                "overview": "Düğün planlarını duyurmak için can atan Goku ve Chichi, babasının krallığına geri döner. Gyumao'nun şatosu alevler içinde kalınca iyi haber kısa sürer! Goku, Gyumao'yu ve Chichi ile olan geleceğini kurtarabilecek kutsal bir araç bulmak için bir göreve çıkar.",
+                "air_date": "1989-03-15",
+                "still_path": "/w77MqLOzezOXiKM0HjolBLRqmMv.jpg",
+                "video_url": "1115053"
+            },
+            {
+                "episode_number": 150,
+                "name": "Ateş Yiyen",
+                "overview": "Goku ve Chichi'nin Basho-sen'i araması onları ateşli bir yanardağın kalbine götürür. İçeri girdiklerinde, alevleri tüketen güçlü bir yaratıkla yüzleşmeleri gerekir: Ateş Yiyen!",
+                "air_date": "1989-03-22",
+                "still_path": "/sYsCmN3nTjHHX0WZGp9BvyHbU1W.jpg",
+                "video_url": "1115067"
+            },
+            {
+                "episode_number": 151,
+                "name": "Çirkin Sekizgen",
+                "overview": "Goku'nun Basho-sen'i arayışı onu tuhaf bir lanete sahip hain bir dağa götürür. Chichi, gizemli yaşlı bir kadınla tanıştığında hayatının en büyük karmaşasıyla karşı karşıya kalırken Gyumao, kalesini yok etmekle tehdit eden şiddetli yangınlardan kaçmaya çalışıyor!",
+                "air_date": "1989-04-05",
+                "still_path": "/ohVDi65MBHlrsdeONO7Bd11A37H.jpg",
+                "video_url": "1115070"
+            },
+            {
+                "episode_number": 152,
+                "name": "Karanlık Dünyanın Gizemi",
+                "overview": "Basho-sen, Gyumao'yu tehdit eden yangını söndürmeyi başaramayınca Goku ve Chichi, ölümcül yangını söndürmek için son umut olduğuna inanılan Sekiz Katlı Fırını bulmak için yola çıkar. Ancak görevlerini tamamlamadan önce Goku'nun bir sonraki dünyanın gizemini çözmesi gerekiyor.",
+                "air_date": "1989-04-12",
+                "still_path": "/1WSjqlVA26BABDWF7KtBRNIOTYU.jpg",
+                "video_url": "1115079"
+            },
+            {
+                "episode_number": 153,
+                "name": "Son, Başlangıç",
+                "overview": "Goku ve Chichi, babası Gyumao'yu krallığını yok etmekle tehdit eden ölümcül büyülü alevlerden kurtarmak için son bir çabayla Gogyo Dağı'na gitmelidir. Goku görevini tamamlamadan önce Kaderin alevlerini körüklemeli ve yanmamasını ummalıdır!",
+                "air_date": "1989-04-19",
+                "still_path": "/8IPPURxLKnPR9XSGkiv8igGr45q.jpg",
+                "video_url": "1776252"
+            }
+        ]
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2011-10-03",
+        "poster_path": "/mFYesi3abjxEuFj6quvS35tRDC6.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kahramanların Çağrılması",
+                "overview": "Mucizeler yaratabilecek Kutsal Kase'nin gücünü arayan yedi farklı büyücü, yedi Kahramanı çağırır ve son adam kalana kadar savaşır; epik boyutlarda bir savaş, Kutsal Kase Savaşı. Savaşa hazırlanırken dünyanın her yerinden çeşitli katılımcılar seçiliyor. Sekiz yıl önce Almanya'nın Einzbern Kalesi'nde Illyasviel adında bir kız doğdu. Babası Kiritsugu Emiya da savaşın bir parçası olacağını bilerek onu kucaklıyor.",
+                "air_date": "2011-10-02",
+                "still_path": "/nrgBaAIwcfZzToAJIviBlcaEdBW.jpg",
+                "video_url": "4299051"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sahte İlk Atış",
+                "overview": "Kiritsugu ve kızı Illyasviel, Einzbern ormanlarında geziniyor. Sabre mutlu ebeveyni ve çocuğunu izlerken Kiritsugu'nun çağrıldığından beri neden onunla konuşmadığını düşünür. Ve Kutsal Kase Savaşı'nın yapılacağı savaş alanı olan Fuyuki Şehrinde yedinci ve son kahraman çağrıldı.",
+                "air_date": "2011-10-09",
+                "still_path": "/mGnsUdQHsMO4F9Rzu6DfiV2pn8B.jpg",
+                "video_url": "4299004"
+            },
+            {
+                "episode_number": 3,
+                "name": "Fuyuki Şehri",
+                "overview": "Tüm hizmetkarlar çağrıldı ve artık casusa karşı casus oyunu oynanıyor. Fuyuki Şehrinde inisiyatifi ilk ele alan kim olacak?",
+                "air_date": "2011-10-16",
+                "still_path": "/psd4VFig16mUwkw5YqUjJYZWX6f.jpg",
+                "video_url": "4299006"
+            },
+            {
+                "episode_number": 4,
+                "name": "Mızrak Ucu",
+                "overview": "Sabre ve Lancer savaşlarına devam ederken Kiri ve Maiya, Lancer'ın efendisini aramaya devam eder. Keşfettikleri şey şok edici…",
+                "air_date": "2011-10-23",
+                "still_path": "/6ADxouvfopcx4OdXlHvZF6Bm0CD.jpg",
+                "video_url": "4299008"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kötü Bir Canavarın Kükremesi",
+                "overview": "Rider birdenbire ortaya çıkar ve Lancer'la olan savaş, Sabre'yi hayrete düşürecek şekilde doruğa ulaşır. Rider yılmadan, mücadeleyi gölgelerin içinden izleyen birçok insana sesleniyor... ama görünen o ki, savaşın içine çekilen tek kahraman ruh o değil.",
+                "air_date": "2011-10-30",
+                "still_path": "/uucBfl0550j6mkg40ALqwcDn8VX.jpg",
+                "video_url": "4299011"
+            },
+            {
+                "episode_number": 6,
+                "name": "Planlarla Dolu Bir Gece",
+                "overview": "Fuyuki Şehri'nin mehtaplı sokaklarında bir araba çığlık atıyor, direksiyonunda çok şanslı bir Irisviel ve yanında biraz sinir bozucu bir Sabre oturuyor. Önlerine gizemli bir gölge fırladığında akşam kötü bir hal alır. Kişi, Sabre'nin sadık hizmetkarı olduğunu iddia ediyor ancak Sabre'nin onlarla ilgili hiçbir anısı yok...",
+                "air_date": "2011-11-06",
+                "still_path": "/7saEYdNioTmlKtShOu6ZLGFTlAq.jpg",
+                "video_url": "4299015"
+            },
+            {
+                "episode_number": 7,
+                "name": "Karanlık Orman",
+                "overview": "Oyunun kuralları değişti ve Ustaların ekstra bir komut büyüsü kazanma şansı var. Tek yapmaları gereken Castor'u bulup öldürmek.",
+                "air_date": "2011-11-13",
+                "still_path": "/bj0pFZw095FgCO6mz8DTwal2rfH.jpg",
+                "video_url": "4299016"
+            },
+            {
+                "episode_number": 8,
+                "name": "Büyücü Avcısı",
+                "overview": "Einzbern Kalesi'nde savaş tüm hızıyla sürüyor: Kayneth'in büyülü cıva küresi, Kiritsugu'nun müthiş silah cephaneliğine karşı, Sabre ve Lancer ormanda Caster'a karşı güçlerini birleştiriyor ve Irisviel, Maiya ile birlikte kaçarken yeni bir düşman tespit ediyor.",
+                "air_date": "2011-11-20",
+                "still_path": "/A80P1hZaoPJ9jXcVA3SHOIaqT5W.jpg",
+                "video_url": "4299017"
+            },
+            {
+                "episode_number": 9,
+                "name": "Usta ve Hizmetçi",
+                "overview": "Kiritsugu ve arkadaşları, kalelerine yapılan saldırının ardından toparlanıyor ve Einzbern Ustası, Sabre'nin Caster'ı takip etme arzusunu görmezden gelmeye ve bunun yerine Kayneth'in işini kendi başına bırakmaya karar verir. Ancak Kayneth, Lancer tarafından kurtarıldıktan sonra uyandığında kendisini bandajlanmış ve yatağa bağlanmış halde bulur. Sola-Ui mevcut durumunun umutsuzluğunu açıklıyor ve şok edici bir teklif sunuyor...",
+                "air_date": "2011-11-27",
+                "still_path": "/7eWwJDmghLDekskTq9i9Mpv4SL6.jpg",
+                "video_url": "4299019"
+            },
+            {
+                "episode_number": 10,
+                "name": "Rin'in Büyük Macerası",
+                "overview": "Fuyuki'deki toplu adam kaçırma olaylarının gizemi hâlâ çözülemiyor ve her geçen gün daha fazla çocuk kayboluyor. Tohsaka Rin, arkadaşı Kotone ile iletişime geçemeyince karanlığa göğüs gerer ve onu aramak için tek başına şehre girer. İşte o sırada iki çocuğu gezdiren garip bir adamı fark eder ve onu takip etmeye karar verir...",
+                "air_date": "2011-12-04",
+                "still_path": "/jMIUqWanCtvOxhHzAeOMYadSg1C.jpg",
+                "video_url": "4299021"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kase'yi Tartışmak",
+                "overview": "Rider, Sabre ve Archer bir içki içmek için oturur ve bir Kral'ın ne olduğunu tartışır. Suikastçı araya girince konuşma şiddete dönüyor…",
+                "air_date": "2011-12-11",
+                "still_path": "/NJkRrh2fouEQMJGpiUBFIhBuip.jpg",
+                "video_url": "4299023"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kase Beckons",
+                "overview": "Bir Fuyuki otelinde saklanan Kiritsugu, bir sonraki hamlesini planlamaya çalışır, ancak Kirei'nin amacını anlamaya çalışırken hâlâ şaşkın durumdadır. Iry ve Sabre başka bir yerde, geleneksel bir Japon malikanesi olan yeni bir saklanma yerine taşındılar. Ancak Iry yeni konumları konusunda heyecanlı görünürken Sabre bir şeylerin ters gittiğini hissediyor...",
+                "air_date": "2011-12-18",
+                "still_path": "/mWnHifKpb07GK0p8qTAvFrS5ku0.jpg",
+                "video_url": "4299025"
+            },
+            {
+                "episode_number": 13,
+                "name": "Yasak Delilik Bayramı",
+                "overview": "Rider ve Waver kasabaya bir gezi yapar ve yol boyunca bir kitapçıda durur. Waver orada Rider'ın hayatıyla ilgili bir biyografi okur ve neden uzak doğuyu fethetmeyi hedeflediğini öğrenir. Bu sırada Caster ve Ryuunosuke, yok edilen üslerine geri döner. Ustasıyla yaptığı bir konuşma, Caster'ı bir aydınlanmaya götürür ve çılgın büyücü, kalbindeki delilik ile belli bir büyü yapmaya başlar...",
+                "air_date": "2011-12-25",
+                "still_path": "/x1u6DCirxsqHe4ih37hwPgdOoXt.jpg",
+                "video_url": "4299028"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2012-04-08",
+        "poster_path": "/lmwXr8dbw12TAklJhggNEJnjY3O.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Mion Nehri'nde Kanlı Savaş",
+                "overview": "Kahramanların onu durdurmanın hiçbir yolu olmadığından Caster'a karşı savaş devam ediyor. Toki, canavarı yok etmek için Noble Phantasm'ı kullanması için Archer'a başvurmaya çalışıyor. Bu arada Kiri, canavarın güçlerinin kaynağını yok etmeyi planlıyor.",
+                "air_date": "2012-04-08",
+                "still_path": "/b1DzBJ3LLkeZuEnSdF1g2ncj5F5.jpg",
+                "video_url": "4299029"
+            },
+            {
+                "episode_number": 2,
+                "name": "Altın Işık",
+                "overview": "Rider, biraz zaman kazanmak için Caster'ı Reality Marble'a kaydırıyor. Diğer Kahramanlardan Caster'ın işini bitirmek için bir plan yapmalarını ister. Kiritsugu'dan gelen bir telefon onlara savaşma şansı verir, ancak iş Lancer'ın zor bir seçim yapmasına gelir.",
+                "air_date": "2012-04-15",
+                "still_path": "/j75zbRQi6lnVY845cD3VDXI0Xvy.jpg",
+                "video_url": "4299052"
+            },
+            {
+                "episode_number": 3,
+                "name": "Onurun Sonu",
+                "overview": "Caster'a karşı kazandıkları galibiyetten dolayı tüm Kahramanlar bitkin düşerken Sabre, Lancer'a son bir savaşa meydan okudu. İki Şövalye arasında onur ve saygıyla yapılan bir savaş. Kiri'nin şerefi veya saygısı umurunda değil, ne pahasına olursa olsun kazanacak ve bu gece ne kadar ileri gidebileceğini gösterecek.",
+                "air_date": "2012-04-22",
+                "still_path": "/oT3xZDRHkq8FOwJDiM8kmT0uSKq.jpg",
+                "video_url": "4299031"
+            },
+            {
+                "episode_number": 4,
+                "name": "Sekizinci Sözleşme",
+                "overview": "Kuralların çiğnenmesi ve turnuvaya yeni oyuncuların katılmasıyla, geri kalan Kahramanlar ve Ustalar turnuvanın yeni bir aşamasına giriyor. Tokiomi'nin bundan sonra yapacağı şey herkesi etkileyecek.",
+                "air_date": "2012-04-29",
+                "still_path": "/8J9vpCuRKoPIHD7OiZcLEDKHNI1.jpg",
+                "video_url": "4299033"
+            },
+            {
+                "episode_number": 5,
+                "name": "Uzak Anılar",
+                "overview": "Kiritsugu, çocukluğunda babası Nori ile birlikte küçük bir adada yaşıyordu. Nori'nin çiçeklerle yaptığı büyülü çalışma yerel bir kızın dikkatini çekti.",
+                "air_date": "2012-05-06",
+                "still_path": "/obXbKknyZuivzIsgzMkzTpc6vcp.jpg",
+                "video_url": "4299034"
+            },
+            {
+                "episode_number": 6,
+                "name": "Adaletin Yaşadığı Yer",
+                "overview": "Natalia, Kiritsugu'yu adadan kurtardığından beri büyütüyor. Suikastçı olma yolundaki her adımda onu takip etti. Yıllar geçtikçe ilişkileri anne ve çocuk noktasına kadar ilerledi, bu yüzden Kiritsugu'nun bundan sonra yapacağı şey...",
+                "air_date": "2012-05-13",
+                "still_path": "/6VH7zzIkDEEahB88LKYFGpVxh2W.jpg",
+                "video_url": "4299036"
+            },
+            {
+                "episode_number": 7,
+                "name": "Suikastçı Geri Dönüyor",
+                "overview": "Irisviel'in zamanı daralıyor ve Kiritsugu onu rahat ettirmek için elinden geleni yapıyor. Ancak oyun devam ediyor ve bir sonraki hedefini ortadan kaldırmak için oradan ayrılıyor. Saklandığı yere yapılan sürpriz saldırı onu perişan ve kalbi kırılmış bir adam haline getirir.",
+                "air_date": "2012-05-20",
+                "still_path": "/2oHiHTj6wUiBYCOdb0E57JOlsHT.jpg",
+                "video_url": "4299038"
+            },
+            {
+                "episode_number": 8,
+                "name": "İki Tekerlekli At Üzerinde Şövalye",
+                "overview": "Sabre, Rider'ın peşinde, bu da onu çok sevindiriyor. Bu sırada Kiritsugu farklı bir ipucuna doğru yola çıkar. Yeni oyuncu Matou Kariya, oyununun mükemmel bir şekilde gelişmesini arka planda izliyor.",
+                "air_date": "2012-05-27",
+                "still_path": "/gn5SX4lfSsr3kRYvBVHiIAtBE2.jpg",
+                "video_url": "4299041"
+            },
+            {
+                "episode_number": 9,
+                "name": "Dünyadaki Bütün Kötülükler",
+                "overview": "Savaşın sonu yaklaşıyor ve Efendiler ile Hizmetkarlar arasındaki ilişkiler değişiyor. Birçok oyuncu sahayı terk etti ve sırada çok özel bir oyuncu var.",
+                "air_date": "2012-06-03",
+                "still_path": "/cS3VYxhj8Lq2w2IntQluVBwFLgJ.jpg",
+                "video_url": "4299043"
+            },
+            {
+                "episode_number": 10,
+                "name": "Dünyanın Ucundaki Okyanus",
+                "overview": "Sabre vs. Berserker, Archer vs. Rider, başka bir kahraman düşecek ve bir sır ortaya çıkacak.",
+                "air_date": "2012-06-10",
+                "still_path": "/gbiacXcy7XborKdb0OvTWDhVTYn.jpg",
+                "video_url": "4299044"
+            },
+            {
+                "episode_number": 11,
+                "name": "Son Komut Büyüsü",
+                "overview": "İki kahraman, iki usta, bir kâse; bir kazanan belirlenecek.",
+                "air_date": "2012-06-17",
+                "still_path": "/pdaOd2eoT42EMxugBrCmDXhREW4.jpg",
+                "video_url": "4299046"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sıfır Kader",
+                "overview": "Kiritsugu'nun emriyle Sabre, Noble Phantasm'ı Kutsal Kase üzerinde serbest bırakır ve tamamen beklenmedik bir sonuçla sonuçlanır. Sonunda savaşı kim kazanacak?",
+                "air_date": "2012-06-24",
+                "still_path": "/uq4iXJgxBYoQwu4ZpQc3J46yFSZ.jpg",
+                "video_url": "4299048"
+            }
+        ]
+    }
+}

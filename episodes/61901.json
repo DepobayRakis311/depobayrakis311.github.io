@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2015-01-10",
+        "poster_path": "/qeD9wDenN7CPA99FScSErJCvcWb.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Ölüm Yedi Dart",
+                "overview": "Genç bir çift olan Takashi ve Machiko, oraya nasıl geldiklerini hatırlamadan Quindecim barına gelirler. Barmen onlara, hayatlarının tehlikeye gireceği bir oyunu bitirmeden ayrılmayacaklarını söyler.",
+                "air_date": "2015-01-10",
+                "still_path": "/95nTO42WRI4jkoSsj7UEp9lZH1X.jpg",
+                "video_url": "4521068"
+            },
+            {
+                "episode_number": 2,
+                "name": "Ölüm Ters",
+                "overview": "Siyah saçlı bir kadın, kendi adını bile hatırlayamayan, tanımadığı bir yerde uyanır. Nona adında bir kız tarafından Quindecim'e götürülür, burada kendisine asistan olacağı söylenir ve barın varoluş amacı hakkında bilgi verilir.",
+                "air_date": "2015-01-17",
+                "still_path": "/2mFRspkDVaS7eSwE5PNa50z28hK.jpg",
+                "video_url": "4521070"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yuvarlanan Balad",
+                "overview": "Üniversite öğrencisi Shigeru Miura, Quindecim'de uyanır ve bardaki kadına ilk görüşte aşık olur. Kendi adını bile hatırlayamayan kadın, hafızasını canlandıracağından emin olduktan sonra ondan kendisiyle bir oyun oynamasını ister.",
+                "air_date": "2015-01-24",
+                "still_path": "/gGr4zWXqgGyxieX0nKsxRPLs1W4.jpg",
+                "video_url": "4521072"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ölüm Salonu",
+                "overview": "TV kişiliği Misaki Tachibana, Quindecim'de gizli kameralı bir TV şovunun parçası olduğuna ikna olur ve şovu canlandırmak için meslektaşı Yousuke Tateishi'yi görevlendirir. Decim, yarışmacılar için aşırı koşullar sağlamak için önlemler alır.",
+                "air_date": "2015-01-31",
+                "still_path": "/gp7huBmB8wJi8RUDdmd9poG9xFo.jpg",
+                "video_url": "4521075"
+            },
+            {
+                "episode_number": 5,
+                "name": "Ölüm Marşı",
+                "overview": "İki kişi daha (bir genç oğlan ve bir yaşlı adam) Quindecim'e gelir ama bu sefer Decim bir şeylerin ters gittiğini hisseder. Decim oyunu ikiliye açıklamadan önce yaşlı adam, Decim'i ve barı daha önce gördüğünü hatırladığını açıklıyor!",
+                "air_date": "2015-02-07",
+                "still_path": "/rifDePYX1YmufU1hNclM1aUUFjt.jpg",
+                "video_url": "4521077"
+            },
+            {
+                "episode_number": 6,
+                "name": "Çapraz Kalp Krizi",
+                "overview": "Mayu adında liseli bir kız, Ginti'nin baktığı Japon tarzı bir bara gelir. Erkek idol grubu C.H.A'dan barda Harada olduğunu anında tanıdığı adama karşı bir oyun oynamasını talep eder ve o da hevesle kabul eder.",
+                "air_date": "2015-02-14",
+                "still_path": "/qatef2zL4MIwH8jLItWWR84NRdI.jpg",
+                "video_url": "4521078"
+            },
+            {
+                "episode_number": 7,
+                "name": "Alkol Zehiri",
+                "overview": "Siyah saçlı kadın bir resimli kitap bulduğunda Decim'e bunu sorar ve Decim ona bunun Quindecim'in önceki barmeni Quin'e ait olabileceğini söyler. Decim, mankenleri bir araya getirmek için neden bu kadar çok zaman harcadığının nedenlerini açıklıyor.",
+                "air_date": "2015-02-21",
+                "still_path": "/yXlcQwLCZNBLDQBjtqm8tFZ0VAJ.jpg",
+                "video_url": "4521081"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ölüm Mitingi",
+                "overview": "Decim, bir polis dedektifi ve kız kardeşini büyüten genç bir adamdan oluşan bir çift konuğun gelişinden önce, edindiği anıların bir katile ait olması nedeniyle bir hata olup olmadığını merak eder. Ancak itirazlarına rağmen Nona onu devam etmesi için teşvik ediyor.",
+                "air_date": "2015-02-28",
+                "still_path": "/zsvnL09gnY96QIckjk6RnmGVMGi.jpg",
+                "video_url": "4521083"
+            },
+            {
+                "episode_number": 9,
+                "name": "Ölüm Sayacı",
+                "overview": "İki yarışmacı oyunlarına devam ederken Shimada, Dedektif Tatsumi'nin kız kardeşine saldıran kişiden intikam alma arzusuna sempati duyduğunu öğrenince şaşırır. Siyah saçlı kadın, Decim'in ne kadar ileri gitmeye istekli olduğundan rahatsızdır.",
+                "air_date": "2015-03-07",
+                "still_path": "/nl0YzcIIPtOKe530YQsQcvBW0tv.jpg",
+                "video_url": "4521084"
+            },
+            {
+                "episode_number": 10,
+                "name": "Hikaye Anlatıcı",
+                "overview": "Decim, Nona'yı ziyaret eder ve ona, yargılama yöntemlerinin hatalı olduğuna inandığını söyler. Nona ona, davası siyah saçlı kadının gizemini çözebilecek olan ve Decim'in herhangi bir anıya ihtiyaç duymadan yargılamayı seçtiği başka bir müşteriyi gönderir.",
+                "air_date": "2015-03-14",
+                "still_path": "/AbZcg9TOuipi1SswuoRCOurH1Gx.jpg",
+                "video_url": "4521085"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hatıra Mori",
+                "overview": "Mayu'ya bir bedel karşılığında Harada'nın ruhunu boşluktan kurtarma şansı verilir. Chiyuki'nin hükmü beklenirken, kurtardığı anıların ölümünün üstesinden gelmesine yardımcı olacağını umarak buz pateni sevgisini yeniden gözden geçirir.",
+                "air_date": "2015-03-21",
+                "still_path": "/nWE4ppdTYIAOhOH6EfdOFWKTvEF.jpg",
+                "video_url": "4521087"
+            },
+            {
+                "episode_number": 12,
+                "name": "İntihar Turu",
+                "overview": "Oculus, Decim konusunda Nona'yla yüzleşir ve ona ne yaptığını öğrenmek ister. Chiyuki, evinde yaşayan dünyayı yeniden uyandırır ve Decim'in onu oraya hayatını geri alma şansı sunmak için getirdiğini öğrenir.",
+                "air_date": "2015-03-28",
+                "still_path": "/399GnguaERok4dieG5Lo9nqxG8g.jpg",
+                "video_url": "4521089"
+            }
+        ]
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 25,
+        "air_date": "2022-04-09",
+        "poster_path": "/nShEY0JnMOsvdhEnmYvL9mowIKz.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Operasyon Strix",
+                "overview": "Twilight, Westalis'in istihbarat teşkilatı WISE için çalışan bir ajandır ve Ostania'da bulunan ve bir savaş başlatmayı planlayan Desmond'u araştırmakla görevlendirilmiştir. Twilight, psikiyatrist Loid Forger kılığına girer ve hedefine yaklaşmak için onu prestijli Eden Koleji'ne kaydettirmek amacıyla Anya adında bir kızı evlat edinir. Anya'nın aslında insanların aklını okuyabilen bir telepat olduğundan haberi yoktur. Bir gün Twilight'ın peşindeki bir mafya grubunun üyeleri Anya'yı kaçırır. Loid önceliklerini yeniden gözden geçirmesi gerektiğini fark eder ve...",
+                "air_date": "2022-04-09",
+                "still_path": "/3EwkiSokUJRkAwB3b3bFG3J8IoA.jpg",
+                "video_url": "4673375"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bi̇r Eşi̇ni̇ Sağlamak",
+                "overview": "Memur Yor Briar'ın gizli bir kimliği vardır: Diken Prensesi adında bir suikastçı. Son zamanlarda bekar kadınların casus olduğundan şüpheleniliyordu ve bu da Yor'u tedirgin ediyordu. Bu arada Loid, Eden College'daki röportaja katılabilmek için Anya'nın annesini oynayacak birini arıyordu. Bir butikte Yor'la karşılaşır. Anya, Yor'un aklını okur ve onun bir suikastçı olduğunu öğrenir ve Loid'in Yor'dan annesini oynamasını istemesini sağlamaya çalışır.",
+                "air_date": "2022-04-16",
+                "still_path": "/doSXhn8nksQiEMadwjPboPpqMih.jpg",
+                "video_url": "4675607"
+            },
+            {
+                "episode_number": 3,
+                "name": "Röportaj İçi̇n Hazirlanin",
+                "overview": "Yor, Loid ve Anya'nın yanına taşınır. Artık bir aile olduklarına göre mülakata hazırlanmaları gerekiyor. Ancak Loid, Anya ve Yor'un şu anki durumuna bakıldığında görüşmenin muhtemelen pek iyi gitmeyeceğini fark eder. Loid, hepsinin üst sınıf bir ailenin nasıl olması gerektiğini anladığından emin olmak için hepsinin bir aile olarak dışarı çıkması gerektiğine karar verir. Tiyatroya ve müzeye gidiyorlar ama Anya ve Yor'la pek anlaşamıyorlar. Alacakaranlık umudunu kaybetmeye başlar ama...",
+                "air_date": "2022-04-23",
+                "still_path": "/fnU8bxU1WFGD8PBmpK5g9pVqvnO.jpg",
+                "video_url": "4685973"
+            },
+            {
+                "episode_number": 4,
+                "name": "Presti̇jli̇ Okul Röportaji",
+                "overview": "Nihayet hazırlandıkları gün geldi çattı! Forger'lar tamamen hazırdır ve röportaja doğru yola çıkarlar. Okul alanına girer girmez Loid birinin onları izlediğini hissediyor. Adayların tamamı akademinin eğitmenleri tarafından gölgelerden gözlemleniyordu. Sınav çoktan başlamıştı. Performanslarını derecelendirecek olan Housemaster Henderson, Forgers'ın nasıl davrandığını ve prestijli Eden College'a gerçekten layık olup olmadıklarını yakından takip etti.",
+                "air_date": "2022-04-30",
+                "still_path": "/6P3Gi8Vd4hKivG6eObP9xkkmp3U.jpg",
+                "video_url": "4697305"
+            },
+            {
+                "episode_number": 5,
+                "name": "Geçecek Mi̇, Başarisiz Mi Olacak?",
+                "overview": "Eden Koleji'nin okula başarıyla yerleşen adayları açıklayacağı gün nihayet gelmişti ama Anya'nın numarası listede yoktu. Forger'lar umutsuzluğun derinliklerine düşerler ancak Henderson tarafından karşılanırlar. Röportajları için onları övüyor ve Anya'nın bekleme listesinin başında olduğunu söylüyor. Üç gün sonra Anya'nın okula girdiğini öğrenirler! Franky, Forger'larla kutlamaya gelir ve hepsi Anya'yı bu kadar çok çalıştığı için ödüllendirmeyi kabul eder. Anya'nın istediği şey...",
+                "air_date": "2022-05-07",
+                "still_path": "/aVjoPi2alpgUxufxijnIyjz6rUu.jpg",
+                "video_url": "4706272"
+            },
+            {
+                "episode_number": 6,
+                "name": "Dostluk Şemasi",
+                "overview": "Anya'nın üniforması bitti. Loid'in WISE strateji toplantısına gitmesi gerekiyor, bu yüzden güvenli eve giderken Yor'a üniformayı almasını söyler. Toplantıda Anya'nın Strix Operasyonunu başarıyla tamamlayabilmesi için 8 Yıldız Yıldızı alması ve Eden Koleji'nde İmparatorluk Bilgini olması gerektiğini öğrenir. Bu sırada Anya yeni üniformasını alacağı için çok heyecanlıdır. Ancak Eden Koleji'ndeki zengin öğrencilerin peşinde her zaman suçlular vardır ve Anya bir grup serseri tarafından hedef alınır.",
+                "air_date": "2022-05-14",
+                "still_path": "/Bz7DUuidlzte62jEGxj77Tbo9F.jpg",
+                "video_url": "4712799"
+            },
+            {
+                "episode_number": 7,
+                "name": "Hedefi̇n İki̇nci̇ Oğlu",
+                "overview": "Anya, Damian Desmond'a vurduktan sonra Tonitrus Bolt'la karşılaşır. Ne yazık ki bu durum sınıfta yanlış nedenlerle öne çıkmasına neden olur ve bu durum moralini bozar ama sonunda Becky ile arkadaş olur ve okul biraz daha eğlenceli hale gelir. Ayrıca ona vurduğu için Damian'dan özür dilemeye çalışıyor ama sözcükleri ağzından çıkaramıyor gibi görünüyor. Loid, Strix Operasyonu uğruna okulda çalışan biri kılığına girer ve Anya'nın gölgelerden kurtulmasına yardım etmeye çalışır, ancak...",
+                "air_date": "2022-05-21",
+                "still_path": "/edJ5SujtvQXziHBogllQN8qv98P.jpg",
+                "video_url": "4722008"
+            },
+            {
+                "episode_number": 8,
+                "name": "Karşi Gi̇zli̇ Poli̇s Örtü Operasyonu",
+                "overview": "Ostania'nın karşı istihbarat teşkilatı ve ulusal güvenlik bürosu, ülke içinde barışı korumak için casus avı yürütüyor ve vatandaşlarını gözetliyor. Onlara Gizli Polis de denir ve korkulur. Yor'un küçük kardeşi Yuri aslında Gizli Polise mensuptur ve bunu Yor'dan ve etrafındaki diğerlerinden bir sır olarak saklarken casusları avlamaktadır. Bir gün aniden Forger'ların evinde belirir. Sırlarla dolu Forgers ile gizli kimliği olan Yuri karşı karşıya geliyor!",
+                "air_date": "2022-05-28",
+                "still_path": "/1XTMlVeQCyR3ipNNOiCcbD6tbQm.jpg",
+                "video_url": "4731148"
+            },
+            {
+                "episode_number": 9,
+                "name": "Ne Kadar Aşik Olduğunuzu Gösteri̇n",
+                "overview": "Yuri'ye aslında evli bir çift olduklarını kanıtlamak için Loid ve Yor'un öpüşmesi gerekiyor. Loid, Strix Operasyonu adına bunu hemen halletmeye hazırdır, ancak Yor bunu ayıkken yapamaz, bu yüzden sonunda bir şişe şarap içip sarhoş olur. Yuri de kız kardeşini böyle görüyor, o da sarhoş oluyor ve artık mantıklı kararlar veremiyor...",
+                "air_date": "2022-06-04",
+                "still_path": "/oaxsr3MypOg74LPuksryVsG2PVO.jpg",
+                "video_url": "4739486"
+            },
+            {
+                "episode_number": 10,
+                "name": "Büyük Yakartop Planı",
+                "overview": "Eden Koleji'nin birinci sınıf öğrencileri arasında, bir sonraki beden eğitimi dersinde başarılı olmaları halinde Stella Yıldızları ile ödüllendirileceklerine dair bir söylenti yayılır. Anya, Stella Yıldızı almaya kararlı olduğundan Yor'la antrenman yapar. Böylece Cecile Hall ile Wald Hall arasındaki yakartop maçı başlıyor! Anya ve sınıf arkadaşları kazanmaya kararlıdır ancak dev Bill Watkins ile karşı karşıyadırlar.",
+                "air_date": "2022-06-11",
+                "still_path": "/deSqORCVDxymHfwYrGSKxyskk35.jpg",
+                "video_url": "4748052"
+            },
+            {
+                "episode_number": 11,
+                "name": "Stella",
+                "overview": "Ebeveynlerin Eden Koleji'ndeki sosyal toplantılardan birine katılabilmeleri için çocuklarının Imperial Scholars olması gerekiyor, ancak Anya'nın çalışmaktan nefret etmesi bunu oldukça zorlaştırıyor. Loid daha sonra Anya'nın akademisyenleri yerine toplum hizmeti yaparak Stella Yıldızlarını almasını sağlayacak bir plan yapar. Ancak hastanede gönüllü olarak çalışmaya başladığında sürekli işler karışır. Daha sonra telepati yoluyla bir çocuğun havuzda boğulduğunu duyar ve...",
+                "air_date": "2022-06-18",
+                "still_path": "/mzfXcUlUHLvUaE5N8kxQpzX0VjZ.jpg",
+                "video_url": "4760892"
+            },
+            {
+                "episode_number": 12,
+                "name": "Penguen Parki",
+                "overview": "Loid, WISE'dan birbiri ardına gelen görevlerle yüklenir ve bitkin bir şekilde eve gelir. Daha sonra komşularının ailesini ihmal ettiğine dair dedikodularını duyar. Strix Operasyonu uğruna kimsenin ailesinden şüphe etmesine izin veremeyeceği için, ertesi gün izinli oldukları akvaryuma ailesini götürmeye karar verir ve herkese iyi geçindiklerini gösterir. Ancak, oradayken WISE'dan başka bir görev daha alır ve...",
+                "air_date": "2022-06-25",
+                "still_path": "/xsk1Xb7ZE50idHu0BhicdbwZJ6y.jpg",
+                "video_url": "4771554"
+            },
+            {
+                "episode_number": 13,
+                "name": "Proje Elma",
+                "overview": "Forger'lar, Anya'nın Stella alma ödülü için bir köpek aramaya gider. Gezilerinin ortasında Loid, Westalis'in dışişleri bakanına karşı planlanan terörist bombalı saldırıyı durdurmak için bir görevde çalışmak zorunda kalır. Bu sırada Anya bir köpek seçmeye çalışır ama dev, gizemli, beyaz bir köpeğin zihnini rastgele okuduğunda ailesinin bir görüntüsünü görür. Anya meraklanır ve köpeğin peşinden koşar ama sonunda yanlışlıkla teröristlerin saklandığı yere girer!",
+                "air_date": "2022-10-01",
+                "still_path": "/jllCVqdGKqulhpGA91hsULoLQzq.jpg",
+                "video_url": "4912318"
+            },
+            {
+                "episode_number": 14,
+                "name": "Saatli̇ Bombayi Etki̇si̇z Hale Geti̇ri̇n",
+                "overview": "Anya, geleceği görebilen gizemli bir köpekle tanışır. Köpeğin yardımıyla teröristlerden kaçmayı başardılar ama sonunda tekrar teröristlerin eline düştüler. Sonra Yor ortaya çıkıyor ve düşmana saldırıyor! Kısa süre sonra köpek tekrar geleceği görüyor. Anya'nın köpeğin zihninde gördüğü görüntü, Loid'in bilinçsiz olduğu ve bombalanan bir binanın kalıntıları altında gömülü olduğuydu. Bu geleceğin yaşanmasını engellemek için Anya ve köpek olayın yaşandığı yere doğru yola çıkarlar!",
+                "air_date": "2022-10-08",
+                "still_path": "/a1x4IUgQH69P9PJ0eHgFTRHVJ9F.jpg",
+                "video_url": "4919855"
+            },
+            {
+                "episode_number": 15,
+                "name": "Yeni̇ Bi̇r Ai̇le Üyesi̇",
+                "overview": "Loid, düşmanın bomba köpeklerinden biriyle karşı karşıya gelir. Anya gizlice Loid'i kurtarır ve Yor, kaçan teröristlerin liderini bulur. Bütün aile bu terörist bombalama olayına karışıyor ama sonucu ne olacak?! Ayrıca Anya'ya Stella almasına ödül olarak bir köpek almaları gerekiyordu ama şimdi Anya bu olayda karşılaştığı gizemli, dev köpeği elinde tutmak istediğini söylüyor. Loid, bu köpek ve bombalama olayına karışan diğer köpekler hakkındaki gerçeği biliyor ve ona hayır diyor ama sonra Anya, köpeği alamazsa okula gitmeyi bırakacağını söylüyor ve...",
+                "air_date": "2022-10-15",
+                "still_path": "/7EO66F2z4kJ8RwxA0fTSw7iC8Ct.jpg",
+                "video_url": "4930080"
+            },
+            {
+                "episode_number": 16,
+                "name": "Yor'un Mutfaği / Muhbi̇ri̇n Hari̇ka Aşk Plani",
+                "overview": "Yor neden her gece elleri kesiklerle eve geç geliyor? Franky neden gizemli ve acil koşullar altında Loid'den onunla buluşmasını istedi? Bunlar Berlint'te mutluluğu ararken yaşanan iki talihsizlik hikayesi.",
+                "air_date": "2022-10-22",
+                "still_path": "/qjqZW0jMC4TTvvV8Ix1hs7AjYZf.jpg",
+                "video_url": "4930081"
+            },
+            {
+                "episode_number": 17,
+                "name": "Griffin Planini Uygula / Fullmetal Lady / Omlet Pi̇lav ♥",
+                "overview": "Anya ve sınıfının geri kalanının, Anya'nın Damian'la aynı gruba konulduğu bir sanat ve el sanatları dersi vardır. Sylvia sıradan bir iş günü geçiriyor. Yuri'nin gücünün gizli kaynağını öğreniyoruz.",
+                "air_date": "2022-10-29",
+                "still_path": "/livubK1sXeMspQvQuP6Gpaw5KFe.jpg",
+                "video_url": "4937391"
+            },
+            {
+                "episode_number": 18,
+                "name": "Özel Öğretmen Amca / Daybreak",
+                "overview": "Gelecek hafta Eden Koleji'nin ara sınavları var. Bu hafta, Anya'nın hile yapmak için güçlerini kullanamadığı ayın bir günü olan yeni ayı da içeriyor. Ama sonra Yor, Yuri'nin onun öğretmeni olmasını önerir...\n\nAra sınavlar bitti. Loid, Anya'nın sınav sonuçları konusunda gergindir ve cevapları değiştirmek için Eden Koleji'ne gider. Ancak, kendisini delicesine şüpheci ve bariz hale getiren, aynı motivasyona sahip başka bir adam daha var gibi mi görünüyor?!",
+                "air_date": "2022-11-05",
+                "still_path": "/t3YFlND2D7dWGYmhExvB7GWzEv9.jpg",
+                "video_url": "4952553"
+            },
+            {
+                "episode_number": 19,
+                "name": "Desmond'a Karşi İnti̇kam Plani / Mama Rüzgara Oluşuyor",
+                "overview": "Damian ara sınavlarında başarılı olduğu için Stella kazandı. Artık etrafındaki herkes onu övüyor ama sınıf arkadaşı George nedense ona isteksizce bakıyor gibi görünüyor. Nedeni...\n\nAnya'yı okula uğurladıktan sonra Yor, Anya'nın spor kıyafetlerini masasının üzerinde bulur. Bu gidişle Anya'nın beden dersinde mutlaka sorun yaşayacağı kesindir. Unutulan kıyafetleri teslim etmek için koşuyor!",
+                "air_date": "2022-11-12",
+                "still_path": "/ecXSomcwWxWC9DQWUt09dnECV7u.jpg",
+                "video_url": "4953793"
+            },
+            {
+                "episode_number": 20,
+                "name": "Genel Hastaneyi̇ Araştirin / Şaşirtici Kodu Çözün",
+                "overview": "Anya, ilgi duyduğu bir mesleğe ilişkin bir rapor yazmak zorunda olduğundan Loid'in iş yeri olan Berlint Genel Hastanesi'ne gider. Loid gözden kaybolur kaybolmaz Anya keşfetmeye başlar!\n\nAnya, casus karikatüründe yapıldığını gördükten sonra kodları deşifre etmekle çok ilgilenmeye başlar, bu yüzden kendi kodunu yapar ve Loid ile diğerlerine gizli mesajlar gönderir. Şifreleri kırabilecekler mi?",
+                "air_date": "2022-11-19",
+                "still_path": "/vJfXc0ZMs3oFX0Fv2CzRq9wa3vP.jpg",
+                "video_url": "4970492"
+            },
+            {
+                "episode_number": 21,
+                "name": "Gece / Kiskançliğin İlk Nöbeti̇",
+                "overview": "Loid'in hastanesinde çalışan Fiona, aslında kadın WISE ajanı Nightfall'dır. Strix Operasyonu'nun gecikmelerle karşı karşıya olmasından rahatsız olduğundan onun yerine Bayan Forger olmasını öneriyor. Ayrıca Forger ailesine habersiz gelmeye karar verir ve Yor'la yüz yüze gelir!\n\nAnya, Loid'in ona aldığı penguen peluşunu seviyor ve hatta onunla uyuyor. Ancak soluk bir gölge, penguenin genel yönüne kıskanç bakışlar fırlatıyor...",
+                "air_date": "2022-11-26",
+                "still_path": "/3UFgoPLwqrzrHKEDI7gYyfu2boj.jpg",
+                "video_url": "4970495"
+            },
+            {
+                "episode_number": 22,
+                "name": "Yer Alti Teni̇s Turnuvasi: Campbelldon",
+                "overview": "Zacharis Dosyası adı verilen gizli dosyalar Doğu ile Batı arasında bir savaşa neden olabilir. Bu dosyalar için saklanma yeri olması gereken bir tabloyu elde etmek için Loid ve Fiona, tablonun sahibi Campbell tarafından yürütülen bir yeraltı tenis turnuvasına katılır. Kazanmaları halinde, peşinde oldukları sanat eseri sunulacak. Loid ve Fiona evli bir çift olarak oyuna katılıyor ve profesyonel oyuncular da dahil olmak üzere çeşitli yetenekli oyuncularla oynuyor!",
+                "air_date": "2022-12-03",
+                "still_path": "/60qfep8Wg7ir8Uo2eneTlXXOjXU.jpg",
+                "video_url": "5156243"
+            },
+            {
+                "episode_number": 23,
+                "name": "Tartişilmaz Yol",
+                "overview": "Yeraltı tenis turnuvasında nihayet final maçı yapılıyor. Loid ve Fiona'nın karşı karşıya olduğu Campbell kardeşler, tenis raketlerini değiştirdikleri ve onlara yardımcı olan personel nedeniyle kirli oynuyorlar. Ancak WISE'ın casus çifti birbiri ardına engelleri aşar ve Loid son darbeyi vurur! Ancak maçın hemen ardından Devlet Güvenlik Servisi dosyayı öğrenip turnuvaya sızar...",
+                "air_date": "2022-12-10",
+                "still_path": "/shW5hWBz1sgrefmRBZfwqWhgbYH.jpg",
+                "video_url": "5156245"
+            },
+            {
+                "episode_number": 24,
+                "name": "Anne Ve Eşi̇n Rolü / Arkadaşlarla Alişveri̇ş",
+                "overview": "Yor, Fiona'nın ortaya çıkmasının ardından sahte evlilikleri konusunda endişelenmeye başlar. Loid bunu fark eder ve Yor'un ona karşı romantik duygular beslemeye başladığını düşünür. Görev uğruna Alacakaranlık modunu açar.\n\nBecky, Anya'ya sevimli kıyafetler alabilmeleri için Anya'yı büyük mağazaya götürür. Zengin kız güçlerini kullanıyor ve kendi küçük defilelerini başlatacakları bir mağazanın tamamını kiralıyor.",
+                "air_date": "2022-12-17",
+                "still_path": "/bGW5Bn1sIRttSxAHNc3ac180CCU.jpg",
+                "video_url": "5156247"
+            },
+            {
+                "episode_number": 25,
+                "name": "İlk Temas",
+                "overview": "Eden College'da her yarıyılda bir sosyal toplantı düzenlenir. Bu, yalnızca İmparatorluk Akademisyenlerinin ve onların ebeveynleri olan Ostania'nın VIP'lerinin gitmesine izin verilen, sıkı bir şekilde korunan bir etkinliktir. Damian, erkek kardeşine, etkinliğe katıldığında babasını görmek istediğini söyler. Loid bunu öğrenir ve hedefine yaklaşmak için Damian'ı kullanır.",
+                "air_date": "2022-12-24",
+                "still_path": "/wU3Wjkp0X0rzhDOEfIpHqV5oj8z.jpg",
+                "video_url": "5156248"
+            }
+        ]
+    }
+}

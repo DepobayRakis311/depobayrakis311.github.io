@@ -1,0 +1,325 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2016-07-12",
+        "poster_path": "/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kendini Medyum İlan Eden: Reigen Arataka ~and Mob~",
+                "overview": "Medyumlar bilimin açıklayamadığı doğaüstü olaylarla mücadele eder. Ruhlar ve Böyle Danışmanlık ofisini yöneten Arataka Reigen o medyumlardan biri... yani sahte. Tek umudu Shigeo Kageyama, diğer adıyla Mob adında süper sıkıcı bir ortaokul öğrencisidir. Mob'un patlamasına doğru %27.",
+                "air_date": "2016-07-12",
+                "still_path": "/zIejXZ330rYyC9NkigmrhM0gA2k.jpg",
+                "video_url": "3815583"
+            },
+            {
+                "episode_number": 2,
+                "name": "Gençlik Hakkında Şüpheler ~telepati Kulübü Ortaya Çıkıyor~",
+                "overview": "Telepati Kulübü'ne üye eksikliği nedeniyle öğrenci konseyi tarafından kapatılacağı söylendi. İşte o zaman üyelerden biri olan Inukawa, Mob'un katılmasını sağlamayı düşündü. Ancak Mob, Reigen'den Highso Kız Akademisi'ndeki bir olayla ilgilenmesi konusunda bir telefon alır...",
+                "air_date": "2016-07-19",
+                "still_path": "/2IRcb7QNpL1gnV4UkOfXLbtc0sm.jpg",
+                "video_url": "3815586"
+            },
+            {
+                "episode_number": 3,
+                "name": "Toplantıya Davet ~basitçe Söylemek Gerekirse, Sadece Popüler Olmak Istiyorum~",
+                "overview": "Mob'un Vücut Geliştirme Kulübü'ne katılması harika ama nehir kenarında koşarken aniden bayılıyor. Dileği güçlenmek ve sevdiği Tsubomi-chan'a yaklaşabilmektir. Bir gün Mob kendini sıkıntılı hissederken tuhaf maskeli bir kadın ona yaklaşır... Mob'un patlamasına doğru ilerleme: %20.",
+                "air_date": "2016-07-26",
+                "still_path": "/fbr4w6McLDh5Wx7fxWwLGtBa3Hs.jpg",
+                "video_url": "3815589"
+            },
+            {
+                "episode_number": 4,
+                "name": "Sadece Aptallar Etkinliği ~kin~",
+                "overview": "Dini organizasyonla (LOL) yaşanan olaydan sonra kötü ruh Dimple, Mob'u takip etmeye devam ediyor. Ayrıca olay nedeniyle okul gazetesinden Mezato Ichi de Mob'u takip etmeye başlar. Derken bir gün Vücut Geliştirme Kulübüne başka bir öğrenci katılır. Çetenin Patlamasına Doğru İlerleme: %45",
+                "air_date": "2016-08-02",
+                "still_path": "/tgEW5zsvlmglOS5EEk6UmH48kNm.jpg",
+                "video_url": "3815591"
+            },
+            {
+                "episode_number": 5,
+                "name": "Ochimusha ~psişik Güçler ve Ben~",
+                "overview": "Mob, Kara Sirke Ortaokulu'nun gölge lideri Teruki Hanazawa (diğer adıyla Teru) ile bire bir dövüşe davet edilir. Mob güçlerini kullanmaz ama Teru ona karşı tüm gücünü kullanarak etrafındaki her şeyi yok eder. Mob aniden kendisi ile Ritsu arasında yaşanan bir trajediyi hatırladığında Teru inanılmaz gücünü açığa çıkarmaya devam ediyor...",
+                "air_date": "2016-08-09",
+                "still_path": "/h7ts0QOUbragMxy6CacCnGVFETV.jpg",
+                "video_url": "3815594"
+            },
+            {
+                "episode_number": 6,
+                "name": "Discord ~bir Olmak İçin~",
+                "overview": "Mob'un Teru ile dövüşünden sonra huzurlu günler geri döner. Reigen her zamanki gibi sahte bir medyum olarak insanları kandırmaya devam eder ve Telepati Kulübü başkanı Tome Kurata, Mob'u diğer esperleri bulması için sürükler. Sonra bir gün, gizemli bir adam Mob'un küçük kardeşi Ritsu ile konuşur...",
+                "air_date": "2016-08-16",
+                "still_path": "/y6cLitqeuAh5R6yQRAlQhlHBHtl.jpg",
+                "video_url": "3815595"
+            },
+            {
+                "episode_number": 7,
+                "name": "Yüceltme ~kaybettim~",
+                "overview": "Salt Ortaokulu, öğrenci konseyi başkanının öncülüğünde derin bir temizliğe tabi tutulur ve haydutlar birbiri ardına hedef alınır. Bu arada, Mob'un Kara Sirke Ortaokulunda gölge lideri yenmesiyle ilgili hikaye süslenmeye başlar ve kendi başına bir hayat kazanır ve Mob, \"Beyaz T Zehiri\" olarak bilinmeye başlar. Diğer okulların tüm çete liderleri White T Poison'la yüzleşmek için Salt Ortaokulunda toplanmaya başlar. Ayrıca Ritsu, uykuda olan psişik güçlerinin farkına varır ve Dimple, Ritsu'yu kardeşinden daha güçlü olması için onunla eşleşmeye ikna etmeyi başarır. Ritsu sonunda bu güçleri kendisi deneyimlemeye başlar.",
+                "air_date": "2016-08-23",
+                "still_path": "/deNkKthjJd0M6ybS5Tj1EtwXoPk.jpg",
+                "video_url": "3815597"
+            },
+            {
+                "episode_number": 8,
+                "name": "Büyük Kardeş ~yıkıcı Niyeti~ Kabul Ediyor~",
+                "overview": "Çevredeki okullardaki tüm çete liderlerini mağlup eden Ritsu, kendini her şeye kadir hisseder. Ve sonra karşısına ağabeyi Mob'dan başkası çıkmıyor. Mob, Ritsu'nun bir süredir psişik güçler istediğini biliyordu ve bu yüzden onu tebrik etti. Ancak Ritsu, kardeşini nezaketle karşılamıyor. Bu sırada gizemli bir adam kardeşleri uzaktan izlemektedir. Kolayca Ritsu'yu yakalamayı başarır ve onu sürüklemeye çalışır. Mob, kardeşini kurtarmak için güçlerini harekete geçirir.",
+                "air_date": "2016-08-30",
+                "still_path": "/l4uYdqcP4uorUUNUGYvCraQzAZL.jpg",
+                "video_url": "3815600"
+            },
+            {
+                "episode_number": 9,
+                "name": "Pençe ~7.bölüm~",
+                "overview": "Ritsu ve diğerleri, Koyama adında gizemli bir adam tarafından kaçırılır ve gizli örgüt Claw's 7th Division'a götürülür. Claw, dünyayı ele geçirerek daha iyi bir geleceğe götürmeye çalışan bir organizasyondur. Claw'ın suikastçılarından biri olan Terada, Mob ve Teru'nun peşine düşer, ancak onu alt ederler ve organizasyon hakkındaki sırları onlara anlatmasını sağlarlar. Mob, Ritsu'yu kurtarmak için 7. Bölüm'e gider ancak başka bir Pençe üyesiyle karşılaşır.",
+                "air_date": "2016-09-06",
+                "still_path": "/e7PzPH9webwk0km48CruE5BJaQf.jpg",
+                "video_url": "3815602"
+            },
+            {
+                "episode_number": 10,
+                "name": "İğrenç Aura ~deha~",
+                "overview": "Mob ve Teru, Ritsu'yu kurtarmak için Pençe'nin 7. Bölümüne sızar. Bu sırada Ritsu, diğer esper çocuklarla birlikte kaçmaya çalışır ve onlar, üst kademe ve 7. Tümen'in lideriyle karşılaşırlar. Teru ve Dimple'ın zorlu bir savaşın ardından başları belaya girer ve Pençe'nin patronu nihayet kendini gösterir...",
+                "air_date": "2016-09-13",
+                "still_path": "/lRbnpyYSqUHt9fFP501gHXbQWRc.jpg",
+                "video_url": "3815603"
+            },
+            {
+                "episode_number": 11,
+                "name": "Usta ~lider~",
+                "overview": "Mob, Ritsu ve Teru güçlerini kullanamayacakları bir odada mahsur kalırlar. Ve sonra, karşılarına oldukça beklenmedik biri çıkıyor: Mob'un ustası ve kendini medyum ilan eden Reigen. Her nasılsa, Reigen yanlışlıkla Claw'ın patronu olarak düşünülür ve kolayca içeri girmeyi başarır ve Mob ile diğerlerini başarıyla kurtarır. Ancak Ishiguro'nun bu durumdan kurtulmalarına izin vermesi mümkün değil. 7. Tümen'den kaçmaya çalışırken üst kademe önlerine çıkıyor.",
+                "air_date": "2016-09-20",
+                "still_path": "/ggSfFxpN2KTUy2iAERpMuA2nSpA.jpg",
+                "video_url": "3815605"
+            },
+            {
+                "episode_number": 12,
+                "name": "Mob ve Reigen ~dev Bir Tsuchinoko Ortaya Çıkıyor~",
+                "overview": "Üst kademedeki Sakurai, Muraki, Matsuo ve Ishiguro ile yüzleşmek zorunda kalan Mob'un sınırı nihayet zorlanır. Ancak daha sonra oldukça şaşırtıcı bir karara varır...",
+                "air_date": "2016-09-27",
+                "still_path": "/g8JDTJ18lDQvGVyHXs3Yb3l6wwM.jpg",
+                "video_url": "3815608"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2019-01-07",
+        "poster_path": "/KI2MeKPdjWyCEbNo8966lH9ZlE.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Parçalanmış ~biri İzliyor~",
+                "overview": "Reigen, Ruhlar ve Benzeri Danışma Bürosundaki ofisinden bir telefon aldı. Müşteri ondan tarlalarını yok eden siyah gölgenin gerçekte ne olduğunu bulmasını istedi. Bu arada Salt Ortaokulunda Kamuro, öğrenci konseyi başkanlığı görevinden istifa edeceğini duyurur. Yeni öğrenci konseyi başkanını belirlemek için seçimler yapılacak ve Mezato, Mob'u aday olmaya ikna ediyor, ancak...",
+                "air_date": "2019-01-07",
+                "still_path": "/8avaqhS8U5QDfqBprR6DUPf84xA.jpg",
+                "video_url": "3524238"
+            },
+            {
+                "episode_number": 2,
+                "name": "Şehir Efsaneleri ~söylentilerle Karşılaşma~",
+                "overview": "Ofisini ziyaret eden veya arayan müşterilerin olmaması nedeniyle Reigen, işini yola koymaya karar verir. Çeşitli şehir efsanelerinin görüldüğü Cuticle City'ye gidiyorlar. Hemen Dragger denen bir şeyle ilgilenmeleri için bir talep alırlar. Shinra Banshomaru adında tanıştıkları yerel bir medyumun yardımıyla, Dragger'ın yanı sıra şehri rahatsız eden diğer şehir efsaneleriyle ilgilenmeye giderler.",
+                "air_date": "2019-01-14",
+                "still_path": "/vhdahzuD9L1wsqrAF8rZiLNNX7D.jpg",
+                "video_url": "3529269"
+            },
+            {
+                "episode_number": 3,
+                "name": "Birbiri Ardına Tehlike ~dejenerasyon~",
+                "overview": "Reigen, Ruhlar ve Böyle Danışma Bürosu için resmi bir ana sayfa kurar ve hemen sağa sola iş bulmaya başlar; bunlara Reigen'den birine lanet etmesini isteyen orta yaşlı bir adam ve bir hayaletin musallat olduğu bir kadın da dahildir. Mob, onların sorunlarını dinlerken bir şeyin farkına varır. İnsanlar neden insanlara ve ruhlara bu kadar farklı davranıyor? Bu arada Reigen, perili bir yerde fotoğraf çekmek isteyen bir grup üniversite öğrencisinden başka bir istek alır, ancak...",
+                "air_date": "2019-01-21",
+                "still_path": "/c0WoVoQgZ2LUEcF4LWPfSvhJVu8.jpg",
+                "video_url": "4035887"
+            },
+            {
+                "episode_number": 4,
+                "name": "İçeride ~kötü Ruh~",
+                "overview": "Reigen ve Mob yeni bir iş bulur. Bu sefer müşterileri Asagiri Masashi adında zengin bir adamdır. O sadece zengin değil, aynı zamanda süper zengindir, bu yüzden Reigen ve Mob onun malikanesine giderler ve orada kendi kendini medyum ilan eden başka kişiler de bulurlar. Oradaki medyumlardan biri arasında Yükselen Güneş Ruhani Birliği'nin başkanı Jodo Kirin de var. Görevinin, görünüşe göre kızı Minori'yi ele geçiren kötü ruhu kovmak olduğu anlaşılıyor.",
+                "air_date": "2019-01-28",
+                "still_path": "/3MWaUPTeVDD5uWQtr5bxtt6vZIU.jpg",
+                "video_url": "4035889"
+            },
+            {
+                "episode_number": 5,
+                "name": "Anlaşmazlık ~seçenekler~",
+                "overview": "Mob, Mogami Keiji'nin yarattığı paralel bir dünyanın içinde sıkışıp kalır. Minori kendi sınıfına transfer olur ve Mob zorbalığın hedefi haline gelir. Kimseden yardım isteyemez ve içinde olumsuz duygular oluşmaya başlar. Mogami'nin hayattayken yaşadığı trajedinin ardındaki gerçek ortaya çıkıyor. Bu sırada Reigen ve diğerleri, Asagiri malikanesinde Mob'un bilincinin yerine gelmesini bekliyorlardı. Dimple, Minori'nin vücuduna sızarak Mob'u kurtarmaya çalışır.",
+                "air_date": "2019-02-04",
+                "still_path": "/8a92F1fd76UNdNzQeizvPvUWKDf.jpg",
+                "video_url": "3544683"
+            },
+            {
+                "episode_number": 6,
+                "name": "Zavallı, Yalnız, Whitey",
+                "overview": "Mob, Vücut Geliştirme Kulübü ve Telepati Kulübü ile daha fazla vakit geçirdikten sonra daha önce hiç hissetmediği bir neşe hissetmeye başlar. Bir gün onlarla eğlenirken Reigen'den bir telefon alır ve eğlencesi bozulur. Mob, Reigen'den onu bu kadar aniden çağırmayı bırakmasını ister ve Reigen, durumu her zamanki zorba tavrıyla ele alır. Ve çok küçük bir şey yüzünden aralarında bir uçurum oluşur. Reigen, Mob olmadan işlerine devam etmek zorunda kalır ve bu da onu kendini yeniden incelemeye zorlar.",
+                "air_date": "2019-02-11",
+                "still_path": "/afmIffJ0yN3LT2XQyS4bQ59oUcD.jpg",
+                "video_url": "4035893"
+            },
+            {
+                "episode_number": 7,
+                "name": "Köşeli ~gerçek Kimlik~",
+                "overview": "Reigen, Mob'dan ayrıldıktan sonra birçok işi kendi başına yapmaya başlar. Daha sonra bir televizyon programına çıkma teklifi alır. Reigen çok mutludur ve teklifi kabul eder, ancak bunların hepsi Yükselen Güneş Ruhani Birliği'nin başkanı Jodo Kirin tarafından kurulan bir tuzaktı. Gösterinin canlı çekimi sırasında Jodo onu köşeye sıkıştırır ve Reigen'in sahtekar olduğu gerçeği ortaya çıkar. Reigen her taraftan dayak yiyor ve sonunda bir basın toplantısı düzenlemek zorunda kalıyor...",
+                "air_date": "2019-02-18",
+                "still_path": "/oDybpLwNqwoYEl1IuA59gV93VsI.jpg",
+                "video_url": "3562463"
+            },
+            {
+                "episode_number": 8,
+                "name": "O Zaman Bile ~i̇leriye Devam Et~",
+                "overview": "Her yıl düzenlenen maraton ve Salt Ortaokulunun yapılacağı gün yaklaşıyordu. Mob, ilk 10'a girerse Tsubomi'ye onun hakkında ne hissettiğini anlatacağını iddia ediyor. Etrafındaki herkes Mob'a tezahürat yapıyor ve o, etkinlik gününe kadar her gün sıkı antrenmanlara başlıyor. Bu sırada Tsubomi ve arkadaşı Miki, bir istekle Reigen'in Alkollü İçkiler ve Benzeri Danışma Ofisine gider. Ritsu, Mob'un yokluğunda ofiste yardım ediyordu, ancak Tsubomi'nin oldukça şaşırtıcı bir şey söylediğini duydu.",
+                "air_date": "2019-02-25",
+                "still_path": "/dSkHhBA312Prvm30EkvuU2rkhsy.jpg",
+                "video_url": "3557958"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bana Neler Yapabileceğini Göster ~birlikte Ol~",
+                "overview": "Evi alevler içinde kalan Mob ve Dimple, yangında yanan ailesine benzeyen bir şey bulur. Hemen bu işin arkasında kimin olduğunu bulmaya giderler ve gizemli grup Pençe'nin üyeleriyle karşılaşırlar. Öfkesini kontrol edemeyen Mob onları hemen ortadan kaldırır, ancak ardından 7. Tümen'den Koyama ve Sakurai karşısına çıkar. Sonunda Pençe üyelerinin saldırısına uğrayan Teru ve Reigen ile gizli bir sığınakta buluşurlar. Pençe ne planlıyor olabilir?",
+                "air_date": "2019-03-04",
+                "still_path": "/7Q1r7Ii1VbTBV0cG6StzG94jbQ2.jpg",
+                "video_url": "3562436"
+            },
+            {
+                "episode_number": 10,
+                "name": "Çarpışma ~güç Tipi~",
+                "overview": "Pençe'nin patronu Suzuki Toichiro, dünyaya savaş ilan ettikten sonra kendini Seasoning City Culture Tower'a barikat kurar. Polis bariyerlerinden anında kurtulduktan sonra, bir sonraki hamlelerini yaparlar. Bu arada, saklanma yerinde, Reigen ve diğerleri de hamlelerini yapıyorlardı. 7. Tümen ve Uyanış Laboratuvarı'nın eski üyeleri, Reigen'in talimatıyla kuleye doğru yola çıkarlar. Sho ve Ritsu da Suzuki'nin planlarını durdurmak için hamlelerini yaparlar.",
+                "air_date": "2019-03-11",
+                "still_path": "/lg2cGwfeeVfrhz0koWoBWwV53Q2.jpg",
+                "video_url": "3567096"
+            },
+            {
+                "episode_number": 11,
+                "name": "Rehberlik ~psişik Sensör~",
+                "overview": "Sho nihayet Baharat Kültür Kulesi'ne ulaştı ve Ultimate 5'ten biri olan Shimazaki tarafından karşılandı. Ritsu, Shimazaki ile karşı karşıya gelir ve Sho'ya devam etmesi için ısrar eder. Ancak Shimazaki ışınlanmayı başarır ve onun önüne geçer. Bu arada Mob uyandı ve kuleye doğru ilerliyor ve Ultimate 5'ten biri olan Minegishi de ona yaklaşıyor. Mob, bitkileri kontrol eden Minegishi ile uğraşırken zor anlar yaşar, ancak beklenmedik biri onun yardımına koşar.",
+                "air_date": "2019-03-18",
+                "still_path": "/sYyxnqWgwaM6xgFDxcGY9Dkvmqo.jpg",
+                "video_url": "4650829"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sosyal Rehabilitasyon Savaşı ~dostluk~",
+                "overview": "Üç yıl önce Serizawa psişik güçleriyle ilgili sıkıntı yaşıyordu. Bir gün patron Suzuki Toichiro onu ziyaret etti. Serizawa, neler yaşadığını anlayan ilk kişi olduğu için ona güvenmeye başlar. Ancak Mob daha sonra Serizawa'nın kullanıldığı gerçeğini gündeme getiriyor ve ona \"Senin arkadaşın olacağım\" diyor. Mob'un bunu söylediğini duyan Serizawa... Bu sırada patron, Sho'yu yendikten sonra takipçileriyle paylaştığı enerjiyi toplamaya başlar ve bir enerji canavarına dönüşür.",
+                "air_date": "2019-03-25",
+                "still_path": "/mWy9ZkNPO5yfoYQ3X2gzvXDAc91.jpg",
+                "video_url": "4650830"
+            },
+            {
+                "episode_number": 13,
+                "name": "Patron Dövüşü ~son Işık~",
+                "overview": "Kültür Kulesi, Seasoning City'nin üzerinde yüzer. Mob ve Suzuki arasındaki son savaş başlamak üzereydi. Mob, güçlerini tamamen serbest bırakabildiği gerçeğiyle neredeyse şaşkına dönmüştü, ancak daha sonra küçük kardeşi Ritsu'yu gördü. Mob sakinliğini yeniden kazandı ve Suzuki ile karşı karşıya geldi, ancak Suzuki'nin gücü çok büyüktü. Mob sonunda konuşmaktan vazgeçti ve sahip olduğu her şeyi bu savaşa koydu. Kazanan kim olacak?",
+                "air_date": "2019-04-01",
+                "still_path": "/bVvWPZNtFpvnJKB5lC7jv6dhFGJ.jpg",
+                "video_url": "4650831"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 12,
+        "air_date": "2022-10-06",
+        "poster_path": "/2XjkY0iN7KA2saPKp6hfzaivxi9.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Gelecek ~kariyer Yolları~",
+                "overview": "İlahi Ağaç olarak bilinen dev bir brokoli şehrin ortasında yetişiyor ve Baharat Şehri'ne tepeden bakıyor. Salt Ortaokulu'nda kariyer yolları ile ilgili anketleri doldurmanın zamanı geldi ve öğrenciler çeşitli duygularla doluyor. Hepsi umutlarından ve hayallerinden bahsederken Mob'un aklına hiçbir şey gelmiyor gibi görünüyor.",
+                "air_date": "2022-10-06",
+                "still_path": "/2fuXXVuNEubip0qSdDxMgDyzo3Z.jpg",
+                "video_url": "4912076"
+            },
+            {
+                "episode_number": 2,
+                "name": "Yokai Avcısı Amakusa Haruaki Ortaya Çıkıyor! ~yüz Şeytanın Tehdidi!!~",
+                "overview": "Mob iki hafta sonra yapılacak olan kültür fuarına hazırlanmakla çok meşgul. Bu arada Serizawa yeniden başlamaya çalışıyor ve gece okuluna gitmeyi düşünüyor.",
+                "air_date": "2022-10-13",
+                "still_path": "/wHDXIU19U7CavBjkNZEHTIVtoIg.jpg",
+                "video_url": "4918607"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kendini Kaptırmak ~%100~",
+                "overview": "Mob, Tsubomi ile uzun bir aradan sonra ilk kez konuşabildiği için harika bir ruh halindedir. Kasabada yürürken diğer kızların bakışlarını hisseder...",
+                "air_date": "2022-10-20",
+                "still_path": "/2zpObzsKGsN7nWqAcBNF3GWhKSX.jpg",
+                "video_url": "4927355"
+            },
+            {
+                "episode_number": 4,
+                "name": "İlahi Ağaç 1 ~kurucu Ortaya Çıkıyor~",
+                "overview": "Psiko Kask'ın ortaya çıkışının ardından şehrin her yerinde ağaç kökleri ortaya çıkmaya başlar. Tehlikeyi sezen Mob, Reigen ve Ritsu ile birlikte İlahi Ağacı yok etmeye gider, ancak sonunda Psiko Miğfer Dini üyeleri tarafından ezilirler.",
+                "air_date": "2022-10-27",
+                "still_path": "/6RAa5ddwcvhVd8Px77flJkMnr3v.jpg",
+                "video_url": "4933661"
+            },
+            {
+                "episode_number": 5,
+                "name": "İlahi Ağaç 2 ~barış~",
+                "overview": "Mafya İlahi Ağaca doğru yola çıkar ancak Teru ile yüzleşmek zorunda kalır. Mob, Psiko Kask tarafından beyni tamamen yıkanan Teru ile bile yüzleşmek zorunda kaldığında suskun kalır.",
+                "air_date": "2022-11-03",
+                "still_path": "/jTXMYrvKXVkW7d3LsXQ5Ym7NzAS.jpg",
+                "video_url": "4963668"
+            },
+            {
+                "episode_number": 6,
+                "name": "İlahi Ağaç 3 ~gamze Is~",
+                "overview": "Mob'un tutumu, Dimple'ın söylediklerini duyunca değişecek gibi görünüyor. Mob, popüler olma fikrinden uzaklaştığı ve Dimple'ın ona daha önce ne söyleyeceğini duymadığı için Dimple'dan özür diler.",
+                "air_date": "2022-11-10",
+                "still_path": "/AkgxyfSgesTqjLOGd5exagW7T7Z.jpg",
+                "video_url": "4969921"
+            },
+            {
+                "episode_number": 7,
+                "name": "İletim 1 ~kış Tatili~",
+                "overview": "Kurata Tome her zaman evrenle telepati yoluyla iletişim kurmanın hayalini kurmuştu ve artık lise mezuniyeti yaklaşıyordu. Kış tatiline başlamak üzereyken Telepati Kulübü'ne onları dağıtacağını söyler.",
+                "air_date": "2022-11-17",
+                "still_path": "/2A0FI7RhbBr4znsTGJuALHjWGab.jpg",
+                "video_url": "4974807"
+            },
+            {
+                "episode_number": 8,
+                "name": "İletim 2 ~bilinmeyenle Karşılaşmak~",
+                "overview": "Grup bir şekilde sonunda Mudboat Dağı'nın zirvesine ulaşır. Takenaka bütün gece UFO'larla ilgili tüm metinleri okuyordu ve Telepati Kulübü uzaya telepatik bir mesaj göndermek için bir araya geliyor, ancak görünürde UFO yok.",
+                "air_date": "2022-11-24",
+                "still_path": "/hRDnMLOlATDfXM7T0Yp3niyIsoW.jpg",
+                "video_url": "4985908"
+            },
+            {
+                "episode_number": 9,
+                "name": "Mob 1 ~hareket Ediyor~",
+                "overview": "Kış tatili bittikten sonra Mob şok edici bir haberle karşılaşır. Tsubomi aslında önümüzdeki ay içinde transfer olacak.",
+                "air_date": "2022-12-01",
+                "still_path": "/ybsteucEyKvvxqEZJjvgru0UpI8.jpg",
+                "video_url": "4992335"
+            },
+            {
+                "episode_number": 10,
+                "name": "Mob 2 ~rakip~",
+                "overview": "Mob, üzerinden araba geçmek üzere olan ve kendi üzerinden geçen bir çocuğu kurtarmaya çalışır. İnsanlar toplanmaya başlıyor ama Mob sessiz kalıyor.",
+                "air_date": "2022-12-08",
+                "still_path": "/27T90sxHL8hvOaYNKlFxj4OXULt.jpg",
+                "video_url": "4992650"
+            },
+            {
+                "episode_number": 11,
+                "name": "Mob 3 ~travma~",
+                "overview": "Mob, etrafındaki her şeyi yok ederken Tsubomi'nin beklediği parka yürümeye devam eder, ancak Claw'ın eski üst kademe üyeleri, Koyama, Sakuragi ve patronları Suzuki onun önünde durur.",
+                "air_date": "2022-12-15",
+                "still_path": "/fG3EHYfATHH5zbdTdoQAaEkwL11.jpg",
+                "video_url": "5002583"
+            },
+            {
+                "episode_number": 12,
+                "name": "İtiraf ~gelecek~",
+                "overview": "Mob yıkım yolunda ilerlemeye devam ediyor. Tüm yıkım ve kaosun ortasında, Reigen sonunda Serizawa'nın yardımıyla Mob'a ulaşır ve çaresizce onunla konuşmaya çalışır.",
+                "air_date": "2022-12-22",
+                "still_path": "/17lwErm3WHM0mZU2OKXTd7Ne0ZK.jpg",
+                "video_url": "5013127"
+            }
+        ]
+    }
+}

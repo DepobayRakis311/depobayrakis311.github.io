@@ -1,0 +1,485 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2019-07-05",
+        "poster_path": "/58EudfXv38HfupYBpfn8txOlZpO.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Taş Dünyası",
+                "overview": "Gizemli bir fenomenin tüm insanlığı taşa çevirmesinden birkaç bin yıl sonra, olağanüstü zeki, bilim odaklı çocuk Senku Ishigami taşlaşmadan uyanır. Taştan bir dünya ve medeniyetin tamamen çöküşüyle ​​karşı karşıya kalan Senku, dünyayı yeniden inşa etmek için bilimi kullanmaya karar verir. Aynı zamanda uyanan süper güçlü çocukluk arkadaşı Taiju Oki ile başlayarak, medeniyeti sıfırdan yeniden inşa etmeye başlayacaklardır. Taş Devri'nden günümüze iki milyon yıllık bilimsel tarihi tasvir eden, benzeri görülmemiş zanaatkarlık macera hikayesi başlamak üzeredir.",
+                "air_date": "2019-07-05",
+                "still_path": "/jNdIdz4cKsAvxJRh0QWocGaKN66.jpg",
+                "video_url": "3703157"
+            },
+            {
+                "episode_number": 2,
+                "name": "Taş Dünyasının Kralı",
+                "overview": "Vahşi hayvanlardan kaynaklanan acil tehlikeyle karşı karşıya kalan Senku ve Taiju, \"En Güçlü Lise Primatı\" Tsukasa Shishio'yu yeniden canlandırmak zorunda kalır. Tsukasa'nın muazzam bir dövüş yeteneği olmasına ve avcıları olarak bol miktarda yiyecek sağlamasına rağmen, yeni müttefikleri insanlığı yeniden canlandırma konusunda karşıt bir görüş barındırıyor.",
+                "air_date": "2019-07-12",
+                "still_path": "/l7BW5GPY9EcnoxBZKHXWZfEKeOA.jpg",
+                "video_url": "3703158"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bilimin Silahları",
+                "overview": "Senku, Shishio'nun motivasyonuna güvenmediğinden medeniyeti yeniden canlandırma planı için planlarını yeni ve öngörülemeyen bir düşmandan saklamaya çalışacaktır.",
+                "air_date": "2019-07-19",
+                "still_path": "/n5lpLE1e4njZIn0d6jmb55OWwKH.jpg",
+                "video_url": "3703160"
+            },
+            {
+                "episode_number": 4,
+                "name": "Duman Sinyalini Ateşle",
+                "overview": "Senku'nun, teraziyi dengelemenin bir yolunu bulmak ve Shishio'yu yenme şansına sahip olmak için barut yaratma fikri var. Barut üretimi yangına neden olur. Kısa bir süre sonra Senku ve diğerleri ufukta duman sinyallerini keşfederler. Bir kaza? Pek olası değil. Görünüşe göre taş dünyasında başka insanlar da var ...",
+                "air_date": "2019-07-26",
+                "still_path": "/30pMZkqgpxvpxysB1nlOuKWWTgA.jpg",
+                "video_url": "3703161"
+            },
+            {
+                "episode_number": 5,
+                "name": "Taş Dünyası Başlangıç",
+                "overview": "Shishio, olaydan önceki medeniyeti kurtarma fikrinden vazgeçeceğine o anda söz vermezse Senku'nun hayatına son vermeye kararlıdır.",
+                "air_date": "2019-08-02",
+                "still_path": "/mM4UPEQJhUcFp3oTAYgQW90nQDz.jpg",
+                "video_url": "3703162"
+            },
+            {
+                "episode_number": 6,
+                "name": "Taş Dünyasının İki Ulusu",
+                "overview": "Taiju ve Yuzuriha, Senku'yu canlandırmanın sırrını anlar. Ama artık geri döndüğüne göre Tsukasa'yı halletmeleri gerekiyor.",
+                "air_date": "2019-08-09",
+                "still_path": "/71MPjVE59eUssTmByfFBYC5p8ad.jpg",
+                "video_url": "3703165"
+            },
+            {
+                "episode_number": 7,
+                "name": "İki Milyon Yıl Nereye Gitti",
+                "overview": "Kohaku, Senku'yu köyüne gösterir, ancak onu içeri almaları için biraz ikna edilmesi gerekecektir. Bu arada kendisi gibi düşünen, gelecek vaat eden bir \"büyücü\" ile arkadaş olur.",
+                "air_date": "2019-08-16",
+                "still_path": "/w3Ybj8vPIEViNhvCjqmyGCj67ZT.jpg",
+                "video_url": "3703166"
+            },
+            {
+                "episode_number": 8,
+                "name": "Taş Yol",
+                "overview": "Kohaku'nun kız kardeşi köy rahibesi Ruri ağır hastadır. Senku, Chrome ve Kohaku, onun hayatını kurtarmak için antibiyotik yapma arayışına başlar.",
+                "air_date": "2019-08-23",
+                "still_path": "/vgeIE6xvK8wTDH345bBsz6eMIOO.jpg",
+                "video_url": "3703168"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bilimin Işığı Olsun",
+                "overview": "Senku, bilim krallığına destek kazanma umuduyla bir ramen standı açar, ancak bazı insanlar böyle bir rüşvet alamayacak kadar ilkelidir. Mentalist Asagiri Gen onlardan biri değil.",
+                "air_date": "2019-08-30",
+                "still_path": "/kVRz1t86UbFH6ILg9Lw9z1sqxL1.jpg",
+                "video_url": "3703195"
+            },
+            {
+                "episode_number": 10,
+                "name": "Çürük Bir İttifak",
+                "overview": "Senku ve onun bilim krallığı, çöküşten bu yana ilk ampulü başarıyla test ediyor. Bu sırada Tsukasa'nın imparatorluğundan bir casus olan Asagiri Gen, kimliği bilinmeyen bir saldırgan tarafından öldürülür.",
+                "air_date": "2019-09-06",
+                "still_path": "/sxqp8JCFDumCKbyQvX9hgGHqxsN.jpg",
+                "video_url": "3703197"
+            },
+            {
+                "episode_number": 11,
+                "name": "Temiz Dünya",
+                "overview": "Sülfa ilaçlarının yapımı ve bir bütün olarak kimya için önemli bir adım olan cam işlerinin geliştirilmesinin Suika için şaşırtıcı bir fayda sağladığı ortaya çıktı.",
+                "air_date": "2019-09-13",
+                "still_path": "/bTpVChtIatCqNywNRdKMo1q612Z.jpg",
+                "video_url": "3703199"
+            },
+            {
+                "episode_number": 12,
+                "name": "Arkadaşlar Sırt Sırta",
+                "overview": "Antibiyotik yapmak için Senku ve krallığının bir kaynaktan sülfürik asit elde etmesi gerekiyor. Ekip hazırlıklı gidiyor ama sağ salim geri döneceklerinin garantisi yok.",
+                "air_date": "2019-09-20",
+                "still_path": "/yRZzEHHNfA9ZrxzgcxD0TS6ANJ6.jpg",
+                "video_url": "3705763"
+            },
+            {
+                "episode_number": 13,
+                "name": "Maskeli Savaşçı",
+                "overview": "Antibiyotik yapmak için gereken tek şey alkoldür. Biraz elde etmenin en iyi yolu Büyük Maçı kazanmaktır; Magma'yı Ruri'den uzak tutmak ve ona ilacı vermek için Senku ve krallığının da bunu yapması gerekecek.",
+                "air_date": "2019-09-27",
+                "still_path": "/9gbwAqikwaXPcOUoe9Xbr4WjlJE.jpg",
+                "video_url": "3709447"
+            },
+            {
+                "episode_number": 14,
+                "name": "Alev Ustası",
+                "overview": "Magma'nın final maçına ulaşmak için yaptığı bir dizi numaranın ardından Chrome, kendi numarasını ortaya koyuyor! Gen'in biraz ekstra yardımıyla Chrome bu işin üstesinden gelebilir!",
+                "air_date": "2019-10-04",
+                "still_path": "/mtoDxCqcZJGk2tDZZlMQrOLpwaI.jpg",
+                "video_url": "3715613"
+            },
+            {
+                "episode_number": 15,
+                "name": "İki Milyon Yılın Zirvesi",
+                "overview": "Senku'nun beklenmedik zaferi, hızlı evliliği ve hatta aceleci boşanmasının ardından bilim krallığı, sonunda Ruri'nin ilacını bitirmek için işe geri döndü!",
+                "air_date": "2019-10-11",
+                "still_path": "/b4JdwngG7o59Pp3fOXO0oC1vZD3.jpg",
+                "video_url": "3720686"
+            },
+            {
+                "episode_number": 16,
+                "name": "Çağlar Boyu Bir Hikaye",
+                "overview": "Ruri, köyün adının kökenini açıklar ve Senku, babasının kaderini öğrenir!",
+                "air_date": "2019-10-18",
+                "still_path": "/28Yz2QuiXD0Y9QmwnumXx82Xa2t.jpg",
+                "video_url": "3724625"
+            },
+            {
+                "episode_number": 17,
+                "name": "Yüz Gece ve Bin Gök",
+                "overview": "Byakuya ve astronotların hikayesi devam ediyor ve Senku'nun Ishigami Köyü ve Yüz Masallarla bağlantısı nihayet ortaya çıkıyor.",
+                "air_date": "2019-10-25",
+                "still_path": "/qBxFPTtuh1jIBR9SXHuKeA4Lgxq.jpg",
+                "video_url": "3729472"
+            },
+            {
+                "episode_number": 18,
+                "name": "Taş Savaşları",
+                "overview": "Tsukasa'nın ordusu geliyor! Kinro, ölümcül mızrakçı Hyoga ve şok birliklerine karşı köprüyü tutmak için mücadele ediyor, ancak Senku ve köylüler ölümcül yeni bilimsel silahlarla hazır!",
+                "air_date": "2019-11-01",
+                "still_path": "/ojACONcUoDGtDTAGdjeRhyNM38g.jpg",
+                "video_url": "3735246"
+            },
+            {
+                "episode_number": 19,
+                "name": "Moderniteye",
+                "overview": "Hyoga silahsızlandı ama bilimin krallığı hala tehlikede - Ishigami köyü alevler içinde! Ve Tsukasa yakında Senku'nun hâlâ hayatta olduğunu öğrenecek... Köylüler yaklaşan istilaya karşı nasıl mücadele edecek?",
+                "air_date": "2019-11-08",
+                "still_path": "/pflOejXjo7Sv6M30ONwpnR9hAzd.jpg",
+                "video_url": "3741332"
+            },
+            {
+                "episode_number": 20,
+                "name": "Enerji Çağı",
+                "overview": "Senku'nun cep telefonunun bileşenlerini yaratma çalışmaları başlıyor, ancak altın teli döndürmek oldukça zor bir iş gibi görünüyor! Neyse ki Chrome ve Kaseki su çarkını \"icat etti\" ve süreci büyük ölçüde geliştirdi!",
+                "air_date": "2019-11-15",
+                "still_path": "/r4CvVy6gVY7WBPbZic2IPrV8Wcs.jpg",
+                "video_url": "3748740"
+            },
+            {
+                "episode_number": 21,
+                "name": "Spartalı El Sanatları Kulübü",
+                "overview": "Chrome ve Kaseki'nin su çarkının bitmesiyle Ishigami Köyü elektrik çağına giriyor! Peki Senku, elindeki ilkel malzemelerle vakum tüpünü çalıştırmanın yarattığı yoğun ısıya dayanabilecek bir filaman yaratabilecek mi?",
+                "air_date": "2019-11-22",
+                "still_path": "/vKq2lSipWkHjwz6dtzAKIiZYTya.jpg",
+                "video_url": "3755237"
+            },
+            {
+                "episode_number": 22,
+                "name": "Hazine",
+                "overview": "Senku, Chrome ve Magma, Tungsten'i aramak için bir mağaraya girerler, ancak Senku ve Chrome'un bir çukurun dibinde mahsur kalmasına neden olan şüpheli bir kaza vardır! Magma ne yapıyor?",
+                "air_date": "2019-11-29",
+                "still_path": "/pzYT1Dynwqp99Md54mch3l9HLzE.jpg",
+                "video_url": "3761084"
+            },
+            {
+                "episode_number": 23,
+                "name": "Bilim Dalgası",
+                "overview": "Senku ve köyün geri kalanı cep telefonunun parçalarını üretmeye başlar. Zor bir iş ama herkes heyecanlı!",
+                "air_date": "2019-12-06",
+                "still_path": "/fmsDl2bBSCy6g2WyQ6ecTjkIeOY.jpg",
+                "video_url": "3766067"
+            },
+            {
+                "episode_number": 24,
+                "name": "Sonsuz Mesafe Üzerinden Sesler",
+                "overview": "Yeni cep telefonlarını başarılı bir şekilde test ettikten sonra Senku, ölülerin sesini çalabilen Hoparlör adlı bir arı hakkında gizemli bir hikaye öğrenir.",
+                "air_date": "2019-12-13",
+                "still_path": "/asefdjjj0dJC5M2CpEPFLEhcCA3.jpg",
+                "video_url": "3771006"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 11,
+        "air_date": "2021-01-14",
+        "poster_path": "/a1gQ45ZJELpIpFwOmRC1763rrGb.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Taş Savaşları Başlıyor",
+                "overview": "Senku, Taş Dünya'yı ilerletmeye çalışmaya devam ediyor, bu sefer \"uzay yemeği\" yapıyor, aslında fincan eriştesi. Senku projesini bitirdikten sonra, Gen bir aydınlanma yaşıyor ve Tsukasa'nın ordusunu şiddet kullanmadan alt etmek için bir plan tasarlıyor.",
+                "air_date": "2021-01-14",
+                "still_path": "/1sRPbZNMdbbWiZ8rjKTsLiNyYVR.jpg",
+                "video_url": "4769186"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sıcak Hat",
+                "overview": "Senku'nun oyalanması Gen ve diğerlerine biraz zaman kazandırırken Homura çok geçmeden bir şeylerin doğru olmadığını fark eder.",
+                "air_date": "2021-01-21",
+                "still_path": "/kyRkW4ICLl1AZwvWk5lo9IAJwQj.jpg",
+                "video_url": "4214849"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ölülerden Çağrı",
+                "overview": "Taiju ve Yuzuriha, Senku'nun sesini duyunca gözyaşlarına boğulurlar ve Senku onlara savaşı kan dökülmeden kazanma planını anlatır.",
+                "air_date": "2021-01-28",
+                "still_path": "/fOM5gNKdSaFAOtetiZpUUP2ZZaW.jpg",
+                "video_url": "4219820"
+            },
+            {
+                "episode_number": 4,
+                "name": "Tam Saldırı",
+                "overview": "Chrome ve Magma, Ukyo ile mücadele ederken Senku, bir icat geliştirmekle meşguldür; yeni bir umut.",
+                "air_date": "2021-02-04",
+                "still_path": "/7W3gH6WhfPED2iCimeI5zOI7yZQ.jpg",
+                "video_url": "4325453"
+            },
+            {
+                "episode_number": 5,
+                "name": "Buhar Gorili",
+                "overview": "Otomobile son rötuşlar yapılıyor ve bilim malzemelerini Tsukasa imparatorluğuna yakın, müstahkem bir uçurumun kenarına taşımak için kullanılıyor. Oradan otomobil bir tanka dönüştürülür, ancak kurtarma grubunun haberi olmadan imparatorluk tarafından herhangi bir araç saldırısına karşı hazırlıklar yapılmıştır.",
+                "air_date": "2021-02-11",
+                "still_path": "/xdDdZDajj5l0o7sOnovnGEi7Sov.jpg",
+                "video_url": "4231259"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hapishaneden Kaçış",
+                "overview": "Chrome, hapishanesinden kaçmak ve Senku ile diğerlerini kurtarmak için tüm bilimsel bilgisini kullanmalıdır.",
+                "air_date": "2021-02-18",
+                "still_path": "/5wtdap5BlXlgmIIseNTSFFFhgEo.jpg",
+                "video_url": "4239334"
+            },
+            {
+                "episode_number": 7,
+                "name": "Gizli Görev",
+                "overview": "Senku, Mucize Mağarasını ele geçirmek için Buhar Gorilini kullanmaya karar verir. Lillian'ın kaydını kullanan Senku, Tsukasa'nın adamlarının çoğunun güvenini kazanır. Ukyo, Yuzuriha'nın Tsukasa'nın yok ettiği heykel parçalarını yeniden birleştirme yönündeki gizli görevini gördüğünü açıklar.",
+                "air_date": "2021-02-25",
+                "still_path": "/dLDk4u9n6aXCmP2TDgS4BodHYRo.jpg",
+                "video_url": "4246122"
+            },
+            {
+                "episode_number": 8,
+                "name": "Son Savaş",
+                "overview": "Mucize mağara için Son Savaş, Senku ve Bilim Krallığı'nın mağaraya önden bir saldırı düzenlemesiyle başlar.",
+                "air_date": "2021-03-04",
+                "still_path": "/oZusPVxwvyvnbwfPXQAlWUox8OB.jpg",
+                "video_url": "4252905"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yok Etmek ve Kurtarmak",
+                "overview": "Senku, Tsukasa'nın hayatta olduğunu öğrendiği kız kardeşi Mirai'yi canlandırma karşılığında Tsukasa'dan ateşkes talep eder, ancak Hyoga gerçek yüzünü gösterince yeni bir sorun karşımıza çıkar.",
+                "air_date": "2021-03-11",
+                "still_path": "/1pMkShY92cz8P4nrWAd3MlkKo9V.jpg",
+                "video_url": "4259340"
+            },
+            {
+                "episode_number": 10,
+                "name": "İnsanlığın En Güçlü Takım Takımı",
+                "overview": "Senku, Tsukasa'nın hayatta olduğunu öğrendiği kız kardeşi Mirai'yi canlandırma karşılığında Tsukasa'dan ateşkes talep eder, ancak Hyoga gerçek yüzünü gösterince yeni bir sorun ortaya çıkar.",
+                "air_date": "2021-03-18",
+                "still_path": "/8Na2zGSLtavAygx3MuAeOj651QS.jpg",
+                "video_url": "4264047"
+            },
+            {
+                "episode_number": 11,
+                "name": "Dr. Stone'un Önsözü",
+                "overview": "Bilim Krallığı galip geldi ancak Senku için işler henüz bitmedi. Senku, ağır yaralanan Tsukasa'yı iyileştirmek için tüm bilgisini kullanmalıdır.",
+                "air_date": "2021-03-25",
+                "still_path": "/1ZAvZGt0teLnh4R0W9yhS3EjwK3.jpg",
+                "video_url": "4272024"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 22,
+        "air_date": "2023-04-06",
+        "poster_path": "/rMaKC95DrnJRUGnW3ROTRkgwNST.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yeni̇ Dünya Hari̇tasi",
+                "overview": "Petrol aramak için sıcak hava balonunu kullanmaya devam ederken, Ishigami Köyü'nün gelecekteki yiyecek kıtlığını önlemek ve yaklaşan deniz yolculuğu için konserve yiyecekler üretmek için tarımla uğraşması gerektiğine karar verildi.",
+                "air_date": "2023-04-06",
+                "still_path": "/x3hrsz8A6WX1crKV5WLiMkvUuvo.jpg",
+                "video_url": "5100596"
+            },
+            {
+                "episode_number": 2,
+                "name": "Açgözlülük Adalettir",
+                "overview": "Bilim Krallığı'nın, dünyanın diğer ucuna yapacakları yolculuk boyunca kendilerine yetecek erzağa ihtiyacı olacak. Ancak Senku profesyonel olmadığı için pişirmeye çalıştığı tüm ekmeği yakar.",
+                "air_date": "2023-04-13",
+                "still_path": "/o15nnT0jmjhMfxLPn00PgkSisR7.jpg",
+                "video_url": "5115518"
+            },
+            {
+                "episode_number": 3,
+                "name": "İlk Temas",
+                "overview": "Senku, Sagara Petrol Sahalarını aramak için bir ekip getirir. Bu sırada Suika ve Francois yer mantarı avına çıkar.",
+                "air_date": "2023-04-20",
+                "still_path": "/7uRDjro0Z42MHQFT5AyFaUxvY6M.jpg",
+                "video_url": "5112103"
+            },
+            {
+                "episode_number": 4,
+                "name": "Bilimin Gözleri",
+                "overview": "\"NEDEN\" yazan mors kodu sinyali, Ukyo'nun bir yön belirlemesi için yayın dalgalarını çok fazla doyurur, bu nedenle Bilim Krallığı, sinyali görselleştirmenin bir yolu üzerinde çalışır.",
+                "air_date": "2023-04-27",
+                "still_path": "/aVA397LlFUhOTIrEt9k3F7OKk6M.jpg",
+                "video_url": "5119361"
+            },
+            {
+                "episode_number": 5,
+                "name": "Bilim Gemisi Perseus",
+                "overview": "Kaseki'nin bilim gemisi Perseus'u inşa etme çabaları, pratikte tüm parçaların birbirine uymasının imkansız olduğunu anladığında bir engele takılır.",
+                "air_date": "2023-05-04",
+                "still_path": "/3IjMInLbkq1mygdPzWSmj6Mrdp8.jpg",
+                "video_url": "5272365"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hazi̇ne Kutusu",
+                "overview": "Perseus mürettebatı, Yüz Masal'ın doğduğu yer olan hazine adasına doğru yola çıkıyor ve burada Soyuz mürettebatının geride bıraktığı hazine kutusunu bulmayı umuyorlar.",
+                "air_date": "2023-05-11",
+                "still_path": "/v8hh3pmeXKH4MtPFajLqOQ3Hvqr.jpg",
+                "video_url": "5272367"
+            },
+            {
+                "episode_number": 7,
+                "name": "Umutsuzluk Işını, Umut Işını",
+                "overview": "Perseus hazine adasına varır. Senku, Soyuz, Kohaku ve Gen'den oluşan bir keşif ekibi platini bulmak ve adalılarla temas kurmak için yola çıktı. Ukyo daha sonra deniz tabanında bir şey keşfeder ve araştırması için Ginro'yu gönderir.",
+                "air_date": "2023-05-18",
+                "still_path": "/4fgL5cLY8SqjUOyO3KC1ycPSBaB.jpg",
+                "video_url": "5272370"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bilim Gemisindeki Trump Kartı",
+                "overview": "Amaryllis, taşlaşmaktan nasıl kurtulduğunu ve iç saraya gizlice girme kararını nasıl aldığını anlatıyor.",
+                "air_date": "2023-05-25",
+                "still_path": "/n1yumf39DunOziTGMZWcCkgkS4b.jpg",
+                "video_url": "5272371"
+            },
+            {
+                "episode_number": 9,
+                "name": "Güzel Bilim",
+                "overview": "Suika ve Ginro, mobil laboratuvarı Perseus'tan kurtarmak için birlikte çalışır. Senku ve diğerleriyle yeniden bir araya gelen grup, Kohaku'ya seçim sürecinde yardımcı olacak öğeler üzerinde çalışır.",
+                "air_date": "2023-06-01",
+                "still_path": "/7LhbWIVc3mJf0cjshNwpVWJDLAQ.jpg",
+                "video_url": "5272374"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bi̇li̇m Savaşlari",
+                "overview": "Amaryllis, Ginro ve Kohaku iç saraya katılmak üzere seçilir. Bilim ekibinin onlarla gizlice iletişim kurmanın bir yoluna ve en sonunda da bilim ekibiyle iletişim kurmanın bir yoluna ihtiyacı olacak.",
+                "air_date": "2023-06-08",
+                "still_path": "/7OeCecH8SqkaKXDV9aS9vyMyKQz.jpg",
+                "video_url": "5272376"
+            },
+            {
+                "episode_number": 11,
+                "name": "Bu Yumrukla Bir Mucize",
+                "overview": "Kohaku, Byakuya ve diğerlerinin geride bıraktığı hazineyi buldu ama hazine betonla kaplıydı. Senku, gardiyanları uyarmamak için içerideki eşyalara sessizce ulaşmak için bir plan yapmak zorundadır.",
+                "air_date": "2023-06-15",
+                "still_path": "/b577K4Y15J2zop96edjtQRjeG5S.jpg",
+                "video_url": "5272379"
+            },
+            {
+                "episode_number": 12,
+                "name": "Bilim Krallığının Karşı Saldırısı",
+                "overview": "Kohaku, Ryusui'nin casus olmadığını kanıtlamak için heykelini yok etmek zorunda kalır.",
+                "air_date": "2023-10-12",
+                "still_path": "/wK4bbwqbPk1PbLljcazH6KzWVvx.jpg",
+                "video_url": "5286497"
+            },
+            {
+                "episode_number": 13,
+                "name": "Medusa'nın Gerçek Yüzü",
+                "overview": "Ekip, drone üzerinde çalışması için Kaseki'yi canlandırır. Bu sırada Ginro, Usta'yı görmeye çağrılır.",
+                "air_date": "2023-10-19",
+                "still_path": "/gTfHFLH8RNvq2KirV7aPemhzXW8.jpg",
+                "video_url": "5293334"
+            },
+            {
+                "episode_number": 14,
+                "name": "Anlaşma Oyunu, Zeka Testi",
+                "overview": "Bilim Krallığı'nın çoğu taşlaşmadan geri getirildi, ancak bunlar mağarada Moz tarafından keşfedildi.",
+                "air_date": "2023-10-26",
+                "still_path": "/mHFWnsigkolhX6GyhV8Z4wb9rtp.jpg",
+                "video_url": "5303100"
+            },
+            {
+                "episode_number": 15,
+                "name": "Üç Boyutta Savaş",
+                "overview": "Moz ve Bilim Krallığı, Ibara'ya karşı zayıf ve geçici bir ittifak kurar. Bunun ne kadar süreceği henüz kendilerini ilgilendiremeyecekleri bir soru.",
+                "air_date": "2023-11-02",
+                "still_path": "/i5WrLPDOESOxntDuoJ1AqVgYR9I.jpg",
+                "video_url": "5311237"
+            },
+            {
+                "episode_number": 16,
+                "name": "Topyekün Savaş",
+                "overview": "Bilim Krallığı saldırır ve taşlaştırma cihazını çalma planlarını uygulamaya çalışır. Moz, Kirisame'i cihazı kullanmaya ikna eder, ancak Ryusui'nin içgüdüleri ona bu durumda bir terslik olduğunu söyler.",
+                "air_date": "2023-11-09",
+                "still_path": "/uJGNLytepCwHWmUXl7MjPfOtZAa.jpg",
+                "video_url": "5331315"
+            },
+            {
+                "episode_number": 17,
+                "name": "Joker",
+                "overview": "Bilim Krallığı üyeleri, Perseus'taki adalılara bir saldırı başlatır, ancak Moz çok geride değildir ve Senku ve diğerleri, geminin içine çekilmek zorunda kalır. Ibara onları köşeye sıkıştırır ama Senku, Joker kartını açar.",
+                "air_date": "2023-11-16",
+                "still_path": "/6v7V8kljFknyT2NhVRsHK9tESC1.jpg",
+                "video_url": "5331316"
+            },
+            {
+                "episode_number": 18,
+                "name": "Felaket Titremesi",
+                "overview": "Yo ve Bilim Krallığı taşlaştırma cihazını ele geçirir, ancak Ibara savaşmadan pes etmeyecektir.",
+                "air_date": "2023-11-23",
+                "still_path": "/93wkryYnttiGIYLbBpfK1ZsRtWV.jpg",
+                "video_url": "5342276"
+            },
+            {
+                "episode_number": 19,
+                "name": "Son Ayakta Kalan Adam",
+                "overview": "Ibara'yı çok şaşırtan ve dehşete düşüren Senku bir plan yaptı ve taşlaşmadan kurtulmayı başardı. Şimdi ikili, Medusa cihazının kontrolü için kafa kafaya bir savaşa giriyor.",
+                "air_date": "2023-11-30",
+                "still_path": "/4PlCnfRS4V6Ij8RR7qLtK2akqKW.jpg",
+                "video_url": "5353628"
+            },
+            {
+                "episode_number": 20,
+                "name": "İlk Rüya",
+                "overview": "Senku galip geliyor. Daha sonra diğerlerini canlandırmaya ve iletişim cihazlarını tamir etmeye çalışır, ancak Ruri ile konuşurken sinyalde güçlü bir parazitle karşılaşırlar.",
+                "air_date": "2023-12-07",
+                "still_path": "/8nhV9hoZ1k6qcUVHMZ5MV8jc0TJ.jpg",
+                "video_url": "5366240"
+            },
+            {
+                "episode_number": 21,
+                "name": "Hazine Adası",
+                "overview": "Ay'a! En azından plan bu. Senku ve Bilim Krallığı, Ay'a gidip Why-Man ile başa çıkmak için bir yol bulmalı. İlk adım, Hazine Adası halkıyla ittifak kurmak ve bazı yeni araçlar için yardımlarını almak.",
+                "air_date": "2023-12-14",
+                "still_path": "/r2YtNnc9wgcbC6pZTrFhi5LBHpm.jpg",
+                "video_url": "5373821"
+            },
+            {
+                "episode_number": 22,
+                "name": "Yeni̇ Dünyanin Ötesi̇nde",
+                "overview": "Krallığın elindeki taşlaştırma cihazıyla Tsukasa'yı yeniden canlandırma zamanı geldi. Ancak tek bir sorun var: Cihazın pili bitmiş.",
+                "air_date": "2023-12-21",
+                "still_path": "/2GB1NNoz7KsQC6yaMOpQs8xvVZO.jpg",
+                "video_url": "5385318"
+            }
+        ]
+    }
+}

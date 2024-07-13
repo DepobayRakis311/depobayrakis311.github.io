@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2014-04-09",
+        "poster_path": "/3hfAgUF31rQpps3ufZKT4oEVH1x.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Acemi",
+                "overview": "Sora ve Shiro işsizdir ve asla evlerinden ayrılmazlar, ancak internette yenilmez bir oyuncu takımı olan \"Boş\" olarak bilinirler. Bir gün bu kardeşler, kendisine tanrı diyen Tet adında bir çocuk tarafından ziyaret edilir. Tet onları her türlü savaşın yasaklandığı ve her şeyin oyunlar tarafından belirlendiği bir dünyaya çağırıyor.",
+                "air_date": "2014-04-09",
+                "still_path": "/v4aoaOWsrTELdqG5kUFoxR11fx8.jpg",
+                "video_url": "1850507"
+            },
+            {
+                "episode_number": 2,
+                "name": "Meydan Okuyan",
+                "overview": "Sora ve Shiro, Tet tarafından başka bir dünyaya terk edilmiştir. Bu dünyada tüm savaşlar yasaktır ve her şey, kuralları Tet'in kurduğu \"On Söz\" tarafından belirlenen oyunlarla belirlenir. Kendilerini, bu yeni dünyadaki 16 ırkın en zayıfı olan insanlığın ülkesinde bulurlar.",
+                "air_date": "2014-04-16",
+                "still_path": "/9MRkV6KfcFAvcV6UCArGGNOyhRk.jpg",
+                "video_url": "1850654"
+            },
+            {
+                "episode_number": 3,
+                "name": "Uzman",
+                "overview": "Clamy adında bir kız, büyük şansı sayesinde Elukia'nın bir sonraki kralı olma hakkını kazandı. Steph ona yenildi ve bir sonraki hükümdar olma şansını kaybetti. Ancak son rakibini yenerken Sora ve Shiro onun sözünü keser.",
+                "air_date": "2014-04-23",
+                "still_path": "/hYwwL5P1e3uoY1qEY0jdV36LQeV.jpg",
+                "video_url": "1850756"
+            },
+            {
+                "episode_number": 4,
+                "name": "Büyük Usta",
+                "overview": "Clamy'nin onlara meydan okuduğu oyun normal satranç değildi. Shiro bir satranç ustasıdır ama o bile Clami'nin saldırısı karşısında çaresizdir. Ancak Shiro oyunun gerçek kurallarını anladığında işler tersine dönmeye başladı. Elukia'nın ve tüm insanlığın kralını belirleme savaşı nihayet sona erer.",
+                "air_date": "2014-04-30",
+                "still_path": "/mAAvruPE2iG3KnQBJiCfWP1msY3.jpg",
+                "video_url": "1850851"
+            },
+            {
+                "episode_number": 5,
+                "name": "Zayıf Kare",
+                "overview": "Sora ve Shiro, ülkenin yönetimini Steph'e bırakır ve her gününü video oyunları oynayarak geçirir. Steph'in onların yalnızca Elukia'nın değil tüm insanlığın kurtarıcıları olacağına dair umudu yok olur.",
+                "air_date": "2014-05-07",
+                "still_path": "/n6QJfcMTgKXr6EILrEpkWRxylhb.jpg",
+                "video_url": "1850910"
+            },
+            {
+                "episode_number": 6,
+                "name": "İlginç",
+                "overview": "Kardeşler, bir Shiritori oyununda kraliyet kütüphanesini geri almak için Flügel ırkının bir üyesi olan Jibril ile yüzleşir.",
+                "air_date": "2014-05-14",
+                "still_path": "/4efkJ1zz5wxhxIzmyq1qcoSYGb5.jpg",
+                "video_url": "1850951"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kurban Etmek",
+                "overview": "Werebeast'lere meydan okumak isteyen kardeşler, ikincisini yenmek için bir strateji bulmanın zor olduğunu keşfederler, çünkü oyunlarla ilgili tüm anılar rakiplerinden silinir, ta ki Stephanie, Sora'ya eski kraldan kalan bir anahtarı emanet ederek onun sırrına gidene kadar. onları nasıl alt edebileceğinizi araştırın.",
+                "air_date": "2014-05-21",
+                "still_path": "/topi224FaO3Di8FQ9RfrTouMyUC.jpg",
+                "video_url": "1850986"
+            },
+            {
+                "episode_number": 8,
+                "name": "Sahte Son",
+                "overview": "Sora, Shiro, Steph ve Jibril, daha da riskli riskleri olan riskli bir plan yaparak onlara meydan okumak için Savaş Canavarı elçiliğine doğru yola çıkarlar.",
+                "air_date": "2014-05-28",
+                "still_path": "/t4Su6DHvyQvAHo6K2bYxs1TghBw.jpg",
+                "video_url": "1851018"
+            },
+            {
+                "episode_number": 9,
+                "name": "Gökyüzü Yürüyüşü",
+                "overview": "Shiro uyandıktan sonra Sora'nın hiçbir yerde bulunamaması onu harekete geçmeye teşvik ettiğinden şüphelenilir.",
+                "air_date": "2014-06-04",
+                "still_path": "/xB3mHHJakxDAtsaMsAVmeKWT9rE.jpg",
+                "video_url": "1851023"
+            },
+            {
+                "episode_number": 10,
+                "name": "Mavi Gül",
+                "overview": "Sora, Shiro ve diğerleri güven egzersizleri ve kurnaz stratejiler aracılığıyla kendilerini Savaş Canavarları ile bir oyuna hazırlıyorlar. Riskler büyük ama Sora'nın her zaman olduğu gibi bir planı var.",
+                "air_date": "2014-06-11",
+                "still_path": "/feWWKzPrVhPRxJX45ePlhCL7Nzq.jpg",
+                "video_url": "1851029"
+            },
+            {
+                "episode_number": 11,
+                "name": "Devi Öldürmek",
+                "overview": "Izuna güçlü olmasına rağmen oynanışta ona rakip oluyor. Bu birinci şahıs nişancı oyunu sanal alanda sınırlarını test edecek. Gerginlik arttıkça dost ateşi yaklaşıyor.",
+                "air_date": "2014-06-18",
+                "still_path": "/dhj4ryopygULu0WLF4J1iLI85Fo.jpg",
+                "video_url": "1851032"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kural Numarası 10",
+                "overview": "Izuna'nın yetenekleri görünüşte fiziğe meydan okurken Sora ve Shiro, oyunlarını geliştirmek için muhtemelen nafile girişimlerde bulunur.",
+                "air_date": "2014-06-25",
+                "still_path": "/iCEP49FrJGmZPUtkdjUX1OUixen.jpg",
+                "video_url": "1851055"
+            }
+        ]
+    }
+}

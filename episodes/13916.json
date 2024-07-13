@@ -8,16 +8,16 @@
         "episodes": [
             {
                 "episode_number": 1,
-                "name": "Yeniden doğuş",
-                "overview": "Zeki ama sıkılmış lise öğrencisi Light Yagami, bir anda kendini yaşamın ve ölümün gücünü, Ölüm Defteri'nin gücünü elinde tutarken bulur. Suçluları birer birer öldürerek dünyayı kötülükten kurtarmaya karar verir. Cinayetler artmaya başlayınca dahi dedektif L olayla ilgilenir ve destansı bir zeka savaşı başlar.",
+                "name": "Yeniden Doğuş",
+                "overview": "Zeki ama sıkılmış lise öğrencisi Light Yagami, bir anda kendini yaşamın ve ölümün gücünü, Ölüm Defteri'nin gücünü elinde tutarken bulur. Suçluları birer birer öldürerek dünyayı kötülükten kurtarmaya karar verir. Cinayetler artmaya başladığında dahi dedektif L olayla ilgilenir ve destansı bir zeka savaşı başlar.",
                 "air_date": "2006-10-04",
                 "still_path": "/3DBzrTd2ZUleqKlGOBfMklDySRH.jpg",
                 "video_url": "3194084"
             },
             {
                 "episode_number": 2,
-                "name": "Yüzleşme",
-                "overview": "Dünya suçluları ölmeye devam ederken, L bilgisayar aracılığıyla çeşitli ulusların temsilcileriyle görüşür. Light'ın babası Soichiro Yagami'nin yönetiminde Japonya'da bir görev gücü kurulmasını ister.",
+                "name": "Karşılaşma",
+                "overview": "Dünyadaki suçlular ölmeye devam ederken L, çeşitli ulusların temsilcileriyle bilgisayar aracılığıyla buluşuyor. Japonya'da Light'ın babası Soichiro Yagami'den başkasının yönetimi altında bir görev gücü kurulmasını talep ediyor.",
                 "air_date": "2006-10-11",
                 "still_path": "/63fCP6HZf5EbP6muq2mcYh6Lvc8.jpg",
                 "video_url": "3194087"
@@ -33,7 +33,7 @@
             {
                 "episode_number": 4,
                 "name": "Kovalama",
-                "overview": "Artık tüm dünyada Kira olarak bilinen Light, altı mahkumu çeşitli şekillerde öldürerek güçlerinin kapsamını anlamak için Ölüm Notu'nu test ediyor ve kurbanlarının eylemlerini ölmeden önce kontrol edebildiğini doğruluyor.",
+                "overview": "Artık dünya tarafından Kira adıyla bilinen Light, Ölüm Defteri'nin güçlerinin kapsamını anlamak için altı mahkûmu çeşitli şekillerde öldürerek onu test eder ve kurbanlarının ölmeden önce eylemlerini kontrol edebildiğini doğrular.",
                 "air_date": "2006-10-25",
                 "still_path": "/bisms0qgIVV8Qa9vGlFnfP9briJ.jpg",
                 "video_url": "3194091"
@@ -64,7 +64,7 @@
             },
             {
                 "episode_number": 8,
-                "name": "parlama",
+                "name": "Parlama",
                 "overview": "L, Raye Penber'in takip ettiği Şef Yagami ve Müdür Yardımcısı Kitamura'nın evlerine dinleme cihazları ve kameralar kurmakta ısrar ediyor. Ancak Light her zamanki gibi bir adım önde; izlendiğinin farkında.",
                 "air_date": "2006-11-22",
                 "still_path": "/smXhV1fvWJrDtGB1MV8N3lIt5JY.jpg",
@@ -89,7 +89,7 @@
             {
                 "episode_number": 11,
                 "name": "Saldırı",
-                "overview": "Sakura TV'ye gönderilen kasetlerde tahmin edildiği gibi Kira'yla ilgili şüphelerini dile getiren haber spikerleri ve yorumcular birer birer ölüyor. Daha ayrıntılı bir araştırmada L, bu Kira'nın orijinal olmadığı sonucuna varır; ikinci bir Kira vardır!",
+                "overview": "Sakura TV'ye gönderilen kasetlerde öngörüldüğü gibi, Kira hakkında şüphelerini dile getiren haber spikerleri ve yorumcular birer birer ölüyor. L, daha fazla araştırma sonucunda bu Kira'nın orijinal olmadığı sonucuna varıyor - ikinci bir Kira var!",
                 "air_date": "2006-12-13",
                 "still_path": "/nAhTYkjUMVghszC2kXXr8qFD5VG.jpg",
                 "video_url": "3194161"
@@ -105,7 +105,7 @@
             {
                 "episode_number": 13,
                 "name": "İtiraf",
-                "overview": "Light, L daha fazla şüphelenmeden önce ikinci Kira'nın kimliğini keşfetmek için Aoyama'ya gider. Ancak yeni Kira Misa Amane, Light'ı bulmadan önce onu bulmak için alışılmadık yeteneğini kullanır.",
+                "overview": "Light, L daha fazla şüphelenmeden önce ikinci Kira'nın kimliğini öğrenmek için Aoyama'ya gider. Ancak yeni Kira olan Misa Amane, Light onu bulmadan önce sıra dışı yeteneğini kullanarak onu bulur.",
                 "air_date": "2007-01-10",
                 "still_path": "/peEBI9p36VCBgDp6XW8JRjO7Vdt.jpg",
                 "video_url": "3194177"
@@ -160,7 +160,7 @@
             },
             {
                 "episode_number": 20,
-                "name": "Derme çatma",
+                "name": "Derme Çatma",
                 "overview": "L'nin ekibi, Yotsuba Grubunun şirketlerine sorun çıkaran kişilerin ortadan kaldırılmasını tartışmak için gizlice toplandığını keşfeder ve Kira'nın sekiz yöneticiden biri olması gerektiği sonucuna varır. L kılığına giren Light doğru olanı bulabilir mi?",
                 "air_date": "2007-02-28",
                 "still_path": "/b92CjZHibPwxHPp4ID6vvaD5WZD.jpg",
@@ -257,7 +257,7 @@
             {
                 "episode_number": 32,
                 "name": "Seçim",
-                "overview": "Yıldız haber spikeri Kiyomi Takada, Demegawa'nın Mikami tarafından silinmesinin ardından Kira'nın dünya çapındaki sözcüsü olur ve o, Light'ın üniversitedeki kız arkadaşı olur. Aizawa'nın Light hakkındaki şüpheleri artar.",
+                "overview": "Demegawa, Mikami tarafından silindikten sonra, yıldız haber spikeri Kiyomi Takada, Kira'nın dünyaya sözcüsü olur ve tesadüfen üniversitedeyken Light'ın kız arkadaşı olmuştur. Aizawa'nın Light hakkındaki şüpheleri artar.",
                 "air_date": "2007-05-23",
                 "still_path": "/A4v49zTK59PCExMM5tQJUqj0231.jpg",
                 "video_url": "3194262"
@@ -265,7 +265,7 @@
             {
                 "episode_number": 33,
                 "name": "Aşağılamak",
-                "overview": "Near, iddiaya göre Kira'ya yem olarak Japonya'ya gidiyor. Light'ın talimatlarını takip eden Takada, Mikami'den kendisine Ölüm Notunun beş sayfasını göndermesini ister. Gerçeğine benzeyecek şekilde yapılmış sahte bir kitap üzerinde çalışmalarına devam edeceğini söyler.",
+                "overview": "Near, iddiaya göre Kira'ya yem olarak Japonya'ya gider. Light'ın talimatlarını izleyen Takada, Mikami'den kendisine Ölüm Defteri'nin beş sayfasını göndermesini ister. Mikami ona gerçekmiş gibi görünen sahte bir kitapta çalışmalarına devam edeceğini söyler.",
                 "air_date": "2007-05-30",
                 "still_path": "/lsPwoKFZ7u5BuUOdVc6LAK6RRKf.jpg",
                 "video_url": "3194309"
@@ -273,15 +273,15 @@
             {
                 "episode_number": 34,
                 "name": "Dikkat",
-                "overview": "Aizawa neler olduğunu anlar ve notları zaten bilen Near'a söyler. Near, Aizawa'ya Light'ı izlemeye devam etmesini söyler ve ardından Misa'yı Light'tan ayırmak için bir plan yapar.",
+                "overview": "Aizawa neler olduğunu anlar ve notları zaten bilen Near'a anlatır. Near, Aizawa'ya Light'ı izlemeye devam etmesi talimatını verir ve ardından Misa'yı Light'tan ayırmak için bir planı harekete geçirir.",
                 "air_date": "2007-06-06",
                 "still_path": "/xIcazNfhYAD2RqTps5aibV1rzuJ.jpg",
                 "video_url": "3194312"
             },
             {
                 "episode_number": 35,
-                "name": "Kötülük",
-                "overview": "Light ve Near, son yüzleşme için bir buluşma yeri konusunda anlaşırlar. Önemli bir oyuncu kaçırılır ve sonuçlar şok edicidir.",
+                "name": "Kötü Niyet",
+                "overview": "Light ve Near, son yüzleşme için bir buluşma yeri üzerinde anlaşırlar. Önemli bir oyuncu kaçırılır ve sonuçlar şok edicidir.",
                 "air_date": "2007-06-13",
                 "still_path": "/yST76E9E41mf1FfVQDssFTrPqir.jpg",
                 "video_url": "3194314"
@@ -289,7 +289,7 @@
             {
                 "episode_number": 36,
                 "name": "1.28",
-                "overview": "Japon Görev Gücü ve SPK nihayet 28 Ocak'ta YellowBox Warehouse'da buluşuyor. Ancak Kira'nın oradaki herkesi öldürme emri üzerine üçüncü bir şahıs da depoya geldi.",
+                "overview": "Japon Görev Gücü ve SPK nihayet 28 Ocak'ta YellowBox Warehouse'da buluşuyor. Ancak Kira'nın oradaki herkesi öldürme emri üzerine üçüncü bir şahıs da depoya gelmiştir.",
                 "air_date": "2007-06-20",
                 "still_path": "/wacxcUn9DQOO2qrx43nFzSqRKTq.jpg",
                 "video_url": "3194317"

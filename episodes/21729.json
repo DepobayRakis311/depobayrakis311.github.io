@@ -1,0 +1,227 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 27,
+        "air_date": "2007-04-01",
+        "poster_path": "/5EaIjxFHZJXaGg6ibPQ4lOmnLiD.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Matkabınızla Gökleri Delin!!",
+                "overview": "Giha Köyü'nde yeraltında yaşayan Simon ve Kamina, yüzeyde bir yaşamın hayalini kurar. Evleri yukarıdan istila edildiğinde gizemli Lagann mechasını harekete geçirip köylerini kurtarmak onlara kalmış.",
+                "air_date": "2007-04-01",
+                "still_path": "/aQz2qUxJEQFefudIsKJzVGuAoiW.jpg",
+                "video_url": "1083544"
+            },
+            {
+                "episode_number": 2,
+                "name": "O Şeyi Ben Kullanacağım Dedim!!",
+                "overview": "Artık yüzeye çıktıklarına göre Simon ve Kamina, kendilerini takip eden Canavar Adamları yenmek için Yoko ve köyüne katılmak zorundadır.",
+                "air_date": "2007-04-08",
+                "still_path": "/icrkm0MlbssmCARV9z3ZXbHNpp2.jpg",
+                "video_url": "1083545"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sen Kendini Kim Sanıyorsun Ki, Iki Yüzlüsün!!",
+                "overview": "Kamina ve Simon, tehlikeli yeni bir Canavar Adam tehdidini yenmek için birlikte çalışmalıdır.",
+                "air_date": "2007-04-15",
+                "still_path": "/a77K3Rdbhd3s4wp6NqSShlO0reN.jpg",
+                "video_url": "1083546"
+            },
+            {
+                "episode_number": 4,
+                "name": "Çok Yüze Sahip Olmak Sizi Harika Yapmaz!",
+                "overview": "Gurren Takımı, aç karnına bir Canavar Adam düşmanını alt etmek için eksantrik Siyah Syblings ile birlikte çalışmalıdır.",
+                "air_date": "2007-04-22",
+                "still_path": "/nUguE9PpvcqJemK5BzmFenwu825.jpg",
+                "video_url": "1083547"
+            },
+            {
+                "episode_number": 5,
+                "name": "Anlayamadım, Bir Parça Bile!",
+                "overview": "Gurren Takımı, Silahlı adamların ilahi varlıklar olarak tapınıldığı tuhaf bir yeraltı köyünden çıkış yolunu bulmalıdır.",
+                "air_date": "2007-04-29",
+                "still_path": "/jg7vUXDJLCaUBRPYMN3pBq1lSFJ.jpg",
+                "video_url": "1083548"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hasta Olana Kadar Jakuzide Oturun!!",
+                "overview": "Silahlı Adamların toplanma noktasına doğru devam eden Gürren Ekibi, kendilerini garip bir kaplıca kaçamağının ortasında bulur.",
+                "air_date": "2007-05-06",
+                "still_path": "/kHmsW5W9Fo602J4b4ObS7FJPZLi.jpg",
+                "video_url": "1083549"
+            },
+            {
+                "episode_number": 7,
+                "name": "Bunu Yapacaksın!!",
+                "overview": "Gizemli Spiral Kral'ın Dört İlahi Generalinden biri olan Thymilph, devasa hareketli Silahşör kalesi Dai-Ganzan ile Viral'in Enki'sini desteklemek için gelir. Kamina ve Simon, görünüşte ezici zorluklara rağmen Gurren-Lagann'ı yönetiyor.",
+                "air_date": "2007-05-13",
+                "still_path": "/mMyjp9IZJEeH9SEoSGUnLFrq5It.jpg",
+                "video_url": "1083550"
+            },
+            {
+                "episode_number": 8,
+                "name": "Daha Sonra Dostum",
+                "overview": "Son çatışmada Viral ve Thymilph'i geçici olarak oyalayan Gurren Takımı ve yeni gelen müttefikleri, \"Dai-Gurren Takımı\" olarak güçlerini birleştirir ve yeniden toplanan Silahlı kuvvetlere karşı kararlı bir saldırı başlatır.",
+                "air_date": "2007-05-20",
+                "still_path": "/w4kK1QPG1awWItGVXEKchV5Ovmy.jpg",
+                "video_url": "1083551"
+            },
+            {
+                "episode_number": 9,
+                "name": "İnsan Tam Olarak Nedir?",
+                "overview": "Dai-Gurren Takımı düşman kalesinin kontrolünü ele geçirmeyi başardı ama hâlâ içlerinden birinin, özellikle de Simon'ın ölümünün yasını tutuyor. Bir uçurumdan düştükten sonra, bir Silahlı Adamın derin bir vadiye bir kapsül attığını fark eder. Simon onu inceler ve Lagann'a pilotluk yapmak için kullandığı matkap anahtarının aynısıyla açabildiğini ve içinde Nia adında genç bir insan kız olduğunu fark eder, ancak bir düşman Silahlı Adam ortaya çıktığında tanıtımları yarıda kesilir.",
+                "air_date": "2007-05-27",
+                "still_path": "/qu9LPtdSMkoMg37mYTPVY1cxxlB.jpg",
+                "video_url": "1083552"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kim Bu Kardeşim?",
+                "overview": "Nia'nın gerçek kimliği, Dört İlahi General'den biri olan Adiane'den kurtulma yetkisini sergilerken ortaya çıkar. Büyük Gürren Tugayı'nın üyeleri artık Nia'dan ve onun gerçek niyetinden şüpheleniyor, ancak Nia yalnızca depresyondaki Simon'la ilgileniyor. Adiane daha sonra Lordgenome'un onayıyla hepsini bitirmek için geri döner.",
+                "air_date": "2007-06-03",
+                "still_path": "/goIkDd80psjvGKJ61WIDGKIknjy.jpg",
+                "video_url": "1083553"
+            },
+            {
+                "episode_number": 11,
+                "name": "Simon, Ellerini Çek",
+                "overview": "Dai-Gurren Takımı, Dört İlahi Generalin üçüncü üyesi Guame'nin kurduğu tuzağa düşer. Ekip esir alınır ve infaz edilmek üzere yeraltında saklanır. Simon, bir kaçış yolu kazarken sonunda Kamina'nın ona söylediği son sözleri anlar ve Guame ile tartıştıktan sonra Nia, onun neden atıldığını öğrenir.",
+                "air_date": "2007-06-10",
+                "still_path": "/2WIKfNCcoecREzByqbkkIqsv4a2.jpg",
+                "video_url": "1083554"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yoko, Bana Bir Iyilik Yapar Mısın?",
+                "overview": "Dai-Gurren Takımı şu anda Beastmen'in başkenti Teppelin'e doğru yola çıkıyor ancak önlerinde uçsuz bucaksız bir okyanus var. Karşıya geçmelerinin tek yolu Dai-Gurren'in değiştirilmesidir, bu yüzden onlar beklerken herkes sahilde dinlenmeye gider. Hazırlıklar tamamlandıktan sonra Büyük Gürren Tugayı sefere çıkar ancak onları bir pusu beklemektedir.",
+                "air_date": "2007-06-17",
+                "still_path": "/mC4iGjEXN27mW8bUxpUHTS85nuW.jpg",
+                "video_url": "1083556"
+            },
+            {
+                "episode_number": 13,
+                "name": "Herkesi Yiyin!",
+                "overview": "Dai-Gurren Takımı'ndaki rolünü yapmaya çalışan Nia, aşçı olmaya karar verir, ancak mürettebat onun yemeklerinin tadına bakmadan hemen önce, İlahi Generallerin dördüncü üyesi olan Cytomander, Dai-Gurren'e bir hava saldırısı başlatır. Simon, bu sefer hasta Rossiu'nun yerini alan Yoko eşliğinde Gurren-Lagann'a karşı saldırıya öncülük eder.",
+                "air_date": "2007-06-24",
+                "still_path": "/cPLvv0AJOHvZq3Dy7HPKBQFV8uo.jpg",
+                "video_url": "1083558"
+            },
+            {
+                "episode_number": 14,
+                "name": "İyi Tanıştık Millet",
+                "overview": "Sonunda Dai-Gurren Takımı Teppelin'in eteklerine varır, ancak şehre nişan almadan önce Cytomander ve Guame'nin güçlerinin birleşik tam ölçekli saldırısıyla yüzleşmeleri gerekir.",
+                "air_date": "2007-07-01",
+                "still_path": "/aJNfrD409ymc96AG9K48WZI6PG4.jpg",
+                "video_url": "1083559"
+            },
+            {
+                "episode_number": 15,
+                "name": "Yarına Doğru Yol Alacağım",
+                "overview": "İlahi Generallerin sonuncusu düşer ve Teppelin şehri çöker, devasa boyutlarda bir Silahlı Adam ortaya çıkar. Simon ve Nia, babası Spiral Kral'ın kendisiyle yüzleşmek için bu şehirden geçmeye çalışırlar.",
+                "air_date": "2007-07-08",
+                "still_path": "/iKwpA8W7Lg0iBGtXWKsNphjz7c8.jpg",
+                "video_url": "1083560"
+            },
+            {
+                "episode_number": 16,
+                "name": "Derleme Bölümü",
+                "overview": "Hikayenin önceki bölümlerdeki olaylarının bir özeti.",
+                "air_date": "2007-07-15",
+                "still_path": "/a6Q6Ry3swpvph6upHeUYOmh5KqM.jpg",
+                "video_url": "1083561"
+            },
+            {
+                "episode_number": 17,
+                "name": "Hiçbir Şey Bilmiyorsun!",
+                "overview": "Sonraki yedi yıl boyunca Simon'un liderliğinde yeni bir medeniyet doğuyor ve gelişiyor. Ancak Lordgenome'un son sözlerinde bahsettiği tehdidin kendini göstermeye başlamasıyla bu barış dolu zamanlar sona erer.",
+                "air_date": "2007-07-22",
+                "still_path": "/saPw7msIn28QLxYDHpLbRZDpd6c.jpg",
+                "video_url": "1083562"
+            },
+            {
+                "episode_number": 18,
+                "name": "Bana Bu Dünyanın Sırlarını Söyle",
+                "overview": "Anti-Spirallerin ilk saldırısı ve Nia'nın şaşırtıcı duyurusunun ardından Simon çaresizce Nia'yı arar. Rossiu ise sonunda gizli projesini tamamlar.",
+                "air_date": "2007-07-29",
+                "still_path": "/m8XCcLHy46qk63owJD1h5plzWEk.jpg",
+                "video_url": "1083563"
+            },
+            {
+                "episode_number": 19,
+                "name": "Gereken Her Şekilde Hayatta Kalacağız",
+                "overview": "Rossiu, kamuoyunu yatıştırmak için Simon'u devirir ve tutuklar. Ancak Anti-Spiraller Kamina Şehrine geniş çaplı bir saldırı başlattığında, Simon'ın Gurren-Lagann'ı kullanarak düşmanla çatışmasına izin vermekten başka çaresi kalmıyor, daha sonra onu kendi kontrolü altına almak için aşırılıklara başvuruyor.",
+                "air_date": "2007-08-05",
+                "still_path": "/qzyrIl7UgY5ZjaqY17tQ7lmKW0x.jpg",
+                "video_url": "1083564"
+            },
+            {
+                "episode_number": 20,
+                "name": "Allah Bizi Ne Kadar İmtihan Edecek?",
+                "overview": "Simon hapishaneye vardığında beklenmedik bir şekilde Viral ile tanışır ve Viral kendisinin ne kadar düştüğünü söyler. Bu arada Rossiu'nun acil durum planı hakkındaki gerçek ve Dünya'da geride kalanlar için sonuçları ortaya çıkar.",
+                "air_date": "2007-08-12",
+                "still_path": "/at8LZIip1iMjFEUpGMIIKJBUZtS.jpg",
+                "video_url": "1083565"
+            },
+            {
+                "episode_number": 21,
+                "name": "Sen Hayatta Kalması Gereken Birisin",
+                "overview": "Bir yıl önce Yoko, Teppelin'deki durumu öğrenene ve Simon'ı kurtarmak için geri dönene kadar bir adada öğretmen olarak çalışmaya başlar. Bir kez daha bir araya gelen Simon ve Dai-Gurren Takımının üyeleri, Arc-Gurren'i düşman kuvvetlerinden korumak için kendilerini uzaya fırlatırlar ve artık Gurren-Lagann'ın yardımcı pilotu olarak Viral da onlara eşlik etmektedir.",
+                "air_date": "2007-08-19",
+                "still_path": "/tsdrWgcS6MXsszPGL4hoNVPZvdO.jpg",
+                "video_url": "1083566"
+            },
+            {
+                "episode_number": 22,
+                "name": "Bu Benim Son Görevim!",
+                "overview": "Gurren-Lagann ve Arc-Gurren, devasa Arc-Gurren-Lagann'ı oluşturmak ve İnsan İmha Sistemini durdurmak için bir araya gelir.",
+                "air_date": "2007-08-26",
+                "still_path": "/3db38C2KsIjHORlHXYrBImAeGl9.jpg",
+                "video_url": "1083567"
+            },
+            {
+                "episode_number": 23,
+                "name": "Haydi Gidelim, Bu Son Savaş",
+                "overview": "Dai-Gurren Takımının üyeleri, Anti-Spirallere karşı yaklaşan savaş için hazırlıklarını yapıyor, ancak Rossiu kayıp. Ancak Kinon, Simon'a gerçekte ne yapmayı planladığını anlattığında ikisi de çaresizce onu aramaya başlar.",
+                "air_date": "2007-09-02",
+                "still_path": "/cJSe6fzfIMJO7pUHp7G8MnzKYB4.jpg",
+                "video_url": "2586326"
+            },
+            {
+                "episode_number": 24,
+                "name": "Bu Dakikayı, Bu Saniyi Asla Unutmayacağım",
+                "overview": "Simon ve Nia'nın birbirlerine olan hislerinin rehberliğinde Dai-Gurren Takımı, Anti-Spirallerin ana dünyasını bulmak için boyutları aşıyor. Ancak düşmanın tuzağına düştükten sonra, onun şiddetli saldırısı nedeniyle en değerli üyelerinden bazılarını kaybederler.",
+                "air_date": "2007-09-09",
+                "still_path": "/ij9G9pUky1qkWiSjvLHLoS3YVGU.jpg",
+                "video_url": "2586338"
+            },
+            {
+                "episode_number": 25,
+                "name": "Son Dileğinizi Kabul Ediyorum!",
+                "overview": "Dai-Gurren Takımı, Anti-Spirallerin yarattığı umutsuzluk okyanusundan başarısızlıkla kaçmak için mücadele eder, ta ki tarih tekerrür edene kadar, Takımın başka bir yeri doldurulamaz üyesi diğerlerini kurtarmak için kendini feda eder.",
+                "air_date": "2007-09-16",
+                "still_path": "/niMU6q0diO8c3DREgT6aPgsNKju.jpg",
+                "video_url": "2586352"
+            },
+            {
+                "episode_number": 26,
+                "name": "Hadi Gidelim Dostum",
+                "overview": "Sonunda amiral gemilerini Süper Galaktik Gurren-Lagann'a dönüştürdükten sonra Simon ve arkadaşları, düşmana karşı başarıyla savaşır. Düşmanları kendi anılarını ve arzularını onlara karşı kullanmaya başlayınca Kamina yardım etmek için yeniden ortaya çıkar.",
+                "air_date": "2007-09-23",
+                "still_path": "/fpJm12hb8kvrEgon98k174wTR52.jpg",
+                "video_url": "2586362"
+            },
+            {
+                "episode_number": 27,
+                "name": "Gökyüzündeki Işıklar Yıldızlardır",
+                "overview": "Sonunda Simon ve Nia yeniden bir araya gelir ve Dai-Gurren Ekibi, üyelerinin gücünü birleştirerek galaksi boyutunda Tengen Toppa Gurren-Lagann'ı yaratır ve Spiral Karşıtı tehditle, Spiral'in kaderini belirleyecek kararlı bir savaşa girer. Evren.",
+                "air_date": "2007-09-30",
+                "still_path": "/tKmgj9WntEhGTWyX0Ni7XZsExeA.jpg",
+                "video_url": "2586375"
+            }
+        ]
+    }
+}

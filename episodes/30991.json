@@ -1,0 +1,219 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 26,
+        "air_date": "1998-04-03",
+        "poster_path": "/jZR6WYJtYdtDPmsuXNCP4OeY4lx.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Sokak Köpeği Dikme",
+                "overview": "Spike ve Jet'in bir sonraki davası onları profesyonel bir evcil hayvan hırsızı ve paha biçilmez bir veri köpeğini yakalamaya çalışacakları Mars'a götürür.",
+                "air_date": "1998-04-03",
+                "still_path": "/iVrdlxroQAPcMzTQl9IoTJM55Dz.jpg",
+                "video_url": "4342476"
+            },
+            {
+                "episode_number": 2,
+                "name": "Honky Tonk Kadınlar",
+                "overview": "Kumarhanede geçirdikleri bir gecede Spike ve Jet'in, kanunlarca aranan baş döndürücü dolandırıcı Faye Valentine ve kötü adamlarla yolları kesişince zor durumda kalırlar.",
+                "air_date": "1998-04-10",
+                "still_path": "/gx9Ycnma0FN4Vr0k8iO8nP7ExVe.jpg",
+                "video_url": "4342478"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ağır Metal Kraliçesi",
+                "overview": "Bebop ekibi, kaçak bir patlayıcı uzmanının peşine düşer. Spike'ın yolları, ödül avcılarından nefret eden isimsiz bir uzay kamyon şoförüyle kesişir.",
+                "air_date": "1998-04-17",
+                "still_path": "/5lu1vDChATiQ4PFReP2gGenGRxS.jpg",
+                "video_url": "4342480"
+            },
+            {
+                "episode_number": 4,
+                "name": "Venüs için Vals",
+                "overview": "Spike, kız kardeşinin görme yeteneğini geri kazanmak için kendi hayatını riske atmaya hazır bir kaçakla ilişkiye girer. Bebop ekibi trajedi yaşanmadan önceki günü kurtarabilecek mi?",
+                "air_date": "1998-04-24",
+                "still_path": "/pVCVK0lJindZFyR7rdiysRfIyyx.jpg",
+                "video_url": "4342482"
+            },
+            {
+                "episode_number": 5,
+                "name": "Edward'la Takılmak",
+                "overview": "Bebop ekibi, Dünya yüzeyinde beliren gizemli uydu çizimlerinin sırrını çözmeye çalışır, ancak ödüllerini kazanmak için Radical Edward adlı bir bilgisayar korsanının yardımına ihtiyaçları olacaktır!",
+                "air_date": "1998-05-01",
+                "still_path": "/bDCw4k8qMF23is16JFPCHji0mxf.jpg",
+                "video_url": "4342484"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ganymede Ağıtı",
+                "overview": "Bir vaka Bebop ekibini Jet'in eski çalışma alanına götürdüğünde, iri adamın yolları eski bir sevgilisiyle ve onun aranan erkek arkadaşıyla kesişir.",
+                "air_date": "1998-05-08",
+                "still_path": "/r9Wl116aj37Pb5xWy5F12BWx7a1.jpg",
+                "video_url": "4342486"
+            },
+            {
+                "episode_number": 7,
+                "name": "Tavan Arasındaki Oyuncaklar",
+                "overview": "Alışılmadık, damla benzeri bir uzay yaratığı Ein, Faye ve Jet'e bulaştığında Spike ve Radical Edward, arkadaşlarını kurtarmanın bir yolunu bulmak zorunda kalır.",
+                "air_date": "1998-05-15",
+                "still_path": "/2h0tohM4P1MOjIqFlF8Tb9D1BDd.jpg",
+                "video_url": "4342488"
+            },
+            {
+                "episode_number": 8,
+                "name": "Jüpiter Caz (1)",
+                "overview": "Faye, Bebop ekibini soyup terk eder, Spike bir zamanlar tanıdığı bir kadını aramaya çıkar ve Vicious, ölümcül bir şekilde yeniden ortaya çıkar.",
+                "air_date": "1998-05-22",
+                "still_path": "/hJB0k0Xc8yVAfryumu7stzMKZfV.jpg",
+                "video_url": "4342490"
+            },
+            {
+                "episode_number": 9,
+                "name": "Jüpiter Caz (2)",
+                "overview": "Jet, Bebop yoldaşlarını yeniden bir araya getirme görevine devam eder ve Spike, kendisini eski düşmanı Vicious'la acımasız bir it dalaşının ortasında bulur.",
+                "air_date": "1998-05-29",
+                "still_path": "/4TEfmRlOrd8Obnlz6yQGCyvWBqQ.jpg",
+                "video_url": "4342492"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bohemian Rhapsody",
+                "overview": "Bebop Ekibi, kadim bir satranç ustasını bulmak amacıyla onları uzayın derinliklerine götürecek vahşi bir ödül avına çıkıyor.",
+                "air_date": "1998-06-05",
+                "still_path": "/wsyz41Ucos1ZRvqp33SAF3iSJ53.jpg",
+                "video_url": "4342494"
+            },
+            {
+                "episode_number": 11,
+                "name": "Benim Eğlenceli Sevgilim",
+                "overview": "Jet, Faye'in geçmişinden bir kaçak getirdiğinde, asi güzel onu ihbar etmek ya da eski sevgilisine son bir şans vermek arasında karar vermek zorundadır.",
+                "air_date": "1998-06-12",
+                "still_path": "/nShUrHv0JQPeZ7SUjReJesZXEyG.jpg",
+                "video_url": "4342497"
+            },
+            {
+                "episode_number": 12,
+                "name": "Çocuk gibi Konuş",
+                "overview": "Gizemli bir paket geldiğinde Faye bir kumar çılgınlığında ortadan kaybolur ve Spike ile Jet, eski teknolojiyi bulmak için sinir bozucu bir arayışa girişir!",
+                "air_date": "1998-06-19",
+                "still_path": "/mlJbgAmIC5IZeqcdvSSwlmSsTth.jpg",
+                "video_url": "4342499"
+            },
+            {
+                "episode_number": 13,
+                "name": "Asteroit Blues",
+                "overview": "Spike ve Jet, kanlı göz olarak bilinen tehlikeli bir uyuşturucuyu kaçıran kanun kaçağını bulmak için Tijuana'ya gider. Jet ödülü istiyor ama Spike'ın gözü çok daha güzel bir ödülde.",
+                "air_date": "1998-10-24",
+                "still_path": "/bwJQg2MFXlaGOjATitBCFQeblpJ.jpg",
+                "video_url": "4342501"
+            },
+            {
+                "episode_number": 14,
+                "name": "Ağ Geçidi Karışık",
+                "overview": "Faye, insan nüfusunu maymunlara dönüştürmeyi planlayan bir uzay aktivisti çetesinin izini sürmek için Spike ve Jet ile iş birliği yapar!",
+                "air_date": "1998-11-14",
+                "still_path": "/wMq8L7z5XNu2mSKid19acaaMxlx.jpg",
+                "video_url": "4342500"
+            },
+            {
+                "episode_number": 15,
+                "name": "Düşmüş Melekler Baladı",
+                "overview": "Spike, Kızıl Ejder Sendikası'nın bir üyesinin ödülünü almayı hedefliyor, ancak görevi onu geçmişinden gelen bir yüzle ölümcül bir hesaplaşmaya sürüklüyor!",
+                "air_date": "1998-11-21",
+                "still_path": "/mgTZDINkhFo4GJxT45wKnpWvHQ8.jpg",
+                "video_url": "4342504"
+            },
+            {
+                "episode_number": 16,
+                "name": "Şeytan için Sempati",
+                "overview": "Bebop mürettebatının son davasında Spike, mızıka ve cinayet konusunda yetenekli genç bir çocukla karşı karşıya gelir.",
+                "air_date": "1998-11-28",
+                "still_path": "/hoEKVhuPOK5eHZQRJFMV9OQOOeu.jpg",
+                "video_url": "4342507"
+            },
+            {
+                "episode_number": 17,
+                "name": "Kara Köpek Serenatı",
+                "overview": "Jet, kolunu tutan adamla hesaplaşmak için eski bir ortağıyla iş birliği yapar, ancak çok geçmeden anıların aldatıcı olabileceğini keşfeder.",
+                "air_date": "1999-02-13",
+                "still_path": "/954eMQCU0sop9dzbvzoZ7KvXZUJ.jpg",
+                "video_url": "4342506"
+            },
+            {
+                "episode_number": 18,
+                "name": "Mantar Sambası",
+                "overview": "Bebop kazasının ardından Ed ve Ein'in yiyecek arayışında, saykodelik yan etkileri olan çok pahalı mantarlar ortaya çıkar!",
+                "air_date": "1999-02-20",
+                "still_path": "/3rxmccsRybsZolyxMOJp6HpSusP.jpg",
+                "video_url": "4342509"
+            },
+            {
+                "episode_number": 19,
+                "name": "Vahşi Atlar",
+                "overview": "Spike, gemisini inşa eden adamı ziyaret ederken Faye ve Jet, uzay korsanlarını avlamaya gider.",
+                "air_date": "1999-03-06",
+                "still_path": "/5SQZxkK0xsnI2OEiU7AUnBq86GN.jpg",
+                "video_url": "4342511"
+            },
+            {
+                "episode_number": 20,
+                "name": "Pierrot Le Fou",
+                "overview": "Spike, yok edilemez bir suikastçıyla şans eseri karşılaştığında dayak yiyor. Jet deli adamın gücünün sırrını ararken Spike intikam peşinde!",
+                "air_date": "1999-03-13",
+                "still_path": "/gBoB751W2aORIqZ25T7j7bAZG0a.jpg",
+                "video_url": "4342510"
+            },
+            {
+                "episode_number": 21,
+                "name": "Boogie Woogie Feng Shui",
+                "overview": "Şifreli bir e-postanın etkisiyle Jet, eski bir arkadaşını aramaya çıkar ama onun yerine kızını ve gizemli bir güneş taşını bulur.",
+                "air_date": "1999-03-20",
+                "still_path": "/7CUd3Ms1vkn3SnFc2rMulthyjCK.jpg",
+                "video_url": "4342514"
+            },
+            {
+                "episode_number": 22,
+                "name": "Kovboy Funk",
+                "overview": "Spike'ın kötü şöhretli Oyuncak Ayı Bombacısını yakalama çabaları, gizemli ve bilgisiz bir kovboy tarafından çıldırtıcı bir şekilde raydan çıkarılır!",
+                "air_date": "1999-03-27",
+                "still_path": "/fiyMaj6lodCwnfvQUZ3cXK5aIwV.jpg",
+                "video_url": "4342516"
+            },
+            {
+                "episode_number": 23,
+                "name": "Beyin Çiziği",
+                "overview": "Faye, dengesiz bir tarikat liderinin ödülünü almak için kılık değiştirir, ancak gizemli örgüt onun beynini yıkayıp derin bir uykuya dalınca, arkadaşlarından biraz yardıma ihtiyacı olacaktır.",
+                "air_date": "1999-04-03",
+                "still_path": "/hpeITuE5yHvv46ZAuVu9kXVSQn1.jpg",
+                "video_url": "4342513"
+            },
+            {
+                "episode_number": 24,
+                "name": "Şanssız Kadın",
+                "overview": "Faye ve Ed, Bebop mürettebatını çok farklı yönlere yönlendirebilecek kendi geçmişlerine dair ipuçları keşfederler.",
+                "air_date": "1999-04-10",
+                "still_path": "/wsNWFPXs5rLRY4tuxluSCnMSrZa.jpg",
+                "video_url": "4342517"
+            },
+            {
+                "episode_number": 25,
+                "name": "Gerçek Halk Blues'u (1)",
+                "overview": "Spike ve Jet, sendika üyeleri tarafından pusuya düşürülür ve Faye, Spike'ın geçmişinden bir kadınla beklenmedik bir karşılaşma yaşar.",
+                "air_date": "1999-04-17",
+                "still_path": "/dGCVTk5yzo736awEs2906wVBFdP.jpg",
+                "video_url": "4342518"
+            },
+            {
+                "episode_number": 26,
+                "name": "Gerçek Folk Blues (2)",
+                "overview": "Spike sonunda aradığı kadını bulur ve Faye, Bebop'a şaşırtıcı bir dönüş yapar. Sendikanın peşinde olan Spike, Vicious'un saltanatını sona erdirmeye çalışır.",
+                "air_date": "1999-04-24",
+                "still_path": "/kJ8JqGVzWF61HEinCRkzUg5lkwH.jpg",
+                "video_url": "4342520"
+            }
+        ]
+    }
+}

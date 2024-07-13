@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2016-07-09",
+        "poster_path": "/pygP9LSYIqmAMt0lbtj5vzDHVfz.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Cinayet Gecesi",
+                "overview": "Ailesinin katledilmesinden yedi yıl sonra Kanunsuzlar Bölgesi'ne dönen Avilio, eski bir arkadaşıyla yeniden tanışır ve ikisi de yeni bir yaşam tarzına dalar.",
+                "air_date": "2016-07-09",
+                "still_path": "/SUgtFqvAvORizKAvqmWooLM84B.jpg",
+                "video_url": "4521201"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sahteliğin Hayaleti",
+                "overview": "Don Vanetti'nin malikanesi, Don'un kızı Fio ile Ronaldo adında bir adamın düğününe ev sahipliği yapıyor. Ancak bu büyük partinin perde arkasında aile tedirginlik duyar. Orco ailesiyle ilişkiler giderek kötüye gitmektedir ve özellikle Vanno, arkadaşının ölümünün ardından öfkesini dizginleyememektedir. Nero, Fango'ya misilleme yapmak için bir plan yapmaya karar verir ve merkezi rolü oynaması için Avilio'yu işe alır.",
+                "air_date": "2016-07-16",
+                "still_path": "/zjIVfr2mQWk9PQnLMw4fX0JiAzf.jpg",
+                "video_url": "4521202"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ayak Seslerinin Nereye Götürdüğü",
+                "overview": "Avilio intikamına doğru ilk adımı atmıştır. Ancak Serpente'nin, kapak hikayesini sunması gereken cesedinin ortadan kaybolması, Avilio'da şüphe uyandırır. Nero ona Serpente'nin cesedini silah zoruyla geri getirmesini emreder. Bu arada Fango da Serpente'yi arıyor. O kayıp saatlerde tam olarak ne oldu?",
+                "air_date": "2016-07-23",
+                "still_path": "/7rTENP1H87G2NbP4c74fSw2sIrK.jpg",
+                "video_url": "4521204"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kaybetmek Kazanmak ve Sonrasında Neler Olur",
+                "overview": "Vanno ve Serpente olayından sonra Vanetti ve Orco aileleri arasında bir savaş çıkması neredeyse kesindir. Nero, Avilio ile birlikte kaçmaya başlar ve burada ikili, birbirlerinin kişiliği ve geçmişi hakkında çok şey öğrenir. Ancak iri bir adam ve av köpeği peşlerindedir.",
+                "air_date": "2016-07-30",
+                "still_path": "/dzZQ3vjmXtLHOa7Hq7L9jXyIX2B.jpg",
+                "video_url": "4521206"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kan Kan Olacak",
+                "overview": "Avilio ve Nero, Orco ailesinin suikastçisinden kurtulur ve gizlenmeye devam eder, ta ki Nero'nun Barbero'yu düzenli olarak araması çatışmada yeni bir gelişmeyi ortaya çıkarana kadar: Orco, Vanetti ailesiyle barış istiyor. Yine de Barbero, Nero'nun hemen Lawless'a dönmesinin en iyisi olmayabileceğini öne sürüyor ve Nero ile Avilio'ya onunla iki gün içinde \"Loca\"da buluşmalarını söylüyor.",
+                "air_date": "2016-08-06",
+                "still_path": "/o4fBtvyEvNAdElZ8HJ5IG4dtrTi.jpg",
+                "video_url": "4521207"
+            },
+            {
+                "episode_number": 6,
+                "name": "Domuz Kesmek için",
+                "overview": "Frate'in ihaneti, Nero'nun Vanetti ailesiyle birlikte kaçmasına neden oldu. Ağır yaralanan Tigre'yi kurtarmak için Nero, şu anda Ada'da saklanan Fango'dan yardım ister. Nero, yardımına karşılık Don Orco'yu Fango'ya canlı getirmeyi kabul eder. Bu amaçla Avilio ve Nero, Orco'nun operasyon üssü Ottimo Orco'ya gider.",
+                "air_date": "2016-08-13",
+                "still_path": "/7oB7PhRdoZ1rgJvNyMrd4pJzOEq.jpg",
+                "video_url": "4521208"
+            },
+            {
+                "episode_number": 7,
+                "name": "Kötü Bir Oyuncu",
+                "overview": "Orco ailesinin yerini Fango ailesi aldı. Fango, Nero ve Avilio'ya sıkı çalışmalarından dolayı minnettar ve onlardan kendisiyle çalışmaya devam etmelerini istiyor. Ancak Nero, Fango'nun onu kullanıp öldüreceğinden endişe duymaktadır. İşte o zaman Frate, kardeşine savaş ilan eder ve olaylar geri dönüşü olmayan bir noktaya gelir. Yine de Fio, Ronaldo'dan Nero'yla barışmasını ister.",
+                "air_date": "2016-08-20",
+                "still_path": "/bhJ0gMASwMVLp2P1t2wf7u3OfU2.jpg",
+                "video_url": "4521210"
+            },
+            {
+                "episode_number": 8,
+                "name": "Perdenin Arkasında",
+                "overview": "İnatçı bir yasaklama ajanı olan Delphy, Lawless'a yerleştirilmiştir. Mafyanın şehirdeki gücünü keseceğini iddia ediyor ve kaçak içki satan barlara baskı yapmaya başlıyor. Doğal olarak Vanetti ailesi onu istenmeyen bir varlık olarak görüyor. Bir gözünü Fango'dan ayırmayan Nero, Defphy'ye sert bir darbe indirir ve Avilio da onun yanında yer alır. Ancak başka bir adam, durumla ilgili karmaşık duygularla onları izliyor.",
+                "air_date": "2016-09-03",
+                "still_path": "/c7TxgY4r9OXGqRxyDD3YWwqcQip.jpg",
+                "video_url": "4521212"
+            },
+            {
+                "episode_number": 9,
+                "name": "Siyah ve Derin Arzular",
+                "overview": "Fango'ya bilgi sızdıran ve Nero'yu öldürmeye çalışan hainin kimliği ortaya çıktı. Corteo'nun gözaltına alınmasıyla Vanetti ailesi ayaklandı. Ancak Corteo inatla hiçbir şeyi itiraf etmeyi reddediyor ve bu da büyük ihtimalle ölümüne yol açacak. Bunu kabul etmese de Avilio bu durumdan alışılmadık şekilde sarsılıyor. Ve sonra Cerotto onu ziyaret ediyor.",
+                "air_date": "2016-09-10",
+                "still_path": "/vDvT4QVC4SHeHc6xwbSKZwQIIAT.jpg",
+                "video_url": "4521213"
+            },
+            {
+                "episode_number": 10,
+                "name": "İyi Niyetin Kanıtı",
+                "overview": "Don Vanetti'nin yerini alan Nero, ailenin genişlemesine yol açmak için Kanunsuz Cennet'i Don Galassia'ya göndermeye karar verir. Ailenin geri kalanı Corteo'yu ararken Nero bu göreve Avilio'yu verir. Bagajıyla birlikte Chicago'ya giden bir tekneye biner. Peki Corteo nerede? Peki ona mektubu gönderenin arkasındaki motivasyon neydi?",
+                "air_date": "2016-09-17",
+                "still_path": "/NTndRRvVu4RYgtsrvFbLAovoLR.jpg",
+                "video_url": "4521215"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hepsi Hiçbir Şey İçin",
+                "overview": "Vincent'ın hayali olan Vanetti tiyatrosu artık tamamlandı. Don Galassia ve yeğeni Strega davet edildi. Halkın önünde Nero'yla arkadaş canlısıdırlar ama Chicago'yu kontrol eden büyük ailedirler. Ertesi gün tiyatronun açılışı gerginliğe bürünür. Ve sonunda Avilio'nun beklediği gün geldi.",
+                "air_date": "2016-09-24",
+                "still_path": "/1Y0hNxtd4p6n6Md3jfCnZJkjXAY.jpg",
+                "video_url": "4521216"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kirli Gökyüzünde Kaymak",
+                "overview": "Tiyatro salonunda şiddetli bir silahlı çatışma çıkar. Adadaki patlamalardan siyah duman çıkıyor. Vanetti ailesi yıkımın eşiğindedir ve Avilio intikamını almıştır. Buradan nereye gidiyor? Peki her şeyini Avilio'nun elinde kaybeden Nero ne yapacak?",
+                "air_date": "2016-10-01",
+                "still_path": "/oHzdm1MaxPbt1QKb0rFCK42fcxp.jpg",
+                "video_url": "4521219"
+            }
+        ]
+    }
+}

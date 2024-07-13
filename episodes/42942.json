@@ -1,0 +1,115 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2010-04-03",
+        "poster_path": "/feOOmxkcvpj1ioHXoTctjfoVwQf.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kalkış",
+                "overview": "Gizemli bir kazanın ardından uyanan genç bir lise öğrencisi, tuhaf ve intikamcı bir Meleğin onu takip ettiği bir tür şiddetli ölümden sonraki yaşamda yakalandığını keşfeder. Kafası karışmış ve korkmuş bir halde, Meleği yok etmek ve kaderlerini kendi ellerine almak isteyen silahlı gençlerden oluşan bir gruba katılır.",
+                "air_date": "2010-04-03",
+                "still_path": "/seOnRGCNCN8FR58a6VgEltscSvp.jpg",
+                "video_url": "1695022"
+            },
+            {
+                "episode_number": 2,
+                "name": "Lonca",
+                "overview": "Angel'a karşı savaşlarında daha fazla silaha ihtiyaçları olduğunu anlayan grup, Lonca'ya iner. Ancak oraya vardıklarında tüm koridorların, merdivenlerin ve geçitlerin ölümcül tuzaklarla donatıldığını fark ederler. Angel onlara yetişmeden önce şiddetli labirentten geçip geçemeyeceklerini görmek için zamana karşı bir yarış var.",
+                "air_date": "2010-04-10",
+                "still_path": "/wZZTqUxFAplf7dKKwdIWU1LGYd4.jpg",
+                "video_url": "1695025"
+            },
+            {
+                "episode_number": 3,
+                "name": "Benim Şarkım",
+                "overview": "Yeni bir üye olan dahi hacker \"Christ\"in yardımıyla Yuri ve Battlefront, Angel'ın inine girmeye ve onun sabit diskindeki sırları çalmaya karar verir. NPC'lerin dikkatini dağıtmak için Gldemo kız grubunu kullanıyorlar. Ancak öğretmenlerin araya girmesiyle solist şok edici bir kaderle karşı karşıya kalır.",
+                "air_date": "2010-04-17",
+                "still_path": "/npyiZDN1tpAac31QCNtLTAmverL.jpg",
+                "video_url": "1695029"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gündüz Oyunu",
+                "overview": "Gldemo'nun solisti artık yok olduğundan, yerine birinin bulunması gerekiyor. Çılgın ve sinirli Yui umutsuzca rolü üstlenmeye çalışır. Bu arada Hinata, okuldaki diğer takımları yenmek için mümkün olan en güçlü takımı bir araya getirerek uzun zaman önce beyzbol sahasında yapılan bir hatanın intikamını almaya çalışıyor. Otonashi, oyunun Hinata'yı birden fazla yönden etkileyeceğinden endişeleniyor.",
+                "air_date": "2010-04-24",
+                "still_path": "/u59Hy3ghStbpkKtjNSPdbZd9yIq.jpg",
+                "video_url": "1695039"
+            },
+            {
+                "episode_number": 5,
+                "name": "Favori Lezzet",
+                "overview": "Angel'ın eğitimsel gücünü elinden almak isteyen Yui, Battlefront'ta Angel'ın test sonuçlarını sahte sonuçlarla değiştirecek bir plan yapar. Utanacak, Öğrenci Birliği Başkanı unvanı elinden alınacak ve sonsuza kadar onların yolundan çekilecek. Ancak onun yerine geçecek kişinin Angel'dan çok daha kötü niyetli olabileceğini asla fark etmezler.",
+                "air_date": "2010-05-01",
+                "still_path": "/6UQK0QWpuDPcjY4yS3jTIW9erv7.jpg",
+                "video_url": "1695040"
+            },
+            {
+                "episode_number": 6,
+                "name": "Aile Meselesi",
+                "overview": "Angel'ın eğitim kurallarını çiğnediğine inanıldığında Naoi, bu ihlali büyüyen gücünü kullanmak için kullanır ve hem Angel'ı hem de Otonashi'yi okul içindeki bir hapishaneye yerleştirir. Naoi'nin gücünü şiddet kullanarak kullandığını keşfederler ve Angel ile Otonashi'nin kaçması ya da ağır kayıplar verme riskini alması gerekir.",
+                "air_date": "2010-05-07",
+                "still_path": "/pVEBrP1FKcMyiQBZyaEP7CXz1Oi.jpg",
+                "video_url": "1695048"
+            },
+            {
+                "episode_number": 7,
+                "name": "Canlı",
+                "overview": "Artık Naoi Battlefront'a katılmış gibi göründüğüne göre Yui, Otonashi'yi hipnoz güçlerinin anılarını geri kazanmasına yardımcı olmasına izin vermeye ikna eder. Ancak Otonaşi bu kadar trajik ve acı dolu bir geçmişi hatırlamaya hazır olmayabilir. Ancak grubun önünde başka sorunlar da vardır; örneğin, yalnızca Monster Stream olarak bilinen yakındaki bir nehirdeki gizemli yaratığı yakalamak için bir araya gelmek gibi.",
+                "air_date": "2010-05-14",
+                "still_path": "/v5qsXlHOPzBpthAL0Z2aHpiq2jy.jpg",
+                "video_url": "1695052"
+            },
+            {
+                "episode_number": 8,
+                "name": "Karanlıktaki Dansçı",
+                "overview": "Otonashi ve Angel'ın yeni oluşturduğu ittifakla Angel'ın karanlık ve güçlü klonları, Savaş Cephesi'ne daha büyük bir saldırganlıkla saldırmaya başladı. Tuzaklarla donatılmış Loncaya bir kez daha dönmeli ve yürek burkan şiddetli kayıpları göze almalılar.",
+                "air_date": "2010-05-21",
+                "still_path": "/3VXmqw9lMETGWoulUGf9WJkBm4Q.jpg",
+                "video_url": "1695055"
+            },
+            {
+                "episode_number": 9,
+                "name": "Hafızanda",
+                "overview": "Angel klonunun durumu kontrol edilemez hale gelirken Naoi, dahi hacker Christ'ı bir kez daha çağırmalarını önerir. Bu sırada Otonashi geçmişini hatırlamaya başlar.",
+                "air_date": "2010-05-28",
+                "still_path": "/thDLv8fBSsQr03QtYqCj0iNQeDU.jpg",
+                "video_url": "1695057"
+            },
+            {
+                "episode_number": 10,
+                "name": "Veda Günleri",
+                "overview": "Otonashi, sinirli şarkıcı Yui'nin huzuru bulmaya ve \"yoluna devam etmeye\" zorlanması gerektiğine karar verir. Bunu yapmak için Angel'dan yardım alır ve Angel ona yeni silahını gösterir: karanlık ve kötü görünümlü Hand Sonic 5. Ama Yui Başka planları var: Battlefront'un çocuklarını futbol sahasındaki şiddetli bir maçta yenmek.",
+                "air_date": "2010-06-04",
+                "still_path": "/e10GjZ5ACGtBheCVh4KxKn0PT3q.jpg",
+                "video_url": "1695058"
+            },
+            {
+                "episode_number": 11,
+                "name": "Dünyayı Değiştir",
+                "overview": "Hinata ve Otonashi, Naoi ile konuşurken garip bir şey olur: gölgesi devasa, kötü bir biçim alır ve onu yutar. Silahlar yaratığı durdurmaya güçsüzdür. İşleri daha da kötüleştiren, Gölge canavarları çoğalıyor ve Battlefront üyelerini ve NPC'leri kontrol altına alıyor.",
+                "air_date": "2010-06-11",
+                "still_path": "/7OqcK6YHbPIE14Jk55Kv9ROkJn1.jpg",
+                "video_url": "1695062"
+            },
+            {
+                "episode_number": 12,
+                "name": "Cennetin Kapısını Çalıyorum",
+                "overview": "Daha fazla Battlefront üyesi ve NPC onların tuhaf, yağmacı güçlerinin kurbanı olurken, Gölge canavarları durma belirtisi göstermiyor. Yuri, karanlık Lonca'ya doğru tehlikeli bir yolculuğa çıkar. Bu yeni olayların arkasında kimin ya da neyin olduğunu bulmaya çalışırken kendisi hakkında daha da karanlık sırları keşfeder.",
+                "air_date": "2010-06-18",
+                "still_path": "/xAa0RvxFt0dRtyMTYGKRoDKyR6z.jpg",
+                "video_url": "1695064"
+            },
+            {
+                "episode_number": 13,
+                "name": "Mezuniyet",
+                "overview": "Yuri, tehlikeli tek başına görevinden uyandığında Battlefront'ta hayatta kalan arkadaşlarının huzur bulmuş gibi göründüğünü fark eder. Doğaçlama bir \"mezuniyet\" töreninde hepsi bir sonraki varoluş seviyesine geçmek için adımlar atar. Ancak bu geçiş Otonashi için çok zor görünüyor çünkü bu, Angel'la yeni kurduğu bağı kaybetmek anlamına geliyor.",
+                "air_date": "2010-06-25",
+                "still_path": "/yjTLgi8JrocMNXTTXNLF9YDMRh3.jpg",
+                "video_url": "1695066"
+            }
+        ]
+    }
+}

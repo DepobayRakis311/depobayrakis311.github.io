@@ -1,0 +1,429 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 25,
+        "air_date": "2011-04-17",
+        "poster_path": "/noV3M0nk95BFKVmcV3TnT5tTLAJ.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Şeytan İnsan Ruhunda Yer Alır",
+                "overview": "Rin Okumura, başını belaya sokma konusunda doğal bir yeteneğe sahip bir gençtir. Buna rağmen ikiz kardeşi Yukio ve onların vasisi olan Rahip Shiro Fujimoto'nun beklentilerini karşılamak için elinden geleni yapar, ta ki kökeninin ardındaki karanlık sırrı öğrenene kadar.",
+                "air_date": "2011-04-17",
+                "still_path": "/xLY4vKOUTU1m3ptaVUzzL9nEYjm.jpg",
+                "video_url": "3770850"
+            },
+            {
+                "episode_number": 2,
+                "name": "Cehennem Kapısı",
+                "overview": "Fujimoto ve arkadaşları, Rin'i peşindeki iblislerden korumak için ellerinden geleni yaparlar, ancak sonunda iblislerin en güçlüsü ve Rin'in babası olan Şeytan tarafından ele geçirilir. Koruyucusunun kendisini Şeytan'dan korumak için kendi canına kıydığını gören Rin, şeytani güçlerinin kilidini açarak karşılık vermeye karar verir, hatta bunu yaparsa artık bir insan olmayacağını bile bilir.",
+                "air_date": "2011-04-24",
+                "still_path": "/bNyYgsuk9bjyudLPY3e3PL8MB1U.jpg",
+                "video_url": "3770873"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kardeşler",
+                "overview": "Rin, Şeytan Çıkarma eğitiminin bir parçası olarak True Cross Akademisine kaydolur. Rin, derslerinin ilk gününde ikiz kardeşi Yukio'nun zaten bir Şeytan Çıkarıcı olduğunu ve onun öğretmenlerinden biri olacağını öğrenince şok olur.",
+                "air_date": "2011-05-01",
+                "still_path": "/oI2IEi1qRHNPqWnkfNPmHKVgszR.jpg",
+                "video_url": "3770879"
+            },
+            {
+                "episode_number": 4,
+                "name": "Amahara Bahçesi",
+                "overview": "Yukio, Rin ile birlikte bazı malzemeleri stoklamak için okulun yalnızca Exorcist mağazasına doğru yola çıkar. Orada, sahibinin kızı Shiemi Moriyama'nın, ailesinin bahçesinde yaşayan bir iblisin etkisi altında olduğunu öğrenirler ve onun hayatını kurtarmak için onunla kendi başlarına yüzleşirler.",
+                "air_date": "2011-05-08",
+                "still_path": "/4JfMjqfZCnbFFvixrrKVh09Ii0d.jpg",
+                "video_url": "3770881"
+            },
+            {
+                "episode_number": 5,
+                "name": "Lanetli Tapınaktan Bir Çocuk",
+                "overview": "Shiemi'yi yeni sınıf arkadaşı olarak kabul eden Rin'in dersleri hiçe sayması, başka bir sınıf arkadaşı olan Ryuji Suguro, namı diğer \"Bon\"un öfkesini ortaya çıkarır. Bon'un hikayesini öğrendikten sonra Rin, itiraf etmek istediğinden daha fazla ortak noktaya sahip olduklarını keşfeder.",
+                "air_date": "2011-05-15",
+                "still_path": "/yg5zy6lLDB6KcVrSNfoS8fpDnwo.jpg",
+                "video_url": "3770884"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hayalet Şef",
+                "overview": "Rin ve Yukio, yurttaki yemeklerin sorumlusunun, Mephisto Pheles tarafından kendilerine yardım etmesi için atanan aşçılık uzmanı Ukoback olduğunu anlar. Ayrıca Ukoback'in sinirlendiğinde nasıl baş belası olabileceğini de öğreniyorlar.",
+                "air_date": "2011-05-22",
+                "still_path": "/lIzYur25nKjRxFCsOOsX0nLlBJa.jpg",
+                "video_url": "3770887"
+            },
+            {
+                "episode_number": 7,
+                "name": "Plover Sürüsü",
+                "overview": "Yeni arkadaşlıklar kurmaya hevesli olan Shiemi, sınıf arkadaşı Izumo Kamiki'den arkadaşı olmasını ister ve o da aynı fikirdeymiş gibi davranır, ancak Rin çok geçmeden Izumo'nun sadece Shiemi'nin nezaketinden yararlandığını fark eder. Daha sonra öğrenciler, bir iblisin Izumo ve arkadaşı Paku'ya sürpriz bir şekilde saldırdığı ve onları korumanın Rin ve Shiemi'ye düştüğü Exwire sınavına katılmak için eski yurtta yeniden bir araya gelir.",
+                "air_date": "2011-05-29",
+                "still_path": "/sWP4focFHxiv7JYj85ZUbcplg0m.jpg",
+                "video_url": "3770890"
+            },
+            {
+                "episode_number": 8,
+                "name": "Şimdi Belli Bir Adam Hastaydı",
+                "overview": "Arkadaşı Paku'nun Exorcist derslerinden ayrılmaya karar vermesinin ardından hâlâ tedirgin olan Kamiki, Bon'la kavga eder ve tüm sınıf Yukio tarafından cezalandırılır. Yukio'nun bir göreve gitmesinin hemen ardından öğrenciler başka bir gulyabani tarafından saldırıya uğrar ve diğerlerine yardım etmeye çalışırken Rin, canavarın kendisinin Şeytan'ın oğlu olduğunu doğrulamak isteyen öğretmenlerinden biri tarafından gönderildiğini öğrenir.",
+                "air_date": "2011-06-05",
+                "still_path": "/81uPwpQJrwLI7phuO152rGHDwbY.jpg",
+                "video_url": "3770892"
+            },
+            {
+                "episode_number": 9,
+                "name": "Hatıralar",
+                "overview": "Mephisto Pheles, öğrencilere gulyabani saldırısının aslında Esquire sınavının bir parçası olduğunu ve tehditle nasıl başa çıktıklarının değerlendirmenin bir parçası olacağını açıklıyor. Yukio, Rin'i sınav sırasında şeytani güçlerini kullanmaya zorlama nedenleri konusunda Neuhaus'la yüzleşir ve yaptığı tek şeyin Mephisto'nun emri altında olduğunu iddia eder. Ancak Yukio'nun Neuhaus'un gerçek niyetini anlaması fazla zaman almaz.",
+                "air_date": "2011-06-12",
+                "still_path": "/oqdF7skj0QZvOQbXjQkzHzvZwUw.jpg",
+                "video_url": "3770896"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kara Kedi",
+                "overview": "Blacky, Peder Shiro'nun öldüğünü duyduğunda çılgına döndü ve şeytan kovuculara, onun ölümü hakkında hepsinin yalan söylediğini anlatmaya devam etti, ancak onu yalnızca Rin anlayabiliyordu (O, her ikisinin de iblis olduğu için olabileceğini söyledi). Yukio, böyle bir senaryo gerçekleşirse Peder Shiro'nun ona daha önce verdiği eşyayı kullanmak üzereyken, Rin ona Blacky'yi sakinleştirmesine izin vermesini söyledi. Sonunda Blacky, Peder Shiro'nun öldüğü gerçeğini kabul etti ve Rin ile Yukio, Peder Shiro'nun Yukio'ya verdiği şeyin aslında onun kedi nanesi şarabı olduğunu öğrendi.",
+                "air_date": "2011-06-19",
+                "still_path": "/nNdoKY1wxret7965DbofelmDHrV.jpg",
+                "video_url": "3770899"
+            },
+            {
+                "episode_number": 11,
+                "name": "Derin Denizlerin Şeytanı",
+                "overview": "Rin ve sınıf arkadaşları Izumo ve Shima, Exwires olarak ilk görevleri için bir Kraken'in varlığından etkilenen bir sahil kasabasına gönderilir. Izumo, babası altı ay önce Kraken'le yüzleşmeye hazırlanan ve hâlâ kayıp olan bir çocuğa rastlar. Çocuk, babasını öldürdüğüne inandığı yaratığa karşı intikamını almayı planlıyor, ancak o ve Exwire'lar, yaratıkla karşılaştıklarında gerçekte ne olduğunu öğreniyorlar, bu da onları şaşırtıyor.",
+                "air_date": "2011-06-26",
+                "still_path": "/5nblWvu3T3myk2eXRgiwfS2khaR.jpg",
+                "video_url": "3770903"
+            },
+            {
+                "episode_number": 12,
+                "name": "Bir Etiket Oyunu",
+                "overview": "Exwire'lar, Mephisto Pheles'in eğlence parkına musallat olan bir çocuğun hayaletini aramakla görevlendirilir. Önce Rin ve Shiemi hayaleti bulmayı başarır, ancak Shiemi onu tek başına kovalarken, daha yüksek bir iblis ve Şeytan'ın başka bir oğlu olan Amaimon, Rin'in kılıcını çalar ve Rin'i onunla savaşmaya zorlar. Bu arada başka bir şeytan kovucu onu savunmaya gelir ve Rin'in erkek kardeşinin eski bir arkadaşı olduğu ortaya çıkar.",
+                "air_date": "2011-07-03",
+                "still_path": "/4zvtPhTVflJd7jIGIKR6x0SiKfr.jpg",
+                "video_url": "3770907"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kanıt",
+                "overview": "Üst düzey bir Şeytan Çıkarıcı ve Peder Shiro'nun eski çırağı olan Shura Kirigakure, Rin'in Şeytan'la olan bağlantısını araştırmakla görevlendirilen sınıf arkadaşlarından biri olarak hareket ediyordu. Doğruluğu kanıtlanırsa onu öldürme emri aldığı için, yükümlülüklerini yerine getirmekle Shiro'nun başına bir şey gelirse onun yerine Rin'e göz kulak olma isteğini yerine getirmek arasında bölünmüş durumda. Rin'le yüzleştiğinde ve Shiro'nun onu bir silah yerine bir oğul gibi yetiştirdiğini öğrendiğinde şüpheleri ortadan kalkar.",
+                "air_date": "2011-07-10",
+                "still_path": "/fOfi6jwgPrQ3xRYGRUd9gHk1em3.jpg",
+                "video_url": "3770914"
+            },
+            {
+                "episode_number": 14,
+                "name": "Eğlenceli Bir Kamp Gezisi",
+                "overview": "İlk dönem sona erdi ve True Cross Academy öğrencileri için yaz tatilinin başlangıcının sinyali verildi. Ancak Rin ve diğer ExWire'lar için ufukta huzur yok: Öncelikle ormanda bir kamp gezisi kisvesi altında kendilerini gerçek savaşa hazırlamak için 3 günlük bir tatbikata katılmaları gerekiyor.",
+                "air_date": "2011-07-17",
+                "still_path": "/fogc2wL4hRDWKUnWSK5WEtLr9d1.jpg",
+                "video_url": "3770920"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bir İyilik Eylemi",
+                "overview": "Rin ve sınıf arkadaşları, öğretmenlerinin kendilerine verdiği görevi başarır ancak kamp, ​​Rin'i savaşmaya zorlamak için Shiemi'yi rehin tutan Amaimon tarafından saldırıya uğrar. Amaimon'a karşı tüm gücünü kullanmaktan başka seçeneği kalmayan Rin, arkadaşlarının önünde gerçek formunu açığa vurarak sırrını açığa çıkarmak zorunda kalır. Diğer Exwire'lar onun hakkındaki gerçeği öğrendikten sonra şaşkınlıkla kaçarken Rin, Amaimon'u kolayca alt eder, ancak alevlerinin kontrolünü kaybeder ve öfkeye kapılır. İblis Öldüren Kılıç bu süreçte çatladı.",
+                "air_date": "2011-07-24",
+                "still_path": "/iRGJFWqK4c4fP85y8Qj4RuwM48u.jpg",
+                "video_url": "3771016"
+            },
+            {
+                "episode_number": 16,
+                "name": "Bahis",
+                "overview": "Shiemi, şu anki şövalye Arthur Auguste Angel tarafından yakalanan ve Shura ve Mephisto Pheles boyunca Vatikan'daki Gerçek Çapraz Düzen Karargahına götürülen Rin'i sakinleştirmeyi başarır. Bu arada Rin'in sınıf arkadaşları, Yukio'nun kendisinin ve erkek kardeşinin Şeytan'ın oğulları olduğunu açıkladığında şaşkına dönerler, ancak yine de yardımlarını teklif ederler ve Şeytan Öldüren Kılıcı döven kılıç ustasının soyundan gelen kişiyi bulmak için Kyoto'ya doğru yola çıkarlar. . Tarikat'ın üst kademelerinden önce Mephisto, Rin'i hayatta tutmanın nedeninin Şeytan'la yüzleşmesini sağlamak olduğunu belirtir ve onları kendi planını kabul etmeye ikna etmeye çalışırken, Rin ile bir kez daha yüzleşmek isteyen öfkeli bir Amaimon içeri girer.",
+                "air_date": "2011-07-31",
+                "still_path": "/p8OeN3EjxfFswcHSaoQgZMC7Mss.jpg",
+                "video_url": "3771021"
+            },
+            {
+                "episode_number": 17,
+                "name": "Günaha",
+                "overview": "Tüm savunmaları kolayca aşan Amaimon, Rin'in tutulduğu odaya ulaşır ve Mephisto, Grigori'yi kendi planına katılmaya ikna eder. Rin, sınıf arkadaşlarının getirdiği yeniden dövülmüş İblis Öldürücü Kılıcı kullanarak Amaimon'u yener ve Grigori, Exorcist yetki sınavını geçmek için altı ayı kaldığına karar verir ve böylece alevlerini kontrol etmeyi öğrenmek için özel bir eğitime başlar. Rin'e kılıcını tamir ettirerek yardım etmelerine rağmen, bazı sınıf arkadaşları onun Şeytan'la olan bağlantısını öğrendikten sonra hâlâ onun hakkında karışık duygulara sahipler; bunların en tuhafı, korkusunun çektiği karanlık bir varlığın yaklaştığı Konekomaru'dur.",
+                "air_date": "2011-08-07",
+                "still_path": "/vB5ggQuGXYdn2hViu7o3sOaUsMc.jpg",
+                "video_url": "3771028"
+            },
+            {
+                "episode_number": 18,
+                "name": "Fırtına",
+                "overview": "Rin ve Kamiki bilinmeyen bir düşman tarafından saldırıya uğrar ve Mephisto Pheles, Exwires'a okulu koruyan bariyerleri kontrol edip herhangi bir ihlal olup olmadığını kontrol etmelerini emreder. Düşmanın, Konekomaru'nun korkularından yararlanarak Akademi'ye sızan bir iblis olduğu ortaya çıkar. Bu arada Shura, şüpheli terk edilmiş bir laboratuvara açılan gizli bir kapı bulur. Konekomaru'nun kalbi iblise yenik düştüğünde, arkadaşları ona yardım etmek için koşar ve Rin canavarı öldürmeyi ve hayatını kurtarmayı başarır. Bu kadar çok sorun çıkardığı için utanan Konekomaru, Akademi'den ayrılmaya ve eve dönmeye karar verir, ancak Rin ve diğer arkadaşları ayrılmadan önce ona ulaşır ve onu kalmaya ikna eder.",
+                "air_date": "2011-08-14",
+                "still_path": "/1PcTHENbSpaogzmwjLlFhXD6ne4.jpg",
+                "video_url": "3771030"
+            },
+            {
+                "episode_number": 19,
+                "name": "Sıradan Bir Gün",
+                "overview": "Exwire'lar, Kamiki'nin doğum gününün yaklaştığını öğrenir ve ona sürpriz bir parti düzenlemeye karar verirler. Partiyi sır olarak saklamak için tüm çabalarına rağmen Kamiki sonunda gerçeği bulur ve partinin doğum günleri geçmiş olanlara da ithaf edilmesi gerektiğini iddia eder. Sonunda parti herkesin dostluğunun kutlandığı bir kutlamaya dönüşür.",
+                "air_date": "2011-08-21",
+                "still_path": "/rKAVARBYlIHLyeU6lrn1Lz2sgTV.jpg",
+                "video_url": "3771032"
+            },
+            {
+                "episode_number": 20,
+                "name": "Maske",
+                "overview": "Rin ve Yukio, büyüdükleri manastırdaki arkadaşlarının, tüm vücutlarını görünüşte yok edilemez bir örümcek ağıyla kaplayan maskeli bir kişinin saldırısına uğradığını fark eder. Yukio, amacı Şeytan'ın oğluyla akraba olan herkese saldırarak ona acı çektirmek olan suçluyu takip ederken, daha fazla açıklama yapmadan kaçan Neuhaus'la karşılaşır. Kılıcı ağ tarafından mühürlenmiş olmasına rağmen Rin, maskeli olanın peşinden gitmekte ısrar eder ancak Yukio ve Shura tarafından geri çekilir, ta ki Suguro, Renzo ve Konekomaru'nun da saldırıya uğradığı haberini alıp onlara yardım etmek için acele edene kadar. Rin, alevlerini doğru bir şekilde kontrol etmeyi başararak, karısı olduğunu ortaya çıkaran Neuhaus sayesinde kaçan saldırganı yener ve arkadaşlarını güvenli bir şekilde serbest bırakır.",
+                "air_date": "2011-08-28",
+                "still_path": "/tnxBtFSQurbIkeNa0I1ZuuhoIiu.jpg",
+                "video_url": "3771034"
+            },
+            {
+                "episode_number": 21,
+                "name": "Gizli Bahçe",
+                "overview": "Exorcist Shop'taki Shiemi, bahçelerinde baygın yatan bir kadın bulur. Bu sırada Yukio, trende büyükbabası olduğunu iddia eden yaşlı bir adamla tanışır ve Vatikan tarafından diri diri yakılan Annelerinin cadı olduğunu ilan etmesiyle ilgili gerçeği ortaya çıkarır. Yukio'yu gizli bir iblis karşıtı Dragoon Laboratuvarına götürür ve Shiro öldüğü ve Mephisto tutuklandığı için Yukio'ya kendisine katılmasını önerir. Prof. Neuhaus, Akademi'nin Büyük Hücresinde Shura tarafından sorgulanıyor ve herkese (Rin dahil) karısı (Maskeli Adam) Michelle'in vücudunda belirli bir iblis bulunan bir cesetten başka bir şey olmadığını, Şeytan'ı öldürmeye niyetli olduğunu ancak kendisinin onun tarafından ölümden diriltilmedi. Rin, bahçedeki kadının Neuhaus'un karısı olduğunu öğrenir ancak Shiemi, onun onu öldürmesini engeller. Paladin Angel, şeytanı öldürmek için bahçede belirir ancak Rin'le yüzleşir. Daha sonra Michelle, Rin'i Yoldaşlıktan korurken ölür.",
+                "air_date": "2011-09-04",
+                "still_path": "/wubQ0MKQx33jrCiC99QUyZ6ZwPJ.jpg",
+                "video_url": "3771035"
+            },
+            {
+                "episode_number": 22,
+                "name": "Şeytan Avı",
+                "overview": "Ernst, True Cross'un en yeni lideri olarak görevi devralır ve Yukio'yu yeni Paladin olarak atar. Kendileriyle birlikte öldürülen iblislerin kanını emen özel silahlarla donanmış şeytan kovucular, Assiah'taki tüm iblisleri yok etmek için geniş çaplı bir haçlı seferine katılır. Rin ve arkadaşları, tarikatın neden bu kadar aşırı önlemler almaya karar verdiğini sorgulamaya başlarlar, ancak Yukio, Ernst'in tüm bunların Gehenna'yı yok etme planlarının bir parçası olduğunu iddia etmesi ve İblis dünyasının yok edilmesiyle hem kendisinin hem de ekibinin yok edilmesiyle görevini tamamlamaya kararlıdır. Kardeşim yeniden tamamen insan olacaktı. Ancak Ernst'in gerçek amacı, Yukio'nun bedenini bir araç olarak kullanarak Şeytan'ı İnsan Dünyasına getirmek için Rin'i insan kurban olarak kullandığında ortaya çıkar.",
+                "air_date": "2011-09-11",
+                "still_path": "/9xJWB1xEi9CLInGubAarXDM0464.jpg",
+                "video_url": "3771038"
+            },
+            {
+                "episode_number": 23,
+                "name": "Gerçek",
+                "overview": "Ernst'in Gehenna'yı yok etme planı, Şeytan'ın Yukio'ya kendisinin ve kardeşinin kökeninin ardındaki gerçeği onun bedenini ele geçirmeden önce açıklamasıyla ters teper.",
+                "air_date": "2011-09-18",
+                "still_path": "/w9lyLjhjT5nI0XJ72D51oyyt1k6.jpg",
+                "video_url": "3771040"
+            },
+            {
+                "episode_number": 24,
+                "name": "Şeytan'ın Doğuşu",
+                "overview": "Rin ve arkadaşları, alevleriyle Gerçek Haç Akademisini yok etmeye başlayan Şeytan'dan kaçmayı başarır. Rin'in onu yok etme gücü olduğu için Şeytan'ın hâlâ Kapının yanında durduğunu bilen Shura, Rin'e bunu yapması için bir fırsat vermek için onun dikkatini dağıtacak bir plan yapar, bu sırada diğer öğrenciler okulu boşaltmaya yardım eder. Shiemi, Yukio'yu caydırmak için araya girip başarısız olunca planları başarısız olur, ancak Rin, kardeşinin vicdanını yeniden kazanmasını ve Şeytan'ı vücudundan atmasını sağlamayı başarır. Ancak kapı güçlenmeye devam ediyor ve Gehenna ile Assiah'ın tek bir alemde birleşmesi uzun sürmeyecek.",
+                "air_date": "2011-09-25",
+                "still_path": "/d8kDKXliOptum0ha97gcgwfH4JM.jpg",
+                "video_url": "3771043"
+            },
+            {
+                "episode_number": 25,
+                "name": "Durma Zamanı!",
+                "overview": "Rin, Yukio, Shura ve Arthur, Gehenna Kapısı'nı başarısız bir şekilde yıkmak için güçlerini birleştirir. Bu arada, Esquire'lar zaten gündüz olan Vatikan'a bir kapı açma ve canavarları zayıflatmak için gece vakti olan Akademi'ye güneş ışığını yansıtma planıyla gelene kadar iblisler oradan geçmeye devam ediyor ve diğer Şeytan Çıkarıcılara zor anlar yaşatıyor. Cehennem Kapısı'nı koruyor. Rin ve Yukio bu fırsatı değerlendirmeyi başarır ve ikisi de şeytani güçlerini birlikte açığa çıkardıklarında kapıdan uçup onu yok ederler. Bir ay sonra Akademi'de işler normale döner ve Okumura ikizleri doğdukları mağaraya dönerek annelerinin mezarını ziyaret ederler.\n\nAnnelerinin mezarını ziyaret ettikten sonra otoyolda \"kötü bir ruhla\" karşılaşırlar. Rin, Kuro ile birlikte bir otoyol mağarasından çıkar. Kötü ruh daha sonra Rin ve Yukio'ya saldırır. Rin, kötü ruhun ilk bedenini yok eder ve ardından ruh bir kamyonun kontrolünü ele geçirir. Yukio kamyona ateş eder, Rin ona kamyonda birinin olduğunu söyler. Yukio bunun sadece ölü bir ceset olduğunu söylüyor, ancak Rin sürücünün hâlâ hayatta olduğuna ve bir Şeytan Çıkarıcı'nın görevinin insanları korumak ve iblislere karşı savunmak olduğuna inanıyor. Yukio ve Shura'ya canavarın zayıf noktasını bulmalarını söyler ve canavarın peşine düşer.",
+                "air_date": "2011-10-02",
+                "still_path": "/pvX4jAnO20in0JPnhhxi3yLqOTp.jpg",
+                "video_url": "3771047"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2017-01-05",
+        "poster_path": "/6vdub4KFD7EEAi2DYArVO8puTA2.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Küçük Başlangıçlar",
+                "overview": "Sırrı açığa çıktıktan sonra Rin, True Cross Akademisi'nin kasasından çalınan bir iblis kalıntısı olan \"Saf Olmayan Kral'ın Sol Gözü\"nü geri almak için Shura ve Yukio ile birlikte özel bir göreve katılır. Bu durumda, onu geri almayı başaramazlar, ancak suçlunun, bir iblis tarafından ele geçirildiğinde bozulan kasadan sorumlu şeytan kovuculardan biri olan Saburota Todo olduğunu keşfederler. Sol Göz'ün kardeş kalıntısı olan Kyoto'daki \"Saf Olmayan Kral'ın Sağ Gözü\"nü çalma girişiminde bulunulduğunu duyan Teşkilat, soruşturma için oraya bir ekip gönderir; aralarında Shura, Yukio ve Exwires'ın da bulunduğu ve öğrendikten sonra anlaşmazlığa düşenler Rin hakkındaki gerçek.",
+                "air_date": "2017-01-05",
+                "still_path": "/7vqw6IsEm4mSxJvF4nN59eKg3o1.jpg",
+                "video_url": "4336200"
+            },
+            {
+                "episode_number": 2,
+                "name": "Garip Yatak Arkadaşları",
+                "overview": "Exwire'lar Kyoto'ya varır ve Ryuji, Konekomaru ve Renzo aileleriyle yeniden bir araya gelme fırsatını yakalarken Rin ve diğerleri, Saf Olmayan Kral'ın Sağ Gözünü korurken yaralanan Myoda Tarikatının Şeytan Çıkarıcılarıyla ilgilenir. Bu arada Rin, Ryuji'nin babasıyla tanışır ve Ryuji'nin ona kızdığını öğrenir, çünkü Myoda Tarikatı'nın lideri olmasına rağmen, kaybettikten sonra zayıflayan Tarikattan bu yana görevlerini düşürdüğü için diğerleri tarafından saygı görmemektedir. Mavi Gece'deki üyelerinden birkaçı Gerçek Haç Tarikatı'na katıldı. Bu arada, Saf Olmayan Kral'ın Sol Gözü'nün yerini alan Todo, Tarikat içindeki köstebeğiyle iletişime geçerek Sağ Gözü çalmak için başka bir girişim planlar.",
+                "air_date": "2017-01-12",
+                "still_path": "/cwbA6Dzp5G1e0fgmRVzFHyQGTg1.jpg",
+                "video_url": "4512967"
+            },
+            {
+                "episode_number": 3,
+                "name": "Şüpheler Bojileri Artıracak",
+                "overview": "Myoda Tarikatı, Saf Olmayan Kral'ın Sağ Gözünü çalmaya yönelik başarısız girişimi tartışmak ve aralarında Todo ile işbirliği yapan hainin kim olduğunu keşfetmek için acil bir toplantı düzenler. Bu vesileyle, tarikatın şeytan kovucularından ikisi olan Renzo'nun ağabeyi Juzo ve Mamushi'ye karşı, olay yerinde bulunmaları ve geçmişte Todo'nun öğrencileri olmaları nedeniyle şüpheler ortaya çıktı, ancak toplantıya katılmayan baş rahip, şüpheli olarak sayıldı. Ryuji'yi öfkelendirecek şekilde aynı zamanda bir şüpheli. Bu arada Rin, Myoda'nın Şeytan'ın oğlu olduğunu öğrendiğinde nasıl tepki vereceğinden korkan arkadaşlarıyla uzlaşmaya çalışırken alevlerini kontrol etme eğitimine devam eder.",
+                "air_date": "2017-01-19",
+                "still_path": "/qbWhbcvUejV8dz04wEP2n9LQ0gs.jpg",
+                "video_url": "4336204"
+            },
+            {
+                "episode_number": 4,
+                "name": "İhanet Yasası",
+                "overview": "Myoda mezhebine kim ihanet ediyor? Başrahip Tatsuma'nın katılımı olmayınca genel toplantı kaosa sürüklenir ve sonuç alınamadan sona erer. Suguro babasını bulup sorgulamaya karar verirken birinin Kyoto saha ofisine gizlice girdiğine tanık olur...",
+                "air_date": "2017-01-26",
+                "still_path": "/7lo1zKrgEFHlfdJMm7gm1Fsbl7j.jpg",
+                "video_url": "4512973"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gizemli Bağlantılar",
+                "overview": "Hainin ortaya çıkmasına rağmen, Saf Olmayan Kral'ın Sağ Gözü çalınmıştır. Rin, Ryuji ile yüzleşirken toplanmış şeytan kovucuların önünde mavi alevlerinin kontrolünü kaybeder. Tüm bu kargaşanın ortasında Tatsuma, Shura'ya Rin'e hitaben bir mektup verir.",
+                "air_date": "2017-02-02",
+                "still_path": "/700noPCcxyTBSjC6HEW3HM9dhCA.jpg",
+                "video_url": "4336210"
+            },
+            {
+                "episode_number": 6,
+                "name": "Koyun Kılığındaki Bir Kurt",
+                "overview": "Rin ve Yukio'nun üvey babası Shiro Fujimoto, şeytani kılıç Kurikara'yı almaya çalışırken Tatsuma Suguro ile karşılaştı. Tatsuma'nın mektubu, Myoda Tarikatı'nın ana ibadet nesnesi olan kılıcın Rin'e nasıl geldiğinin koşullarını ortaya koyuyor.",
+                "air_date": "2017-02-08",
+                "still_path": "/uK2gRr5SAn6OYyHVIElZSFfrc7B.jpg",
+                "video_url": "4512980"
+            },
+            {
+                "episode_number": 7,
+                "name": "Parlak Yanan Bir Ateş gibi",
+                "overview": "Saf Olmayan Kral yeniden canlandırıldı! Mektubunda Tatsuma, Rin'den savaşmak için Koma kılıcını kullanmasını ister ama bu mümkün olacak mı? Daha da kötüsü, Mephisto aniden Rin'in ölüm cezasına çarptırıldığı haberiyle ortaya çıkıyor!",
+                "air_date": "2017-02-15",
+                "still_path": "/1ByK9qJ0diBtaIxvJluYkFnV2m5.jpg",
+                "video_url": "4336216"
+            },
+            {
+                "episode_number": 8,
+                "name": "Babadan Oğula",
+                "overview": "Şeytan kovucular, Saf Olmayan Kral'ın büyümesine karşı koymaya başladıkça Miasma sokaklara yayılır. Rin, Tatsuma'yı bulmak için diğer öğrencilerle birlikte ayrılır. Kardeşinin hücresinden ayrıldığından habersiz olan Yukio, tuhaf bir şeyin farkına varır...",
+                "air_date": "2017-02-22",
+                "still_path": "/cIGBxXhNEsEgD8UocxuRGEw6Tev.jpg",
+                "video_url": "4336219"
+            },
+            {
+                "episode_number": 9,
+                "name": "İyi ve Kötü Günde",
+                "overview": "\"Kardeşini küçümsüyorsun, değil mi?\" Todo ona gerçek duygularını itiraf etmesini söyleyince Yukio sarsılır. Yukio, küçük yaşlardan beri sahip olduğu düşünceler üzerine düşünür. Bu arada Suguro, Gouha-en'i miras alır ve onunla birlikte o ve Rin sporangium'a gider.",
+                "air_date": "2017-03-01",
+                "still_path": "/5hJXpnW4h2zPdJCOoWII5KhO6HA.jpg",
+                "video_url": "4336223"
+            },
+            {
+                "episode_number": 10,
+                "name": "Eğilmemiş ve Kırılmamış",
+                "overview": "Sporangium sonunda patladı ve Saf Olmayan Kral ortaya çıktı. Miasmanın saldırısına uğrayan Suguro, bariyeri zar zor koruyabiliyor. Ve her geçen an onu sınırına daha da yaklaştırıyor. Rin, köşeye sıkıştığında bile neden kılıcını çekemediğini sorguluyor.",
+                "air_date": "2017-03-08",
+                "still_path": "/6JFYbmX9ajwBuS1X7KdrlmbGqgA.jpg",
+                "video_url": "4512995"
+            },
+            {
+                "episode_number": 11,
+                "name": "Güneş Kadar Parıldasın",
+                "overview": "Rin sonunda iblis kılıcını çekmeyi başarır. Shura ona \"Bu dünyada kendine bir yer kazan!\" Ancak Saf Olmayan Kral'ın ezici büyümesini durdurmanın bir yolu yok gibi görünüyor. Ve eğer Suguro'nun gücü başarısız olursa bariyer çöker!",
+                "air_date": "2017-03-15",
+                "still_path": "/vtrQDP6DZX0wkSH2ZI0LqTVJyOI.jpg",
+                "video_url": "4513999"
+            },
+            {
+                "episode_number": 12,
+                "name": "Açık ve Samimi",
+                "overview": "Gece gökyüzünde yanan mavi bir alevin görüntüsü “Mavi Gece”yi anımsatsa da bambaşka bir sonucu da beraberinde getirdi. Artık Saf Olmayan Kral'la ilgili olaylar sonuçlandığına göre, etkilenenler yollarına devam ediyor.",
+                "air_date": "2017-03-22",
+                "still_path": "/6ZiegNWpdlnLTtPbYntTwBCf4B9.jpg",
+                "video_url": "4336228"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 12,
+        "air_date": "2024-01-07",
+        "poster_path": "/yid55NfoEc5jsKLRiXcIM8Ei8Ys.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Dünyanın Astiri",
+                "overview": "Şeytan kovucu olmayı hedefleyen ancak iblis tanrısı Şeytan'ın gayri meşru oğlu olarak doğan Rin Okumura, iblisleri görmeye başlayan sınıf arkadaşı Sei Godaiin'e tavsiyelerde bulunur. Rin, Ryuji Suguro ve Şeytan Çıkarma Dershanesi'ne giden diğer Exwire'lardan iblisleri görünmez kılmanın bir yolunu istemesine rağmen bir çözüm bulamaz. Bu arada Rin, Gerçek Haç Şövalyeleri Japonya Şubesi Öğretmeni ve Gerçek Haç Akademisi yöneticisi Mephisto Pheles tarafından akşam yemeğine davet edilir. Fakat...",
+                "air_date": "2024-01-07",
+                "still_path": "/mFlRp3yOaR8bZVb2p10C7vREsu1.jpg",
+                "video_url": "5391633"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sırlar Nerede",
+                "overview": "Rin'in küçük ikiz kardeşi ve Birinci Sınıf Orta Düzey Şeytan Çıkarıcı Yukio Okumura, Saf Olmayan Kral'ın dirilişinin arkasındaki beyni Saburota Todo hakkında sorgulanmak üzere Gerçek Haç Tarikatı'nın üst düzey bir araştırma toplantısına çağrılır. Heybetli atmosferden şüphelenen Yukio, merhum üvey babası Shiro Fujimoto'nun sözlerini hatırlıyor. Bu arada Exwire'lar \"Tuvaletin Mayuko'sunu\" kovmakla görevlendirildi. Ancak Izumo Kamiki'nin Shiemi Moriyama'ya karşı belli bir kin besliyor.",
+                "air_date": "2024-01-14",
+                "still_path": "/jVYJfgtXYDRFQ91S7LHy1QJ9AMv.jpg",
+                "video_url": "5399037"
+            },
+            {
+                "episode_number": 3,
+                "name": "True Cross Akademi Festivali",
+                "overview": "True Cross Akademisi okul festivali hazırlıklarıyla meşgul. Renzo Shima ve Rin, müzik festivaline ve dans partisine katılacak ortaklar bulmaya çalışırlar, ancak sürekli olarak reddedilirler. Vazgeçmek istemeyen Rin, Izumo'yu davet etmeye çalışır. Ancak yıllık Şeytan Çıkarma Sertifika Sınavı yaklaştığı için bu teklifi kesin bir dille reddediyor. Ancak okulun geçiş sınavını geçip sınıf arkadaşı olan Shiemi, tamamen bunalıma giren Shima ve Rin'in karşısına çıkar.",
+                "air_date": "2024-01-21",
+                "still_path": "/A8O1wFDn0820l6CoemEs1S4wy2H.jpg",
+                "video_url": "5407951"
+            },
+            {
+                "episode_number": 4,
+                "name": "İçeriden Bilgi",
+                "overview": "Arthur A. Angel ve Lightning, Gerçek Haç Şövalyeleri arasında saklanan bir casusu yakalar ve gizli topluluk Illuminati'nin belirli bir proje için birini kaçırmayı planladığını öğrenir. Ve artık planlarının zamanı yaklaşıyor. Shura Kirigakure, haberi duyduktan sonra Exwire'ları bir araya getirir. Bu sırada Izumo, Takara'yla yüzleşir ve Takara'nın elinde belirli bir peluş hayvanı görünce öfkeyle patlar...",
+                "air_date": "2024-01-28",
+                "still_path": "/kJvPqWGuyTXJnJs3cWlNIQrdUYD.jpg",
+                "video_url": "5419847"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kader",
+                "overview": "Işık Kralı Lucifer'in savaş ilan etmesiyle Gerçek Haç Şövalyeleri'nin her kolu kaosa sürüklenir. Aynı zamanda Yukio, Rin ve diğer Exwire'lar, Izumo ve Shima'yı eve geri getirmek için Izumo'nun memleketi Shimane Eyaletine doğru yola çıkar. Izumo kaçırıldı ve İlluminati tarafından kontrol edilen Uzak Doğu Laboratuvarı'na kapatıldı. Izumo uyandığında Shima'nın Illuminati üniforması giydiğini görür. Daha sonra derin bir bağ paylaştığı biriyle de tanışır.",
+                "air_date": "2024-02-04",
+                "still_path": "/kGSwIPgnqJSVrbUNnuI5tAaHE9l.jpg",
+                "video_url": "5436917"
+            },
+            {
+                "episode_number": 6,
+                "name": "Kimseye Güvenemiyorum",
+                "overview": "Takara, Kamiki ailesini ve Inari Taisha Tapınağını çevreleyen geçmiş hakkında konuşmak için Izumo'nun tanıdık Tilki Tanrısı Mike'ı çağırır. Uzun bir tapınak bakireleri soyundan gelen Tamamo, Izumo ve Tsukumo'nun annesi, tilki iblisi Dokuz Kuyruk'u kontrol etme yükünü taşıması gereken ailenin reisi olarak hizmet ediyor. Izumo, bir tapınak bakiresi olarak mükemmel bir ilahi güce sahip olmasına rağmen, özel hayatında güvenebileceği kimsesi yoktur; günlerini şamatacı annesi ve küçük kız kardeşiyle geçirir. Inari Işık Vakfı'nın ortaya çıkıp harekete geçmesiyle o günler harabeye döndü.",
+                "air_date": "2024-02-11",
+                "still_path": "/kEUDLb4gPG6IwhNlJATn4STbZJF.jpg",
+                "video_url": "5439341"
+            },
+            {
+                "episode_number": 7,
+                "name": "Tereddüt",
+                "overview": "İlluminati, Inari Turizm ve Şehirleşme Projesi'nin dış görünüşünün arkasında yavaş yavaş bölgeyi baltalamaya başladı. Mike'tan Izumo'nun geçmişini öğrenen Rin ve diğerleri, Illuminati'nin yer altı laboratuvarının girişi olduğuna inandıkları Barış Kasabası Inari'ye giderler. Bu sırada laboratuvarda Izumo, Michael Gedoin'in tam bir tıbbi muayeneden geçmek için beklediği bir odaya götürülür. Izumo kargaşa yaratmak için çığlık atıyor ve Uke ile Mike'ı çağırarak ona kaçma şansı veriyor. Yeraltı laboratuvarından çıkmak için kaçar; ancak Renzo Shima onun önünde durur.",
+                "air_date": "2024-02-18",
+                "still_path": "/iDQME0cHP1BAnqp1lbkttFTp1HJ.jpg",
+                "video_url": "5444173"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kararlılık",
+                "overview": "Lucifer'e olan hayranlığı ve hayranlığı içinde kaybolan Michael Gedoin, İksir araştırmasının başarısını garantilemek için daha fazla harekete geçer. Rin ile ekibini ayıran bir plan yapar ve her üyeyi kendi başının çaresine bakmaya bırakır. Rin, yeraltı laboratuvarının konteynerinde dev, tuhaf bir Zombi ile karşı karşıya gelse de, Zombi'nin bir iblisin ele geçirdiği bir insan cesedi olduğunu anlayınca kılıcını ona karşı kullanmakta tereddüt eder. Yukio, Suguro, Shiemi ve Konekomaru laboratuvarda kendi şeytanlarıyla tek başlarına yüzleşmek zorundadır...",
+                "air_date": "2024-02-25",
+                "still_path": "/xhWL85DPzX4kjMylNPl5ZZzs0hO.jpg",
+                "video_url": "5453780"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bana Yardım Et",
+                "overview": "Laboratuvar konteyneri artık yok olduğundan, Rin ve ekibin geri kalanı yeniden toplanabildi, ancak Michael Gedoin onlara saldırması için şişmiş bir Zombi yerleştirdi. Gedoin, Uzak Doğu Laboratuvarı'nın Ölümsüzlük İksiri deneyleri için nasıl merkezi bir merkez olduğundan bahsediyor; Barış Kasabası Inari hakkındaki gerçeği açığa çıkarıyor ve süreçteki herkesi öfkelendiriyor. Daha sonra Izumo belirir ve isteğine rağmen Nine Tails'in ameliyatla nakledilmesine karar verir. Rin, Izumo'yu kurtarmak için Koma Kılıcını çıkarır. Rin, Rin'in ona yardım etmesini engellemeye çalıştığı için Shima'yı yumruklayarak onu uçurur. Rin, Izumo'ya yardım eli uzatıyor ama...",
+                "air_date": "2024-03-03",
+                "still_path": "/eyQUD6kPvyeg6eSeLbcauUCCgiL.jpg",
+                "video_url": "5463519"
+            },
+            {
+                "episode_number": 10,
+                "name": "Arkadaşlar",
+                "overview": "Dokuz Kuyruk tarafından zorla ele geçirilen Izumo, iblisin gücü onu alt ederken yardım için ağlamak için enerjisini zorlar. Rin, Izumo'nun yardım çığlığına cevap verir, şişmiş Zombiyi çıkarır ve kendini Michael Gedoin'in önünde bulur. Beklenmedik durum karşısında kafası karışan ve sabırsızlanan Gedoin, zaman kazanmak için Rin ve diğerlerine daha fazla Zombi salar. Yukio ve grubun geri kalanı geri saldırmak için koşarken, Izumo, bastıramadığı ve kontrolünü kaybettiği Dokuz Kuyruk'un deliliği tarafından yutulmaya başlar.",
+                "air_date": "2024-03-10",
+                "still_path": "/i3Lx6Zf0WLEojJWlfp4bajr0D6r.jpg",
+                "video_url": "5467214"
+            },
+            {
+                "episode_number": 11,
+                "name": "Pembe Örümcek",
+                "overview": "Izumo ve ekibin geri kalanı, annesi Tamamo'nun yardımıyla İlluminati tehdidini engellemeyi başarır. True Cross Şövalyeleri Inari'nin kontrolünü ele geçirirken, bir zamanlar aralıksız devam eden kargaşa ve kavgalar sonunda tüm ülkede sakinleşir. Ancak Renzo Shima, ekibinin bir üyesi olarak İlluminati'den ayrılır. Suguro, Kyoto Şubesi'nden yardıma gelen ağabeyleri Juzo ve Kinzo'ya Renzo'nun Illuminati için bir casus olduğunu açıklamaya çalışır; ancak Juzo'dan daha da şok edici bir gerçeği öğrenir.",
+                "air_date": "2024-03-17",
+                "still_path": "/dumzzc5w9fVvcJun6Q20kig6417.jpg",
+                "video_url": "5475377"
+            },
+            {
+                "episode_number": 12,
+                "name": "Gizli Gerçek Duygular",
+                "overview": "Herkesin bağlarını kopardığını düşünmesine rağmen Shima eve döner. Yıldırım onun amacını sorguluyor. Mephisto, Lucifer'la yüzleşmeyi planlıyor. Bu olayların ortasında Yukio, Lucifer ile Illuminati'nin yer altı tesisinde şahsen tanıştığını gizler, ancak Shima gerçeği bilir. Yukio'nun kalbinde büyük bir huzursuzluk duygusu güçlenir; Shima ona bu konuyu biriyle konuşmasını tavsiye eder. Bu arada Mephisto, sıkı çalışmaları için minnettarlıkla Rin ve ekibin geri kalanının bir spa merkezinde dinlenip rahatlamasını ayarlar.",
+                "air_date": "2024-03-24",
+                "still_path": "/xfQAf1K2NgcYdOMyJd26pJYlYO3.jpg",
+                "video_url": "5507457"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 0,
+        "air_date": null,
+        "poster_path": null,
+        "episodes": []
+    }
+}

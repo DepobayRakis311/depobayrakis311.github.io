@@ -1,0 +1,195 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 23,
+        "air_date": "2021-04-11",
+        "poster_path": "/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Cenazeci",
+                "overview": "San Magnolia Cumhuriyeti, insansız hava araçlarını kullanarak güvenli, insani bir savaş yürütüyor. Ancak gerçekte dronlar, \"domuz\" olarak adlandırılan ve insandan aşağı kabul edilen 86'lar adı verilen insanlar tarafından yönetiliyor.",
+                "air_date": "2021-04-11",
+                "still_path": "/uPXOau2nKMheRPZKJN1GIEzBjsI.jpg",
+                "video_url": "4337211"
+            },
+            {
+                "episode_number": 2,
+                "name": "Mızrak Ucu",
+                "overview": "Lena, şehrinin duvarları arasında güvenli ve rahat bir yaşam sürerken 86'lılar durdurulamaz ve insanlık dışı bir düşmana karşı korkunç bir savaş veriyor.",
+                "air_date": "2021-04-18",
+                "still_path": "/1f67WO3BXBevSKQIVP6IINmI1Bs.jpg",
+                "video_url": "4337210"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ölmek İstemiyorum",
+                "overview": "Lena, Spearhead filosuna giderek yaklaştığını fark ediyor ya da öyle düşünüyor. Ancak ölümcül bir savaş onun bakış açısını büyük ölçüde değiştirir.",
+                "air_date": "2021-04-25",
+                "still_path": "/2rmd7VSVoW8VqLeh98G0kbRrUgb.jpg",
+                "video_url": "4337208"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gerçek Ad",
+                "overview": "Acımasız bir ölümün ardından Lena, Alba olarak gerçek statüsünü ve bir başkasını senin uğruna savaşmaya zorlamanın ne anlama geldiğini kabul eder.",
+                "air_date": "2021-05-02",
+                "still_path": "/oA2oXwZeEeQKTbJRxioTVUTRMAJ.jpg",
+                "video_url": "4337209"
+            },
+            {
+                "episode_number": 5,
+                "name": "Seninleyim",
+                "overview": "Lena, savaşın yaklaşmakta olan sonu hakkındaki gerçeği ve Lejyon'un sandığından çok daha ölümcül bir tehdit olduğunu öğrenir.",
+                "air_date": "2021-05-09",
+                "still_path": "/y1A9kF3VTSGbxfJGZRxo2RtyG66.jpg",
+                "video_url": "4337212"
+            },
+            {
+                "episode_number": 6,
+                "name": "Sonuna Kadar",
+                "overview": "Spearhead, duvarın dışındaki kiraz çiçeklerinin yanında kısa bir dinlenmenin tadını çıkarır, ancak ölümcül bir saldırı, savaşın tehlikelerini daha da yakına getirir.",
+                "air_date": "2021-05-16",
+                "still_path": "/9vn3UrEXJ7yJ6hrzTlLnOWeTM31.jpg",
+                "video_url": "4337215"
+            },
+            {
+                "episode_number": 7,
+                "name": "Beni Hatırlayacak Mısın?",
+                "overview": "Festival günü yaklaşırken Lena ve Shin havai fişekleri izliyor ve kavgalarından kısa bir süreliğine de olsa uzaklaşıyorlar.",
+                "air_date": "2021-05-23",
+                "still_path": "/33hVP5bomUCDw3plmiAGxYGAe4Q.jpg",
+                "video_url": "4337217"
+            },
+            {
+                "episode_number": 8,
+                "name": "Hadi Gidelim",
+                "overview": "Spearhead'e düşman topraklarına anlamsız bir yürüyüş yapması ve onlar ölene kadar durmaması emri verildi. Lena bu intihar görevinin gerçekleşmesini engellemek için elinden geleni yapar.",
+                "air_date": "2021-05-30",
+                "still_path": "/rQI724J0LuoIxMA0w6dlIRtuuGB.jpg",
+                "video_url": "4337218"
+            },
+            {
+                "episode_number": 9,
+                "name": "Güle Güle",
+                "overview": "Shin, Lejyon'un kontrolündeki toprakların derinliklerinde kardeşiyle yüzleşir. Ama kazansa bile, geri dönüş yoktur.",
+                "air_date": "2021-06-06",
+                "still_path": "/zRrkqGwUl846UyQPOVHkWxeY4GK.jpg",
+                "video_url": "4337221"
+            },
+            {
+                "episode_number": 10,
+                "name": "Teşekkür Ederim",
+                "overview": "Spearhead'in mürettebatı, bir daha eve dönmemek üzere son görevlerine doğru yola çıktı. Onları evlerinin sınırları dışında neler bekliyor?",
+                "air_date": "2021-06-13",
+                "still_path": "/5MV5HDMTFVSDMzq0r1whJSuq36J.jpg",
+                "video_url": "4337222"
+            },
+            {
+                "episode_number": 11,
+                "name": "İşte Başlıyoruz",
+                "overview": "Spearhead Filosu uzun yolculuğunun sonuna gelir ve Lena için yeni bir yolculuk başlar...",
+                "air_date": "2021-06-20",
+                "still_path": "/gkxgMmkC6wiU70PgfxCUjVmjC3j.jpg",
+                "video_url": "4337225"
+            },
+            {
+                "episode_number": 12,
+                "name": "Hoş Geldin",
+                "overview": "Spearhead uyanır ve kendisini tuhaf, yeni bir ülkede bulur. Lena ise bir İşleyici olarak savaşlarına devam eder.",
+                "air_date": "2021-10-03",
+                "still_path": "/3iiFrTaLSjiq3eAN9S2BKM4nVR0.jpg",
+                "video_url": "4439159"
+            },
+            {
+                "episode_number": 13,
+                "name": "Çok Geç",
+                "overview": "Spearhead üyelerine savaştan sonra kısa bir süre ara verilir. Ama bu kadar çok kişi düşmüşken onların eğlenmesi doğru mu?",
+                "air_date": "2021-10-10",
+                "still_path": "/yqOJC0kX5pRiVwS8mmsC0cxO01a.jpg",
+                "video_url": "4446110"
+            },
+            {
+                "episode_number": 14,
+                "name": "Burada Olmaktan Mutluyum",
+                "overview": "Savaşın gidişatı Federasyon aleyhine dönerken Spearhead mürettebatı kendilerini yeniden savaş alanında bulur.",
+                "air_date": "2021-10-17",
+                "still_path": "/k23GDBXas3xfeT3n1AfuYTNOTq5.jpg",
+                "video_url": "4485304"
+            },
+            {
+                "episode_number": 15,
+                "name": "Tekrar Hoşgeldiniz",
+                "overview": "Büyük bir Lejyon saldırısı yaklaşırken Spearhead üyeleri yeniden bir araya gelir. Savaşın bir sonraki ölümcül aşaması neredeyse yaklaşmışken, kalan saatlerini nasıl geçirecekler?",
+                "air_date": "2021-10-24",
+                "still_path": "/rEq1FQXuNYTJ9c7P4Ex6bsL7ZUQ.jpg",
+                "video_url": "4485303"
+            },
+            {
+                "episode_number": 16,
+                "name": "Olsa Bile",
+                "overview": "Lejyon'un geniş çaplı saldırısı başlar ve Spearhead mürettebatı savaşın tam ortasına gönderilir. Ama üsse döndüğümüzde bile güvenlik sağlanamıyor...",
+                "air_date": "2021-10-31",
+                "still_path": "/2VYEt4uxVcZ8LU2KjNEWuLp3bNA.jpg",
+                "video_url": "4485305"
+            },
+            {
+                "episode_number": 17,
+                "name": "Unutmayacağım",
+                "overview": "Lejyon'la olan savaş tüm hızıyla devam ederken düşman, San Magnolia Cumhuriyeti'ne doğru son bir yürüyüşe çıkar. Lena onları durdurmayı bekler ama...",
+                "air_date": "2021-11-07",
+                "still_path": "/f18YFaHxqEyonsw6ziLtDRXd2mi.jpg",
+                "video_url": "4485775"
+            },
+            {
+                "episode_number": 18,
+                "name": "Gerçek Şu Ki",
+                "overview": "Ekip, savaşın gidişatını tek başına değiştirebilecek devasa bir raylı top Lejyonu olan \"Morpho\"ya karşı son bir intihar görevi için hazırlanır.",
+                "air_date": "2021-11-21",
+                "still_path": "/cDpBFFgMGTyEZs5cjq6NnssiZf1.jpg",
+                "video_url": "4509418"
+            },
+            {
+                "episode_number": 19,
+                "name": "Sonsuza Kadar Böyle Kal",
+                "overview": "Nordlicht, kendisini düşman bölgesinin ortasında devasa bir düşmanla karşı karşıya bulur; hiçbir kaçış umudu yoktur ve yardıma gelen hiçbir takviye yoktur.",
+                "air_date": "2021-12-05",
+                "still_path": "/qK088d03SZe83QirUvnDy2bKYSP.jpg",
+                "video_url": "4530496"
+            },
+            {
+                "episode_number": 20,
+                "name": "Birlikte Ölüme Kadar",
+                "overview": "Düşman bölgesinin derinliklerinde, erzak azalıyor ve hasar artıyorken Nordlicht, Morpho'ya doğru son bir çaresiz yürüyüşe çıkıyor.",
+                "air_date": "2021-12-19",
+                "still_path": "/oG81P6yyh7ECDgFaDi3TeUpeNWy.jpg",
+                "video_url": "4548210"
+            },
+            {
+                "episode_number": 21,
+                "name": "Geriye Kalan Tek Şey",
+                "overview": "Nordlicht üyeleri Lejyon'un saldırısı karşısında birer birer çekilir ve Shin, Morpho'yla tek başına yüzleşmek zorunda kalır.",
+                "air_date": "2021-12-26",
+                "still_path": "/nrqVqHdklGeQTOD4aVUAAeTdGLT.jpg",
+                "video_url": "4557854"
+            },
+            {
+                "episode_number": 22,
+                "name": "Incik",
+                "overview": "Her şeyin sonunda bir kez daha geride bırakılan Shin uçurumun eşiğindedir. Tam o sırada kırmızı çiçeklerden oluşan bir denizin içinde birisi belirir...",
+                "air_date": "2022-03-13",
+                "still_path": "/eJipk98y8cZFcu3CqWyoQ8rm2sg.jpg",
+                "video_url": "4637754"
+            },
+            {
+                "episode_number": 23,
+                "name": "İşleyici Bir",
+                "overview": "Morpho'yu yok etme operasyonu başarılı oldu ve Shin ve ekibi, Federasyon'a canlı dönme sözünü yerine getirdi. Kısa bir süre dinlendikten sonra bir kez daha ön saflarda görev yapmak istediler ancak Ernst'ten kesin bir uyarı aldılar. Cumhuriyetin ölümcül savaş alanlarını geçtikten sonra Federasyon'da yeni bir toplantıya vardılar. Savaşırlar, acı çekerler ve bir umut ışığı görürler. Bu, yavaş yavaş hareket etmeye başlayan kız ve erkek çocukların hikayesidir. Yolculuklarının sonunda gözlerine ne yansıyor?",
+                "air_date": "2022-03-20",
+                "still_path": "/9tAAvAB29vobClzSELQdHGtigvG.jpg",
+                "video_url": "4642979"
+            }
+        ]
+    }
+}

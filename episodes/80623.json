@@ -1,0 +1,260 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 26,
+        "air_date": "2018-06-26",
+        "poster_path": "/aEMDrkYf9X0PWBVu8E7IYjEbRwH.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Eşzamanlılık",
+                "overview": "Yeraltı dövüş sanatları organizatörü Tokugawa, şampiyon Baki'yi dünyanın dört bir yanından şiddetli ölüm cezasından kaçan beş kişinin hepsinin Tokyo'ya doğru gittiği konusunda uyarıyor.",
+                "air_date": "2018-06-26",
+                "still_path": "/uFYdD7AxlEf5OuGyvHLoa1UaIMx.jpg",
+                "video_url": "5255144"
+            },
+            {
+                "episode_number": 2,
+                "name": "Karanlık Dövüş Sanatları",
+                "overview": "Baki, kendi okulundaki suçlular tarafından tutulan haydutları kolayca bastırırken idam cezası kaçağı Spec, şampiyonun yeteneklerini değerlendirmek için bir ziyarette bulunur.",
+                "air_date": "2018-07-03",
+                "still_path": "/dUFkV1kpyB7IM74vNHG1AwKjHtN.jpg",
+                "video_url": "5255155"
+            },
+            {
+                "episode_number": 3,
+                "name": "Sonunda Buradalar!!",
+                "overview": "Ölüm cezasından kaçan Dorian, Shinshinkai Dojo'ya dalar ve orada öğrencilere Çin dövüş sanatlarında koçluk yapan Deniz Kralı Retsu ile karşılaşır.",
+                "air_date": "2018-07-10",
+                "still_path": "/uRillQqO7CuaKVs4ROGtG1x3fK8.jpg",
+                "video_url": "5255161"
+            },
+            {
+                "episode_number": 4,
+                "name": "Savaş Başlar",
+                "overview": "Beş idam mahkumu ve rakipleri yeraltı arenasında toplandığında, Tokugawa resmen savaşın başladığını ilan eder.",
+                "air_date": "2018-07-18",
+                "still_path": "/tjkY1weiJfyvuz81b5OonwoTdNA.jpg",
+                "video_url": "5255146"
+            },
+            {
+                "episode_number": 5,
+                "name": "Biraz Daha Istemek?",
+                "overview": "Baki, Kozue ile dışarıdayken Spec tarafından neredeyse pusuya düşürülür, ancak Kaoru aniden çifti zarar görmekten korumak için ortaya çıkınca kavgadan kurtulur.",
+                "air_date": "2018-07-24",
+                "still_path": "/R9xvNrEsX2uckv7eSnu5Vrxb5.jpg",
+                "video_url": "5255157"
+            },
+            {
+                "episode_number": 6,
+                "name": "Çavuş Katahira'nın Raporu",
+                "overview": "Spec, en güçlü rakipleri bile tek vuruşta alt etmeye yetecek kadar öldürücü hamleler yapar, ancak Hanayama kendi beklenmedik hamleleriyle buna karşı çıkar.",
+                "air_date": "2018-07-30",
+                "still_path": "/wt13SSg2ogIqXwZSRJM0ds0ODJ.jpg",
+                "video_url": "5255164"
+            },
+            {
+                "episode_number": 7,
+                "name": "Müthiş Bir Ekip",
+                "overview": "Dersteyken Doyle tarafından pusuya düşürülen Baki, Doyle'u sınıftan uzaklaştırır ve dışarıda kılık değiştirmiş Yanagi ile karşılaşır.",
+                "air_date": "2018-08-06",
+                "still_path": "/eiJYoc1sln6P9Xf0fNWeul1pZes.jpg",
+                "video_url": "5255149"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Maça Karşı Gerçek Bir Dövüş",
+                "overview": "Baki ve müttefikleri okulunda meydana gelen olayları tartışırken Dorian, Tokugawa'nın sıkı korunan yerleşkesine sızarak ortaya çıkar.",
+                "air_date": "2018-08-13",
+                "still_path": "/mlZ3rF7h7bugd0UhMqKqpvN6R2U.jpg",
+                "video_url": "5255158"
+            },
+            {
+                "episode_number": 9,
+                "name": "Shaken Shinshinkai",
+                "overview": "Shinshinkai Karate'nin en güçlü savaşçılarından biri olarak bilinen Kiyosumi Kato, yeraltındaki gizli sığınağının derinliklerinde Dorian'la yüzleşir.",
+                "air_date": "2018-08-20",
+                "still_path": "/uFizeI9GiqNakuRmbT84IBY5HSU.jpg",
+                "video_url": "5255166"
+            },
+            {
+                "episode_number": 10,
+                "name": "Hava Düellosu",
+                "overview": "Ülke çapında bir milyon üyeye sahip olan Shinshinkai, Dorian'ı bir eğlence parkına çeker ve burada Kato'nun akranı Suedo hemen saldırır.",
+                "air_date": "2018-08-27",
+                "still_path": "/8fxOpv6uGtg8yK4KbV0ChYp370O.jpg",
+                "video_url": "5255340"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kaplan Avcısı",
+                "overview": "Dorian'ın geçmişi ortaya çıktıkça, Shinshinkai'nin kurucusu ve \"kaplan katili\" Doppo Orochi, onunla tam kapsamlı bir karate ve kempo mücadelesine girişir.",
+                "air_date": "2018-09-03",
+                "still_path": "/5yLS5jJn5hMiQ1v4JX6wvZ46BLW.jpg",
+                "video_url": "5255159"
+            },
+            {
+                "episode_number": 12,
+                "name": "Şeker",
+                "overview": "Doppo Orochi, aynı şekilde yaralanan Kiyosumi Kato'yu son vuruşları yapması için getirmeden önce, dehşete düşmüş Dorian'ın hayatını mahveder.",
+                "air_date": "2018-09-10",
+                "still_path": "/lXSJzrewh7MEAsEqFrg7ChxgrNe.jpg",
+                "video_url": "5255167"
+            },
+            {
+                "episode_number": 13,
+                "name": "Bay Oliva",
+                "overview": "Biscuit Oliva, kalan mahkumları yakalamak için Tokyo'ya gelir. Sikorsky, beklenmedik bir kaynağın yardımıyla Baki'yi savaşa çeker.",
+                "air_date": "2018-09-17",
+                "still_path": "/wWtvvbW1wo1RHwTL7mRjfvwnsR1.jpg",
+                "video_url": "5255152"
+            },
+            {
+                "episode_number": 14,
+                "name": "Affedilmez Özgürlük",
+                "overview": "Hiçbir şeyden haberi olmayan Biscuit Oliva, ipuçları bulmak için polis veri tabanında arama yaparken, kadın polis memuru kılığında ortaya çıkan Doyle tarafından pusuya düşürülür.",
+                "air_date": "2018-09-24",
+                "still_path": "/j4wGL2ST2xRN6ZGWo0z1gB0GQDP.jpg",
+                "video_url": "5255341"
+            },
+            {
+                "episode_number": 15,
+                "name": "Muazzam Kas Gücü",
+                "overview": "Hiçbir şeyden haberi olmayan Biscuit Oliva, ipuçları bulmak için polis veri tabanında arama yaparken kadın polis memuru kılığında ortaya çıkan Doyle tarafından pusuya düşürülür.",
+                "air_date": "2018-10-01",
+                "still_path": "/rwS27SpPnirNoBVcCGwcXQPrG6S.jpg",
+                "video_url": "5255154"
+            },
+            {
+                "episode_number": 16,
+                "name": "Yırtmaç",
+                "overview": "Biscuit Oliva, judo takımındaki her subaya karşı puan alabilmesi için siyah kuşak alması gerektiğini düşünüyor, ancak Sonoda ona bir puan vermekte direniyor.",
+                "air_date": "2018-10-08",
+                "still_path": "/nOwm3NiTcLVN2PadFGRCIOTH45X.jpg",
+                "video_url": "5255351"
+            },
+            {
+                "episode_number": 17,
+                "name": "Baba!!",
+                "overview": "Kosho Shinogi ve Doyle arasındaki ölümcül kavga muhteşem doruğuna ulaşır. Bu arada Yujiro, hiçbir şeyden haberi olmayan Baki ve Kozue'yu ziyaret eder.",
+                "air_date": "2018-10-15",
+                "still_path": "/4L1dZx7izEK4fJI2e1evVjwshxh.jpg",
+                "video_url": "5255358"
+            },
+            {
+                "episode_number": 18,
+                "name": "Teşekkürler",
+                "overview": "Çin dövüş sanatlarının zirve ustası olarak bilinen Deniz Kralı Retsu, tamamen silahlı Hector Doyle'a karşı ustaca silah kullanımını sergiliyor.",
+                "air_date": "2018-10-22",
+                "still_path": "/4wByu0B9r7TD5d5bb4us5waethS.jpg",
+                "video_url": "5255344"
+            },
+            {
+                "episode_number": 19,
+                "name": "Yenilginin Kabulü",
+                "overview": "Shinshinkai'nin dojosunda bir patlama başlatan Doyle, dojonun kurucusu Doppo ile karşı karşıya gelir. Tokugawa, Ryukoh Yanagi'nin ustasını ziyaret eder.",
+                "air_date": "2018-10-29",
+                "still_path": "/z9A7QkGr1cHmOePMgXSFbNfUsi4.jpg",
+                "video_url": "5255347"
+            },
+            {
+                "episode_number": 20,
+                "name": "Destan",
+                "overview": "Tokugawa, \"kudo\" dövüş sanatı formunun en ölümcül hareketi olan Zehirli El'i öğrenir. Baki, Kozue ile ilişkisinde bir sonraki adımı atar.",
+                "air_date": "2018-11-05",
+                "still_path": "/807uYl8KsrDVHPAl7ikyPgav9Bc.jpg",
+                "video_url": "5255354"
+            },
+            {
+                "episode_number": 21,
+                "name": "Ceza",
+                "overview": "Yeni canlanan Baki, hem Ryukoh Yanagi'nin hem de Sikorsky'nin saldırılarıyla kolayca başa çıkar, ancak Baki onları bitirmeden önce alışılmadık bir hamle yapar.",
+                "air_date": "2018-11-12",
+                "still_path": "/ugKCv7gV5YPdlzP94dXAXjU5Xog.jpg",
+                "video_url": "5255361"
+            },
+            {
+                "episode_number": 22,
+                "name": "Alfaların Çatışması",
+                "overview": "Baki'nin üvey kardeşi Jack Hammer, en akıl almaz yerlerde bir savaşın yaşandığı yerel bir parkta Sikorsky'ye meydan okuyor.",
+                "air_date": "2018-11-19",
+                "still_path": "/digqiX9YSm1mpiHTMNzLcoVGA3y.jpg",
+                "video_url": "5255345"
+            },
+            {
+                "episode_number": 23,
+                "name": "Gerçek Saldırı",
+                "overview": "Sikorsky, alışılmışın dışında dövüş yöntemi acımasız Rus katilini yavaş yavaş yıpratan Gaia ile yüzleşmek için yer altı bir savaş arenasına getirilir.",
+                "air_date": "2018-11-26",
+                "still_path": "/8CH6qFVKMImUgIhhHnAhPI7Dfha.jpg",
+                "video_url": "5255349"
+            },
+            {
+                "episode_number": 24,
+                "name": "Yenmek",
+                "overview": "Ryukoh Yanagi'nin zehirli eli artık bir tehdit olmaktan çıktığından Yujiro Hanma, onu kılıç kullanan jujutsu savaşçısı Izo Motobe'ye karşı yenilgiyi kabul etmeye teşvik eder.",
+                "air_date": "2018-12-03",
+                "still_path": "/figfJ6q15eZSGdJDraP6F3KjioT.jpg",
+                "video_url": "5255168"
+            },
+            {
+                "episode_number": 25,
+                "name": "Tanrı ve Şeytan",
+                "overview": "Efsanevi dünya ağır sıklet boks şampiyonu Arai, genç Yujiro Hanma ile yaşadığı gergin karşılaşmayı anlatıyor.",
+                "air_date": "2018-12-10",
+                "still_path": "/rWp9aXWI3mKcWYlcM8cffYsHLtC.jpg",
+                "video_url": "5255395"
+            },
+            {
+                "episode_number": 26,
+                "name": "Yüzüncü Yıl Turnuvası",
+                "overview": "Retsu, akıl hocası Deniz Kralı Ryu'dan ölümcül derecede zehirlenmiş bir Baki'ye Raitai dövüş sanatları turnuvasına özel giriş izni vermesi için yalvarır.",
+                "air_date": "2018-12-17",
+                "still_path": "/3699oIPV4zvjNiEd1GMPQjz0Xst.jpg",
+                "video_url": "5255170"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2020-06-04",
+        "poster_path": "/jjOGDKZDCkmCNKt9HE7gvDnpa2a.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Başlamak! Yüzüncü Yıl Turnuvası",
+                "overview": "Mohammad Alai Jr., savaşa hevesli Yujiro'yu test ediyor. Deniz Kralı Retsu zehirlenmiş olmasına rağmen Çin'deki Büyük Raitai Turnuvasına Baki'ye girer.",
+                "air_date": "2020-06-04",
+                "still_path": "/uDK2JjN1aEAEHSnR5CvD0MK4WjC.jpg",
+                "video_url": "4433883"
+            },
+            {
+                "episode_number": 2,
+                "name": "Arkanı Dön",
+                "overview": "Alai Jr.'ın ölümcül hızı rakibinin çabuk çalışmasını sağlar. Oldukça zayıflamış bir Baki, Çin'in en büyük Zehirli El kullanıcısı olan Deniz Kralı Li ile karşı karşıya gelir.",
+                "air_date": "2020-06-04",
+                "still_path": "/q3mkdo9z4lubIAaJl8OiTVJ9Mke.jpg",
+                "video_url": "4433887"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yeniden Canlandı!",
+                "overview": "Deniz İmparatoru Kaku, rakibinden 121 yaş büyük ama efsanevi son şampiyon, arenada Deniz Kralı Samwan'la yüzleşmekten çekinmiyor.",
+                "air_date": "2020-06-04",
+                "still_path": "/34RmY27b875qEj30DCncttP4nN4.jpg",
+                "video_url": "4433890"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ekip Oluşturuldu!",
+                "overview": "Deniz Kralı Chin ve Japonya'nın tek Deniz Kralı Jaku, turnuva sahasında savaşıyor. Bu sırada Baki, Yujiro'yu sahne dışında onunla dövüşmesi için kışkırtır.",
+                "air_date": "2020-06-04",
+                "still_path": "/2rREONhrIQ9muLKtawpaTGpV84d.jpg",
+                "video_url": "4433901"
+            }
+        ]
+    }
+}

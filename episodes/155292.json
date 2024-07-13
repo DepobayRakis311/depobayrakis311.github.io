@@ -1,0 +1,75 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 8,
+        "air_date": "2023-11-16",
+        "poster_path": "/nsUayG7fOQcv7C2CMhNo5WXdfBG.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Scott Pilgrim'in Değerli Küçük Hayatı",
+                "overview": "Slacker Scott Pilgrim tatlı ve basit bir hayat sürüyor. Ta ki hayallerindeki gökkuşağı saçlı kızla tanıştığında kıvılcımlar uçuşup tam bir kaosu ateşleyene kadar.",
+                "air_date": "2023-11-17",
+                "still_path": "/q3eIJSxZO2zXig4Ni3oo8md6mWS.jpg",
+                "video_url": "5403771"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kendilerine Ait Bir Lig",
+                "overview": "Tanıdık yüzlerden oluşan eklektik bir kalabalık alışılmadık koşullar altında bir araya geliyor. Başka bir yerde, Kötü Exes Birliği gizli bir sığınakta buluşur.",
+                "air_date": "2023-11-17",
+                "still_path": "/l5KY9oQToDlm7IE0Crem81unYYK.jpg",
+                "video_url": "5403776"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ramona Bir Video Kiralıyor",
+                "overview": "Bir rüyanın motivasyonuyla Ramona, bir önsezinin peşinden gider ve anlayışlı Julie'ye güvenir. Bir video kiralama mağazasında Roxie ile yaşanan gergin karşılaşma büyük duyguları alevlendirir.",
+                "air_date": "2023-11-17",
+                "still_path": "/oIDhyfYp2NrVOWZKCyHmxCxLsPj.jpg",
+                "video_url": "5403785"
+            },
+            {
+                "episode_number": 4,
+                "name": "Her Neyse",
+                "overview": "Ramona, eski film yıldızı Lucas'ı görmek için bir film setine gider. Lucas, Kanada'da büyük bir sinema filminde oynadığı rolle medyanın ve paparazzilerin dikkatini çeker.",
+                "air_date": "2023-11-17",
+                "still_path": "/tijvdUst0B3JD7IMyBlEP3jwOIg.jpg",
+                "video_url": "5403791"
+            },
+            {
+                "episode_number": 5,
+                "name": "Işıklar. Kamera. Kıvılcım Mı?",
+                "overview": "Toronto prodüksiyonuyla ilgili bir belgesel, perde arkasındaki dramayı ve ateşli romantizmi ortaya çıkarıyor. Ramona cüretkar ama zorlu bir işe girişir.",
+                "air_date": "2023-11-17",
+                "still_path": "/elP1A7AiF83zFclChgQvElz4rDF.jpg",
+                "video_url": "5333582"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ki̇m Yapti",
+                "overview": "Ramona, daha fazla soru ve merakla Julie'nin kapısına gelir. Sürpriz bir ziyaretçi Gideon'dan af diliyor. Knives yeni yeteneklerden faydalanıyor.",
+                "air_date": "2023-11-17",
+                "still_path": "/4KCMO6yLKbH4SSXFm2Dv5HjhDOw.jpg",
+                "video_url": "5403804"
+            },
+            {
+                "episode_number": 7,
+                "name": "2 Scott 2 Hacı",
+                "overview": "Bitmemiş işler, akıllara durgunluk veren açıklamalar ve bir dizi sevgili, arkadaş ve eski sevgililer. Ne yanlış gidebilir?",
+                "air_date": "2023-11-17",
+                "still_path": "/krz9V21IErIOtjJoY8aY9PVhLrX.jpg",
+                "video_url": "5403824"
+            },
+            {
+                "episode_number": 8,
+                "name": "Dünya Vs Scott Pilgrim",
+                "overview": "Scott, Ramona ve arkadaşları, her şeyi değiştirebilecek destansı bir hesaplaşmada şimdiye kadarki en zorlu zorluklarla karşı karşıyadır.",
+                "air_date": "2023-11-17",
+                "still_path": "/xCkHgTlNF75wVJVo10E2FCBwwP7.jpg",
+                "video_url": "5403854"
+            }
+        ]
+    }
+}

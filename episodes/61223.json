@@ -1,0 +1,203 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2014-07-07",
+        "poster_path": "/qjoaKTiZompxbPubJU6aznzchfO.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Karanlığı Öldür",
+                "overview": "Tatsumi, İmparatorluk Başkentinde zenginlik ve başarı peşinde koşmak için köyünü terk eder. Orduya katılmaya çalışır ancak bu göründüğü kadar kolay değildir. Aniden büyük göğüslü bir kadın yerel barda belirir ve ona işe alınmasına yardım etmeyi teklif eder.",
+                "air_date": "2014-07-07",
+                "still_path": "/IqFfcllc7Jsu3IoABjA8Mo0qq3.jpg",
+                "video_url": "1721539"
+            },
+            {
+                "episode_number": 2,
+                "name": "Otoriteyi Öldür",
+                "overview": "Tatsumi, Night Raid tarafından kaçırılır. Bir suikastçı olarak potansiyelini fark ederler ve ona katılmasını isterler, ancak Tatsumi çelişki içindedir. Ancak Night Raid ekibinin her bir üyesi hakkında daha fazla şey öğrendikten sonra, kötülüğü ve yolsuzluğu yenme hedeflerini öğrenir ve sonunda katılmaya karar verir.",
+                "air_date": "2014-07-14",
+                "still_path": "/4UYsbmh0qIsBaj6YfKhQNOkopKj.jpg",
+                "video_url": "1721542"
+            },
+            {
+                "episode_number": 3,
+                "name": "Umudunuzu Öldürün",
+                "overview": "Night Raid'in saklandığı yer davetsiz misafirler tarafından işgal edildi! Suikastçı klanı düşmanı sorunsuz bir şekilde kovmayı başardı. Tatsumi, Gece Baskınının gerçek yoğunluğunu ilk kez deneyimliyor ve çok heyecanlanıyor.",
+                "air_date": "2014-07-21",
+                "still_path": "/ycI4ybl5PNku3sW9MHrZdACFguS.jpg",
+                "video_url": "1721552"
+            },
+            {
+                "episode_number": 4,
+                "name": "İmparatorluk Kolu Kullanıcılarını Öldür",
+                "overview": "Bu seferki hedef, başkentin sadece Cellat Zank olarak bilinen hayalet seri katili. Tıpkı Night Raid gibi o da Imperial Arms kullanıcısıdır.",
+                "air_date": "2014-07-28",
+                "still_path": "/sQWCVqKkhpK2gik8e2XhqFPh9Mx.jpg",
+                "video_url": "1721560"
+            },
+            {
+                "episode_number": 5,
+                "name": "Rüyayı Öldür",
+                "overview": "Saklanma yerinde özel bir rolü olmayan Sheele, Tatsumi'nin eğitmeni olarak atanır. Kariyeri olarak suikastçılığı nasıl ve neden seçtiğini açıklıyor. Hala kendine ait bir İmparatorluk Kolu olmayan Tatsumi, Zank'tan alınan İmparatorluk Kolunu test eder.",
+                "air_date": "2014-08-04",
+                "still_path": "/oPeza1oYMcUVV8hwNF94XfFKUwN.jpg",
+                "video_url": "1721603"
+            },
+            {
+                "episode_number": 6,
+                "name": "Mutlak Adaleti Öldürün",
+                "overview": "Night Raid, Imperial City'deki uyuşturucu kaçakçılığı örgütünü ortadan kaldırmakla görevlendirildi. Tatsumi ve Leone kırmızı ışık bölgesine doğru yola çıkar. İkili, örgütün korkunç ayrıntılarını öğrenir ve öfkeleri açıkça görülür. Bu sırada Sheele ve Mine, örgütün eski lideri Tybil'in peşine düşerken, aniden endişe verici bir varlığın varlığını hissederler.",
+                "air_date": "2014-08-11",
+                "still_path": "/c7rkSCCKyBx8u7tilb7gM4yjjv6.jpg",
+                "video_url": "1721605"
+            },
+            {
+                "episode_number": 7,
+                "name": "Üçü Öldür (1)",
+                "overview": "General Esdeath başkente gelir ve Gece Baskınının ortadan kaldırılmasını görüşmek üzere İmparator'a getirilir. İmparator, hizmetlerinden dolayı onu ödüllendirmek ister ancak bu isteği biraz şaşırtıcıdır.",
+                "air_date": "2014-08-18",
+                "still_path": "/AKdeCcOz6ZD5F0tDEulTPMlFKu.jpg",
+                "video_url": "1721611"
+            },
+            {
+                "episode_number": 8,
+                "name": "Üçü Öldür (2)",
+                "overview": "Tatsumi ve Bulat Üçlü'nün önünde durur. Bunların arasında Bulat'ın eski lideri Liver da var. Savaş hızla Bulat ile Karaciğer ve Tatsumi ile Nyau arasında bire bir mücadeleye dönüşür.",
+                "air_date": "2014-08-25",
+                "still_path": "/ul4hedz67Z9gKboSB1mpP5M2LJC.jpg",
+                "video_url": "1721616"
+            },
+            {
+                "episode_number": 9,
+                "name": "Savaş Fanatiğini Öldür",
+                "overview": "Tatsumi, Üçlü'yü yendikten sonra Bulat'ın Imperial Arms Incrusio'sunu devralır ve daha da güçlü olmaya yemin eder. Mine'nin Tatsumi'ye karşı tutumu, onun eğitim sırasındaki bağlılığını gördükten sonra değişiklik gösteriyor gibi görünüyor... Bu sırada General Esdeath, Üç'ün yenildiği haberini alır ve ordunun gücünü güçlendirmek için, yalnızca \"Mine\" olarak bilinen Imperial Arms kullanıcılarından oluşan özel bir polis gücü örgütler. Jeagar'lar.",
+                "air_date": "2014-09-01",
+                "still_path": "/pOWYgJPsI8e3vOu3748QcGT7UI7.jpg",
+                "video_url": "1721620"
+            },
+            {
+                "episode_number": 10,
+                "name": "Günaha Son Ver",
+                "overview": "Esdeath, dövüş turnuvasını kazandıktan sonra Tatsumi'yi aldı. Peki nedeni... ilk görüşte aşk?! Bununla birlikte Tatsumi sadece Esdeath'in sevgilisi olmaya değil, aynı zamanda Jaegers'ın yardımcı üyesi olmaya da zorlanmıştır. Tatsumi ve Esdeath, Jaeger'ların haydutların saklandığı yere baskın yapmasını gözlemler; Jaeger'ların gerçekte ne kadar güçlü olduğuna tanık oluyor. Bu arada Tatsumi kaçma ve Gece Baskını'nın saklandığı yere geri dönme fırsatını bulmaya çalışır...",
+                "air_date": "2014-09-08",
+                "still_path": "/Aj1qnyHBRUryTlZdFsD6E7uIfCl.jpg",
+                "video_url": "1721633"
+            },
+            {
+                "episode_number": 11,
+                "name": "Çılgın Bilim Adamını Öldür",
+                "overview": "Dr. Stylish, Tatsumi'yi takip ederken Night Raid'in saklandığı yeri keşfetti. Night Raid ile Dr. Stylish'nin sürpriz bir saldırıyla saldıran müstahkem ordusu arasında hızla bir savaş başladı. Tatsumi ve Mine, Kakusan'ın Sheele'nin İmparatorluk Silah Extase'ı ile donatıldığını görünce öfkelenirler. Aniden gökten bir şey indiğinde, saklanma yerinde şiddetli bir savaş devam ediyor...",
+                "air_date": "2014-09-15",
+                "still_path": "/uSpslsenk5vzhHUXQGDyTd3rQS.jpg",
+                "video_url": "1721638"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yeni Gelenleri Öldürün",
+                "overview": "Dr. Stylish'nin saldırısıyla uğraştıktan sonra Night Raid üssünden ayrılır ve dağlarda saklanır. Yeni katılan üyeyi karşıladıktan sonra Night Raid, eğitimin ortasında bile kısa bir huzur yaşadı. Bıkıp usanmadan alay edilen Chelsea'ye yeni gelen Mine, Tatsumi ve Lubbok'a intikam almak istediğini söyler.",
+                "air_date": "2014-09-22",
+                "still_path": "/20UDBkHAdLmMJAdJbe0eRIvS5wq.jpg",
+                "video_url": "1721642"
+            },
+            {
+                "episode_number": 13,
+                "name": "Rahatsızlıkları Öldür",
+                "overview": "Yeni bir Tehlikeli Canavar türü ortaya çıktı ve başkentin çevresinde terör estiriyor. Bakan Onest, Esdeath'e onları yakalayıp yenmesini emretti. Esdeath, Jaeger'ları onlarla ilgilenmeye yönlendirir. Ancak gölgede şüpheli bir şey onların hareketlerini izliyordur. Bu arada Night Raid yeni saklanma yerlerine yerleştikten sonra yeni Tehlikeli Canavarlarla başa çıkmak için harekete geçiyorlar.",
+                "air_date": "2014-09-29",
+                "still_path": "/uB283N1E07xLxSYvXsh1jGaAzEy.jpg",
+                "video_url": "1721647"
+            },
+            {
+                "episode_number": 14,
+                "name": "Dev Tehlike Canavarını Öldür",
+                "overview": "Tatsumi ve Esdeath, Tehlikeli Canavarları yok ederken tesadüfen tekrar karşılaşır. Tatsumi bunalmışken Esdeath bu beklenmedik buluşma karşısında hoş bir şekilde şaşırır. Esdeath, yeniden bir araya gelmenin sevincine tamamen dalmışken bile, bir adamın onları gölgelerden izlediğini fark eder.",
+                "air_date": "2014-10-06",
+                "still_path": "/j93rBAIUyHek7rcao0MVCFEgmV5.jpg",
+                "video_url": "1721654"
+            },
+            {
+                "episode_number": 15,
+                "name": "Dini Örgütü Öldürün",
+                "overview": "Siviller arasında geniş çapta kabul gören ve Barış Yolu olarak bilinen dini örgüt, hızla daha fazla takipçi kazanıyor. Yozlaşmış hükümete karşı savaşmak amacıyla silahlı ayaklanma çıkaracakları söyleniyor.",
+                "air_date": "2014-10-13",
+                "still_path": "/xmva2YjhYdHvkNB67jOutVH0S4k.jpg",
+                "video_url": "1721658"
+            },
+            {
+                "episode_number": 16,
+                "name": "Kuklaları Öldür",
+                "overview": "Jaegar'larla savaşmak için Night Raid iki gruba ayrılır. Tatsumi ve Akame, Bols, Kurome ve onun kuklalarıyla ilgilenecek. Kurome'nin İmparatorluk Silahları Yatsufusa'nın ölüleri özgürce kontrol etme yeteneğine sahip olması nedeniyle savaşın zor olduğu ortaya çıkıyor.",
+                "air_date": "2014-10-20",
+                "still_path": "/tXhA7LzxpleRghledn05DUw8ZcW.jpg",
+                "video_url": "1721664"
+            },
+            {
+                "episode_number": 17,
+                "name": "Laneti Öldür",
+                "overview": "Akame ve Leone tarafından köşeye sıkıştırılan Bols, bir patlama başlatır ve kaçar. Yoldaşlarının yanına dönmeye çalışırken ağlayan yaralı bir kızla karşılaşır. Bu sırada Kurome'nin ilacı etkisini kaybetmeye başlar ve dağda tökezleyerek ilerlerken Akame ile geçirdiği günleri ve hüzünlü vedalarını hatırlamaya başlar. Bir ağaca yaslanıp atıştırmalık yerken birisi ona yaklaşır...",
+                "air_date": "2014-10-27",
+                "still_path": "/3UZFMhDHBGH8BmUVejWrTTFNnnS.jpg",
+                "video_url": "1721671"
+            },
+            {
+                "episode_number": 18,
+                "name": "Şeytanı Öldür",
+                "overview": "Borick dini bir grubu ele geçirmeyi planlıyor ve Night Raid, bu dinin genel merkezinin bulunduğu Kyoroch'a gidiyor. Jaegar'lar ayrıca Borick'in korumalığını yapmak üzere Kyoroch'a gider. Wave, yaraları hâlâ iyileşmeyen Kurome için endişeleniyor. Night Raid, Kyoroch'a güvenli bir şekilde sızar, ancak artık Borick'in kendi atanmış muhafızları olan Dört Koukenji Rakshasa Demon'la yüzleşmeleri gerekir.",
+                "air_date": "2014-11-03",
+                "still_path": "/ApqeZUbVVtlb6LRaaXGDrL2rfZ6.jpg",
+                "video_url": "1721673"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kaderi Öldür",
+                "overview": "Night Raid, Borick'e Kyoroch'ta suikast düzenleme planları üzerinde çalışmaya devam ediyor. Tatsumi ve Mine şehirde dolaşır ama sonunda Sheele'nin ölümünden sorumlu olan Seryu ile karşılaşırlar. Mine, onunla olan şeyleri kesin olarak bitirmeye karar verirken Tatsumi, Dört Şeytan'dan Suzuka ile savaşır.",
+                "air_date": "2014-11-10",
+                "still_path": "/m1KP3PmYzoFPMm5pZGLHwo5yCeI.jpg",
+                "video_url": "1721675"
+            },
+            {
+                "episode_number": 20,
+                "name": "Katliam'ı Öldür",
+                "overview": "Kyoroch, Devrim Ordusu'nun gücünü güçlendiren Gece Baskını sayesinde serbest bırakılır. Bu korkunç durumda, Başkomutan Budoh ve bakanın oğlu Shura, Gece Baskını'na karşı mücadeleye katılır. Bu arada, Gece Baskını bir kez daha başkente sızar. Tatsumi ve Lubbock, Devrim Ordusu'nun casuslarından birinin yardımıyla gizlice içeri girerek sarayda Bakan Onest'in peşine düşer.",
+                "air_date": "2014-11-17",
+                "still_path": "/j6r3fmcGMU6snqh2TNOyOt5sBgu.jpg",
+                "video_url": "1721681"
+            },
+            {
+                "episode_number": 21,
+                "name": "Umutsuzluğu Öldür",
+                "overview": "Başkent, Asi Ordusu'ndakilerin kalplerine korku salmak için Tatsumi'nin halka açık bir şekilde idam edileceği haberini yaydı. Night Raid bunun farkına varır ve onu kurtarmaya niyetlenir.",
+                "air_date": "2014-11-24",
+                "still_path": "/4ZqkCh9gRAfQDY4psr6vEmpleKe.jpg",
+                "video_url": "1721683"
+            },
+            {
+                "episode_number": 22,
+                "name": "Küçük Kız Kardeşi Öldür",
+                "overview": "Tatsumi'nin yakalanmasının ardından Night Raid, Başkomutan Budou'yu başarıyla yendi, ancak bu, Main ve Susanoo'nun hayatları pahasına oldu. Siviller ayaklanmaya başlayınca Devrim Ordusu başkenti kuşatıyor. Ran sakin bir şekilde her şeyin nasıl geliştiğini gözlemlerken Wave gördükleri karşısında şaşkına döner. Bu sırada Kurome, hayatının sonunun yaklaştığını hisseder ve ablasıyla arasını kesin olarak düzeltmenin yollarını arar.",
+                "air_date": "2014-12-01",
+                "still_path": "/acSjEIBZawfcamRhIxVbHJb8XUr.jpg",
+                "video_url": "1721688"
+            },
+            {
+                "episode_number": 23,
+                "name": "İmparatoru Öldür",
+                "overview": "Devrim nihayet son aşamasına ulaşır; Night Raid, sorunun kökeni olan Bakan Onest'e suikast düzenlemeye hazırlanıyor. Devrim Ordusu şehri başarıyla işgal ederken her şey Najenda'nın planına göre gider. Gece Baskını, İmparator ve Bakanın bulunduğu Saray'a gelir. Paniğe kapılan İmparator'un aksine, Bakan, kozlarını açığa çıkarmaya hazırlanırken sakin ve kendinden emindir. Saray titrerken aşağıdan bir şey beliriyor...!",
+                "air_date": "2014-12-08",
+                "still_path": "/dOM1SYcI8GT732VQJkw5B3Zsi5L.jpg",
+                "video_url": "1721694"
+            },
+            {
+                "episode_number": 24,
+                "name": "Akame Ga Öldür!",
+                "overview": "İmparatorluğun ordusu yenildi ve geriye imparatorluğun en güçlüsü General Esdeath kaldı. Akame ve kılıcı, üreme savaşına devam etmek isteyen Esdeath'in önünde duruyor. İkisi karşı karşıya. Son savaş başlıyor. Sonuç ne ortaya çıkaracak? Vatandaşların huzur içinde yaşayabileceği yeni bir krallık mı yoksa daha fazla kan mı dökülecek...?",
+                "air_date": "2014-12-15",
+                "still_path": "/3wI49NRQB3P8PvGmvuXjjrhuAAm.jpg",
+                "video_url": "1721701"
+            }
+        ]
+    }
+}
