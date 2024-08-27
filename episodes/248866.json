@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2024-07-07",
+        "poster_path": "/dTNjwQLaclazxqx21voA50185Ri.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kız Geyikle Tanışıyor",
+                "overview": "Eski bir suçlu olarak geçmişini gizleyen ve onur öğrencisi olarak yaşayan Torako Koshi, telefon direğinden sarkan boynuzları olan gizemli bir kızla karşılaşır. Bu gizemli kız, Noko Shikanoko, Torako'nun hayatını altüst eden kargaşanın kaynağı olur.",
+                "air_date": "2024-07-07",
+                "still_path": "/jkgh5teSvw3k3ewIerc4LiW0nMe.jpg",
+                "video_url": "5588380"
+            },
+            {
+                "episode_number": 2,
+                "name": "Geyik Karanlık Kızla Tanışıyor",
+                "overview": "Koshitan, Geyik Kulübü'nün odasına yerleşip rahat etmeye çalışır, ancak küçük cenneti kısa sürede yıkılır.",
+                "air_date": "2024-07-14",
+                "still_path": "/fLbhLLOVhdaRFpsrkjquzRo4agn.jpg",
+                "video_url": "5597452"
+            },
+            {
+                "episode_number": 3,
+                "name": "Bashame Kayıtları",
+                "overview": "Koshitan ve Nokotan, Geyik Kulübü'nün girişinde Bashame adında gizemli bir kızın yere yığıldığını görürler.",
+                "air_date": "2024-07-21",
+                "still_path": "/8vWBb8GG8PprchAd3Q6HvmXDdqG.jpg",
+                "video_url": "5607275"
+            },
+            {
+                "episode_number": 4,
+                "name": "Geyik Kulübü Kuşatma Altında",
+                "overview": "Geyik Kulübü eksantrik karakterlerle doludur, ancak öğrenci konseyi üyeleri onlara zor anlar yaşatır.",
+                "air_date": "2024-07-28",
+                "still_path": "/xh6vEEr87dWpOyEXtmlxR1CFuyb.jpg",
+                "video_url": "5613862"
+            },
+            {
+                "episode_number": 5,
+                "name": "Toprağı Kazın!!",
+                "overview": "Koshitan artık Nokotan tarafından delirmek istemez ve onun zayıflığını bulmak için onu gözetlemeye karar verir. Bu onu hayvanat bahçesine götürür ve orada Nokotan'ı iş başında gözlemler.",
+                "air_date": "2024-08-04",
+                "still_path": "/m4ssW0RP1aTzSoYl92MP8xcy18S.jpg",
+                "video_url": "5632123"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yaz Geyik Festivali",
+                "overview": "Hino'da nihayet yaz geldi ve bu her şeyden önce tek bir şey anlamına geliyor: yeni bir görünüm şart! Öğrenciler kısa kollu okul üniformalarını giyiyorlar ve hatta Nokotan bile yeni, biraz endişe verici bir halde görünüyor.",
+                "air_date": "2024-08-11",
+                "still_path": "/hduM95AAoXuU56sQPD6CAPgjTCl.jpg",
+                "video_url": "5642591"
+            },
+            {
+                "episode_number": 7,
+                "name": "Deercolle, Yayın Akışı, Misafirperverlik ve Diğerleri",
+                "overview": "Nokotan, Geyik Koleksiyonu'na katılmak istiyor ve bunun için Koshitan'ın yardımına ihtiyacı var. Koshitan, Deer Club'da günlük hayatın nasıl olduğunu canlı yayınlıyor. Café Swallow'un sahibi, kusursuz hizmetiyle gurur duyuyor, ancak sonra Koshitan ve Nokotan işletmesini ziyaret ediyor.",
+                "air_date": "2024-08-18",
+                "still_path": "/wcwnIjG1i8L7z14pL0giu027Xju.jpg",
+                "video_url": "5652201"
+            },
+            {
+                "episode_number": 8,
+                "name": "Geyik Sonrası Geyik",
+                "overview": "Kızlar yılın geleneksel ilk tapınak ziyareti için bir araya gelirler, ancak içlerinden biri eksiktir—Nokotan. Kısa süre sonra, yokluğunun nedeni anlaşılır, çünkü tapınakta Geyik Tanrıçası olarak tapınılmaktadır...",
+                "air_date": "2024-08-25",
+                "still_path": "/owIIjIoDsEStB7kxysCzgjjzvNv.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 9,
+                "name": "Bölüm 9",
+                "overview": "",
+                "air_date": "2024-09-01",
+                "still_path": "/62NkdFrptd0G7wLhbDIrDEIzf9Y.jpg",
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Bölüm 10",
+                "overview": "",
+                "air_date": "2024-09-08",
+                "still_path": null,
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Bölüm 11",
+                "overview": "",
+                "air_date": "2024-09-15",
+                "still_path": null,
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Bölüm 12",
+                "overview": "",
+                "air_date": "2024-09-22",
+                "still_path": null,
+                "video_url": ""
+            }
+        ]
+    }
+}

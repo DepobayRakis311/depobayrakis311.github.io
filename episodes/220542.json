@@ -1,0 +1,211 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 24,
+        "air_date": "2023-10-22",
+        "poster_path": "/qGObcxuXKcKhP43BqTeIC7KgRcM.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Maomao",
+                "overview": "Kaçırılıp arka sarayda hizmetçi olarak çalışmaya zorlanan eski eczacı Maomao, imparatorun küçük varislerinin gizemli bir şekilde hastalanmasına neden olan şeyi araştırırken istemeden üst rütbelilerin dikkatini çeker.",
+                "air_date": "2023-10-22",
+                "still_path": "/ggj0UKd4j5uwYPEuuS9KmO76Lcn.jpg",
+                "video_url": "5302231"
+            },
+            {
+                "episode_number": 2,
+                "name": "Soğuk Eczane",
+                "overview": "Maomao, nedime ve yemek tadımcısı olarak terfisine alışmaya çalışır, ancak hem can sıkıntısından hem de aşırı tanıdık Jinshi'den uzak durmakta zorlanır. Ta ki hayallerindeki görevi alana kadar: bir afrodizyak hazırlamak.",
+                "air_date": "2023-10-22",
+                "still_path": "/pYC0kEvnKtVm50uD2rBmtrZZnix.jpg",
+                "video_url": "5303101"
+            },
+            {
+                "episode_number": 3,
+                "name": "Ruhun Rahatsız Edici Konusu",
+                "overview": "Saray duvarlarında her gece dans eden hayalet bir kadını araştırmakla görevlendirilen Maomao, uyurgezer bir Cariye Fuyou bulur. Ancak uyurgezerlik için tıbbi bir tedavi olmadığından, Fuyou'nun rahatsızlığının ardındaki gerçek nedeni bulmak için daha derinlere inmek zorunda kalır.",
+                "air_date": "2023-10-22",
+                "still_path": "/nfrCtoX4yRh7WyF9unECvML4dyG.jpg",
+                "video_url": "5303104"
+            },
+            {
+                "episode_number": 4,
+                "name": "Tehdit",
+                "overview": "İmparatorun doğrudan emriyle Maomao, hasta Cariye Lihua'ya bakmaya çalışır; ancak Lihua'nın nedimeleri tarafından işinin engellendiğini görür.",
+                "air_date": "2023-10-29",
+                "still_path": "/56uZXOtpTuUvyuYGEpSLNJtJOBO.jpg",
+                "video_url": "5303106"
+            },
+            {
+                "episode_number": 5,
+                "name": "Gizli Operasyonlar",
+                "overview": "Lanetlenmiş bir hadım yardım için yalvarmaya gelir. Bu arada, herkes yaklaşan bahçe partisine hazırlanırken arka saray heyecanla uğuldar ve Gyokuyou'nun nedimeleri Maomao'nun onu giydirmeden gitmesine izin vermeyeceklerdir.",
+                "air_date": "2023-11-05",
+                "still_path": "/45h60UAouIJHiKRCI8zx6Vb38Nh.jpg",
+                "video_url": "5314962"
+            },
+            {
+                "episode_number": 6,
+                "name": "Bahçe Partisi",
+                "overview": "Maomao, bahçe partisindeki diğer Üst Birinci rütbe cariyelerle tanışmak da dahil olmak üzere karmaşık sosyal durumlarda yolunu bulmak için elinden geleni yapar. Ancak bir yemek tadımcısı olarak işini yapmaya karar verdiğinde, bir kase çorbada bir sürpriz keşfeder.",
+                "air_date": "2023-11-12",
+                "still_path": "/lk1dC3AFErQwPjaKlHHc6f7g7rz.jpg",
+                "video_url": "5368182"
+            },
+            {
+                "episode_number": 7,
+                "name": "Eve Dönüş",
+                "overview": "Gaoshun, bahçe partisinin olaylarını çözmede yardım almak için Maomao'ya gider. Daha sonra Xiaolan, Maomao'ya hediye edilen saç tokalarının amacını açıklar ve Maomao, sonunda evini ziyaret etmek için Lihaku ile bir anlaşma yapar.",
+                "air_date": "2023-11-19",
+                "still_path": "/5wBAUmOAlu9z2chOoqke2wwI6G9.jpg",
+                "video_url": "5368183"
+            },
+            {
+                "episode_number": 8,
+                "name": "Buğday Sapları",
+                "overview": "Maomao'nun evde geçirdiği huzurlu sabah, yerel genelevlerden birinde gerçekleşen çifte intiharı araştırmak üzere çağrılmasıyla sekteye uğrar.",
+                "air_date": "2023-11-26",
+                "still_path": "/j9m1E9HOJVl4pjnJRhjH445EYmx.jpg",
+                "video_url": "5368184"
+            },
+            {
+                "episode_number": 9,
+                "name": "İntihar Mı Cinayet Mi?",
+                "overview": "Jinshi'nin daha yaşlı bir tanıdığı bir partide içerken ölür. Bir hizmetçinin cesedi bir hendekte bulunur. Her iki ölüm de kendi kendine yapılmış olarak yazılır, ancak Maomao'nun keskin gözlemleri ona her iki hikayede de daha fazlası olduğunu söyler.",
+                "air_date": "2023-12-03",
+                "still_path": "/u9rreY8RcnIsmx8kvCDhEy1BvXz.jpg",
+                "video_url": "5368185"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bal",
+                "overview": "Lady Gyokuyou'nun düzenlediği bir çay partisi, arka sarayın politikalarını ön plana çıkarır ve Maomao, Lady Lishu hakkında yeni bir şey öğrenir. Gerçek niyetleri belirsiz olan Jinshi, Maomao'yu Lady Ah-Duo için çalışmaya gönderir.",
+                "air_date": "2023-12-10",
+                "still_path": "/brTsGje2MKuCHQuj8UVF1VjTSUv.jpg",
+                "video_url": "5375739"
+            },
+            {
+                "episode_number": 11,
+                "name": "İkiyi Bire İndirmek",
+                "overview": "Maomao, Fengming'e asil Leydi Ah-Duo'dan sakladığı karanlık sır hakkında hesap sorar.",
+                "air_date": "2023-12-17",
+                "still_path": "/9K1ZNqTYK8ty1Olj2jGJAZ3l4y3.jpg",
+                "video_url": "5375742"
+            },
+            {
+                "episode_number": 12,
+                "name": "Hadım ve Fahişe",
+                "overview": "Maomao'yu kaçıranların Fengming'in ailesiyle bağlantılı olduğunu öğrenen Jinshi, Maomao'yu kendisine yakın olabileceği arka sarayda tutmak ya da onu hizmetinden serbest bırakmak arasında bir seçim yapmak zorunda kalır.",
+                "air_date": "2023-12-24",
+                "still_path": "/xa9CovqvQIgYENhpHdqun3JTn4A.jpg",
+                "video_url": "5378289"
+            },
+            {
+                "episode_number": 13,
+                "name": "Dış Mahkemede Hizmet Etmek",
+                "overview": "Maomao'nun şaşkınlığına, Jinshi onu arka saraya geri götürmek yerine doğrudan evine getirir ve ona dış avluda çalışması gerektiğini söyler. Öğrenilecek çok şey olmasının yanı sıra, yeni işe alınan kişi olarak üzerinde birçok göz var gibi görünüyor.",
+                "air_date": "2024-01-07",
+                "still_path": "/wIIuz0ZkiKKdBSUyZfAIH25uPNF.jpg",
+                "video_url": "5426469"
+            },
+            {
+                "episode_number": 14,
+                "name": "Yeni Saf Eş",
+                "overview": "Ah-Duo'nun yerine geçen kişi arka saraya gelir ve Maomao dört yüksek cariyeye belirli bir ders vermekle görevlendirilir. Daha sonra Maomao, Lihaku'nun bir depo patlamasını araştırmasına yardım eder.",
+                "air_date": "2024-01-14",
+                "still_path": "/l3lUDpsjugdQFEn5X44CrLgisx.jpg",
+                "video_url": "5412385"
+            },
+            {
+                "episode_number": 15,
+                "name": "Çiğ Balık",
+                "overview": "Gaoshun, Maomao'dan görünüşte bir zehirlenme vakasını çözmede yardım ister. Bu arada Jinshi, ofisinde kalmaya başlayan istenmeyen bir ziyaretçiyle uğraşır.",
+                "air_date": "2024-01-21",
+                "still_path": "/ghhWjMzXRuJ8q4sUFydIzLI1QkH.jpg",
+                "video_url": "5412391"
+            },
+            {
+                "episode_number": 16,
+                "name": "Yol Göstermek",
+                "overview": "Yetenekli bir metal işçisinin ölümünden sonra üç oğluna bıraktığı tek şey bir kulübe, bir çekmeceli dolap ve bir balık fanusudur. Maomao, bu garip mirasların nasıl bir araya geldiğini araştırmakla görevlendirilir.",
+                "air_date": "2024-01-28",
+                "still_path": "/hpzqYrNAhG9sLiAp1pm0oSWDGxf.jpg",
+                "video_url": "5418512"
+            },
+            {
+                "episode_number": 17,
+                "name": "Şehirde Bir Gezinti",
+                "overview": "Jinshi'nin olağanüstü güzelliğini örtbas etmek kolay bir iş değildir, ancak Maomao bu zorluğun üstesinden geldiğinde, kendisinden soylu bir kadın kılığına girmesi ve \"Jinka\"yı sarayın dışına kadar eşlik etmesi istendiğinde şaşırır.",
+                "air_date": "2024-02-04",
+                "still_path": "/wahEWKAq9HFzMLVxBCexHFWLlWd.jpg",
+                "video_url": "5429593"
+            },
+            {
+                "episode_number": 18,
+                "name": "Lakan",
+                "overview": "Maomao eve döndüğünde, genelevin sırlarından birini saklayan Verdigris Evi'ndeki bir ek binayı ziyaret eder. Lakan, Maomao ile olan bağlantısı netleştikçe Jinshi'yi kızdırmaya devam eder.",
+                "air_date": "2024-02-11",
+                "still_path": "/3nVPYisofFOJuLJHf4zx3RvMdMf.jpg",
+                "video_url": "5445752"
+            },
+            {
+                "episode_number": 19,
+                "name": "Şans Mı Yoksa Daha Fazlası Mı",
+                "overview": "Lihaku ile son olaylar hakkında yaptığı bir tartışma, Maomao'nun çözmeye yardımcı olduğu gizemlerin birbiriyle bağlantılı olduğunu fark etmesine yol açar. Bulmacanın son parçası yerine otururken, yaklaşan felaketi durdurmak için acele eder.",
+                "air_date": "2024-02-18",
+                "still_path": "/5Y1BHMhhCHwWwxAqNoQYGyZvMWk.jpg",
+                "video_url": "5445593"
+            },
+            {
+                "episode_number": 20,
+                "name": "Dikenli Elma",
+                "overview": "Maomao suikast girişimini durdurabildi ancak bu süreçte ağır yaralandı. Ancak, yaralanmalar onun merakını durdurmaya yetmedi ve onu olayın arkasındaki suçluyla yüzleşmeye yöneltti.",
+                "air_date": "2024-02-25",
+                "still_path": "/kFOrOTXNY7jhLRpe9PzX7bdPtxA.jpg",
+                "video_url": "5452802"
+            },
+            {
+                "episode_number": 21,
+                "name": "Bir Sözleşmeyi Nasıl Satın Alabilirsiniz",
+                "overview": "Arka sarayda işe geri dönen Maomao, Guen'in ailesinin işinden bahsetmesini dinler. Bu arada Lihaku, onu harekete geçiren bir söylenti duyar.",
+                "air_date": "2024-03-03",
+                "still_path": "/u1C8TsL5XhXNdZOJrat2q7coqvX.jpg",
+                "video_url": "5464298"
+            },
+            {
+                "episode_number": 22,
+                "name": "Mavi Güller",
+                "overview": "Lakan, Jinshi'ye yaklaşan bahçe partisinde sunmak üzere mavi güller üretmesi konusunda meydan okur ve Jinshi bir kez daha yardım için Maomao'ya yönelir.",
+                "air_date": "2024-03-10",
+                "still_path": "/2g0c1GFAnj6MJkOpnRgcfh5emAP.jpg",
+                "video_url": "5470739"
+            },
+            {
+                "episode_number": 23,
+                "name": "Balsam ve Orman Gülü",
+                "overview": "Artık Lakan'dan kaçmaya istekli olmayan Maomao, onunla yüzleşmeye karar verir. Ona kendi sahasında, bir satranç maçında meydan okur.",
+                "air_date": "2024-03-17",
+                "still_path": "/gPYAVIMNiBLLfNlF1VVVi9SiECT.jpg",
+                "video_url": "5488034"
+            },
+            {
+                "episode_number": 24,
+                "name": "Jinshi And Maomao",
+                "overview": "Lakan şimdi satın almak için bir fahişe seçmek zorundadır. Yüksek rütbeli bir askeri yetkili olarak, Üç Prenses'ten birini bile özgürce seçmeyi göze alabilir. Kimi seçecek? Maomao gerçekten kimi seçmesini istiyor?",
+                "air_date": "2024-03-24",
+                "still_path": "/7eVCn6wFG1RFqxj0IMpaJFtelKr.jpg",
+                "video_url": "5527532"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 0,
+        "air_date": null,
+        "poster_path": "/tbHmFDoJpyzSBF6DDlnfoy8nbcB.jpg",
+        "episodes": []
+    }
+}

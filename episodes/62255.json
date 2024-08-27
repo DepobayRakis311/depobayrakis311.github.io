@@ -1,0 +1,212 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2015-04-04",
+        "poster_path": "/kSKoawlMdrQm7VxtNCPYzZqHB1M.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Kan Mirası Dünyası",
+                "overview": "Bilinmeyen bir kökene sahip bir salgın insanlığı vurur, tüm yetişkinleri öldürür ve gençleri vampir türünün insafına bırakır. Dört yıl sonra, Yūichirō Hyakuya ve arkadaşları, onları ölümcül bir tuzağın beklediğinden habersiz, vampirlerden kaçmak için cesur bir girişimde bulunurlar.",
+                "air_date": "2015-04-04",
+                "still_path": "/8kBWeFGVx93RVcl5EK4uCln3qtk.jpg",
+                "video_url": "1758803"
+            },
+            {
+                "episode_number": 2,
+                "name": "Düşüşten Sonra İnsanlık",
+                "overview": "Kaçtıktan dört yıl sonra, Yūichirō Japon Ordusu'nun bir parçası olur ve onların özel vampir avlama gücü olan Ay Şeytan Şirketi'nin bir üyesi olmak ister; ancak pervasız davranışları onu uzaklaştırmaya neden olur; ta ki bir vampir yerel okula saldırana ve emirlere karşı düşmanla yüzleşmek zorunda kalana kadar.",
+                "air_date": "2015-04-11",
+                "still_path": "/AfxkY8mgvSh7spNAuX01HtqL3sz.jpg",
+                "video_url": "1764349"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kalbinizdeki Şeytan",
+                "overview": "Yūichirō, okul arkadaşlarından birinin bir iblis tarafından ele geçirildiğini öğrenir ve onu kurtarmak için onunla yüzleşmeye karar verir, ayrıca iblisle bir anlaşma yapıp gücünü elde etmek için. Ancak, iblisi alt etmenin o kadar da kolay bir iş olmayacağını kısa sürede öğrenir.",
+                "air_date": "2015-04-18",
+                "still_path": "/dlw4rWSXPQmwZqkuVpRNThoNPaH.jpg",
+                "video_url": "1769780"
+            },
+            {
+                "episode_number": 4,
+                "name": "Vampir Mikaela",
+                "overview": "Diğer arkadaşlarıyla birlikte ölmek yerine, Yūichirō'nun en yakın arkadaşı Mikaela, vampirlerin kraliçesi Krul Tepes tarafından bir vampire dönüştürülür ve şimdi onun yardımcısı olarak çalışmaktadır. Bu arada, Yūichirō sonunda Ay Şeytan Şirketi'nin bir üyesi olmak için eğitimine başlar.",
+                "air_date": "2015-04-25",
+                "still_path": "/lEY6KzDhlJ7i5mD93EtqbA8HGJs.jpg",
+                "video_url": "1774456"
+            },
+            {
+                "episode_number": 5,
+                "name": "Kara Şeytan'ın Sözleşmesi",
+                "overview": "İnsan Ordusu'nun iktidara gelmesinden endişe eden Krul, vampirleri onlara karşı savaşa çağırırken, Yūichirō ve arkadaşları, riskleri bilmelerine rağmen sonunda bir iblis silahını ele geçirmeye çalışmak üzere seçilirler.",
+                "air_date": "2015-05-02",
+                "still_path": "/pCiPaXt8zFk1G8PTIMIbJjUQYv4.jpg",
+                "video_url": "1776878"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yeni Aile",
+                "overview": "Son testi geçtikten sonra, Yūichirō ve sınıf arkadaşı Shihō Kimizuki kendi İblis Silahlarını elde ederler, ancak Yūichirō'nun arkadaşı Yoichi Saotome onun silahı tarafından ele geçirildiğinde, ikili onu öldürmeden aklını başına getirmenin bir yolunu bulmalıdır.",
+                "air_date": "2015-05-09",
+                "still_path": "/l2V9bz7l25Mk47wX2FuJYpNzVHV.jpg",
+                "video_url": "1780417"
+            },
+            {
+                "episode_number": 7,
+                "name": "Mitsuba'nın Takımı",
+                "overview": "Yūichirō ve arkadaşları, yeni bir üye olan Mitsuba Sangū ile tanıştırılır ve ardından Ay Şeytan Şirketi'nin bir parçası olarak ilk görevine gönderilirler, ancak sıkıntıda olan küçük bir kız gördüklerinde, Yūichirō emirleri görmezden gelir ve bir tuzağa çekildiği konusunda uyarılmasına rağmen onu kurtarmak için acele eder.",
+                "air_date": "2015-05-16",
+                "still_path": "/4gSzpRI4JLTU4EHU0r7yX92s7kl.jpg",
+                "video_url": "4228769"
+            },
+            {
+                "episode_number": 8,
+                "name": "İlk İmha",
+                "overview": "Başarılı bir şekilde bir vampir yuvasını temizledikten ve esir tutulan insanları kurtardıktan sonra, Yūichirō'nun partisi Shinjuku'daki insan üssüne doğru yola çıkar, vampirlerin oraya saldırdığından habersizdir. Oraya vardıklarında, vampir soylularından biriyle karşılaşırlar ve kendilerini onun ezici gücünün insafına kalmış bulurlar.",
+                "air_date": "2015-05-23",
+                "still_path": "/79LlxsTAYpGGSMVnGI034CVs62b.jpg",
+                "video_url": "1793032"
+            },
+            {
+                "episode_number": 9,
+                "name": "Vampir Saldırısı",
+                "overview": "Yūichirō ve arkadaşları vampir saldırısını püskürtmek için Shinjuku'ya varırlar, Guren'in grubu ise Mikaela ve Ferid'i görür ve onlarla yüzleşmeye karar verir.",
+                "air_date": "2015-05-30",
+                "still_path": "/auR5zoEgQjTXK87sB0fpbrhwa9f.jpg",
+                "video_url": "1793034"
+            },
+            {
+                "episode_number": 10,
+                "name": "Seçimin Sonuçları",
+                "overview": "Yūichirō ve Shinoa diğerlerinden ayrılır ve yaralı bir askeri tedavi ettirmek için götürdükten sonra Guren'in grubuna yardım etmek için yeniden bir araya gelirler. Bu vesileyle Yūichirō ve Mikaela sonunda tekrar karşılaşırlar.",
+                "air_date": "2015-06-06",
+                "still_path": "/fiKvew3EK66XBRmnF4aT4hfJLqz.jpg",
+                "video_url": "1795283"
+            },
+            {
+                "episode_number": 11,
+                "name": "Çocukluk Arkadaşlarının Bir Araya Gelmesi",
+                "overview": "Mikaela, Yūichirō'yu da yanına alarak kaçmaya çalışır. Ancak arkadaşlarının vampirlerin insafına kaldığını gören Yūichirō, müttefikleri ve düşmanları tehdit eden korkunç bir güç ondan çıktığında kontrolden çıkar. Shinoa onu durdurmayı başarır ancak bilincini kaybeder.",
+                "air_date": "2015-06-13",
+                "still_path": "/rDPDIrSoJSTfEneuXnKqLNV0Gip.jpg",
+                "video_url": "1798957"
+            },
+            {
+                "episode_number": 12,
+                "name": "Herkes Bir Günahkardır",
+                "overview": "Yu beş gündür komadadır ve Shinoa, Yu'nun hapındaki özel ilaçlar hakkında Guren'le yüzleşir. Ona gerçekten umursuyorsa gidip Yu'nun uyanmasını beklemesini söyler. Komasının yedinci gününde Yu uyanır. Mika'nın diğer vampirlerle birlikte geri çekildiğini öğrenir. Tüm arkadaşları toplandığında onlara teşekkür eder ve özür diler. Bölümün sonunda hem Yu hem de Mika birbirlerini kurtaracaklarına dair kendilerine söz verirler.",
+                "air_date": "2015-06-20",
+                "still_path": "/7aoq0NX1sQLDqwxS6tlbWGVnER1.jpg",
+                "video_url": "1823134"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 12,
+        "air_date": "2015-10-10",
+        "poster_path": "/abwSI4o34jrtGkVdzvWd0RQtxWd.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "İnsan Dünyası",
+                "overview": "Shinoa, Yu'yu kütüphanede ziyaret etmeden önce Guren'le dövüşür. Ona insanları vampire dönüştürmeyi anlatır. Sonra, Kureto Hiragi, gerçeği söylemesi için Kimizuki ve Yoichi'ye işkence ederken ona bir vampir casusu hakkında soru sormak için Yu'yu çağırır. Daha sonra, Yu Guren'e bunu sorar ve Mika'nın da kendisi için yararlı olup olmayacağını sorar. Sanguinem'de, Mika kan için açlık çeker ve Ferid orada büyümesini durdurmayı önerir. Bir çocuk Ferid'e kanını sunar ve Ferid, Mika'yı çocuğun kanını içmesi için kışkırtır ancak Mika reddeder. Ferid daha sonra Mika'yı Progenitor Konseyi toplantısına davet eder.",
+                "air_date": "2015-10-10",
+                "still_path": "/gtYtW26gfJbummUrdZpPHdYj2Sh.jpg",
+                "video_url": "1936656"
+            },
+            {
+                "episode_number": 2,
+                "name": "Karmaşık Bağlantılar",
+                "overview": "Yoichi tek bir saldırıyla beş atlıyı ortadan kaldırır ve Yu eğitiminin bir sonraki adımına başlar. Yu zihninde Asuramaru'ya karşı savaşır ve arkadaş olmak isteyerek Asuramaru'yu yener. Progenitor Konseyi toplantısında Ferid, Shinjuku'daki savaşı tartışır ve Mika'dan Yu'nun dönüşümünü gösteren bir video sunmasını ister. Krul, Ferid'e saldırır ve kasıtlı olarak ıskalar. Ferid, onu öldüremeyeceğini açıklar. Kimizuki, Kiseki-o'ya karşı savaşta mücadele eder ve kız kardeşini öldürmesi söylendiği anılarla yüzleşir. Özgürleşir ve Yu'nun, kan bağı olmasa da aile olan Mika'ya olan duygularını hatırlayarak zafer kazanır. Kimizuki ve Yu yeni tekniklerini gösterir ve Shinoa ile Mitsuba, üç çocuğun dosyalarının silindiğini öğrenir.",
+                "air_date": "2015-10-17",
+                "still_path": "/5UHXJ69YjFBAfmu8ADmDxDkOmGO.jpg",
+                "video_url": "1945032"
+            },
+            {
+                "episode_number": 3,
+                "name": "Şeytan Ordusunun Hırsı",
+                "overview": "Önceki bölümde Ferid Bathory ile iletişime geçen çocuk, Aoi Sangu'ya haberci güvercini aracılığıyla bir mektup gönderir ve Sangu da mektubu Kureto'ya iletir. Shinoa Takımı toplanır ve Kureto Hiragi ile Guren Ichinose de aynısını yapar. Kureto, vampirler bir ay içinde ana ordularını Japonya'ya getirmeden önce Nagoya'daki on asil vampire saldırıp onları yok etme planını duyurur. Shinoa, Yu'nun Shinjuku'daki savaş sırasında onu öldürmeye çalıştığını söyler ve takım Guren'i takip etmeye devam edip etmemeyi düşünür. Sonunda onu takip etmeye ve ailelerini korumak için bir politika belirlemeye karar verirler. Bu sırada Mika, kanı için Krul'a saldırır. Sakinleştikten sonra planlarını ona açıklar ve ona gizli bir görev verir. Shinoa, Guren'e takımının eğitimdeki başarısı hakkında bilgi verir ve ona yeni emirler verir. Mika, Nagoya'ya gitmek için diğer vampirlerle buluşur ve Kureto, Mirai Kimizuki üzerinde potansiyel olarak ölümcül deneyler yapılmasını emreder.",
+                "air_date": "2015-10-24",
+                "still_path": "/2EfWvBHY194YxkVUoaSFrSHmydt.jpg",
+                "video_url": "1951995"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ay Şeytanının Emirleri",
+                "overview": "Shinoa ekibi geç kalınca, bu görevin Guren için ne kadar ciddi olduğunu anlarlar. Bunun birçok kişinin öleceği imkansız bir görev olduğunu bilen Guren, duygularını bir kenara bırakır ve adamlarına hayatta kalmalarını değil, kazanmalarını emreder.",
+                "air_date": "2015-10-31",
+                "still_path": "/cN9goWxEHuWguGVqR6q8m7Wyw5V.jpg",
+                "video_url": "1965068"
+            },
+            {
+                "episode_number": 5,
+                "name": "Hayvancılık İsyanı",
+                "overview": "Shinoa takımı ve Narumi takımı, görevlerini yerine getirmek için güçlerini birleştirir - On Beşinci Ata'yı, Lucal Wesker'ı öldürmek. Kimseyi kaybetmeden görevlerini başarsalar da, diğerleri o kadar şanslı değildi. Dokuz takım başarısız oldu ve rehin alındı...",
+                "air_date": "2015-11-07",
+                "still_path": "/3PLsKksQZBte7u8rNnW5Vk5rnWX.jpg",
+                "video_url": "1972581"
+            },
+            {
+                "episode_number": 6,
+                "name": "Adalet Kılıcı",
+                "overview": "Shinoa takımı yoldaşlarını kaybetmenin çok olası olduğu sert gerçeğini yeniden öğrenir, ancak yas tutmaya vakit yoktur. Rehineleri kurtarmak için yola koyulmalıdırlar. Ayrılmalarının hemen ardından Mika ve diğer vampirler de Nagoya'ya varırlar.",
+                "air_date": "2015-11-14",
+                "still_path": "/vFGqMXuWL3LUMKaMtpj7Nzdz5sj.jpg",
+                "video_url": "1979815"
+            },
+            {
+                "episode_number": 7,
+                "name": "Shinya ve Guren",
+                "overview": "Guren, Shinoa ve Narumi birlikleri belediye binasına varır ve rehineleri görür. Bunun bir tuzak olduğunu bilmelerine rağmen rehineleri kurtarmaya karar verirler, ancak Guren ve Shinya, Crowley'den kaçmak için bile mücadele ederken, başlarının çaresine bakamazlar.",
+                "air_date": "2015-11-21",
+                "still_path": "/wEaBnZwGcxgPp2QvvbqnrhklXJ6.jpg",
+                "video_url": "1986779"
+            },
+            {
+                "episode_number": 8,
+                "name": "Şeytanın Ninnisi",
+                "overview": "Shinoa'nın ekibi Guren'i kurtarmaya gider, ancak ne yazık ki zamanları tükenir. İsteksizce onu geride bırakıp geri çekilirler, ancak Yu bunu yapmaya kendini getiremez. Bunun yerine, Guren'i kurtarmak için daha fazla Lanet Uyarıcı Hapı alır.",
+                "air_date": "2015-11-28",
+                "still_path": "/z2bSCtLfpVRWoeYlSGOp8UcARpb.jpg",
+                "video_url": "1993273"
+            },
+            {
+                "episode_number": 9,
+                "name": "Hain Müttefikler",
+                "overview": "\"Deneyleri\" sayesinde Yu mucizevi bir şekilde iyileşir ve bir kez daha Guren'i kurtarmak için geri döner. Yu fazla zorlayarak neredeyse bir iblise dönüşür, ancak Kimizuki onu zorla durdurur. Birlik Yu'yu dışarı çıkarır ve güvenli bir yere doğru gider, ancak daha sonra Mika ile karşılaşır.",
+                "air_date": "2015-12-05",
+                "still_path": "/5FOjvSlHLkk4NckJrpmRPtVRDDA.jpg",
+                "video_url": "2000589"
+            },
+            {
+                "episode_number": 10,
+                "name": "Yu ve Mika",
+                "overview": "Yu ve Mika sonunda yeniden bir araya gelirler, ancak Mika'nın Demon Company ile savaşırken aldığı yaralar hayatını tehdit eder. Mika'yı hayatta tutmaya kararlı olan Yu, Mika'yı kanını içmeye ikna etmeye çalışır... Bu, Mika'nın gerçek bir vampir olacağı anlamına gelse bile.",
+                "air_date": "2015-12-12",
+                "still_path": "/9syT0QB9tRedsz6dKEiZilxKa5Z.jpg",
+                "video_url": "2021932"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kibirli Aşk",
+                "overview": "Moon Demon Company'nin kurtulanları buluşma noktasına varırlar, ancak emirlerinin \"beklemede\" olduğunu öğrenirler. Öfkelenen grup, Guren'i kurtarmak için emirleri görmezden gelmeye karar verir, o sırada Kureto belirir. Görünüşe göre Kureto'nun gündeminde başka bir şey vardır.",
+                "air_date": "2015-12-19",
+                "still_path": "/ArS5yJRkvUMNnB3aur3OTCEx8WS.jpg",
+                "video_url": "2034119"
+            },
+            {
+                "episode_number": 12,
+                "name": "Sonun Serafı",
+                "overview": "Kureto'nun kozu, Kimizuki'nin küçük kız kardeşi ve End'in bir diğer Seraph'ı olan Mirai'ydi. Japon İmparatorluk Şeytan Ordusu'nu durdurmak için Yu'nun, melek güçlerine erişmek için içsel \"trompetine\" ulaşmaktan başka seçeneği yoktu.",
+                "air_date": "2015-12-26",
+                "still_path": "/zmFC1hhzOrHTL6nTV003CsCjjIy.jpg",
+                "video_url": "2040307"
+            }
+        ]
+    }
+}

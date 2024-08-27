@@ -1,0 +1,107 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 12,
+        "air_date": "2024-07-04",
+        "poster_path": "/81HdXCynJtZhgfHUz7XHmsf5j7Q.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yabancı Biriyle Evdeyim",
+                "overview": "Lise öğrencisi Yuta Asamura, babasının yeniden evlenmesi nedeniyle üvey kız kardeşi Saki Ayase ve annesiyle yaşamaya başlar. Erkekler ve kadınlar arasındaki ilişkiler konusunda temkinli değerlere sahip olan Yuta ve Saki, aralarında uygun bir mesafe duygusuyla yaşamayı kabul ederler.",
+                "air_date": "2024-07-04",
+                "still_path": "/4P2BfYUEeE80v6ui0IbHnO4fKWs.jpg",
+                "video_url": "5585936"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bir Anlaşma ve Bir Sahanda Yumurta",
+                "overview": "Okulda Yuta, Saki'nin çarpıcı görünümü nedeniyle hakkında bazı sansasyonel söylentiler dolaştığını fark eder. Onunla bu konuda konuşmaya çalıştığında, söylentilerin önerdiğinden çok daha fazlası olduğu hemen anlaşılır.",
+                "air_date": "2024-07-11",
+                "still_path": "/sgCh1TukYe5eIXwOyslYvqPPZD8.jpg",
+                "video_url": "5593742"
+            },
+            {
+                "episode_number": 3,
+                "name": "Yansıma ve Gözden Geçirme",
+                "overview": "Yuta ve Saki, yeni ve hâlâ biraz garip olan ev hayatlarında sırayla yanlış adımlar atıyorlar. Bu hataları düşünürken ve nasıl ilerleyeceklerini anlamaya çalışırken, Saki Yuta hakkında ne hissedeceğinden giderek daha az emin olduğunu fark ediyor. (SubsFlix_)",
+                "air_date": "2024-07-18",
+                "still_path": "/eO7C7Kf7SZiigX1CylJjClo0PMT.jpg",
+                "video_url": "5602566"
+            },
+            {
+                "episode_number": 4,
+                "name": "Eğilimler ve Stratejiler",
+                "overview": "Yuta ve Saki birlikte yaşamaya başlayalı bir ay olmuştur. Yuta ilişkilerinin belirsizliğini anlamaya başladığında, Saki ondan modern edebiyatı incelemesi için yardım ister. İkisi birlikte Saki'yi tekrar sınava hazırlamak için çalışırlar.",
+                "air_date": "2024-07-25",
+                "still_path": "/t1zCEOt0UGBIzmKxJ0BSDqVloRL.jpg",
+                "video_url": "5610377"
+            },
+            {
+                "episode_number": 5,
+                "name": "Geç Bir Gösteri ve Gerçek Anlaşma",
+                "overview": "Shiori, Yuta'yı sevdiği bir kitabın film uyarlamasının geç bir gösterimine davet eder. Saki ilgi gösterir ve ertesi gün kitapçıya gider ve orada Shiori ile ilk kez tanışır.",
+                "air_date": "2024-08-01",
+                "still_path": "/kaYtOzfkFi3Qw2uaIyLpN5NG61x.jpg",
+                "video_url": "5620015"
+            },
+            {
+                "episode_number": 6,
+                "name": "Tatlı ve Ekşi Domuz Eti ve Yağmur",
+                "overview": "Saki, sınıf arkadaşı Narasaka Maaya'dan okuldan sonra gelip ders çalışmasına yardım etmesini ister. Yuta, Saki'nin ders çalışmaya devam edebilmesi için değişiklik olsun diye akşam yemeği yapmaya karar verir. Maaya, Yuta'ya tarif konusunda yardım eder ve ardından Saki ile olan ilişkisi hakkında onu sorgulamaya başlar.",
+                "air_date": "2024-08-08",
+                "still_path": "/yFwCQ5O9597xcZ5eVkAJG3XYpXd.jpg",
+                "video_url": "5634795"
+            },
+            {
+                "episode_number": 7,
+                "name": "Duygular ve Yaz Tatili",
+                "overview": "Saki yaz tatilinde yeni işine alışır. Taichi ve Akiko, Yuta ve Saki'nin birbirlerine soyadlarıyla seslenmeye devam ettiğini fark eder. Saki, Yuta'ya karşı hislerinde bir değişiklik hisseder ve bunu günlüğünde dürüstçe anlatıp anlatmaması gerektiğini merak eder.",
+                "air_date": "2024-08-15",
+                "still_path": "/y5wEkflt677fi9h3WyOgeRHlvoo.jpg",
+                "video_url": "5641156"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Cevap ve Sıcak Süt",
+                "overview": "Yuta, Saki için endişelenmeye başlar ve Akiko'dan tavsiye ister. Akiko, ısrar etmek zorunda kalsa bile, Saki'yi arada sırada bir mola için dışarı çıkarması gerektiğini söyler. Daha sonra, Yuta, Saki ile Maaya ile havuz gezisi hakkında konuşmaya çalıştığında, Saki sert tepki verir. (Altyazılı Flix_)",
+                "air_date": "2024-08-22",
+                "still_path": "/4ny13wwyW1S9fPS7dpy9KFldDQz.jpg",
+                "video_url": "5651192"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bölüm 9",
+                "overview": "",
+                "air_date": "2024-08-29",
+                "still_path": null,
+                "video_url": ""
+            },
+            {
+                "episode_number": 10,
+                "name": "Bölüm 10",
+                "overview": "",
+                "air_date": "2024-09-05",
+                "still_path": null,
+                "video_url": ""
+            },
+            {
+                "episode_number": 11,
+                "name": "Bölüm 11",
+                "overview": "",
+                "air_date": "2024-09-12",
+                "still_path": null,
+                "video_url": ""
+            },
+            {
+                "episode_number": 12,
+                "name": "Bölüm 12",
+                "overview": "",
+                "air_date": "2024-09-19",
+                "still_path": null,
+                "video_url": ""
+            }
+        ]
+    }
+}

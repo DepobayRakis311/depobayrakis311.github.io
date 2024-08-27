@@ -1,0 +1,235 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 28,
+        "air_date": "2023-09-29",
+        "poster_path": "/yHsxHEugPPlOPqFZrPGvurltPjm.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Yolculuğun Sonu",
+                "overview": "Dünya, Şeytan Kral'ın Kahraman ve yoldaşlarının elinden aldığı yenilgiyi kutluyor. Büyük maceraları sona erdiğine göre, büyücü Frieren bundan sonra ne yapacak?",
+                "air_date": "2023-09-29",
+                "still_path": "/zQyScOvPDqqvW0IYLMnGHA60nf6.jpg",
+                "video_url": "5264032"
+            },
+            {
+                "episode_number": 2,
+                "name": "Sihir Olmak Zorunda Değildi...",
+                "overview": "Frieren, Heiter için bir büyü kitabını çözerken Fern'e büyü kullanımını öğretir.",
+                "air_date": "2023-09-29",
+                "still_path": "/xJGUPHFJFmoHsmv0N6JI3ZJeZBG.jpg",
+                "video_url": "5264876"
+            },
+            {
+                "episode_number": 3,
+                "name": "Öldürme Büyüsü",
+                "overview": "Frieren, eski seyahat arkadaşlarıyla çıktığı macerada kat ettiği yolu yeniden keşfederken eski bir düşmanla karşı karşıya gelir.",
+                "air_date": "2023-09-29",
+                "still_path": "/gq0TjdNgQALpD4D8zczXATBH29Y.jpg",
+                "video_url": "5266056"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ruhların Dinlendiği Ülke",
+                "overview": "Frieren ve Fern, Eisen'ı ziyaret eder ve Eisen, Efsanevi Büyücü Flamme'nin notlarını bulma konusunda onlardan yardım ister.",
+                "air_date": "2023-09-29",
+                "still_path": "/1rAbuUkh16gkhnM2IyhVXHZWmar.jpg",
+                "video_url": "5270820"
+            },
+            {
+                "episode_number": 5,
+                "name": "Ölülerin Hayaletleri",
+                "overview": "Frieren ve Fern, insanların kaybolmaya başladığı bir köyde hayalet görülmesi olayını araştırırlar.",
+                "air_date": "2023-10-06",
+                "still_path": "/gI8xcR6tT8beCGbxXFewOuNAVpM.jpg",
+                "video_url": "5272807"
+            },
+            {
+                "episode_number": 6,
+                "name": "Köyün Kahramanı",
+                "overview": "Frieren ve Fern, güneş ejderhasıyla savaşmak için Stark'ın yardımını isterler - ama o bu görevi yerine getirebilecek midir?",
+                "air_date": "2023-10-13",
+                "still_path": "/fmH8PHZcH4Gc4PvdibnvtxCcjWy.jpg",
+                "video_url": "5280924"
+            },
+            {
+                "episode_number": 7,
+                "name": "Bir Peri Masalı Gibi",
+                "overview": "Geçmişin, insanların kolektif hafızasında var olan geçici doğası üzerine düşünürken Frieren beklenmedik bir şekilde yeminli bir düşmanla karşılaşır.",
+                "air_date": "2023-10-20",
+                "still_path": "/60LCMgI9HBCwoOe2nSx98W7OJvG.jpg",
+                "video_url": "5295128"
+            },
+            {
+                "episode_number": 8,
+                "name": "Katil Frieren",
+                "overview": "Graf Granat'ın hakimiyetindeki gerginlikler kırılma noktasına ulaşırken, Fern ve Stark kendi kararlılıklarını bulurlar ve Frieren eski görevine geri döner.",
+                "air_date": "2023-10-27",
+                "still_path": "/7ih2cTXwErFzHgSkfD4rH65n9fT.jpg",
+                "video_url": "5302713"
+            },
+            {
+                "episode_number": 9,
+                "name": "Aura Giyotin",
+                "overview": "Fern ve Stark, Graf Granat ile birlikte geçici bir süreliğine geri çekilirken, Frieren'in gerçek düşmanı onu şehrin dışında beklemektedir.",
+                "air_date": "2023-11-03",
+                "still_path": "/9CaxBHDfy6FeHI7bFGMCCIvcuXl.jpg",
+                "video_url": "5307283"
+            },
+            {
+                "episode_number": 10,
+                "name": "Güçlü Bir Büyücü",
+                "overview": "Frieren'in öğretmeni Flamme'nin gözetiminde aldığı uzun yıllar süren eğitim, Aura the Guillotine ile olan karşılaşmasında test edilir. Aura'nın pulları onu eksik mi bulacaktır?",
+                "air_date": "2023-11-10",
+                "still_path": "/gp11fYS8MQhR5GanL5DkXpcwwb2.jpg",
+                "video_url": "5318120"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kuzey Topraklarında Kış",
+                "overview": "Frieren ve arkadaşları kuzey topraklarında yolculuklarına devam ederler, ancak hem doğal hem de insan yapımı engeller hâlâ önlerinde durmaktadır.",
+                "air_date": "2023-11-17",
+                "still_path": "/ApKDj77DQi0sTS50StuHt9mErK5.jpg",
+                "video_url": "5335893"
+            },
+            {
+                "episode_number": 12,
+                "name": "Gerçek Bir Kahraman",
+                "overview": "Kuzey topraklarının dağlarının derinliklerinde, Frieren ve ekibi Kılıç Köyü'ne varırlar; burada yapmaları gereken başka bir iş vardır.",
+                "air_date": "2023-11-24",
+                "still_path": "/gSALjGge72BtvjJBrwrCKR3gfc0.jpg",
+                "video_url": "5339231"
+            },
+            {
+                "episode_number": 13,
+                "name": "Kendi Türünden Olanlara Karşı Nefret",
+                "overview": "Kuzey topraklarının ormanlarındaki bir köyün yanından geçerken, Frieren ve grubu, Heiter'e bile rakip olabilecek kadar yozlaşmış yetenekli bir rahip olan Sein ile tanışır. Peki geçmişinde neler oldu?",
+                "air_date": "2023-12-01",
+                "still_path": "/qYFaGHMycIbxd9IcBwN1EuvTLH.jpg",
+                "video_url": "5357301"
+            },
+            {
+                "episode_number": 14,
+                "name": "Gençliğin Ayrıcalığı",
+                "overview": "Grup, Frieren'in Himmel ile birlikte ziyaret ettiği, hareketli bir alışveriş bölgesinin bulunduğu büyük ve canlı bir kasabaya varır; ancak Fern ile Stark arasında bir sorun çıkmış gibi görünmektedir.",
+                "air_date": "2023-12-08",
+                "still_path": "/q0lGh5dkTkNBEmJedeP9ex0QIct.jpg",
+                "video_url": "5358234"
+            },
+            {
+                "episode_number": 15,
+                "name": "Sorun Kokuyor",
+                "overview": "Parti, sakinlerinin gizemli bir şekilde uykuda olduğu bir kasabaya rastladığında, en yeni yol arkadaşlarının cesaretini kanıtlama zamanı gelmiştir.",
+                "air_date": "2023-12-15",
+                "still_path": "/65KUShpBJQHaIUM0Bzaixn2cbn2.jpg",
+                "video_url": "5366278"
+            },
+            {
+                "episode_number": 16,
+                "name": "Uzun Ömürlü Dostlar",
+                "overview": "Frieren, uzun zamandır arkadaşı olan Yaşlı Voll'u, yanında seyahat arkadaşlarıyla birlikte ziyaret eder.",
+                "air_date": "2023-12-22",
+                "still_path": "/ncMujhZQYcLXJA0Knr1DoAPuBHT.jpg",
+                "video_url": "5375331"
+            },
+            {
+                "episode_number": 17,
+                "name": "Dikkatli Ol",
+                "overview": "Sein sonunda uzun zamandır kayıp olan arkadaşının nerede olduğuna dair bir ipucu elde etti, peki onun ve Frieren'in ekibinin yollarını ayırmasının zamanı geldi mi?",
+                "air_date": "2024-01-05",
+                "still_path": "/7ec5bHjjU6hgMyPMQZKlTtZSrO6.jpg",
+                "video_url": "5389031"
+            },
+            {
+                "episode_number": 18,
+                "name": "Birinci Sınıf Büyücü Sınavı",
+                "overview": "Frieren ve ekibi sonunda birinci sınıf büyücü sınavına girmeye hazır bir şekilde Äußerst'e varırlar ve orada aynı şeyi yapmak üzere bulunan bir dizi renkli karakterle tanışırlar.",
+                "air_date": "2024-01-12",
+                "still_path": "/5iLxOsM3EakE6wYRQIJE2KfXU6.jpg",
+                "video_url": "5407901"
+            },
+            {
+                "episode_number": 19,
+                "name": "İyi Planlanmış Planlar",
+                "overview": "Frieren ve yeni takım arkadaşları, Stille'i ele geçirmek için bir plan yaparlar - ancak diğer takımlar sadece oturup bunun olmasına izin mi verecekler?",
+                "air_date": "2024-01-19",
+                "still_path": "/jsHto8FYO4mrGDI04H8Qiee0Ail.jpg",
+                "video_url": "5407870"
+            },
+            {
+                "episode_number": 20,
+                "name": "Gerekli Öldürme",
+                "overview": "Birinci sınıf büyücü sınavı, katılımcılar arasında çıkan kavgalarla daha da kızışıyor ve tehlikede olan şey, uğruna öldürmeye değecek bir şey bile olabilir.",
+                "air_date": "2024-01-26",
+                "still_path": "/9afJqAKa1YrunO3ErTuaV158uJa.jpg",
+                "video_url": "5415357"
+            },
+            {
+                "episode_number": 21,
+                "name": "Büyü Dünyası",
+                "overview": "Frieren, Kanne ve Lawine, Stille'in mülkiyeti için 13. partiyle mücadele ediyor, ancak mücadeleleri ve ilk sınavları sona ermeden önce onları daha fazla sürpriz bekliyor.",
+                "air_date": "2024-02-02",
+                "still_path": "/jbYyA3nol33v0DGT8JtVXCZN6cE.jpg",
+                "video_url": "5422431"
+            },
+            {
+                "episode_number": 22,
+                "name": "Gelecekteki Düşmanlar",
+                "overview": "İlk testin tamamlanmasının ardından, sınav katılımcılarının kasabada vakit geçirmek için vakitleri olur. Büyücüler izin günlerinde ne yaparlar?",
+                "air_date": "2024-02-09",
+                "still_path": "/qiO2FblonEkgrOPj48tWDUx2E9P.jpg",
+                "video_url": "5435873"
+            },
+            {
+                "episode_number": 23,
+                "name": "Labirenti Fethetmek",
+                "overview": "Birinci sınıf büyücü olmak isteyenler şimdi ikinci sınavlarıyla karşı karşıya: Kral Mezarı Harabeleri'ni fethetmek. Basit bir görev, ya da gözetmenin iddia ettiği gibi, ancak bu özel zindanın keşfedilmemiş kalmasının bir nedeni var.",
+                "air_date": "2024-02-16",
+                "still_path": "/bHaX3C0z95D4TZHtBl7sxP5de7S.jpg",
+                "video_url": "5435877"
+            },
+            {
+                "episode_number": 24,
+                "name": "Mükemmel Kopyalar",
+                "overview": "Başkalarının kusursuz kopyalarını yaratabilen efsanevi canavar Spiegel yüzünden, Kral Mezarı Harabeleri'ni fethetmek isteyen sınav katılımcıları önce en büyük düşmanla, yani kendileriyle yüzleşmek zorunda kalırlar.",
+                "air_date": "2024-02-23",
+                "still_path": "/bjMTxknwGGPPXyaE0ECvbBwzlky.jpg",
+                "video_url": "5444314"
+            },
+            {
+                "episode_number": 25,
+                "name": "Ölümcül Bir Güvenlik Açığı",
+                "overview": "Frieren'in kusursuz bir taklidi sınava girenler ile zafer arasında duruyor, ancak Fern nasıl kazanacağını bildiğine inanıyor. Öğrencinin ustayı geçme zamanı geldi mi?",
+                "air_date": "2024-03-01",
+                "still_path": "/tO2JyTeWLOTzW6rxP7Eqy2kbhvD.jpg",
+                "video_url": "5454154"
+            },
+            {
+                "episode_number": 26,
+                "name": "Büyünün Zirvesi",
+                "overview": "Spiegel'i yenmek için Frieren ve Fern, Frieren'in replikasına karşı savaşırlar, ancak zor zamanlar geçirirler. Bu arada, Denken, Lavine ve diğerleri replikalara karşı savaşırlar, ancak birinci sınıf bir büyücü ve sınavın gözetmeni olan Sense'in büyüsü öfkelenir.",
+                "air_date": "2024-03-08",
+                "still_path": "/8rUwbpFFSCZlZK6RRBsr8bTDyp1.jpg",
+                "video_url": "5463553"
+            },
+            {
+                "episode_number": 27,
+                "name": "İnsanların Bir Çağı",
+                "overview": "İkinci test geride kaldığında geriye sadece bir tane kaldı - ama önce, Frieren ve Fern'in kasabadaki önemli bir meseleyi çözmeleri gerekiyor. Üçüncü testte onları neler bekliyor?",
+                "air_date": "2024-03-15",
+                "still_path": "/7fQZwOs59IqqIs4MIgyfB9a8CIp.jpg",
+                "video_url": "5471276"
+            },
+            {
+                "episode_number": 28,
+                "name": "Tekrar Karşılaştığımızda Utanç Verici Olurdu",
+                "overview": "Birinci sınıf büyücülük sınavı sona ererken ve sınava girenler ayrı yollara giderken, veda ayrılığa yol açar - ancak Frieren'in yolculuğunun bir sonraki aşaması daha yeni başlamıştır.",
+                "air_date": "2024-03-22",
+                "still_path": "/5e0p1EY2X35OXhik0p77nMuN8Iy.jpg",
+                "video_url": "5484528"
+            }
+        ]
+    }
+}

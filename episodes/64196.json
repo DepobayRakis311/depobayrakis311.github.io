@@ -1,0 +1,454 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2015-07-07",
+        "poster_path": "/hRshcrYYVkmrpKzbH9gNhYCcpGt.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Son ve Başlangıç",
+                "overview": "Momonga, Yggdrasil olarak bilinen bir DMMO-RPG'de bir loncayı yöneten düzenli bir maaşlı çalışandır. Oyunu on iki yıl oynadıktan sonra, sunucular sonunda kapanıyor. Momonga son kez oyuna giriş yapıyor ve oyunun sonuna kadar görüyor. Ancak saat gece yarısını vurduktan sonra hiçbir şey değişmiyor.",
+                "air_date": "2015-07-07",
+                "still_path": "/4kP9LokDvo8houeyTzBBuV8R1zE.jpg",
+                "video_url": "3647488"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kat Muhafızları",
+                "overview": "Bir kenara atılmadıkları için minnettar olan kat muhafızları, gerçek efendilerinin yönetimini ilk kez deneyimliyorlar. Momonga durumu hızla değerlendiriyor ve ne yapması gerektiğini düşünürken mezarı istilacılardan korumak için çalışıyor.",
+                "air_date": "2015-07-14",
+                "still_path": "/5o2lrKAxesQgnxpaJVhwWXUWP7U.jpg",
+                "video_url": "3647495"
+            },
+            {
+                "episode_number": 3,
+                "name": "Carne Köyü Muharebesi",
+                "overview": "Momonga, Nazarick'i bu dünyada karşılaşabileceği bilinmeyen güçlerden koruma çabalarına devam ediyor. Uzaktan Görüntüleme Aynası'nı manipüle ederken, bir köyün saldırıya uğradığını fark ediyor ve insanlara karşı gücünü test etmeye karar veriyor.",
+                "air_date": "2015-07-21",
+                "still_path": "/xwHETk5U7IQuKvugwH07lqUk1sG.jpg",
+                "video_url": "3647499"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ölümün Hükümdarı",
+                "overview": "Momonga, Carne Köyü'ne saldıranların Baharuth İmparatorluğu'ndan insanlar gibi giyinmiş Slane Teokrasi askerleri olduğunu keşfeder. Gazef Stronoff'u cezbetme ve ortadan kaldırma saldırısı devam ederken, Momonga testlerine devam etmek için bu fırsatı değerlendirir...",
+                "air_date": "2015-07-28",
+                "still_path": "/bqo2kd8GL2YzSnh8WOVV6zeJQEi.jpg",
+                "video_url": "3647502"
+            },
+            {
+                "episode_number": 5,
+                "name": "İki Maceracı",
+                "overview": "Momonga, Narberal ile birlikte Momon ve Nabe isimleri altında insan kılığına girerek E-Rantel şehrine doğru yola çıkar. Orada, bu bilinmeyen dünya hakkında daha fazla bilgi edinmek için maceracı olmak üzere kaydolurlar. Bunu yaparken etraflarında kötülük toplanır.",
+                "air_date": "2015-08-04",
+                "still_path": "/nhhoW3Bbi1tzeJ1P6HRJbPZl6wl.jpg",
+                "video_url": "3647508"
+            },
+            {
+                "episode_number": 6,
+                "name": "Seyahat",
+                "overview": "Momonga bazı şüpheler yaşarken, Nphirea Balear'ın isteğini, Karanlığın Kılıçları üyelerinin onlara katılması şartıyla kabul eder. Öldürme isteği onu rahatsız etmeye devam etse de, Clementine yavaş yavaş Nphirea'ya giden yolu bulmaya devam eder.",
+                "air_date": "2015-08-11",
+                "still_path": "/jafvepAxmwgeWVqqUVMaiuiw0WR.jpg",
+                "video_url": "3647511"
+            },
+            {
+                "episode_number": 7,
+                "name": "Ormanın Bilge Kralı",
+                "overview": "Momonga ve grubu Carne Köyü'ne doğru yola devam eder. Orada köylülerin olası gelecekteki düşmanlara karşı savunmalarını güçlendirmek için çalıştıklarını görürler. Nphirea, Enri ile buluşur ve ona Ains Ooal Gown adlı bu adam hakkında sorular sorar.",
+                "air_date": "2015-08-18",
+                "still_path": "/9hvjs6o3rml3XweLkTwAtJMCWU9.jpg",
+                "video_url": "3647516"
+            },
+            {
+                "episode_number": 8,
+                "name": "Ölümün İkiz Kılıçları",
+                "overview": "Momonga, Hamusuke'yi loncaya kaydettirdikten sonra, Nphirea'nın evine gider ve müvekkilinin kaçırıldığını görür. Karanlık Kılıçların zombileşmiş kalıntıları depo odasında dağılmıştır. Ve orada, Momonga Ninya'nın işkence görmüş bedenini bulur.",
+                "air_date": "2015-08-25",
+                "still_path": "/qIAnSTmlbf11vHbeHPnZ0bIGStN.jpg",
+                "video_url": "3647543"
+            },
+            {
+                "episode_number": 9,
+                "name": "Karanlık Savaşçı",
+                "overview": "Momonga ve Narberal, Clementine ve Khajit'e karşı kendi savaşlarına başlarlar. Momonga, bu dünyadaki dövüş mekaniklerini öğrenmek için bu fırsatı değerlendirir, ancak sonunda Clementine'e onu gücendirmenin sonuçlarını göstermelidir.",
+                "air_date": "2015-09-01",
+                "still_path": "/AqW3PZN2qOPN8OSqBdbnIuY4AUJ.jpg",
+                "video_url": "3647523"
+            },
+            {
+                "episode_number": 10,
+                "name": "Gerçek Vampir",
+                "overview": "Momonga, Shalltear'ın Sebas ve Solution ile birlikte görevdeyken başına gelen bir şey yüzünden ona karşı isyan ettiğini öğrenir. Hikaye biraz geri sarılır ve tam da o olay üzerinden geçer. Ona olan sadakatini ne değiştirebilir?",
+                "air_date": "2015-09-08",
+                "still_path": "/yPz3YYvU8efYVyrMcv6Ij2ZoVpE.jpg",
+                "video_url": "3647526"
+            },
+            {
+                "episode_number": 11,
+                "name": "Karışıklık ve Anlayış",
+                "overview": "Momonga, Shalltear'ın isyanının nedenini değerlendirirken loncada hasar kontrolü yapar. Tedavi edilemez bir durum etkisi altında olduğu sonucuna varan Momonga, Nazarick'in güçlü silahlarından bazılarını almak için hazineye gider.",
+                "air_date": "2015-09-15",
+                "still_path": "/fUtckv6eojYgH9KrRQxztBcnucM.jpg",
+                "video_url": "3647531"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kanlı Valkyrie",
+                "overview": "Shalltear'ın beceri seti Momonga'yı tamamen dezavantajlı bir konuma getirse de, savaşa adım attı. Nazarick'in yokluğunda güvenliğini sağlamak için koruyucularına çeşitli dünya eşyaları verdi. Şimdi geriye sadece bir yaşam ve ölüm savaşı kaldı!",
+                "air_date": "2015-09-22",
+                "still_path": "/hnsec9b5wfmYuxGVp12QOH6NLgb.jpg",
+                "video_url": "3647535"
+            },
+            {
+                "episode_number": 13,
+                "name": "Oyuncu Vs Oyuncu Olmayan Karakter",
+                "overview": "Momonga, Shalltear'a Nazarick'in efendisi olduğunu ve isminin Ains Ooal Gown'un tüm yüce varlıklarının ağırlığını taşıdığını hatırlatır. Savaş sona erdikten sonra, Momonga hızla Nazarick'in savunmasını güçlendirmek için harekete geçer.",
+                "air_date": "2015-09-29",
+                "still_path": "/nsqs2ba2U8FRj2CAzoZ85DNdEov.jpg",
+                "video_url": "3647540"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 13,
+        "air_date": "2018-01-09",
+        "poster_path": "/jdzYWuAz58vVcTNqtm3aj4yUKa7.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Umutsuzluğun Şafağı",
+                "overview": "Slane Teokrasisi'nin memurları son kayıpları görüşmek üzere bir araya geliyor. Estize'nin soyluları İmparatorluğu geri püskürtmek için plan yapıyor. Ains, planları harekete geçerken bir dünya haritasına bakıyor. Shalltear, yaşadığı çileden kurtuluyor.",
+                "air_date": "2018-01-09",
+                "still_path": "/VNH6KUwz9s6NUOBq743WUKzCoQ.jpg",
+                "video_url": "3649829"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kalkış",
+                "overview": "Cocytus, Lizardmen'in tüm kabilelerine savaş ilanı verir ve kolay bir ele geçirme bekler. Ancak, Lizardmen kabilelerini ortak düşmanlarına karşı birleştirmeye karar verir.",
+                "air_date": "2018-01-16",
+                "still_path": "/nWBhBME0Wql1wFF2Zp43KSSGtG6.jpg",
+                "video_url": "3649834"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kertenkele Adamlar Toplanıyor",
+                "overview": "Zenberu, Zaryusu'nun savaştaki gücünü test ederken, ikincisi Crusch'un onurunu savunur. Kertenkele adam şefleri bir savaş konseyi düzenler ve ortak düşmanlarına karşı kendilerini savunmak için bir strateji oluştururlar.",
+                "air_date": "2018-01-23",
+                "still_path": "/ejax8jW5gp75r362PiymeugWLxt.jpg",
+                "video_url": "3649855"
+            },
+            {
+                "episode_number": 4,
+                "name": "Ölüm Ordusu",
+                "overview": "Kertenkele adamlarının ittifakı savaşı kazanır ve ölümsüz ordusunu yener. Muhafız Cocytus'u yenmek ve hatalarından ders çıkarmak için yeni bir yetenek, muhafızların yeni durumlara uyum sağlayabileceğini kanıtlar. Ainz Ooal Gown bu nedenle taktiklerini değiştirir ve Cocytus'a Kertenkele adamlarını diz çöktürmesini ve Nazarick'in Büyük Mezarı'nın yönetimi altına sokmasını emreder.",
+                "air_date": "2018-01-30",
+                "still_path": "/jhapIiQz6QWRROxRyo7VYw5uz6A.jpg",
+                "video_url": "3649885"
+            },
+            {
+                "episode_number": 5,
+                "name": "Dondurucu Tanrı",
+                "overview": "Tob Ormanı'ndaki karakolda, Ains koruyucularıyla strateji kurar ve ona Shalltear'ın kefaretini yükler. Kertenkele Adam şefleri toplanır ve son hesaplaşmaları için Cocytus'u savaş alanında karşılar.",
+                "air_date": "2018-02-06",
+                "still_path": "/pEnciyobmifN1ApNL3x99Ou9BG8.jpg",
+                "video_url": "3649897"
+            },
+            {
+                "episode_number": 6,
+                "name": "Alanlar, Alanlar",
+                "overview": "Sebas neredeyse cansız bir kadınla karşılaşır ve onu koruması altına alır. Shalltear ile karşılaşması sonucu yenilen Brain, Gazef ile buluşur. Blue Rose üyeleri bir uyuşturucu plantasyonuna karşı önlemler alır",
+                "air_date": "2018-02-13",
+                "still_path": "/oxpjVxdIhB0ikGDfH821lJnXnKA.jpg",
+                "video_url": "3649910"
+            },
+            {
+                "episode_number": 7,
+                "name": "Mavi Güller",
+                "overview": "Gazef, Climb'i kalenin dışında kılıcıyla pratik yaparken bulur ve onunla dövüşmek ister. Renner ve Lakyus, Evileye tarafından kurtarılan şifreli belgeyi inceler. Sebas, Tuare'nin dört bir yanından kuşatılmış halde bulur kendini.",
+                "air_date": "2018-02-20",
+                "still_path": "/zjuGVNiSV97XPBzbCQBAYEOK9hI.jpg",
+                "video_url": "3649912"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Çocuğun Duyguları",
+                "overview": "Climb, Lakyus'un mesajını Evileye ve Gagaran'a iletir ve onlar da genç adama rehberlik ederler. Climb, sokakta bir çocuğu döven bazı adamlarla karşılaşır ve çocuk daha sonra Sebas tarafından kurtarılır ve ondan eğitim ister.",
+                "air_date": "2018-02-27",
+                "still_path": "/2aEdzdH0ifBImZL2eVEFKwae0PK.jpg",
+                "video_url": "3649914"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yükselen Ateş Kıvılcımları",
+                "overview": "Sebas genelev baskınına bir taraftan başlarken, Climb ve Brain diğer taraftan içeri girer. Climb tek başına çıkışı korurken, kaçmaya çalışan Succulent ve Cocco Doll ile karşılaşır ve çaresiz bir mücadele başlar.",
+                "air_date": "2018-03-06",
+                "still_path": "/diNisbwHkTEM6vkQlJRyEwikykB.jpg",
+                "video_url": "3649915"
+            },
+            {
+                "episode_number": 10,
+                "name": "Kraliyet Başkentinde Kargaşa Başlıyor",
+                "overview": "Ains, Sebas'ın eylemlerinin hesabını vermesini ve Tuare'nin başına ne geleceğini tartışmasını ister. Renner, Sekiz Parmak'a karşı planladığı saldırılar hakkında onlara danışmak için Mavi Gül, ardından Marki Raeven ile görüşür.",
+                "air_date": "2018-03-13",
+                "still_path": "/ap6Pic1Vm5wWEyG0YuLBtbcyhjJ.jpg",
+                "video_url": "3649917"
+            },
+            {
+                "episode_number": 11,
+                "name": "Jaldabaoth",
+                "overview": "Demiurge, Nazarick'in güçlerinin sorumluluğunu üstlenir ve Eight Fingers'a saldırma görevini belirler. Bu arada Lakyus, takım kaptanlarına benzer bir görevin ayrıntılarını verir. Sebas, Climb ve Brain, Six Arms'ın yerleşkesine birlikte baskın düzenler.",
+                "air_date": "2018-03-20",
+                "still_path": "/is8hObrVoJhOUi5s5S7eMAEmEOF.jpg",
+                "video_url": "3651399"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kargaşanın Son Savaşı",
+                "overview": "Evileye, Momon'dan kendisine yardım etmesini ister ve o da kılık değiştirmiş Demiurge ile savaşmaya başlar. Climb ve diğerleri Tuare'yi kamptan çıkarmaya çalışırken direnişle karşılaşırlar. Renner acil bir strateji toplantısı düzenler.",
+                "air_date": "2018-03-27",
+                "still_path": "/qRAnxDWlk2HRHiEBUvMHIPJgFeI.jpg",
+                "video_url": "3649926"
+            },
+            {
+                "episode_number": 13,
+                "name": "En Son Koz Kartı",
+                "overview": "Muhafızlar ve maceracılar, Momon gelip görevi devralana kadar korkutucu bir iblis dizisiyle karşı karşıya gelir. Brain bir kez daha Shalltear ile yüz yüze gelir. Evileye meşgulken, Demiurge planını Ains'e açıklar.",
+                "air_date": "2018-04-03",
+                "still_path": "/jLxv81N8jcKlQlYXYA9R2BM39aA.jpg",
+                "video_url": "3649938"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 13,
+        "air_date": "2018-07-10",
+        "poster_path": "/uuYAJYqawtCqZD9ftxDclu5zXPN.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Bir Hükümdarın Hüzünlülüğü",
+                "overview": "Re-Estize Kingdom ve Lizard Men olaylarının ardından, Nazarick'in sadık hizmetkarları günlük rutinlerine geri döner. Ancak Ains, NPC'lerinin iş/yaşam dengesi konusunda endişelidir. Dinlenmeden gece gündüz çalışırlar...",
+                "air_date": "2018-07-10",
+                "still_path": "/hRQV2GxCEs4py7JQ99nv3rnqIHm.jpg",
+                "video_url": "3666769"
+            },
+            {
+                "episode_number": 2,
+                "name": "Carne Köyü Bir Kez Daha",
+                "overview": "Nazarick bir sonraki adımlarına karar verirken, Carne köyü evlerini yeniden inşa etmeye odaklanır. Enri ve goblin birliği köylüleri korumakla, kanunsuz birliği eğitmekle ve tarlaları yönetmekle meşguldür. Bu arada, ormanda huzursuzluk artmaktadır.",
+                "air_date": "2018-07-17",
+                "still_path": "/5MTK1vSA9Yjh0NcsfxuGWtlLpIr.jpg",
+                "video_url": "4879808"
+            },
+            {
+                "episode_number": 3,
+                "name": "Enri'nin Karmaşası ve Yoğun Günleri",
+                "overview": "Enri, Agu ile tanışır ve Agu herkese Doğu'nun Devi ve Batı'nın Şeytan Yılanı'nın Yıkım Anıtı'nın efendisiyle savaşmak için güçlerini topladıklarını söyler. Enri ve diğerleri harekete geçer, ancak günün ne kadar çılgınlaşacağını pek bilmez...",
+                "air_date": "2018-07-24",
+                "still_path": "/nBtno6Z2cNEQlcqfeyZBxzHKkEx.jpg",
+                "video_url": "4879823"
+            },
+            {
+                "episode_number": 4,
+                "name": "Doğunun Devi, Batının Şeytan Yılanı",
+                "overview": "Ains, Doğu'nun Devi ve Batı'nın Şeytan Yılanı'nı bizzat görmeye karar verir. Eğer Hamusuke'ye benziyorlarsa, deneysel denek olarak bazı değerleri olabilir. Ayrıca Lupisregina'nın köydeki yeteneklerini test etmede de faydalı olabilirler.",
+                "air_date": "2018-07-31",
+                "still_path": "/37Jmrqot5NsGiFWTpT4PDJ652UA.jpg",
+                "video_url": "3666812"
+            },
+            {
+                "episode_number": 5,
+                "name": "İki Lider",
+                "overview": "\"Doğu'nun Devi\" Carne Köyü'ne saldırmaya geldi, ancak köylüler evlerini ve ailelerini korumak için hayatlarını ortaya koymaya hazır. Goblin birliği ön kapıları savunurken, Enri ve Nphirea köyü arkadan savunuyor.",
+                "air_date": "2018-08-07",
+                "still_path": "/oMqo6oyjnrwaDXC1M2HGB4FbJeh.jpg",
+                "video_url": "3666827"
+            },
+            {
+                "episode_number": 6,
+                "name": "Ölüme Davet",
+                "overview": "Nazarick'in Mezarı dünya hakimiyeti planlarını sürdürüyor ve Ains, Karanlığın Momon'u olarak Baharuth İmparatorluğu'nu ziyaret ediyor. Bu arada, Kont Femel, Re-Estize Krallığı'nda yakın zamanda keşfedilen belirli bir mezarı keşfetmek için çok sayıda İşçi kiralıyor.",
+                "air_date": "2018-08-14",
+                "still_path": "/7OjOmPIaUSn6N3Qp5OaKJV7EiCm.jpg",
+                "video_url": "3666841"
+            },
+            {
+                "episode_number": 7,
+                "name": "Örümcek Ağına Dolanmış Kelebek",
+                "overview": "Nazarick'in Mezarı'na giren aptal işçiler Ains Ooal Gown'u çok kızdırdı. Albedo ve diğerleri karşılama hazırlıklarını çoktan bitirmişlerdi ve Lord Ains, tek bir kişinin bile mezarından canlı çıkmaması için kararlı bir şekilde izliyordu.",
+                "air_date": "2018-08-21",
+                "still_path": "/kYeA85N4nZQy9Qqk0f97EiSKEXK.jpg",
+                "video_url": "3666850"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bir Avuç Umut",
+                "overview": "İşçi grubu Foresight, büyük Ains Ooal Gown'a meydan okumak için altıncı kattaki dövüş arenasına ışınlanır. Ains, değerli Nazarick'ine ayak basmaya cesaret eden pis hırsızların sonuncusunu ortadan kaldırırken için için yanan öfkesini dizginlemeye çalışır.",
+                "air_date": "2018-08-28",
+                "still_path": "/oWWXfvqNzRad3ZKyELAL9Mvn5AY.jpg",
+                "video_url": "4879869"
+            },
+            {
+                "episode_number": 9,
+                "name": "Söz Savaşı",
+                "overview": "Ainz, Aura ve Mare'yi İmparatorluğa bir mesajla gönderir. Gelip özür diler ya da ülkenizin yerle bir oluşunu izler. Başka seçeneği olmayan İmparator Jircniv, yanında bir asilzadenin başını da götürerek Nazarick'e doğru yola çıkar. Ancak işler göründüğü gibi değildir.",
+                "air_date": "2018-09-04",
+                "still_path": "/iW5bHIxzTTmmlh6gJg4gpaTVXCM.jpg",
+                "video_url": "4879894"
+            },
+            {
+                "episode_number": 10,
+                "name": "Savaşa Hazırlık",
+                "overview": "Re-Estize Krallığı, İmparatorluktan E-Rantel yakınlarındaki toprakları Büyücü Kral Elbisesi için talep edeceklerine dair bir bildiri aldıktan sonra savaşa hazırlanıyor. Gazef büyücünün gücünü biliyor, ancak çoktan harekete geçen şeyi durduramıyor.",
+                "air_date": "2018-09-11",
+                "still_path": "/b9zmtMt3zU0qpjvtWECFMA3207V.jpg",
+                "video_url": "4879899"
+            },
+            {
+                "episode_number": 11,
+                "name": "Başka Bir Savaş",
+                "overview": "Carne Köyü bir kez daha sıkıntıda. Re-Estize'nin ilk prensi tarafından yönetilen bir ordu belirdi ve köylülerin Ains Ooal Gown hakkında sorgulanması için içeri alınmayı talep etti. Enri, köy ve halkı için bir karar vermeli.",
+                "air_date": "2018-09-18",
+                "still_path": "/h1lqFum5vH0gsAVYIwTuK2eDAU5.jpg",
+                "video_url": "4879901"
+            },
+            {
+                "episode_number": 12,
+                "name": "Katliam",
+                "overview": "Savaş sonunda başlıyor. İmparatorluk, Büyücü Kral'ın gücünün derinliklerini görmek için bu fırsatı kullanmayı planlıyor ve Krallık, kendilerini bu savaşa tamamen hazırladıklarından emin. Gazef hazır. Şimdi, umutsuzluk başlasın.",
+                "air_date": "2018-09-25",
+                "still_path": "/o0kr52klt1Qv3EwQjpCrM7gwd4M.jpg",
+                "video_url": "3666873"
+            },
+            {
+                "episode_number": 13,
+                "name": "Oyuncu Vs Oyuncu",
+                "overview": "Gazef, Ains'e kazanması imkansız bir düelloya meydan okur ve Ains kabul etmeye karar verir. Savaş yakında sona erecek ve E-Rantel'in kaderi belirlenecektir. Kan dökülmesinin ortasında bile Gazef ve Ains birbirlerine derin bir saygı duyarlar.",
+                "air_date": "2018-10-02",
+                "still_path": "/15FD17qUoZjz4tKkMrsNiqdMAQO.jpg",
+                "video_url": "3666874"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 13,
+        "air_date": "2022-07-05",
+        "poster_path": "/lB0IMdLr4rwbBGx0aYVSjXvxzh.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Büyücü Krallığı Ains Ooal Gown: Lider Karanlığın Ains Ooal Gown Ulusu",
+                "overview": "Ains yeni krallığını yönetmeye çalışırken, özellikle önemli bir soru üzerinde düşünmeye devam ediyor. Krallığındaki ve Nazarick Mezarı'ndaki herkes de onun cevabını bekliyor. Nasıl bir krallık yaratmak istiyor?",
+                "air_date": "2022-07-05",
+                "still_path": "/iwkVCzzY3Z9utQKDIJbbRKR8QsJ.jpg",
+                "video_url": "4849537"
+            },
+            {
+                "episode_number": 2,
+                "name": "Re-estize Krallığı",
+                "overview": "Albedo, Büyücü Krallığı'nın elçisi olarak Re-Estize Krallığı'na doğru yola çıkar. Bu arada, Re-Estize halkı yakın zamandaki savaştan kurtulmak ve geleceğe hazırlanmak için ellerinden geleni yapmaya devam eder. Ancak herkesin aklında barış yoktur.",
+                "air_date": "2022-07-12",
+                "still_path": "/D2C1STGhW0v4fQLEpVFTXexb96.jpg",
+                "video_url": "4794792"
+            },
+            {
+                "episode_number": 3,
+                "name": "Baharuth İmparatorluğu",
+                "overview": "Diğer ülkelerdeki büyük güçler Büyücü Krallığı konusunda giderek daha fazla tedirginleşiyor. Özellikle de Ains Ooal Gown'un ezici gücünün yarattığı stresten dolayı kel kalabilecek Barahuth İmparatorluğu imparatoru. Hangi tarafta duracak?",
+                "air_date": "2022-07-19",
+                "still_path": "/nihWW8H0xwqMIRhVzghWZHVJN3J.jpg",
+                "video_url": "4795428"
+            },
+            {
+                "episode_number": 4,
+                "name": "Komplonun Hükümdarı",
+                "overview": "Albedo ve diğerleri dünya hakimiyetine doğru hamlelerini yaparken, Ains'in kendi küçük planı vardır. Yggdrasil'deki oyuncular gibi, bilinmeyeni keşfetmek için gerçek maceracılar yetiştirmek ister. İşe alım çabaları onu Baharuth İmparatorluğu'na getirir...",
+                "air_date": "2022-07-26",
+                "still_path": "/6JziYMFI5FA2Wi9Mzf1nrlt4QQ5.jpg",
+                "video_url": "4803040"
+            },
+            {
+                "episode_number": 5,
+                "name": "Cüceler Ülkesinin Peşinde",
+                "overview": "İmparatorluk ziyaretinden sonra Ains, Cüce Krallığı ile dostça bir ilişki kurmaya karar verir. Ne yazık ki oraya vardığında sadece boş bir şehir bulur. Tünellerin derinliklerinde, ona olanları anlatan Gondo adında bir cüceyle tanışır.",
+                "air_date": "2022-08-02",
+                "still_path": "/8EODEwH5P98cBhASmtEgrjydDEI.jpg",
+                "video_url": "4811403"
+            },
+            {
+                "episode_number": 6,
+                "name": "Yaklaşan Kriz",
+                "overview": "Ains, Quagoa'ya karşı savaşan cücelere yardım etmeye karar verir, ancak bedavaya değil. Gondo'yu ve diğer rün ustalarını Büyücü Krallığı için toplamak ister. Aynı zamanda, Ains, Shalltear'a bir iki şey öğretmek için mükemmel bir fırsat bulur.",
+                "air_date": "2022-08-09",
+                "still_path": "/cdKnnv4TT6WtqwlVi1mIJZhEd19.jpg",
+                "video_url": "4819982"
+            },
+            {
+                "episode_number": 7,
+                "name": "Don Ejderhası Lordu",
+                "overview": "Klan Lordu, Ains ve grubunun kraliyet başkentine yaklaştığını keşfeder ve buz ejderhalarından yardım ister. Ejderha Lordu, oğlunu grubu durdurması için gönderirken, Ains, Quagoa ve buz ejderhalarıyla yüzleşmek için grubu bölmeye karar verir.",
+                "air_date": "2022-08-16",
+                "still_path": "/gJ59fROhqNKmOmWTjDbWPaI5Ifu.jpg",
+                "video_url": "4831604"
+            },
+            {
+                "episode_number": 8,
+                "name": "Beklenmedik Bir Hareket",
+                "overview": "Komşu ülkelerde çeşitli şeyler yaşanırken, Philip Re-Estize Krallığı'nda başarısızlığa sürüklenmeye devam ediyor. Yeni grubundan bazı soylularla görüştükten sonra aniden aklına parlak bir fikir geliyor...",
+                "air_date": "2022-08-23",
+                "still_path": "/miWRzjH7KQOTwVs8JtwJvSFXDbI.jpg",
+                "video_url": "4842322"
+            },
+            {
+                "episode_number": 9,
+                "name": "Yok Oluşa Geri Sayım",
+                "overview": "Büyücü Krallığı, Re-Estize Krallığı'na savaş ilan eder ve onlara hazırlanmaları için tam bir ay verir. Ains, Ains Ooal Gown'un düşmanlarına ne olduğunu dünyaya göstermeyi planlar. Ancak, Nazarick'teki birkaç kişi bu katliamı aşırı buluyor.",
+                "air_date": "2022-08-30",
+                "still_path": "/mM3GDYi4Zx2OjcmdLm5xdxhU78n.jpg",
+                "video_url": "4851705"
+            },
+            {
+                "episode_number": 10,
+                "name": "Son Kral",
+                "overview": "Ains ve ordusu, Re-Estize Krallığı'nı nihayet yok etmek için kraliyet başkentine doğru yürür. Çeşitli kuvvetler yaklaşan saldırıya hazırlanır. Son savaştan önce, Zanac, Ains ile barışçıl bir görüşme yapmak için tek başına at sırtında gider.",
+                "air_date": "2022-09-06",
+                "still_path": "/4Fooq9uyPByLoClZbgq5kh0jh38.jpg",
+                "video_url": "4861493"
+            },
+            {
+                "episode_number": 11,
+                "name": "İyi Hazırlanmış Tuzaklar",
+                "overview": "Daha fazla bilgi edinmek için Ains ve Albedo, kraliyet başkentine yaklaşırken kendilerini yem olarak kullanırlar. Azuth başkenti savunmak için gelir ve ikisini hızla ayırır. İkisi havada yumruklaşırken, gizemli bir figür Ains'i ziyarete gelir",
+                "air_date": "2022-09-13",
+                "still_path": "/t73YTLD7Wm7gD5ZgKjt5Xvavyne.jpg",
+                "video_url": "4870809"
+            },
+            {
+                "episode_number": 12,
+                "name": "Kraliyet Başkentinin İşgali",
+                "overview": "Re-Estize Krallığı'ndaki herkes, Büyücü Krallığı'nın ordusu kraliyet başkentini işgal ederken son hazırlıklarını yapıyor. Bazıları kaçmaya çalışıyor ve bazıları sadece ölmeyi bekliyor. Ancak aralarından en sona kadar savaşmayı dileyen birkaç kişi var.",
+                "air_date": "2022-09-20",
+                "still_path": "/u449dFidrESWD0cIw9nvEO8eLRo.jpg",
+                "video_url": "4879170"
+            },
+            {
+                "episode_number": 13,
+                "name": "Çökmekte Olan Krallığın Cadısı",
+                "overview": "Prenses Renner, babasıyla kalmaya ve Büyücü Kral'a karşı sonuna kadar mücadele etmeye karar verir. Climb, prensesin emirlerini yerine getirir ve kraliyet sarayından gizlice çıkar, ancak geri döndüğünde onu karşılayan şeye şaşırır.",
+                "air_date": "2022-09-27",
+                "still_path": "/qF8JQjzOawnS6LJp4JxIv2APDqi.jpg",
+                "video_url": "4901460"
+            }
+        ]
+    }
+}

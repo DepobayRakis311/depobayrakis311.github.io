@@ -1,0 +1,1160 @@
+{
+    "season_1": {
+        "season_number": 1,
+        "name": "Sezon 1",
+        "episode_count": 13,
+        "air_date": "2016-04-03",
+        "poster_path": "/6TKenGHaTGMvlMMKfMBoFHU2mVj.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Izuku Midoriya: Origin",
+                "overview": "Izuku Midoriya umutsuzca bir kahraman olmak istiyor, ancak neslinde Quirk olmadan doğan birkaç kişiden biri. Bir numaralı kahraman All Might ile tanışmak kaderini değiştirecek mi?",
+                "air_date": "2016-04-03",
+                "still_path": "/5S4t7vjGUahG8ieEUTDNPi1DPBh.jpg",
+                "video_url": "5227518"
+            },
+            {
+                "episode_number": 2,
+                "name": "Bir Kahraman Olmak İçin Gerekenler",
+                "overview": "Izuku, All Might'ın sırrını kazara öğrenir, ancak Izuku'nun bunu sindirebilmesi için zaman kalmadan önce kasabada yine sorun çıkar. All Might günü tekrar kurtarabilecek mi?",
+                "air_date": "2016-04-10",
+                "still_path": "/4Aa6blmgqkJDVDrf70Un1hXfjIT.jpg",
+                "video_url": "5227521"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kükreyen Kaslar",
+                "overview": "All Might, Izuku'ya kahraman olabileceğini söyler, ancak gerçekten kahraman olmak için gereken özelliklere sahip midir?",
+                "air_date": "2016-04-17",
+                "still_path": "/un1Xph8SN0yBOwwa4ntNga0XkiN.jpg",
+                "video_url": "5227525"
+            },
+            {
+                "episode_number": 4,
+                "name": "Başlangıç ​​çizgisi",
+                "overview": "Giriş sınavında, Izuku diğer öğrencilerin sahte kötü adamları sağda solda yenmesiyle geride kalır. Geçmek için yeterli puanı alabilecek mi?",
+                "air_date": "2016-04-24",
+                "still_path": "/fUq0PFzkFH0cTmsw9sBpTE2vgw9.jpg",
+                "video_url": "5227527"
+            },
+            {
+                "episode_number": 5,
+                "name": "Şimdilik Ne Yapabilirim?",
+                "overview": "Izuku'nun lisedeki ilk günü ve hala yeni Quirk'ünü kontrol edemiyor. Eksantrik yeni öğretmeniyle okulun ikinci gününe dayanabilecek mi?",
+                "air_date": "2016-05-01",
+                "still_path": "/fBVvIvLZ1pMg8Ox1MSRBmbTiIz3.jpg",
+                "video_url": "5227562"
+            },
+            {
+                "episode_number": 6,
+                "name": "Öfke, Lanet İnek",
+                "overview": "Izuku bir şekilde okulun ilk gününü atlatıp U.A.'daki düzenli ders ve eğitim programına dahil olur. All Might ile ilk derslerinde…",
+                "air_date": "2016-05-08",
+                "still_path": "/upEMKOD1lt7yMDg0ISB8WrkECjy.jpg",
+                "video_url": "5227563"
+            },
+            {
+                "episode_number": 7,
+                "name": "Deku ve Kacchan",
+                "overview": "Izuku, All Might ile ilk derslerinde Katsuki'ye karşı! O ve Uraraka, zaman dolmadan önce Katsuki ve Tenya'dan oluşan kötü adam takımını yenebilecek mi?",
+                "air_date": "2016-05-15",
+                "still_path": "/gXV0b7N5WNk0ytYJryBqc6O8nVT.jpg",
+                "video_url": "5227656"
+            },
+            {
+                "episode_number": 8,
+                "name": "Bakugo'nun Başlangıç ​​çizgisi",
+                "overview": "Dövüş eğitimi dersinin ardından öğrenciler ve All Might, bir sonraki adımlarını düşünürken maçlarını değerlendiriyorlar.",
+                "air_date": "2016-05-22",
+                "still_path": "/sjHC0vaEDAiMFhRHNGP0NvpVj9E.jpg",
+                "video_url": "5227658"
+            },
+            {
+                "episode_number": 9,
+                "name": "Evet, Sadece Elinden Gelenin En Iyisini Yap, Iida!",
+                "overview": "Sınıf 1-A bir sınıf temsilcisi seçmek zorunda ve herkes bu işi istiyor! Nasıl seçecekler? Ve bir sonraki sınıfta onları neler bekliyor?",
+                "air_date": "2016-05-29",
+                "still_path": "/4lEhvo3bs3Svu0yTFNMNmBHv7pz.jpg",
+                "video_url": "5227660"
+            },
+            {
+                "episode_number": 10,
+                "name": "Bilinmeyenle Karşılaşma",
+                "overview": "Kötüler USJ'ye saldırdı ve onları durdurmak Sınıf 1-A'ya kaldı. Kötüler neyin peşinde? All Might günü tekrar kurtarabilecek mi?",
+                "air_date": "2016-06-05",
+                "still_path": "/3QC4VYPiVCW7IEynQfrrGqFaNyg.jpg",
+                "video_url": "5227662"
+            },
+            {
+                "episode_number": 11,
+                "name": "Oyun Bitti",
+                "overview": "1-A sınıfı öğrencileri Kötüler Birliği'ne karşı mücadele ediyor. Yardım gelene kadar yeterince uzun süre hayatta kalabilecekler mi?",
+                "air_date": "2016-06-12",
+                "still_path": "/soDtzvKUfazGMrwRYlI4yUBifK2.jpg",
+                "video_url": "5227663"
+            },
+            {
+                "episode_number": 12,
+                "name": "Her Şeye Gücü Yeten",
+                "overview": "All Might sonunda ortaya çıktı, ama Nomu'yu yenip günü kurtarabilecek mi?!",
+                "air_date": "2016-06-19",
+                "still_path": "/qJRML65qJ7mbzuTdMK8Nyxt40s3.jpg",
+                "video_url": "5227665"
+            },
+            {
+                "episode_number": 13,
+                "name": "Her Birimizin Kalbinde",
+                "overview": "USJ'deki savaş sona ererken, Izuku ve All Might bunun sonuçlarını düşünür. Bu arada, kötü adamlar bir sonraki hamlelerini planlamak için eve gizlice girerler.",
+                "air_date": "2016-06-26",
+                "still_path": "/tcGyMcpJZhibydDqP2E1M6Ezd1G.jpg",
+                "video_url": "5227671"
+            }
+        ]
+    },
+    "season_2": {
+        "season_number": 2,
+        "name": "Sezon 2",
+        "episode_count": 25,
+        "air_date": "2017-04-01",
+        "poster_path": "/bLggKZhdEHhvax9jeT95MDxM6CA.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "İşte Fikir Bu, Ochaco",
+                "overview": "U.A. öğrencileri ve öğretmenleri USJ'ye yapılan Kötü Adamlar Birliği saldırısından kurtulurken Izuku, Ochaco'nun neden kahraman olmak istediğini öğrenir.",
+                "air_date": "2017-04-01",
+                "still_path": "/jKX0BNvkeEPwbP7doTQJmL9SxMI.jpg",
+                "video_url": "4908640"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kükreyen Spor Festivali",
+                "overview": "ABD spor festivali başlıyor ve tüm gözler, eleme turu olan engelli parkur yarışına başlayacak birinci sınıf öğrencilerinde.",
+                "air_date": "2017-04-08",
+                "still_path": "/dQmz1CwhwE8CzuH1EhHwxM1KJLA.jpg",
+                "video_url": "4908674"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kendi Tuhaf Yollarıyla",
+                "overview": "Birinci sınıflar, engel parkurunu tamamlayıp bir sonraki tura yükselmek için mücadele ederken, fark yaratmaya çalışıyorlar.",
+                "air_date": "2017-04-15",
+                "still_path": "/2zQEdjE2pxlTgDmGHTbq48M66Z5.jpg",
+                "video_url": "4908819"
+            },
+            {
+                "episode_number": 4,
+                "name": "Strateji, Strateji, Strateji",
+                "overview": "Izuku, U.A. spor festivalinin bir sonraki turunda süvari savaşı için bir takım bulmakta zorluk çekiyor. Neyse ki bir planı var.",
+                "air_date": "2017-04-22",
+                "still_path": "/f1kWHlvpXebscrGo9mherSx1nG7.jpg",
+                "video_url": "4908824"
+            },
+            {
+                "episode_number": 5,
+                "name": "Süvari Savaşı Finali",
+                "overview": "Süvari savaşının ikinci yarısında mücadele eden Midoriya Takımı ilk dörtte kalmak için gereken güce sahip mi?",
+                "air_date": "2017-04-29",
+                "still_path": "/dQGJ9LmiQrMtdSsh7wA5W3aCWJt.jpg",
+                "video_url": "4514213"
+            },
+            {
+                "episode_number": 6,
+                "name": "Her Şeye Sahip Olarak Doğan Çocuk",
+                "overview": "Birinci sınıf öğrencileri spor festivalinin son turuna girerken Izuku, Todoroki'nin geçmişi hakkında daha fazla şey öğrenir.",
+                "air_date": "2017-05-06",
+                "still_path": "/pacgtKLJvhOBdoNjzXgTbJwYrlE.jpg",
+                "video_url": "4514218"
+            },
+            {
+                "episode_number": 7,
+                "name": "Zafer Veya Yenilgi",
+                "overview": "Izuku, finalin ilk maçında Shinso ile karşılaşacak, ancak Shinso'nun tuhaflığını yenerek bir sonraki tura yükselebilecek mi?",
+                "air_date": "2017-05-13",
+                "still_path": "/c7QUEodtTFbEuwRWhWruZBQg9tc.jpg",
+                "video_url": "4514223"
+            },
+            {
+                "episode_number": 8,
+                "name": "Mücadeleye Devam, Meydan Okuyucular!",
+                "overview": "Final turnuvasının ilk turunda birbiri ardına maçlar oynanıyor. İkinci tura kim yükselecek?",
+                "air_date": "2017-05-20",
+                "still_path": "/jv23cLR0QKb8TJ6rjdZ2qSCZH9T.jpg",
+                "video_url": "4514229"
+            },
+            {
+                "episode_number": 9,
+                "name": "Bakugo Vs. Uraraka",
+                "overview": "Bakugo, Uraraka ile karşı karşıya geldiğinde neredeyse kötü bir karakter gibi görünüyor, ancak Uraraka'nın bunun tek taraflı bir karşılaşma olmasını engellemek için bir planı var.",
+                "air_date": "2017-05-27",
+                "still_path": "/9vtX2ZWCPyxU0FyJLqcYDULylYt.jpg",
+                "video_url": "4514236"
+            },
+            {
+                "episode_number": 10,
+                "name": "Shoto Todoroki: Origin",
+                "overview": "Izuku, Todoroki'yi geçmişiyle yüzleşmeye zorluyor ve iki sınıf rakibi sonunda karşı karşıya geliyor!",
+                "air_date": "2017-06-03",
+                "still_path": "/9fauMLW8gjPXyBVCH57ltsrUl7N.jpg",
+                "video_url": "4514238"
+            },
+            {
+                "episode_number": 11,
+                "name": "Mücadeleye Devam, Iida",
+                "overview": "Iida ve Todoroki karşı karşıya gelirken sınıf temsilcisi ile çocuk dahisi karşı karşıya. Iida'nın Karşılıklı Patlaması ateş ve buz çocuğunu yenmeye yetecek mi?",
+                "air_date": "2017-06-10",
+                "still_path": "/gtkZna20EWSZnkw3fTdKv4WpZTQ.jpg",
+                "video_url": "4514240"
+            },
+            {
+                "episode_number": 12,
+                "name": "Todoroki ve Bakugo",
+                "overview": "Todoroki ve Bakugo arasındaki patlayıcı hesaplaşma başlıyor. Sadece biri birinci yıl şampiyonu unvanını alabilir!",
+                "air_date": "2017-06-17",
+                "still_path": "/iEAHq4YEwvW4KPEBCXPtYkUEbp3.jpg",
+                "video_url": "4331229"
+            },
+            {
+                "episode_number": 13,
+                "name": "Bazı İsimleri Seçmenin Zamanı",
+                "overview": "Spor festivalindeki destansı çıkışlarının ardından, birinci sınıf öğrencilerinin kimliklerinin en önemli kısmını, yani kahraman isimlerini seçme zamanı geldi!",
+                "air_date": "2017-06-24",
+                "still_path": "/xLxkOA9CZth2tXjUj29SFubSD4P.jpg",
+                "video_url": "4514249"
+            },
+            {
+                "episode_number": 14,
+                "name": "Garip! Gran Torino Görünüyor",
+                "overview": "Stajlar başlıyor! Herkes yeni görevlerine alışırken, Izuku bir zamanlar All Might'a ders veren Gran Torino ile eğitime başlıyor.",
+                "air_date": "2017-07-08",
+                "still_path": "/zZvIDhNNe3WQdt3RkNPBN0tPVmy.jpg",
+                "video_url": "4331234"
+            },
+            {
+                "episode_number": 15,
+                "name": "Midoriya ve Şigaraki",
+                "overview": "ABD öğrencileri sonunda stajlarının nasıl yapıldığını anlamaya başlıyor, ancak Izuku'nun One For All hakkında öğreneceği çok şey var.",
+                "air_date": "2017-07-15",
+                "still_path": "/i7PYwjTCbQMQS0uEKJGZZIgl9nb.jpg",
+                "video_url": "4514257"
+            },
+            {
+                "episode_number": 16,
+                "name": "Hero Killer: Stain Vs U.a. Öğrencileri",
+                "overview": "Leke tekrar vuruyor ve bu sefer olay gerçekleştiğinde bazı U.A. öğrencileri de orada. Profesyoneller gelene kadar onu oyalayabilecekler mi?",
+                "air_date": "2017-07-22",
+                "still_path": "/sy4x22W7mzpSzdcENPXsztmbXnJ.jpg",
+                "video_url": "4331240"
+            },
+            {
+                "episode_number": 17,
+                "name": "Doruk Noktası",
+                "overview": "Izuku, Iida ve Todoroki'nin Stain'e karşı mücadelesi ve Hosu Şehri'ndeki profesyonel kahramanların Nomus'a karşı savaşmasıyla her şey doruk noktasına ulaşır.",
+                "air_date": "2017-07-29",
+                "still_path": "/jFDSZqlC8sfKgOO6vuiQjDidfkS.jpg",
+                "video_url": "4514265"
+            },
+            {
+                "episode_number": 18,
+                "name": "Hero Killer: Stain'in Sonuçları",
+                "overview": "Leke sonunda yakalanır, ancak kahraman topluluğu sonuçlarla uğraşırken daha da büyük bir meydan okuma başlar.",
+                "air_date": "2017-08-05",
+                "still_path": "/vKXtSJpnvBBiBdnKz90nlhiWcoI.jpg",
+                "video_url": "4514273"
+            },
+            {
+                "episode_number": 19,
+                "name": "Herkesin Stajları",
+                "overview": "Izuku, Iida ve Todoroki, Stain ile olan kavgalarından sonra toparlanmaya çalışırken, Sınıf 1-A'nın diğer üyeleri kendi stajlarında sıkı bir şekilde çalışmaktadırlar.",
+                "air_date": "2017-08-12",
+                "still_path": "/fPMY8vANaLtYEokGTEWlB1951X6.jpg",
+                "video_url": "4331248"
+            },
+            {
+                "episode_number": 20,
+                "name": "Dinleyin!! Geçmişten Bir Hikaye",
+                "overview": "Öğrenciler günlük hayatlarına geri dönerken All Might, Izuku için özel bir tarih dersi veriyor. One For All'ı öğrenme zamanı!",
+                "air_date": "2017-08-19",
+                "still_path": "/g7QnQCNfBQOmjo8HMr0oQkyQbdL.jpg",
+                "video_url": "4331250"
+            },
+            {
+                "episode_number": 21,
+                "name": "Final Sınavlarına Hazırlanın",
+                "overview": "Finaller yaklaşıyor ve 1-A sınıfının bir ezber seansından daha fazlasına ihtiyacı olacak. Bu yıl öğretmenler pratik sınavları değiştiriyor.",
+                "air_date": "2017-09-02",
+                "still_path": "/h0QFP8dKtq6I0dOsljPh5uMjUET.jpg",
+                "video_url": "4331253"
+            },
+            {
+                "episode_number": 22,
+                "name": "Yaoyorozu: Rising",
+                "overview": "Sınavlar öğrencilerin beklediğinden çok daha zorlayıcı oluyor. Takımlardan herhangi biri bir öğretmene karşı kendini koruyabilir mi?",
+                "air_date": "2017-09-09",
+                "still_path": "/viz7Ei6dxSmLXQwvVbodQvUfhxf.jpg",
+                "video_url": "4514289"
+            },
+            {
+                "episode_number": 23,
+                "name": "Verniğin Sökülmesi",
+                "overview": "1-A sınıfı öğrencileri uygulama sınavlarında kıyasıya mücadele ederken, kahraman olma kararlılıkları da sınanıyor.",
+                "air_date": "2017-09-16",
+                "still_path": "/edmDKyqrYDtp53b5uCylfS5gFY9.jpg",
+                "video_url": "4331257"
+            },
+            {
+                "episode_number": 24,
+                "name": "Katsuki Bakugo: Origin",
+                "overview": "Sonunda Izuku ve Bakugo'nun pratik sınavının zamanı geldi. Bir plan olmadan All Might'a nasıl meydan okuyabilirler?",
+                "air_date": "2017-09-23",
+                "still_path": "/3D3vfbtDmMHsbse73NYfUK3ShU8.jpg",
+                "video_url": "4514302"
+            },
+            {
+                "episode_number": 25,
+                "name": "Rastlamak",
+                "overview": "1-A sınıfı, eğitim kampı malzemeleri almak için alışverişe çıkar, ancak bir kötü adam Izuku'yu kenara çektiğinde işler kontrolden çıkar.",
+                "air_date": "2017-09-30",
+                "still_path": "/tRaD9tu1Qjq9kcdgN4UHYgKzlqa.jpg",
+                "video_url": "4331262"
+            }
+        ]
+    },
+    "season_3": {
+        "season_number": 3,
+        "name": "Sezon 3",
+        "episode_count": 25,
+        "air_date": "2018-04-07",
+        "poster_path": "/1VVJgXpSDI2uMHnlzI9Eg0zF7pw.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Oyun Başlangıcı",
+                "overview": "U.A. öğrencileri eğitim kampına gitmeden önce, 1-A sınıfı ekstra eğitim için havuza gidiyor ve Kötüler Birliği bir sonraki hamlelerini planlıyor.",
+                "air_date": "2018-04-07",
+                "still_path": "/vSjHls96Tj4JroSYg954S3vlwha.jpg",
+                "video_url": "4514635"
+            },
+            {
+                "episode_number": 2,
+                "name": "Vahşi, Vahşi Kedicikler",
+                "overview": "1-A sınıfı öğrencileri yaz kampının ilk zorluğuyla, öğle yemeğinden önce \"Canavarın Ormanı\"nda mücadele ederek karşı karşıya kalıyorlar.",
+                "air_date": "2018-04-14",
+                "still_path": "/2JiTX9BNFKxdy6nCCzYDJRj55uX.jpg",
+                "video_url": "4331580"
+            },
+            {
+                "episode_number": 3,
+                "name": "Kota",
+                "overview": "Birinci sınıflar eğitimlerine ciddi bir şekilde başlarken Izuku Kota ile konuşmaya çalışır. Ormanda onları neyin beklediğini pek bilmezler.",
+                "air_date": "2018-04-21",
+                "still_path": "/A4fGP3dSlUXqs0grDPCilYgkTYi.jpg",
+                "video_url": "4331585"
+            },
+            {
+                "episode_number": 4,
+                "name": "Benim Kahramanım",
+                "overview": "Kötüler saldırılarını başlatır ve sadece Izuku Kota'nın nerede olduğunu bilir. Ona zamanında ulaşabilecek mi?",
+                "air_date": "2018-04-28",
+                "still_path": "/68IZjxkQnzXj0sTzH4kbfrbzspW.jpg",
+                "video_url": "4331590"
+            },
+            {
+                "episode_number": 5,
+                "name": "Hadi, Demir Yumruk!!!",
+                "overview": "Izuku sonunda eğitim kampına geri döner ancak Mandalay'a iletmek üzere bir mesajla tekrar ayrılır.",
+                "air_date": "2018-05-05",
+                "still_path": "/ijFQhbw0MmqX24AikB22mRMkuMb.jpg",
+                "video_url": "4514645"
+            },
+            {
+                "episode_number": 6,
+                "name": "Kükreyen Kargaşa",
+                "overview": "U.A.'nın öğrencileri ve öğretmenleri hala ormanda savaşıyor, peki Vanguard Action Squad görevini tamamladı mı…?!",
+                "air_date": "2018-05-12",
+                "still_path": "/kxRGm3JF4Aszkk8tjy2y81cS7S3.jpg",
+                "video_url": "4331595"
+            },
+            {
+                "episode_number": 7,
+                "name": "Ne Değişiklik!",
+                "overview": "Eğitim kampındaki mücadele sona eriyor ve şimdi U.A.'nın öğrencileri ve öğretmenleri bu mücadelenin sonuçlarıyla yüzleşmek zorunda.",
+                "air_date": "2018-05-19",
+                "still_path": "/5mIb8XehfDrjJ6r1ycxtNAHaqHl.jpg",
+                "video_url": "4331598"
+            },
+            {
+                "episode_number": 8,
+                "name": "Iida'dan Midoriya'ya",
+                "overview": "Todoroki, Kirishima ve Midoriya, Bakugo'nun peşine düşmek isterler, ancak sınıf temsilcisi onların önünde engel teşkil eder. Bu arada, Shigaraki, Bakugo'ya bir teklifte bulunur...",
+                "air_date": "2018-05-26",
+                "still_path": "/glltUgXwP24uFcBmPhfrKaesI08.jpg",
+                "video_url": "4331603"
+            },
+            {
+                "episode_number": 9,
+                "name": "Hepimiz Birimiz İçin",
+                "overview": "Kahramanlar ve U.A. öğrencileri Kötüler Birliği'nin saklandığı yerleri ele geçirmeye çalışıyor, ancak Birliğin hâlâ elinde bir koz var.",
+                "air_date": "2018-06-02",
+                "still_path": "/cRaSrEOmmUiwn42z309BxnpGIXz.jpg",
+                "video_url": "4514661"
+            },
+            {
+                "episode_number": 10,
+                "name": "Barışın Sembolü",
+                "overview": "Kötü Adamlar Birliği'ne karşı mücadele kızışırken, U.A. öğrencileri Bakugo'yu All Might'ın büyük bir geri dönüş yapması için zamanında dışarı çıkarabilecekler mi?",
+                "air_date": "2018-06-09",
+                "still_path": "/mO7fok5FgNj4Hvo1eIkXAj6AuaO.jpg",
+                "video_url": "4331609"
+            },
+            {
+                "episode_number": 11,
+                "name": "Hepimiz İçin Bir",
+                "overview": "All Might'ın zamanı tükeniyor çünkü en büyük düşmanıyla yüzleşiyor. Sonunda All For One'ı bir kez ve sonsuza dek yenebilecek mi?",
+                "air_date": "2018-06-16",
+                "still_path": "/cKPrFFrJT9teWCdAcJo1NjIhwbz.jpg",
+                "video_url": "4331610"
+            },
+            {
+                "episode_number": 12,
+                "name": "Başlangıcın Sonu, Sonun Başlangıcı",
+                "overview": "All Might ve All For One'ın kavgasının ardından öğrenciler evlerine dönerken, U.A. öğretmenleri ise sonrasında nasıl davranacaklarına karar verirler.",
+                "air_date": "2018-06-23",
+                "still_path": "/yleKjvyD5DXUnRKjbvOxJCPAhWG.jpg",
+                "video_url": "4331611"
+            },
+            {
+                "episode_number": 13,
+                "name": "Yurtlara Taşınma",
+                "overview": "1-A sınıfı öğrencileri yurtlara yerleşir ve en iyi odanın kimde olduğunu belirlemek için bir yarışma düzenlerler.",
+                "air_date": "2018-06-30",
+                "still_path": "/mUxkrWky8pUr3rdcV8OgO3JKFiA.jpg",
+                "video_url": "4514684"
+            },
+            {
+                "episode_number": 14,
+                "name": "En İyi Hareketleri Oluşturun",
+                "overview": "1-A sınıfı öğrencileri, geçici kahraman lisanslama sınavına hazırlanmak için Tuhaflıklarını geliştirme ve nihai hareketler yaratma üzerinde çalışıyorlar.",
+                "air_date": "2018-07-14",
+                "still_path": "/xi44czDy0Tm28tk8HVIdoB6fyzo.jpg",
+                "video_url": "4331617"
+            },
+            {
+                "episode_number": 15,
+                "name": "Test",
+                "overview": "Izuku ve sınıf arkadaşları nihai hamlelerinde bazı son ayarlamalar yaptıktan sonra geçici lisans sınavına doğru yola çıkarlar.",
+                "air_date": "2018-07-21",
+                "still_path": "/gpARjoAURqHvSxscBaTeTI2wouS.jpg",
+                "video_url": "4331618"
+            },
+            {
+                "episode_number": 16,
+                "name": "Shiketsu Yüksek Gizleniyor",
+                "overview": "Sınav başladı ve herkes 1-A sınıfının peşinde! Birinci sınıflar bu ilk sınavı geçmek için yeterince uzun süre dayanabilecek mi?",
+                "air_date": "2018-07-28",
+                "still_path": "/gXLFmnOo3JkuehX8eRRRk5thpAa.jpg",
+                "video_url": "4331620"
+            },
+            {
+                "episode_number": 17,
+                "name": "Sınıf 1-a",
+                "overview": "Todoroki, Seijin Lisesi'ne karşı tek başına mücadele ediyor ve Yaoyorozu'nun grubu, 1-A Sınıfı'nın geri kalanıyla birlikte ilk testi geçmek için mücadele ederken Seiai Akademisi'ne karşı karşıya geliyor.",
+                "air_date": "2018-08-04",
+                "still_path": "/oJvs5SmB3tsNDDCmAzySGH6zAku.jpg",
+                "video_url": "4331626"
+            },
+            {
+                "episode_number": 18,
+                "name": "Acele Etmek!",
+                "overview": "İlk sınavın son dakikalarına girildi ve 1-A sınıfının neredeyse yarısı henüz geçer not alamadı!",
+                "air_date": "2018-08-11",
+                "still_path": "/ywZN4HBRmxZIPFySBHWonCfM2lk.jpg",
+                "video_url": "4331630"
+            },
+            {
+                "episode_number": 19,
+                "name": "Kurtarma Tatbikatları",
+                "overview": "Geçici lisansın ikinci sınavı başlıyor ve kahraman adayları kendilerini bir anda kurtarma operasyonunun içinde buluyorlar.",
+                "air_date": "2018-08-18",
+                "still_path": "/fD2yK1bua0rWWnAcHMlT72D2Xfp.jpg",
+                "video_url": "4331634"
+            },
+            {
+                "episode_number": 20,
+                "name": "Özel Bölüm: Dünyayı Sevgiyle Kurtarın!",
+                "overview": "Yaz kampı öncesi düzenlenen bir dersi ziyaret etmek için geçici ehliyet sınavına ara veriyoruz!",
+                "air_date": "2018-08-25",
+                "still_path": "/7DrBKSt7wy2977wQBbtIaCpDwgE.jpg",
+                "video_url": "4331636"
+            },
+            {
+                "episode_number": 21,
+                "name": "Büyük Fikir Nedir?",
+                "overview": "Sınav sona ermek üzereyken, Izuku ve diğer kahraman adayları kurtarma görevini tamamlamak için Gang Orca'yı savuşturmak zorundadırlar.",
+                "air_date": "2018-09-01",
+                "still_path": "/6MSrGMZMZ6zILXEMqGgHrD9JttC.jpg",
+                "video_url": "4514707"
+            },
+            {
+                "episode_number": 22,
+                "name": "Tuhaflığınız Hakkında Bir Konuşma",
+                "overview": "ABD öğrencileri geçici lisans sınavını tamamlayıp sonuçlarını alırken, All Might, All For One ile bir söyleşi yapıyor.",
+                "air_date": "2018-09-08",
+                "still_path": "/38B31AYuygAu6u6mrBOcKVQQ0FA.jpg",
+                "video_url": "4514709"
+            },
+            {
+                "episode_number": 23,
+                "name": "Deku ve Kacchan, Bölüm 2",
+                "overview": "Geçici lisans sınavının ardından Izuku, Bakugo'ya karşı Atış Stili'ni dener ve aralarında yürekten bir mücadele başlar.",
+                "air_date": "2018-09-15",
+                "still_path": "/9aWqAYr03K5LG5oa3bOrX6qOmP7.jpg",
+                "video_url": "4514711"
+            },
+            {
+                "episode_number": 24,
+                "name": "Karşılaşmaların Mevsimi",
+                "overview": "All Might'ın All For One ile mücadelesinden sonraki haftalarda dünya hem kötüler hem de kahramanlar için değişmiştir ve U.A. öğrencileri ikinci yarıyıllarına başlarlar.",
+                "air_date": "2018-09-22",
+                "still_path": "/lTqwkYaOSyFHMMdFhOFcdJXsoXd.jpg",
+                "video_url": "4514713"
+            },
+            {
+                "episode_number": 25,
+                "name": "Rakipsiz",
+                "overview": "Sınıf 1-A öğrencileri Büyük Üçlü'den iş öğrenimi hakkında bilgi edinirler. Bu arada, kötü adamlar da bir sonraki adımlarını hazırlarlar.",
+                "air_date": "2018-09-29",
+                "still_path": "/qp7TmTcLDv6N1Erjr3OJSvGFj4z.jpg",
+                "video_url": "4331645"
+            }
+        ]
+    },
+    "season_4": {
+        "season_number": 4,
+        "name": "Sezon 4",
+        "episode_count": 25,
+        "air_date": "2019-10-12",
+        "poster_path": "/YCI5ADVr0JBboX0V3C3apAOtNH.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "U.a. Sınıf 1-a Hakkındaki Haberler",
+                "overview": "All Might emekliliğini duyurduktan sonra, serbest muhabir Taneo Tokuda, U.A. Sınıf 1-A'yı araştırmak için yurtlara gider.",
+                "air_date": "2019-10-12",
+                "still_path": "/tv8nAqL2sOYi9XWWbea2RpxH3Tt.jpg",
+                "video_url": "4771064"
+            },
+            {
+                "episode_number": 2,
+                "name": "Revizyon",
+                "overview": "Overhaul, Kötüler Birliği'ni ziyaret eder ve Midoriya çalışma dersini yapabileceği bir yer bulmaya çalışır.",
+                "air_date": "2019-10-19",
+                "still_path": "/aTKDtpb0lDOtjPuMUbu9r9T1VhN.jpg",
+                "video_url": "4771071"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çocuk Karşılaşır…",
+                "overview": "Izuku, Nighteye'nin ajansında çalışma stajı yapabilmek için Sir Nighteye ile savaşır, ancak Nighteye'nin aklında All Might'ın halefi olabilecek başka biri vardır...",
+                "air_date": "2019-10-26",
+                "still_path": "/u4IWgBmdGMqqeUG9DwJ8FDvVyn9.jpg",
+                "video_url": "4327131"
+            },
+            {
+                "episode_number": 4,
+                "name": "Kaderle Mücadele",
+                "overview": "Izuku'nun aklı çalışma hayatından gelen duygularla dolu olduğundan, gidip All Might ile konuşur ve All Might'ın kaderini öğrenir.",
+                "air_date": "2019-11-09",
+                "still_path": "/uQEUdJIxePxCys89awT5JrEYvRW.jpg",
+                "video_url": "4767758"
+            },
+            {
+                "episode_number": 5,
+                "name": "Hadi Gidelim, Cesaretli Kızıl İsyan",
+                "overview": "ABD'deki çalışma-öğrenme öğrencileri kahramanlarıyla birlikte dışarı çıkıyor ve büyük kavgalara karışıyorlar.",
+                "air_date": "2019-11-16",
+                "still_path": "/6xSlj42kvFobud9Jj1Utj38X5ho.jpg",
+                "video_url": "4767763"
+            },
+            {
+                "episode_number": 6,
+                "name": "Hoş Olmayan Bir Konuşma",
+                "overview": "ABD'li çalışma-öğrenme öğrencileri, Sir Nighteye tarafından bir araya getirilen kahramanların buluşmasına katılır ve yeni bir kararlılıkla ayrılırlar.",
+                "air_date": "2019-11-23",
+                "still_path": "/yDStQtH9HfpK79oXrWvHTolbYwo.jpg",
+                "video_url": "4767767"
+            },
+            {
+                "episode_number": 7,
+                "name": "Gi̇tmek!!",
+                "overview": "Çalışma-öğrenme öğrencileri, profesyonel kahramanların Eri'yi bulmasını ve onu kurtarmak için operasyon başlatma zamanının gelmesini beklerler.",
+                "air_date": "2019-11-30",
+                "still_path": "/s1OR21F40kIoJ7jAlPTziWWFvgm.jpg",
+                "video_url": "4767771"
+            },
+            {
+                "episode_number": 8,
+                "name": "Büyük Üçlü'nün Güneş Yiyeni",
+                "overview": "Shie Hassaikai, kahramanları durdurmak için elinden geleni yapar ve Suneater, yollarına çıkan ilk Eight Bullets üyelerini ortadan kaldırmak için gönüllü olur.",
+                "air_date": "2019-12-07",
+                "still_path": "/wWWdXsRozPFLt4VCDWPtAR4C6qD.jpg",
+                "video_url": "4767774"
+            },
+            {
+                "episode_number": 9,
+                "name": "Kırmızı İsyan",
+                "overview": "Shie Hassaikai ile mücadele devam ederken Kirishima, Fat Gum ile birlikte diğerlerinden ayrılınca geçmişiyle yüzleşmek zorunda kalır.",
+                "air_date": "2019-12-14",
+                "still_path": "/ri65KrslHFXAe1Ewb1tTWzqfMKK.jpg",
+                "video_url": "4767779"
+            },
+            {
+                "episode_number": 10,
+                "name": "Geçici Kadro",
+                "overview": "Hassaikai, kahramanlar Eri'yi kurtarmak için Chisaki'ye doğru yol alırken Kötüler Birliği'nden yardım alır.",
+                "air_date": "2019-12-21",
+                "still_path": "/yozV28EeXAjh4SEJoiTt2BTE7F3.jpg",
+                "video_url": "4767787"
+            },
+            {
+                "episode_number": 11,
+                "name": "Lemilyon",
+                "overview": "Kötüler Birliği mücadelelerinde isimlerine sadık kalıyor. Bu arada Togata, Chisaki ve Eri'ye ilk yetişen oluyor...",
+                "air_date": "2019-12-28",
+                "still_path": "/dSDTXH4pwn415tm1daIQ7kKT6pR.jpg",
+                "video_url": "4767797"
+            },
+            {
+                "episode_number": 12,
+                "name": "Öngörülemeyen Umut",
+                "overview": "Izuku, Eraser Head ve Sir Nighteye sonunda Chisaki ve diğerlerinin olduğu yere ulaşırlar ve Togata'nın sınırlarını aştığını görürler...",
+                "air_date": "2020-01-04",
+                "still_path": "/22rgsCKe7ZTkBUckpJAqWaSUoHB.jpg",
+                "video_url": "4767800"
+            },
+            {
+                "episode_number": 13,
+                "name": "Sonsuz 100%",
+                "overview": "Shie Hassaikai ile mücadele doruk noktasına ulaşırken, Chisaki her şeyin nasıl başladığını düşünür ve Izuku All For One'ı %100'le kullanır.",
+                "air_date": "2020-01-11",
+                "still_path": "/r9Dxr15uS6rXcPJPS6jMOnGCUHq.jpg",
+                "video_url": "4767807"
+            },
+            {
+                "episode_number": 14,
+                "name": "Parlak Gelecek",
+                "overview": "Kahramanlar Shie Hassaikai ile olan mücadelenin sonuçlarıyla uğraşırken, Chisaki'yi taşıyan araç Kötüler Birliği ile karşılaşır...",
+                "air_date": "2020-01-18",
+                "still_path": "/wsDTycOk4KfbCqfvEwT3CQPs4cB.jpg",
+                "video_url": "4767812"
+            },
+            {
+                "episode_number": 15,
+                "name": "İçin için Yanan Alevler",
+                "overview": "Shie Hassaikai ile yapılan mücadelenin ardından ortaya yeni bir kötü adam çıkar ve mücadeleye katılan öğrenciler geleceğin kahramanları olarak kendi rollerini düşünürler.",
+                "air_date": "2020-01-25",
+                "still_path": "/qS2s0q8eHOdcYBuxp5dJfy33yZh.jpg",
+                "video_url": "4767815"
+            },
+            {
+                "episode_number": 16,
+                "name": "Çocukların Kalplerini Kazanın",
+                "overview": "Camie geçici lisans eğitim kursuna katılır ve Masegaki'den çocuklarla çalışan ekibe eklenir. Bu arada, Endeavor All Might ile ciddi bir konuşma yapar.",
+                "air_date": "2020-02-01",
+                "still_path": "/1EPTmLd1q4cj2vcMmjUdsiMEXLg.jpg",
+                "video_url": "4767818"
+            },
+            {
+                "episode_number": 17,
+                "name": "Lisans Kursiyerlerine Yardım",
+                "overview": "Stajyerler, Masegaki'nin zeki çocuklarıyla bağ kurar ve sonbahar yaklaşırken U.A.'daki hayat normale döner, ancak Aoyama garip davranmaya başlar...",
+                "air_date": "2020-02-08",
+                "still_path": "/hqU4H7qf8xw0Qnhxf7B8LbegqBC.jpg",
+                "video_url": "4767821"
+            },
+            {
+                "episode_number": 18,
+                "name": "Okul Festivali",
+                "overview": "U.A. öğrencileri okul festivaline hazırlanırken, Deku ve Togata Eri'yi hastanede ziyaret eder. Bu arada, Gentle Criminal adında yeni bir kötü adam suç dünyasına adım atar.",
+                "air_date": "2020-02-15",
+                "still_path": "/eY34pkD5wgXKmH8zsfcQ5k7qzW9.jpg",
+                "video_url": "4767824"
+            },
+            {
+                "episode_number": 19,
+                "name": "Okul Festivaline Hazırlık En Eğlenceli Kısımdır",
+                "overview": "1-A sınıfı öğrencileri okul festivalindeki performansları için roller belirler ve Gentle bir sonraki planını hazırlamaya başlar.",
+                "air_date": "2020-02-22",
+                "still_path": "/mZPyaBmpuiJF5ePmqESrKa18PHk.jpg",
+                "video_url": "3855028"
+            },
+            {
+                "episode_number": 20,
+                "name": "Altın İpuçları İmparatorluk",
+                "overview": "Öğrenciler okul festivaline hazırlanırken Eri, U.A.'yi ziyaret eder ve Gentle planlarını sonlandırır.",
+                "air_date": "2020-02-29",
+                "still_path": "/csmr4g86fPLJtoCUsfvRLRdKCdT.jpg",
+                "video_url": "4767830"
+            },
+            {
+                "episode_number": 21,
+                "name": "Deku Vs. Nazik Suçlu",
+                "overview": "Deku okul festivali için son dakika ihtiyaçları satın alırken, trençkot giymiş gizemli bir adamla karşılaşır...",
+                "air_date": "2020-03-07",
+                "still_path": "/hGZtCiBp6yMKQqnz1XdoilhgVUQ.jpg",
+                "video_url": "4767836"
+            },
+            {
+                "episode_number": 22,
+                "name": "Okul Şenliği Başlıyor!!",
+                "overview": "Izuku, Gentle Criminal ve ortağı La Brava'yı durdurmalıdır, aksi takdirde okul festivali iptal edilecektir.",
+                "air_date": "2020-03-14",
+                "still_path": "/a61IwJeorvJsj18lGwAvO6coYSD.jpg",
+                "video_url": "3872592"
+            },
+            {
+                "episode_number": 23,
+                "name": "Bırak Akışına Bırak! Okul Şenliği!",
+                "overview": "Izuku, Gentleman ve La Brava ile karşılaşmasının ardından okul festivaline geri döner, ancak performansına zamanında yetişebilecek midir?",
+                "air_date": "2020-03-21",
+                "still_path": "/dSpX2czk3KmymDDr2Ltwy2J0Pnk.jpg",
+                "video_url": "4767846"
+            },
+            {
+                "episode_number": 24,
+                "name": "Japon Kahraman Billboard Listesi",
+                "overview": "Bir sonraki Japon Kahramanları Billboard Listesi sıralamasının açıklanma zamanı geldi ve bu sefer ilk on kahramanın hepsi bir arada yer alıyor.",
+                "air_date": "2020-03-28",
+                "still_path": "/j1KX3vFTFpI7g71548rWFIERsez.jpg",
+                "video_url": "4767848"
+            },
+            {
+                "episode_number": 25,
+                "name": "Onun Başlangıcı",
+                "overview": "Endeavor ve Hawks, High-End ile karşı karşıya geliyor ve Endeavor'ın dünyaya yeni bir numaralı kahramanın nasıl biri olduğunu gösterme şansı var.",
+                "air_date": "2020-04-04",
+                "still_path": "/vJmfcJkL1jMy6qQGrgV4uwJMADU.jpg",
+                "video_url": "3892337"
+            }
+        ]
+    },
+    "season_5": {
+        "season_number": 5,
+        "name": "Sezon 5",
+        "episode_count": 25,
+        "air_date": "2021-03-27",
+        "poster_path": "/uJz848GKjbSqjCkkF1J99HN9VaG.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Herkes Güvertede! Sınıf 1-a",
+                "overview": "U.A. Lisesi'nde acil durum tatbikatı var ve 1-A sınıfı öğrencilerinin göreve başlamaları isteniyor!",
+                "air_date": "2021-03-27",
+                "still_path": "/c3CUkVMNAGZpZ4h32LyaLyuvPel.jpg",
+                "video_url": "4275878"
+            },
+            {
+                "episode_number": 2,
+                "name": "Kalıntılar",
+                "overview": "Nomu'yla olan mücadelelerinin ardından Hawks ve Endeavor günlük hayatlarına geri dönerler ve Izuku One For All hayalini kurar...",
+                "air_date": "2021-04-03",
+                "still_path": "/6Pl8NUbrBFkSG7C51nvFF8zNd9H.jpg",
+                "video_url": "4288234"
+            },
+            {
+                "episode_number": 3,
+                "name": "Çatışma! A Sınıfı Vs. B Sınıfı!",
+                "overview": "A Sınıfı ve B Sınıfı, ortak muharebe eğitimleri sırasında mücadele ederken özel bir konukla birlikteler.",
+                "air_date": "2021-04-10",
+                "still_path": "/iyv4SjWGdAYU8vU1Cjn1vM7pa4V.jpg",
+                "video_url": "4294560"
+            },
+            {
+                "episode_number": 4,
+                "name": "Gerçekleştir Bunu, Shinso!",
+                "overview": "A Sınıfı takımı, B Sınıfı takımına karşı oynayacakları ilk maçta Shinso ve yeni ekipmanlarını iyi bir şekilde kullanmaya çalışır.",
+                "air_date": "2021-04-17",
+                "still_path": "/jJTrVnBbHvpFLoSX6DnOOpD643V.jpg",
+                "video_url": "4300318"
+            },
+            {
+                "episode_number": 5,
+                "name": "Operasyon Yeni Improv Hareketleri",
+                "overview": "Sınıf savaşlarının ikinci maçında Tokoyami ve Kuroiro karşı karşıya gelirken karanlık karanlığa karşı!",
+                "air_date": "2021-04-24",
+                "still_path": "/tcX2TCexx8Tea1PljP47q6hIVTp.jpg",
+                "video_url": "4309415"
+            },
+            {
+                "episode_number": 6,
+                "name": "Öngörü",
+                "overview": "Takımından ayrılan Yaoyorozu'nun liderlik becerileri, sınıf savaşlarının ikinci maçında sınanır.",
+                "air_date": "2021-05-01",
+                "still_path": "/f3vHizOvj76lKPdsqSm6nRKU5Zx.jpg",
+                "video_url": "4310943"
+            },
+            {
+                "episode_number": 7,
+                "name": "3. Maç",
+                "overview": "Sınıf savaşlarının üçüncü maçında Honenuki, dengeli bir Sınıf A takımına karşı Sınıf B takımını yönetiyor.",
+                "air_date": "2021-05-08",
+                "still_path": "/noEVg9zK1I8eQyzIJWXczfNeUAZ.jpg",
+                "video_url": "4316303"
+            },
+            {
+                "episode_number": 8,
+                "name": "Maç 3 Sonuç",
+                "overview": "Üçüncü maç ise Todoroki ile Tetsutetsu arasındaki dayanıklılık mücadelesiyle devam ederken, maç yine herkesin lehine olacak.",
+                "air_date": "2021-05-15",
+                "still_path": "/q55LqMeHDhh8UZXTaYmnQVcoVF2.jpg",
+                "video_url": "4319545"
+            },
+            {
+                "episode_number": 9,
+                "name": "Erken Rezervasyon!",
+                "overview": "Sınıf savaşlarının devam ettiği dördüncü takım maçında Bakugo farklı bir yüzünü gösteriyor.",
+                "air_date": "2021-05-22",
+                "still_path": "/5LxEDDIuC9s0rxQTTO7Vc7GxREm.jpg",
+                "video_url": "4334347"
+            },
+            {
+                "episode_number": 10,
+                "name": "Miras Alınan",
+                "overview": "Midoriya ve Shinso, spor festivalinden bu yana ilk kez sınıf savaşlarının son mücadelesinde karşı karşıya geliyor.",
+                "air_date": "2021-05-29",
+                "still_path": "/2xSykS8b8NMq9Zf0HphEUDuI3sx.jpg",
+                "video_url": "4334830"
+            },
+            {
+                "episode_number": 11,
+                "name": "Kavgamız",
+                "overview": "Sınıf A ve Sınıf B'den son iki takımın bitiş çizgisine kadar mücadele ettiği tam bir kavga!",
+                "air_date": "2021-06-05",
+                "still_path": "/rU6v9S0CcGUznxoTdL5HH5a0Iwd.jpg",
+                "video_url": "4337369"
+            },
+            {
+                "episode_number": 12,
+                "name": "Yeni Güç ve Hepsi Bir İçin",
+                "overview": "Sınıf savaşları sona ererken Midoriya, All Might ve Bakugo ile birlikte yeni gücü hakkında daha fazla bilgi edinmeye çalışır.",
+                "air_date": "2021-06-12",
+                "still_path": "/u8UkMggEPOagPSdvLxrHmjXYESo.jpg",
+                "video_url": "4337373"
+            },
+            {
+                "episode_number": 13,
+                "name": "Mutlu Noeller!",
+                "overview": "U.A.'da Noel zamanı ve 1-A sınıfı öğrencileri bunu bir Noel partisiyle kutluyor.",
+                "air_date": "2021-06-19",
+                "still_path": "/42pXXMhcruAW45XMIR3FdlWa2pw.jpg",
+                "video_url": "4339908"
+            },
+            {
+                "episode_number": 14,
+                "name": "Endeavor'un Ajansına Doğru!",
+                "overview": "Hawks, Endeavor Ajansı'na giderken Endeavor ve onun çalışma-öğrenme öğrencileriyle karşılaştığında tuhaf davranır.",
+                "air_date": "2021-06-26",
+                "still_path": "/y26vP3GNxr0GKp8FpDAqFVaf0T2.jpg",
+                "video_url": "4344550"
+            },
+            {
+                "episode_number": 15,
+                "name": "Bir Seferde Bir Şey",
+                "overview": "Kötüler perde arkasında hareket etmeye devam ederken, Endeavor çalışma-öğrenme öğrencilerinin eğitimlerinin bir sonraki adımlarına yardımcı olur.",
+                "air_date": "2021-07-10",
+                "still_path": "/dqrqlkOP52nyrr7xR1zbTlBKtnk.jpg",
+                "video_url": "4377998"
+            },
+            {
+                "episode_number": 16,
+                "name": "Uzun Zaman Görüşmedik, Selkie",
+                "overview": "Ryukyu, Selkie'nin kendisiyle takım olmasını istemesi üzerine çalışma-öğrenme öğrencilerini de beraberinde getirir.",
+                "air_date": "2021-07-17",
+                "still_path": "/jHJ1K3bLwyWUpWQdMmQTgbsArgD.jpg",
+                "video_url": "4378005"
+            },
+            {
+                "episode_number": 17,
+                "name": "Cehennem Todoroki Ailesi",
+                "overview": "Endeavor, Fuyumi'nin isteği üzerine çalışma-öğrenme öğrencilerini akşam yemeğine getirir ancak evde tuhaf konuşmalarla karşılaşır.",
+                "air_date": "2021-07-24",
+                "still_path": "/p9CcOJ3Mafg92MfDMvRVNUg9RIE.jpg",
+                "video_url": "4378006"
+            },
+            {
+                "episode_number": 18,
+                "name": "Affedilmeyen",
+                "overview": "Endeavor'ın en büyük hayranlarından biri, yarım kalmış bir işi halletmek için geliyor ve bir imzadan çok daha fazlasını bekliyor.",
+                "air_date": "2021-07-31",
+                "still_path": "/7k35kHEaEGe7P9Vo7kC543legCc.jpg",
+                "video_url": "4378007"
+            },
+            {
+                "episode_number": 19,
+                "name": "Herkesten Daha Kahraman",
+                "overview": "Kurogiri ile ilgili rahatsız edici bir keşif yapıldığında, Aizawa ve Present Mic onu sorgulamak üzere çağrılır.",
+                "air_date": "2021-08-14",
+                "still_path": "/qNY4B8qcDSbD9doK9odbMWD7AVF.jpg",
+                "video_url": "4391667"
+            },
+            {
+                "episode_number": 20,
+                "name": "Benim Kötü Adam Akademiam",
+                "overview": "Bir dizi sürpriz karşılaşma, Shigaraki'ye Kötüler Birliği için yeni bir yön duygusu kazandırmaya yardımcı olur.",
+                "air_date": "2021-08-21",
+                "still_path": "/cxrJ6Xogi0QPAQQLhG0hdUqs9xc.jpg",
+                "video_url": "4413967"
+            },
+            {
+                "episode_number": 21,
+                "name": "Diriliş Partisi",
+                "overview": "Kötüler Birliği, Meta Kurtuluş Ordusu ile çarpışırken Gigantomachia'nın uyanmasını bekler.",
+                "air_date": "2021-08-28",
+                "still_path": "/zfmfiPLMoWHy3ImGJUHK7Yqnw3F.jpg",
+                "video_url": "4413970"
+            },
+            {
+                "episode_number": 22,
+                "name": "Üzgün ​​adamın Geçit Töreni",
+                "overview": "Twice, Toga'yı kurtarmaya çalışırken geçmişini düşünür ve bunun üstesinden gelmesine yardımcı olacak bir gerçeği fark eder.",
+                "air_date": "2021-09-04",
+                "still_path": "/rsJj0bxKYstcagygfaMVrTYspUo.jpg",
+                "video_url": "4413973"
+            },
+            {
+                "episode_number": 23,
+                "name": "Tenko Shimura: Origin",
+                "overview": "Shigaraki'nin Tenko Shimura olarak geçmişinden gelen anıları, Re-Destro ile yüzleşirken yeniden su yüzüne çıkar.",
+                "air_date": "2021-09-11",
+                "still_path": "/fSnuPIqjZD3sWRFIRf6o3gJWZiH.jpg",
+                "video_url": "4423096"
+            },
+            {
+                "episode_number": 24,
+                "name": "Tomura Shigaraki: Origin",
+                "overview": "Shigaraki, Re-Destro ile mücadelesinin doruk noktasında All For One ile ilk karşılaşmasını hatırlıyor.",
+                "air_date": "2021-09-18",
+                "still_path": "/bPu0UxA1PiTWb3bHU4uBkk7XrrO.jpg",
+                "video_url": "4435109"
+            },
+            {
+                "episode_number": 25,
+                "name": "Yüksek, Derin Mavi Gökyüzü",
+                "overview": "Sınıf 1-A lise birinci sınıflarını bitirirken, her iki taraf da kahramanlar ve Paranormal Kurtuluş Cephesi arasındaki yüzleşmeye hazırlanıyor.",
+                "air_date": "2021-09-25",
+                "still_path": "/vXrjPuYMY4GUIKbgY20PK5v3FNs.jpg",
+                "video_url": "4445224"
+            }
+        ]
+    },
+    "season_6": {
+        "season_number": 6,
+        "name": "Sezon 6",
+        "episode_count": 25,
+        "air_date": "2022-10-01",
+        "poster_path": "/wSrSvGVxlYaTylTulqueeNQJyvR.jpg",
+        "episodes": [
+            {
+                "episode_number": 1,
+                "name": "Sessiz Bir Başlangıç",
+                "overview": "Şahinlerin topladığı bilgileri kullanan kahramanlar ve çalışma-öğrenme öğrencileri, Shigaraki liderliğindeki Paranormal Kurtuluş Cephesi'ne yapılacak saldırıya hazırlanırlar.",
+                "air_date": "2022-10-01",
+                "still_path": "/ezH8zW6UB11eCXBR4rDI1SuQ5gs.jpg",
+                "video_url": "4900923"
+            },
+            {
+                "episode_number": 2,
+                "name": "Mirko, 5 Numaralı Kahraman",
+                "overview": "Endeavor ve diğerleri hastanede Nomus'la savaşırken Mirko, Kyudai Garaki'nin en iyi askerleri olan High-Ends'e karşı gelir. Bu arada Kaminari, önemsediği kişileri kurtarma kararlılığını güçlendirir ve Edgeshot ekibinin ön saflarına geçer.",
+                "air_date": "2022-10-08",
+                "still_path": "/7iCmJKtbHHprGjc9Li5o6inRj1o.jpg",
+                "video_url": "4911451"
+            },
+            {
+                "episode_number": 3,
+                "name": "Birinin Adaleti",
+                "overview": "Gunga Villa'nın içinde, Paranormal Kurtuluş Cephesi saldırı altında olduklarını anlar ve Twice, Hawks'a ihaneti konusunda hesap sorar.",
+                "air_date": "2022-10-15",
+                "still_path": "/6pN47KLtkjvIipATGB9Dhypfkts.jpg",
+                "video_url": "4918968"
+            },
+            {
+                "episode_number": 4,
+                "name": "Miras",
+                "overview": "Öfkelenen Dabi, Twice'ın ölümünden sonra Hawks'la yüzleşirken, Hastane Endeavor'da Eraser Head, Crust, Present Mic ve X-less sonunda Shigaraki'nin uyanışını durdurmak için hayatını riske atan Mirko'ya yardım etmek için gelirler.",
+                "air_date": "2022-10-22",
+                "still_path": "/blB13XgeDs8bFaA80uX2xM9jO9j.jpg",
+                "video_url": "4927904"
+            },
+            {
+                "episode_number": 5,
+                "name": "Yıkımın Heyecanı",
+                "overview": "Jaku Hastanesi'ndeki High-End Nomus'a karşı mücadele devam ediyor ancak Tomura Shigaraki'nin uyandığından habersizler. Bu olurken Tokoyami, Hawks'ı Dabi'den kurtarmak için uçuyor.",
+                "air_date": "2022-10-29",
+                "still_path": "/u6lDEdrnM6Z99S0KHQPp8ZWx8DZ.jpg",
+                "video_url": "4937236"
+            },
+            {
+                "episode_number": 6,
+                "name": "Karşılaşma, Bölüm 2",
+                "overview": "Gigantomachia ve Paranormal Kurtuluş Cephesi'nin geri kalanı, yeni uyanan Tomura Shigaraki'nin yeni bir hedef bulmasıyla Gunga Dağ Köşkü'nde üstünlüğü ele geçirir; Izuku Midoriya'dan Hepimiz İçin Bir'i çalmak.",
+                "air_date": "2022-11-05",
+                "still_path": "/4waajYqQmwZQS2toXumWpiDBA8p.jpg",
+                "video_url": "4942295"
+            },
+            {
+                "episode_number": 7,
+                "name": "Felaket Yürüyüşçüsü",
+                "overview": "Shigaraki'ye karşı mücadele devam ederken diğer kahramanlar Shigaraki'nin çağırdığı yeni Nomus'la savaşır. Bu olurken Team Edgeshot, Gigantomachia'nın Jaku Şehri'ne ulaşmasını engellemeye çalışır.",
+                "air_date": "2022-11-12",
+                "still_path": "/6mnUhO9gWWqhx864Ilg46lPBVrX.jpg",
+                "video_url": "4950727"
+            },
+            {
+                "episode_number": 8,
+                "name": "Kötüler Ligi Vs. U.a. Öğrencileri",
+                "overview": "Profesyonel kahramanların savunma ağı yarıldı. Canavar devle karşı karşıya gelenler U.A. kahraman kursu öğrencileri. Sınıf A ve Sınıf B, Gigantomachia'yı engellemek için büyük bir operasyon başlatmak üzere birlikte çalışırlar.",
+                "air_date": "2022-11-19",
+                "still_path": "/cLFBNafIKMyEMjg4xFzj1cAoE2g.jpg",
+                "video_url": "4957258"
+            },
+            {
+                "episode_number": 9,
+                "name": "Katsuki Bakugo: Rising",
+                "overview": "Aizawa savaştan çıkmış gibi görünürken, Midoriya tüm tuhaflıklarını kullanarak Shigaraki'yi havada tutmaya çalışır. Sınırının yaklaştığını bilen Bakugo ona yardım etmek için bir plan yapar.",
+                "air_date": "2022-11-26",
+                "still_path": "/fvPZ32wW3s7kvcpHLUyzPTtUeCp.jpg",
+                "video_url": "4972622"
+            },
+            {
+                "episode_number": 10,
+                "name": "İçimizdekiler",
+                "overview": "Shigaraki'nin saldırısı Kacchan'ı deldi. Deku öfkesine yenik düştü ve kendini Shigaraki'ye doğru fırlattı. Ancak işler aniden değişti. One For All dünyasında Deku, Shigaraki ve All For One'a karşı durdu.",
+                "air_date": "2022-12-03",
+                "still_path": "/5wR8qmywy1Rto8riX9bopp0bKCW.jpg",
+                "video_url": "4972629"
+            },
+            {
+                "episode_number": 11,
+                "name": "Dabi'nin Dansı",
+                "overview": "Ochaco ve Toga birbirlerine laf atıp yumruklaşırken Gigantomachia, Shigaraki ve kahramanlara ulaşır ve Dabi geçmişinin sırrını ortaya çıkarır.",
+                "air_date": "2022-12-10",
+                "still_path": "/4mceUKrI8Jk11Z9vxN238IJdM5Q.jpg",
+                "video_url": "4975553"
+            },
+            {
+                "episode_number": 12,
+                "name": "Umut İplikleri",
+                "overview": "Topyekün savaşın doruk noktası yaklaşırken Best Jeanist ortaya çıkar ve bu mücadeledeki tüm kahramanların umutlarını bir araya getirir.",
+                "air_date": "2022-12-17",
+                "still_path": "/y7PY9Xt86AYaBSC1eNateMgWKcE.jpg",
+                "video_url": "4981478"
+            },
+            {
+                "episode_number": 13,
+                "name": "Son Performans",
+                "overview": "Büyük büyük büyükbabasını düşünen Bay Kompres, Kötüler Birliği'ni kurtarmak için en büyük numarasını yapar.",
+                "air_date": "2022-12-24",
+                "still_path": "/xM0yAQk6A8nFTJx0CD327PtanvG.jpg",
+                "video_url": "4989790"
+            },
+            {
+                "episode_number": 14,
+                "name": "Cehennem Cehennemi",
+                "overview": "Kahramanlar, yaşanan çetin mücadelenin ardından değişen kamuoyuyla mücadele ederken, mücadelede kaybettikleri insanların yasını tutuyorlar.",
+                "air_date": "2023-01-07",
+                "still_path": "/a6y9e7wCPbWxrzA3Uhj3F1bnYwW.jpg",
+                "video_url": "5003204"
+            },
+            {
+                "episode_number": 15,
+                "name": "Tartarus",
+                "overview": "All For One'ın kontrolü altında olan Shigaraki, Nomus'u kullanarak Tartarus'a saldırır ve All For One'ın bedenini kurtarır, bu esnada birçok tutsağı da serbest bırakır.",
+                "air_date": "2023-01-14",
+                "still_path": "/faKL4xUY6UvROUMJYsWjYOPj9Jw.jpg",
+                "video_url": "5010215"
+            },
+            {
+                "episode_number": 16,
+                "name": "Cehennem Todoroki Ailesi, Bölüm 2",
+                "overview": "Kahramanlar halkın eleştirileriyle uğraşırken, Hawks ailesiyle olan geçmişini düşünür ve Endeavor'ın ailesi onu hastanede ziyaret eder.",
+                "air_date": "2023-01-21",
+                "still_path": "/yeWoqC48XOOrwMLJt8jkgrJyN1r.jpg",
+                "video_url": "5016941"
+            },
+            {
+                "episode_number": 17,
+                "name": "Yangını Söndürmenin Yanlış Yolu",
+                "overview": "Endeavor ve ailesi, Toya'nın geçmişini ve ölümüne yol açan olayları düşünürken, Hawks ve Best Jeanist onlara bir teklifte bulunur.",
+                "air_date": "2023-01-28",
+                "still_path": "/aLzD6lxekNUnpHF22dpMB6PmEd9.jpg",
+                "video_url": "5025230"
+            },
+            {
+                "episode_number": 18,
+                "name": "Izuku Midoriya And Tomura Shigaraki",
+                "overview": "One For All'da Izuku, Dabi'nin ifşasının ardından kamuoyunun duygularıyla başa çıkan ilk üç kahramanın arasında, geçmişteki kullanıcıları ile konuşuyor.",
+                "air_date": "2023-02-04",
+                "still_path": "/rFN8Abn3ZChkhJ2UXZ7yiZPmvYt.jpg",
+                "video_url": "5032071"
+            },
+            {
+                "episode_number": 19,
+                "name": "Tam Güç!!",
+                "overview": "Izuku, U.A.'ya geri dönmemeye karar verdikten sonra, hapishaneden kaçan ve geçmişteki kullanıcıların tuhaflıklarını ona karşı kullanan Muscular ile tekrar karşı karşıya gelir.",
+                "air_date": "2023-02-11",
+                "still_path": "/qsuiAqpcq21c04060f1WDCNpX19.jpg",
+                "video_url": "5045629"
+            },
+            {
+                "episode_number": 20,
+                "name": "Kiralık Silah",
+                "overview": "İlk üç kahraman, hapishaneden kaçanlarla başa çıkmaya çalışırken ve All For One ve Shigaraki'nin nerede olduğuna dair ipuçları ararken eleştirilere maruz kalmaya devam ediyor ve Izuku, Tartarus'tan bir kötü adamla karşılaşıyor.",
+                "air_date": "2023-02-18",
+                "still_path": "/qS6YnhRhc6YeKIEZZtETXH60fwU.jpg",
+                "video_url": "5051524"
+            },
+            {
+                "episode_number": 21,
+                "name": "Güzel Leydi Nagant",
+                "overview": "İzuku'nun Leydi Nagant ile mücadelesi sırasında, Leydi Nagant ona kahraman topluluğu hakkında sırlar anlatır ve bu da onun yardımına ihtiyacı olanlara yardım etme kararlılığını daha da güçlendirir.",
+                "air_date": "2023-02-25",
+                "still_path": "/lDWHItqpBBNqDB4P7HGCQru0eFe.jpg",
+                "video_url": "5059697"
+            },
+            {
+                "episode_number": 22,
+                "name": "Arkadaş",
+                "overview": "Izuku adalet arayışına tek başına çıktığında, sınıf arkadaşları bir şeylerin ters gittiğini fark eder ve ona yardım etmenin bir yolunu bulmaya çalışırlar.",
+                "air_date": "2023-03-04",
+                "still_path": "/2FUih57geusmQxr65PIIV5L3nF7.jpg",
+                "video_url": "5068065"
+            },
+            {
+                "episode_number": 23,
+                "name": "Deku Vs. Sınıf A",
+                "overview": "Deku kaçmaya çalışırken, Sınıf A ona anılarını anlatarak ve kendi sözlerini hatırlatarak onu geri çeker.",
+                "air_date": "2023-03-11",
+                "still_path": "/5iwVOV442xICdQxlirhYkSE0rq8.jpg",
+                "video_url": "5073416"
+            },
+            {
+                "episode_number": 24,
+                "name": "Genç Bir Kadının Beyanı",
+                "overview": "U.A.'daki tahliye edilenler muhalefetlerini dile getirirken, Ochaco onları ikna etmek için konuşur. Izuku ile bağlantıları olan izleyiciler, onların da konuşma zamanının gelip gelmediğini anlamaya çalışır.",
+                "air_date": "2023-03-18",
+                "still_path": "/tappKU5KIjiCAMVb7jlGksFD8Hx.jpg",
+                "video_url": "5087068"
+            },
+            {
+                "episode_number": 25,
+                "name": "Hiçbir Adam Bir Ada Değildir",
+                "overview": "Izuku, U.A.'de sınıf arkadaşlarıyla birlikte dinlenmeye ve iyileşmeye çalışırken, All Might, Shigaraki ve All For One hakkında yeni bilgiler edinmesine yol açan Stain ile karşılaşır.",
+                "air_date": "2023-03-25",
+                "still_path": "/4xERRuWvV59p6wssrakxi4kLynO.jpg",
+                "video_url": "5090206"
+            }
+        ]
+    }
+}
